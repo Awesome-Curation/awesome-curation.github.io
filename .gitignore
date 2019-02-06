@@ -1,0 +1,14 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Testing
+Pip*
+sandbox
+
+# GitHub API auth token
+token
+
+
+
