@@ -11,17 +11,68 @@ api = 'https://api.github.com/'
 
 print("\n\n\n")
 print("$" * 65)
-print("$" * 65)
+
 def main():
     #f = open('/tmp/readme2', 'r+')
     #f.write(text)
     with open('/Users/ryanhennings/Developer/Python/GitHub-Collections-Filter/sandbox') as f:
         text = f.read()
 
-    #print(loop_file(text))
-    #print(get_token())
-    get_repo(u2, r2)
+    #for link in get_links(text):
+    #    (user, repo) = get_user_repo(link)
+    #    data = get_repo_data(user, repo)
+    #    console_print(repo, link, data)
 
+    #link = get_links(text)[0]
+    #(user, repo) = get_user_repo(link)
+    #data = get_repo_data(user, repo)
+    #tr = html_print(repo, link, data)
+
+    footer = "</table></body></html>"
+    path = os.path.dirname(__file__)
+    with open(path + "/table.html", "a") as f:
+        for link in get_links(text):
+            (user, repo) = get_user_repo(link)
+            data = get_repo_data(user, repo)
+            tr = html_print(repo, link, data)
+            f.write(tr)
+        f.write(footer)
+
+# Format repo info to an html table row
+def html_print(repo, url, data):
+    stars = data['stargazers_count']
+    forks = data['forks_count']
+    lang = data['language']
+    row = ("<tr>\n"
+            "<td> <a href='" + url + "'target='_blank'>" + str(repo) +"</a></td>\n"
+            "<td>"+ str(stars) +"</td>\n"
+            "<td>"+ str(forks) +"</td>\n"
+            "<td>"+ str(lang)  +"</td>\n"
+            "</tr>\n")
+    return row
+
+# Extract username and repo name from github link
+def get_user_repo(link):
+    # ['https:', '', 'github.com', 'bayandin', 'awesome-awesomeness']
+    parts = link.split("/")
+    user = parts[3]
+    repo = parts[4]
+    return (user, repo)
+
+# Print repo information to console
+def console_print(repo, url, data):
+    stars = data['stargazers_count']
+    forks = data['forks_count']
+    lang = data['language']
+    print("="*60)
+    print("Repo:     " + repo)
+    print("Link:     " + url)
+    print("Stars:    " + str(stars))
+    print("Forks:    " + str(forks))
+    print("Language: " + str(lang))    
+    print("="*60+"\n")
+
+# Get user token for github authentication
 def get_token():
     try:
         path = os.path.dirname(__file__)
@@ -30,17 +81,20 @@ def get_token():
     except IOError as err:
         print("Failed to get API token\nCreate a 'token' file in this directory")
 
-def get_repo(user, repo):
+# Get JSON repo data from github api
+def get_repo_data(user, repo):
     h = {'Authorization':"token " + get_token(),
          'Accept':'application/vnd.github.v3+json'}
     try:
-        url  = api + 'repos/' + user + '/' + repo 
+        url  = api + 'repos/' + user + '/' + repo
         r = requests.get(url, headers=h)
+        # TODO: Handle status_code
         #print(json.dumps(r.json(), indent=4, sort_keys=True))
         return r.json()
     except requests.RequestException as err:
         print("Unable to get repo data")
 
+# Get README.md raw data file to string
 def get_readme(user, repo):
     h = {"Accept":"application/vnd.github.VERSION.raw"}
     url = api + 'repos/' + user + "/" + repo + "/readme"
@@ -54,28 +108,25 @@ def get_url(text):
             url = re.search("(?P<url>https?://[^\s]+)", text)  
             return url.group("url").replace(")","") 
     except IndexError:
-        print("Unable to extract URL")
+        print("ERROR: Unable to extract URL")
     return ""
 
 # Get all links from a file/string (\n separated)
-def loop_file(text):
-    links=""
+# Return 'list' of links
+def get_links(text):
+    links=[]
     for line in text.splitlines():
         link = get_url(line)
         if link:
-            links += get_url(line) + "\n"
-    return links[:-1]
+            links.append(get_url(line)) #+ "\n"
+    return links #[:-1]
 
 if __name__ == "__main__":
     main()
 
 print("*" * 65)
-print("*" * 65)
 
 # TODO items
-#forks_count
-#language
-#stargazers_count
 #subscribers_count
 #watchers_count
 # Need to look at status codes for contributors
