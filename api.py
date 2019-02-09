@@ -2,7 +2,6 @@ import requests
 import json
 import re
 import os
-import emoji
 
 awesome = 'awesome-ios'
 user = 'vsouza'
@@ -10,60 +9,6 @@ u2 = 'JohnEstropia'
 r2 = 'GCDKit'
 API = 'https://api.github.com/'
 TOKEN = os.environ['TOKEN']
-
-print("\n\n\n")
-print("$" * 65)
-
-def main():
-    emojis = get_emojis()
-
-    with open('/Users/ryanhennings/Developer/Python/GitHub-Collections-Filter/sandbox') as f:
-        text = f.read()
-
-    #rgx = re.compile(':[a-z_]{1,30}:')
-    for x in text.splitlines():
-        if re.search(':[a-z_]{1,30}:', x):
-            print(x)
-        else:
-            print(x)
-
-    #link = get_links(text)[0]
-    #(user, repo) = get_user_repo(link)
-    #data = get_repo_data(user, repo)
-    #tr = html_print(repo, link, data)
-
-    #footer = "</table></body></html>"
-    #path = os.path.dirname(__file__)
-    #with open(path + "/table.html", "a") as f:
-    #    for link in get_links(text):
-    #        (user, repo) = get_user_repo(link)
-    #        data = get_repo_data(user, repo)
-    #        tr = html_print(repo, link, data)
-    #        f.write(tr)
-    #        break
-    #    f.write(footer)
-
-def formatted_description(text):
-
-    return ""
-
-# Format repo info to an html table row
-def html_print(repo, url, data):
-    stars = data['stargazers_count']
-    name = data['name']
-    forks = data['forks_count']
-    lang = data['language']
-
-    description = formatted_description(data['description'])   
-
-    row = ("<tr>\n"
-            "<td> <a href='" + url + "'target='_blank'>" + name +"</a></td>\n"
-            "<td>"+ description +"</td>\n"
-            "<td>"+ str(stars)  +"</td>\n"
-            "<td>"+ str(forks)  +"</td>\n"
-            "<td>"+ str(lang)   +"</td>\n"
-            "</tr>\n")
-    return row.encode('utf-8')
 
 # Extract username and repo name from github link
 def get_user_repo(link):
@@ -140,10 +85,6 @@ def get_links(text):
             links.append(get_url(line)) #+ "\n"
     return links #[:-1]
 
-if __name__ == "__main__":
-    main()
-
-print("*" * 65)
 
 # TODO items
 #subscribers_count
