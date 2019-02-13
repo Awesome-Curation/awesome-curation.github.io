@@ -3,48 +3,8 @@ import json
 import re
 import os
 
-awesome = 'awesome-ios'
-user = 'vsouza'
-u2 = 'JohnEstropia' 
-r2 = 'GCDKit'
 API = 'https://api.github.com/'
 TOKEN = os.environ['TOKEN']
-
-# Extract username and repo name from github link
-def get_user_repo(link):
-    # ['https:', '', 'github.com', 'bayandin', 'awesome-awesomeness']
-    parts = link.split("/")
-    user = parts[3]
-    repo = parts[4]
-    return (user, repo)
-
-# Print repo information to console
-def console_print(repo, url, data):
-    stars = data['stargazers_count']
-    forks = data['forks_count']
-    lang = data['language']
-    print("="*60)
-    print("Repo:     " + repo)
-    print("Link:     " + url)
-    print("Stars:    " + str(stars))
-    print("Forks:    " + str(forks))
-    print("Language: " + str(lang))    
-    print("="*60+"\n")
-
-# Get user token for github authentication
-def get_token():
-    try:
-        path = os.path.dirname(__file__)
-        with open(path + "/token") as f:
-            return f.readline().strip()
-    except IOError as err:
-        print("Failed to get API token\nCreate a 'token' file in this directory")
-
-def get_emojis():
-    return get_api_data("emojis")
-
-def get_repo_data(user, repo):
-    return get_api_data('repos/' + user + '/' + repo)
 
 # Get JSON repo data from github api
 def get_api_data(url):
@@ -57,6 +17,32 @@ def get_api_data(url):
         return r.json()
     except requests.RequestException as err:
         print("Unable to get repo data")
+
+# Extract username and repo name from github link
+def get_user_repo(link):
+    # ['https:', '', 'github.com', 'bayandin', 'awesome-awesomeness']
+    parts = link.split("/")
+    user = parts[3]
+    repo = parts[4]
+    return (user, repo)
+
+# Get user token for github authentication
+# Put token in a file instead of an environment variable 
+def get_token():
+    try:
+        path = os.path.dirname(__file__)
+        with open(path + "/token") as f:
+            return f.readline().strip()
+    except IOError as err:
+        print("Failed to get API token\nCreate a 'token' file in this directory")
+
+# Get links to GitHub emoji assets
+# Returns dictionary of URLs
+def get_emojis():
+    return get_api_data("emojis")
+
+def get_repo_data(user, repo):
+    return get_api_data('repos/' + user + '/' + repo)
 
 # Get README.md raw data file to string
 def get_readme(user, repo):
@@ -85,9 +71,15 @@ def get_links(text):
             links.append(get_url(line)) #+ "\n"
     return links #[:-1]
 
-
-# TODO items
-#subscribers_count
-#watchers_count
-# Need to look at status codes for contributors
-#+ /stats/contributors""
+# Print repo information to console
+def console_print(repo, url, data):
+    stars = data['stargazers_count']
+    forks = data['forks_count']
+    lang = data['language']
+    print("="*60)
+    print("Repo:     " + repo)
+    print("Link:     " + url)
+    print("Stars:    " + str(stars))
+    print("Forks:    " + str(forks))
+    print("Language: " + str(lang))    
+    print("="*60+"\n")

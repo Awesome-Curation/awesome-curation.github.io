@@ -1,0 +1,5 @@
+/* Format GitHub emojis with text */
+td img {
+  height: 0.8em;
+  width: auto;
+}
