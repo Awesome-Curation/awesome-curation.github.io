@@ -5,6 +5,9 @@ g_emojis = get_emojis()
 def main():
     with open('/Users/ryanhennings/Developer/Python/GitHub-Collections-Filter/s2') as f:
         text = f.read()
+    
+    destroy_table()
+    write_webpage(text)        
 
     #link = get_links(text)[0]
     #(user, repo) = get_user_repo(link)
@@ -14,22 +17,57 @@ def main():
     user = 'MaximAbramchuck'
     repo = 'awesome-interview-questions#ios'
 
-    #j = get_repo_data(user,repo)
-    #description = j['description']
-    #print(description)
-    #f = format_description(description)
-    #print(f)
-
-    footer = "</table></body></html>"
     path = os.path.dirname(__file__)
-    with open(path + "/table.html", "a") as f:
-        for link in get_links(text):
-            (user, repo) = get_user_repo(link)
-            data = get_repo_data(user, repo)
-            tr = html_print(repo, link, data)
-            f.write(tr)
-        f.write(footer)
+    #with open(path + "../index.html", "r") as f:
+    #    for link in get_links(text):
+    #        (user, repo) = get_user_repo(link)
+    #        data = get_repo_data(user, repo)
+    #        tr = html_print(repo, link, data)
+    #        f.write(tr)
 
+def destroy_table():
+    path = os.path.dirname(__file__)
+    base = os.path.abspath(os.path.join(path, os.pardir))
+    with open(base + '/index.html', 'r') as f:
+        buffer = f.readlines()
+    
+    isTable = False
+    with open(base + '/index.html', 'w') as html:
+        for line in buffer:
+            if 'Begin Table Insertion' in line:
+                isTable = True
+                html.write('<!-- Begin Table Insertion -->\n')  
+            elif 'End Table Insertion' in line:
+                isTable = False
+            
+            if not isTable:
+                html.write(line)    
+
+# Insert table into html webpage 
+def write_webpage(data):
+    path = os.path.dirname(__file__)
+    base = os.path.abspath(os.path.join(path, os.pardir))
+    with open(base + '/index.html', 'r') as f:
+        buffer = f.readlines()
+    
+    data = build_table(data)
+    with open(base + '/index.html', 'w') as html:
+        for line in buffer:
+            if 'Begin Table Insertion' in line:
+                line += data
+            html.write(line)    
+
+# Return a string with the html formatted table rows
+def build_table(text):
+    table = ""
+    for link in get_links(text):
+        (user, repo) = get_user_repo(link)
+        data = get_repo_data(user, repo)
+        tr = html_print(repo, link, data)
+        table += tr
+    return table
+
+# Format description to include emoji images 
 def format_description(text):
     formatted = text
     if re.search(':[a-z_]{1,30}:', text):
@@ -61,12 +99,12 @@ def html_print(repo, url, data):
 
     try:
         row = ("<tr>\n"
-                "<td> <a href='" + url + "'target='_blank'>" + name +"</a></td>\n"
-                "<td>"+ description +"</td>\n"
-                "<td>"+ str(stars)  +"</td>\n"
-                "<td>"+ str(forks)  +"</td>\n"
-                "<td>"+ lang  +"</td>\n"
-                "</tr>\n")
+               "    <td> <a href='" + url + "'target='_blank'>" + name +"</a></td>\n"
+               "    <td>"+ description +"</td>\n"
+               "    <td>"+ str(stars)  +"</td>\n"
+               "    <td>"+ str(forks)  +"</td>\n"
+               "    <td>"+ lang  +"</td>\n"
+               "</tr>\n")
     except UnicodeDecodeError as err:
         print("============")
         print("unicode error")
@@ -79,7 +117,6 @@ def html_print(repo, url, data):
         print(repo)
         return ""
 
-    print(row)
     return row.encode('utf-8')
 
 # Print repo information to console
