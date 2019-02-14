@@ -7,24 +7,9 @@ def main():
         text = f.read()
     
     destroy_table()
-    write_webpage(text)        
+    write_table(text)        
 
-    #link = get_links(text)[0]
-    #(user, repo) = get_user_repo(link)
-    #data = get_repo_data(user, repo)
-    #tr = html_print(repo, link, data)
-
-    user = 'MaximAbramchuck'
-    repo = 'awesome-interview-questions#ios'
-
-    path = os.path.dirname(__file__)
-    #with open(path + "../index.html", "r") as f:
-    #    for link in get_links(text):
-    #        (user, repo) = get_user_repo(link)
-    #        data = get_repo_data(user, repo)
-    #        tr = html_print(repo, link, data)
-    #        f.write(tr)
-
+# Delete table from index.html
 def destroy_table():
     path = os.path.dirname(__file__)
     base = os.path.abspath(os.path.join(path, os.pardir))
@@ -44,7 +29,7 @@ def destroy_table():
                 html.write(line)    
 
 # Insert table into html webpage 
-def write_webpage(data):
+def write_table(data):
     path = os.path.dirname(__file__)
     base = os.path.abspath(os.path.join(path, os.pardir))
     with open(base + '/index.html', 'r') as f:
