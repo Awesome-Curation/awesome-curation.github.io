@@ -1,23 +1,47 @@
-from api import *
-
-g_emojis = get_emojis()
+import api
+import re
+import json
+import os.path
+from helpers import write_emojis
 
 def main():
-    with open('/Users/ryanhennings/Developer/Python/GitHub-Collections-Filter/s2') as f:
+    sandbox_links = get_root_path() + '/src/sandbox'
+    with open(sandbox_links) as f:
         text = f.read()
     
     destroy_table()
     write_table(text)        
 
+# Read emojis from json text file
+def read_emojis():
+    g_emojis = get_root_path() + '/data/emojis.txt'
+    try:
+        with open(g_emojis, 'r') as f:
+            data = f.read()
+    except IOError:
+        print("Error reading emojis.txt"
+              "Calling api rewrite file...")
+        return write_emojis()
+    except ValueError:
+        print("Fatal error. Could not fetch emojis"
+              "Reevaluate your life.")
+
+    return json.loads(data)
+
+# Get the root directory of the project
+# (Just the parent directory. Probably a much better way)
+def get_root_path(f=__file__):
+    path = os.path.dirname(f)
+    return os.path.abspath(os.path.join(path, os.pardir)) 
+
 # Delete table from index.html
 def destroy_table():
-    path = os.path.dirname(__file__)
-    base = os.path.abspath(os.path.join(path, os.pardir))
-    with open(base + '/index.html', 'r') as f:
+    site = get_root_path() + '/index.html'
+    with open(site, 'r') as f:
         buffer = f.readlines()
     
     isTable = False
-    with open(base + '/index.html', 'w') as html:
+    with open(site, 'w') as html:
         for line in buffer:
             if 'Begin Table Insertion' in line:
                 isTable = True
@@ -30,13 +54,12 @@ def destroy_table():
 
 # Insert table into html webpage 
 def write_table(data):
-    path = os.path.dirname(__file__)
-    base = os.path.abspath(os.path.join(path, os.pardir))
-    with open(base + '/index.html', 'r') as f:
+    site = get_root_path() + '/index.html'
+    with open(site, 'r') as f:
         buffer = f.readlines()
     
     data = build_table(data)
-    with open(base + '/index.html', 'w') as html:
+    with open(site, 'w') as html:
         for line in buffer:
             if 'Begin Table Insertion' in line:
                 line += data
@@ -45,32 +68,38 @@ def write_table(data):
 # Return a string with the html formatted table rows
 def build_table(text):
     table = ""
-    for link in get_links(text):
-        (user, repo) = get_user_repo(link)
-        data = get_repo_data(user, repo)
+    for link in api.get_links(text):
+        (user, repo) = api.get_user_repo(link)
+        data = api.get_repo_data(user, repo)
         tr = html_print(repo, link, data)
         table += tr
+
     return table
 
 # Format description to include emoji images 
 def format_description(text):
     formatted = text
+    # Check if description has emojis
     if re.search(':[a-z_]{1,30}:', text):
-        s = text.split()
+        words = text.split()
         cat = ''
-        for w in s:
+        for word in words:
             # Could not find UTF-8 emoji - Using GitHub image
-            if re.search(':[a-z_]{1,30}:', w):
-                r = re.sub(':', '', w)
+            if re.search(':[a-z_]{1,30}:', word):
+                r = re.sub(':', '', word)
                 try:
+                    # Put in an image html tag
+                    g_emojis = read_emojis()
                     tag = "<img src='" + g_emojis[r] + "'> "
                 except (KeyError, AttributeError):
                     print("Unable to get emoji")
                     tag = ''
                 cat += tag
             else:
-                cat += w + ' '
+                # Concatenate words normally
+                cat += word + ' '
         formatted = cat
+
     return formatted
 
 # Format repo info to an html table row
@@ -81,7 +110,6 @@ def html_print(repo, url, data):
     name = data['name'] if data['name'] != None else "None" # None == NoneType i guess
     lang = data['language'] if data['language'] != None else "None"
     description = format_description(data['description'])   
-
     try:
         row = ("<tr>\n"
                "    <td> <a href='" + url + "'target='_blank'>" + name +"</a></td>\n"
@@ -103,19 +131,6 @@ def html_print(repo, url, data):
         return ""
 
     return row.encode('utf-8')
-
-# Print repo information to console
-def console_print(repo, url, data):
-    stars = data['stargazers_count']
-    forks = data['forks_count']
-    lang = data['language']
-    print('='*60)
-    print('Repo:     ' + repo)
-    print('Link:     ' + url)
-    print('Stars:    ' + str(stars))
-    print('Forks:    ' + str(forks))
-    print('Language: ' + str(lang))    
-    print('='*60+'\n')
 
 if __name__ == '__main__':
     main()
