@@ -3,15 +3,15 @@ import json
 import re
 import os
 
-API = 'https://api.github.com/'
-TOKEN = os.environ['TOKEN']
+_API = 'https://api.github.com/'
+_TOKEN = os.environ['TOKEN']
 
 # Get JSON repo data from github api
 def get_api_data(url):
-    h = {'Authorization':"token " + TOKEN,
+    h = {'Authorization':"token " + _TOKEN,
          'Accept':'application/vnd.github.v3+json'}
     try:
-        r = requests.get(API + url, headers=h)
+        r = requests.get(_API + url, headers=h)
         # TODO: Handle status_code
         #print(json.dumps(r.json(), indent=4, sort_keys=True))
         return r.json()
@@ -47,7 +47,7 @@ def get_repo_data(user, repo):
 # Get README.md raw data file to string
 def get_readme(user, repo):
     h = {"Accept":"application/vnd.github.VERSION.raw"}
-    url = API + 'repos/' + user + "/" + repo + "/readme"
+    url = _API + 'repos/' + user + "/" + repo + "/readme"
     r = requests.get(url, headers=h)
     return r.text.encode('utf-8') 
  
@@ -70,16 +70,3 @@ def get_links(text):
         if link:
             links.append(get_url(line)) #+ "\n"
     return links #[:-1]
-
-# Print repo information to console
-def console_print(repo, url, data):
-    stars = data['stargazers_count']
-    forks = data['forks_count']
-    lang = data['language']
-    print("="*60)
-    print("Repo:     " + repo)
-    print("Link:     " + url)
-    print("Stars:    " + str(stars))
-    print("Forks:    " + str(forks))
-    print("Language: " + str(lang))    
-    print("="*60+"\n")
