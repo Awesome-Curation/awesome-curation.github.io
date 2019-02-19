@@ -60,13 +60,3 @@ def get_url(text):
     except IndexError:
         print("ERROR: Unable to extract URL")
     return ""
-
-# Get all links from a file/string (\n separated)
-# Return 'list' of links
-def get_links(text):
-    links=[]
-    for line in text.splitlines():
-        link = get_url(line)
-        if link:
-            links.append(get_url(line)) #+ "\n"
-    return links #[:-1]

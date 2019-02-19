@@ -3,14 +3,56 @@ import re
 import json
 import os.path
 from helpers import write_emojis
+import pprint
 
 def main():
+    sandbox_readme = get_root_path() + '/data/sandbox_readme'
+    #sandbox_links = get_root_path() + '/src/sandbox'
+    with open(sandbox_readme) as f:
+        text = f.read()
+    
+    section = 'unknown'
+    items = []
+    repos = {}
+    for line in text.splitlines():
+        if re.search('^#{2,5}', line):
+            items = []
+            h = re.sub('^#{2,5} {1,5}','',line)        
+            if len(h) > 0:
+                section = h 
+        if re.search('\* \[.*]\(http[s]?:\/\/.*\)', line):
+            items.append(line)
+            repos[section] = items
+    
+    links = repos['Tools']
+    data = ''
+
     sandbox_links = get_root_path() + '/src/sandbox'
     with open(sandbox_links) as f:
         text = f.read()
-    
+   
     destroy_table()
     write_table(text)        
+
+# Get all links from a file/string (\n separated)
+# Return 'list' of links
+def repo_links(text):
+    links=[]
+    lines = []
+    if isinstance(text, str):
+        lines = text.splitlines()
+    elif isinstance(text, list):
+        lines = text
+    else:
+        print("Unsupported text argument. Requires string or list")
+
+    for line in lines:
+        link = api.get_url(line)
+        if link:
+            links.append(link) #+ "\n"
+            
+    return links #[:-1]
+
 
 # Read emojis from json text file
 def read_emojis():
@@ -68,7 +110,7 @@ def write_table(data):
 # Return a string with the html formatted table rows
 def build_table(text):
     table = ""
-    for link in api.get_links(text):
+    for link in repo_links(text):
         (user, repo) = api.get_user_repo(link)
         data = api.get_repo_data(user, repo)
         tr = html_print(repo, link, data)
