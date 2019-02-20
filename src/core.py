@@ -24,59 +24,32 @@ def main():
             items.append(line)
             repos[section] = items
     
-    links = repos['Tools']
+    links = repos['Bluetooth']
+
+    for key in repos:
+        if len(repos[key]) < 1:
+            print(key)
+    return
 
     #pp = pprint.PrettyPrinter(indent=4)
     #pp.pprint(data)
-    #text = 'Import assetsfile system with their'##:large_orange_diamond::large_orange_diamond: metadata to your iOS simulator (Swift 3.0):large_orange_diamond:'
-    #formatted = text
-    #emojis = re.findall(':[a-z_]{1,30}:', text)
-    #for emoji in emojis:
-    #    name = re.sub(':', '', emoji)
-    #    try:
-    #         # Put in an image html tag
-    #         g_emojis = read_emojis()
-    #         tag = "<img src='" + g_emojis[name] + "'> "
-    #    except (KeyError, AttributeError):
-    #        print("Unable to get emoji")
-    #        print("Full description: " + text)
-    #        tag = ''
-    #    formatted = re.sub(emoji, tag, formatted)
-    
-    #print(formatted)
-
-    #return
-    #if re.search(':[a-z_]{1,30}:', text):
-    #    words = text.split()
-    #    cat = ''
-    #    name = re.findall(':[a-z_]{1,30}:', text)
-    #    #for (letters, numbers) in re.findall(':[a-z_]{1,30}:', text):
-    #    #    print(numbers, '*', letters)
-    #    print(name)
-    #    return
-    #    for word in words:
-    #        # Could not find UTF-8 emoji - Using GitHub image
-    #        name = re.search(':[a-z_]{1,30}:', word)
-    #        if not name:
-    #            # Concatenate words normally
-    #            cat += word + ' '
-    #        else:
-    #            r = re.sub(':', '', name.group(0))
-    #            try:
-    #                # Put in an image html tag
-    #                g_emojis = read_emojis()
-    #                tag = "<img src='" + g_emojis[r] + "'> "
-    #            except (KeyError, AttributeError):
-    #                print("Unable to get emoji")
-    #                print("Full description: " + text)
-    #                tag = ''
-    #            cat += tag
-    #    formatted = cat
-    #    print(formatted)
-    #print(data['description'])
 
     destroy_table()
     write_table(links)        
+
+def categories():
+    section = 'unknown'
+    items = []
+    repos = {}
+    for line in text.splitlines():
+        if re.search('^#{2,5}', line):
+            items = []
+            h = re.sub('^#{2,5} {1,5}','',line)        
+            if len(h) > 0:
+                section = h 
+        if re.search('\* \[.*]\(http[s]?:\/\/.*\)', line):
+            items.append(line)
+            repos[section] = items    
 
 # Get all links from a file/string (\n separated)
 # Return 'list' of links
@@ -181,31 +154,6 @@ def format_description(text):
             tag = ''
         formatted = re.sub(emoji, tag, formatted)
     
-    return formatted
-
-    formatted = text
-    # Check if description has emojis
-    if re.search(':[a-z_]{1,30}:', text):
-        words = text.split()
-        cat = ''
-        for word in words:
-            # Could not find UTF-8 emoji - Using GitHub image
-            if re.search(':[a-z_]{1,30}:', word):
-                r = re.sub(':', '', word)
-                try:
-                    # Put in an image html tag
-                    g_emojis = read_emojis()
-                    tag = "<img src='" + g_emojis[r] + "'> "
-                except (KeyError, AttributeError):
-                    print("Unable to get emoji")
-                    print("Full description: " + text)
-                    tag = ''
-                cat += tag
-            else:
-                # Concatenate words normally
-                cat += word + ' '
-        formatted = cat
-
     return formatted
 
 # Format repo info to an html table row
