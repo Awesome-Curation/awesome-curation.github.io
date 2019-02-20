@@ -3,14 +3,73 @@ import re
 import json
 import os.path
 from helpers import write_emojis
+import pprint
 
 def main():
-    sandbox_links = get_root_path() + '/src/sandbox'
-    with open(sandbox_links) as f:
+    sandbox_readme = get_root_path() + '/data/sandbox_readme'
+    #sandbox_links = get_root_path() + '/src/sandbox'
+    with open(sandbox_readme) as f:
         text = f.read()
     
+    section = 'unknown'
+    items = []
+    repos = {}
+    for line in text.splitlines():
+        if re.search('^#{2,5}', line):
+            items = []
+            h = re.sub('^#{2,5} {1,5}','',line)        
+            if len(h) > 0:
+                section = h 
+        if re.search('\* \[.*]\(http[s]?:\/\/.*\)', line):
+            items.append(line)
+            repos[section] = items
+    
+    links = repos['Bluetooth']
+
+    for key in repos:
+        if len(repos[key]) < 1:
+            print(key)
+    return
+
+    #pp = pprint.PrettyPrinter(indent=4)
+    #pp.pprint(data)
+
     destroy_table()
-    write_table(text)        
+    write_table(links)        
+
+def categories():
+    section = 'unknown'
+    items = []
+    repos = {}
+    for line in text.splitlines():
+        if re.search('^#{2,5}', line):
+            items = []
+            h = re.sub('^#{2,5} {1,5}','',line)        
+            if len(h) > 0:
+                section = h 
+        if re.search('\* \[.*]\(http[s]?:\/\/.*\)', line):
+            items.append(line)
+            repos[section] = items    
+
+# Get all links from a file/string (\n separated)
+# Return 'list' of links
+def repo_links(text):
+    links=[]
+    lines = []
+    if isinstance(text, str):
+        lines = text.splitlines()
+    elif isinstance(text, list):
+        lines = text
+    else:
+        print("Unsupported text argument. Requires string or list")
+
+    for line in lines:
+        link = api.get_url(line)
+        if link:
+            links.append(link) #+ "\n"
+            
+    return links #[:-1]
+
 
 # Read emojis from json text file
 def read_emojis():
@@ -58,17 +117,17 @@ def write_table(data):
     with open(site, 'r') as f:
         buffer = f.readlines()
     
-    data = build_table(data)
+    info = build_table(data)
     with open(site, 'w') as html:
         for line in buffer:
             if 'Begin Table Insertion' in line:
-                line += data
+                line += info
             html.write(line)    
 
 # Return a string with the html formatted table rows
 def build_table(text):
     table = ""
-    for link in api.get_links(text):
+    for link in repo_links(text):
         (user, repo) = api.get_user_repo(link)
         data = api.get_repo_data(user, repo)
         tr = html_print(repo, link, data)
@@ -78,28 +137,23 @@ def build_table(text):
 
 # Format description to include emoji images 
 def format_description(text):
+    if not text:
+        return ''
+    
     formatted = text
-    # Check if description has emojis
-    if re.search(':[a-z_]{1,30}:', text):
-        words = text.split()
-        cat = ''
-        for word in words:
-            # Could not find UTF-8 emoji - Using GitHub image
-            if re.search(':[a-z_]{1,30}:', word):
-                r = re.sub(':', '', word)
-                try:
-                    # Put in an image html tag
-                    g_emojis = read_emojis()
-                    tag = "<img src='" + g_emojis[r] + "'> "
-                except (KeyError, AttributeError):
-                    print("Unable to get emoji")
-                    tag = ''
-                cat += tag
-            else:
-                # Concatenate words normally
-                cat += word + ' '
-        formatted = cat
-
+    emojis = re.findall(':[a-z_]{1,30}:', text)
+    for emoji in emojis:
+        name = re.sub(':', '', emoji)
+        try:
+             # Put in an image html tag
+             g_emojis = read_emojis()
+             tag = "<img src='" + g_emojis[name] + "'> "
+        except (KeyError, AttributeError):
+            print("Unable to get emoji")
+            print("Full description: " + text)
+            tag = ''
+        formatted = re.sub(emoji, tag, formatted)
+    
     return formatted
 
 # Format repo info to an html table row
