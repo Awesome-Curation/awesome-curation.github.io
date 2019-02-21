@@ -1,0 +1,9 @@
+/* Format images with text */
+td img {
+  height: 1em;
+  width: auto;
+}
+h1 img {
+  height: 1em;
+  width: auto;
+}
