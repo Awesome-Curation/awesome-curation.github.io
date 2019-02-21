@@ -18,14 +18,21 @@ Easily navigate through curated lists to find the most popular GitHub repositori
    - None yet (yikes)
    - Travis CI
 + Error Handling/Logs
-   - API error codes
    - Log excepts
-+ Multithreading
-   - Get API data asynchronously 
+   - Return custom errors from failed functions
 + Cron Job Updates
    - Setup server to update daily
    - Monitor & handle GitHub hourly api call limit
       * Needs CI setup first
++ Create sub sections
+   - Sub text divider
++ API
+   - Error codes
+   - Get data asynchronously 
+   - Get remaining queries
++ Data handling
+   - Store data in files/db
+   - Fetch table data & insert for each section 
 
 ## Contributing
 
@@ -39,8 +46,9 @@ See also the list of [contributors](https://github.com/Awesome-Curation/awesome-
 
 ## License
 
-This project is licensed under the Creative Commons Zero Universal License - see the [LICENSE.md](LICENSE.md) file for details
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 - see the [LICENSE.md](LICENSE.md) file for details
 ## Acknowledgments
 
 * Inspired by the amazing curation lists put together by the GitHub community
