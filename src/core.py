@@ -3,7 +3,9 @@ import re
 import json
 import os.path
 from helpers import write_emojis
-import pprint
+
+# HTML page markers for inserting text
+MARKERS = ["Dropdown", "Table"]
 
 def main():
     sandbox_readme = get_root_path() + '/data/sandbox_readme'
@@ -11,33 +13,45 @@ def main():
     with open(sandbox_readme) as f:
         text = f.read()
     
-    section = 'unknown'
-    items = []
-    repos = {}
-    for line in text.splitlines():
-        if re.search('^#{2,5}', line):
-            items = []
-            h = re.sub('^#{2,5} {1,5}','',line)        
-            if len(h) > 0:
-                section = h 
-        if re.search('\* \[.*]\(http[s]?:\/\/.*\)', line):
-            items.append(line)
-            repos[section] = items
     
+    repos = build_links_dict(text)
     links = repos['Bluetooth']
 
-    for key in repos:
-        if len(repos[key]) < 1:
-            print(key)
-    return
+    destroy_section('Table')
+    write_section(links, 'Table')        
 
-    #pp = pprint.PrettyPrinter(indent=4)
-    #pp.pprint(data)
 
-    destroy_table()
-    write_table(links)        
+# Write categories to html
+# Accepts dictionary (with categories key) or list
+def build_categories(items):
+    sections = []
+    if isinstance(items, dict):
+        for key in items:
+            sections.append(key)
+    elif isinstance(text, list):
+        sections = items
+    else:
+        print("Unsupported text argument. Requires dictionary or list")
+        return []
+    return sections
 
-def categories():
+# Format categories to html for dropdown button
+def html_categories(sections):
+    try:
+        for item in sections:
+            rows += "<option>" + item + "</option>\n"
+    except AttributeError as err:
+        print("============")
+        print("Categories attribute error")
+        print(sections)
+        return ""
+
+    return rows.encode('utf-8')
+
+# Create dictionary for links with category
+# Keys - Categories
+# Values - List of repo links
+def build_links_dict(text):
     section = 'unknown'
     items = []
     repos = {}
@@ -50,6 +64,7 @@ def categories():
         if re.search('\* \[.*]\(http[s]?:\/\/.*\)', line):
             items.append(line)
             repos[section] = items    
+    return repos
 
 # Get all links from a file/string (\n separated)
 # Return 'list' of links
@@ -93,26 +108,46 @@ def get_root_path(f=__file__):
     path = os.path.dirname(f)
     return os.path.abspath(os.path.join(path, os.pardir)) 
 
-# Delete table from index.html
-def destroy_table():
+# Delete section from index.html
+# section - marker to look for (ex: Dropdown)
+def destroy_section(section):
+    if section not in MARKERS:
+        print("Unable to find html marker to destroy")
+        return
+
     site = get_root_path() + '/index.html'
     with open(site, 'r') as f:
         buffer = f.readlines()
     
-    isTable = False
+    marker = section + ' Insertion'
+    isSection = False
     with open(site, 'w') as html:
         for line in buffer:
-            if 'Begin Table Insertion' in line:
-                isTable = True
-                html.write('<!-- Begin Table Insertion -->\n')  
-            elif 'End Table Insertion' in line:
-                isTable = False
+            if 'Begin ' + marker in line:
+                isSection = True
+                html.write('<!-- Begin ' + marker + ' -->\n')  
+                start_success = True
+            elif 'End ' + marker in line:
+                isSection = False
+                end_success = True
             
-            if not isTable:
+            if not isSection:
                 html.write(line)    
 
-# Insert table into html webpage 
-def write_table(data):
+        if not start_success:
+            print("Unable to find '" + section + "' Begin marker")
+        if not end_success:
+            print("Unable to find '" + section + "' End marker")
+
+# Insert section into html webpage 
+# date - text to write
+# section - marker to look for (ex: Dropdown)
+def write_section(data, section):
+    if section not in MARKERS:
+        print("Unable to find html marker to insert")
+        return
+
+    marker = 'Begin ' + section + ' Insertion'
     site = get_root_path() + '/index.html'
     with open(site, 'r') as f:
         buffer = f.readlines()
@@ -120,9 +155,12 @@ def write_table(data):
     info = build_table(data)
     with open(site, 'w') as html:
         for line in buffer:
-            if 'Begin Table Insertion' in line:
+            if marker in line:
                 line += info
+                success = True
             html.write(line)    
+        if not success:
+            print("Unable to insert '" + section + "' into html page")
 
 # Return a string with the html formatted table rows
 def build_table(text):
@@ -130,7 +168,7 @@ def build_table(text):
     for link in repo_links(text):
         (user, repo) = api.get_user_repo(link)
         data = api.get_repo_data(user, repo)
-        tr = html_print(repo, link, data)
+        tr = html_table(repo, link, data)
         table += tr
 
     return table
@@ -158,7 +196,7 @@ def format_description(text):
 
 # Format repo info to an html table row
 # Sometime api returns with values missing. Need to reload if so
-def html_print(repo, url, data):
+def html_table(repo, url, data):
     stars = data['stargazers_count']
     forks = data['forks_count']
     name = data['name'] if data['name'] != None else "None" # None == NoneType i guess
@@ -173,14 +211,12 @@ def html_print(repo, url, data):
                "    <td>"+ lang  +"</td>\n"
                "</tr>\n")
     except UnicodeDecodeError as err:
-        print("============")
-        print("unicode error")
+        print("Table unicode error")
         print(repo)
         print(lang)
         return ""
     except AttributeError as err:
-        print("============")
-        print("Attribute error")
+        print("Table attribute error")
         print(repo)
         return ""
 
