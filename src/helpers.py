@@ -1,4 +1,11 @@
 import api
+import os.path
+
+# Get the root directory of the project
+# (Just the parent directory. Probably a much better way)
+def get_root_path(f=__file__):
+    path = os.path.dirname(f)
+    return os.path.abspath(os.path.join(path, os.pardir))
 
 # Write data/emojis.txt file with GitHub assets links
 # Return the dictionary to caller if needed
