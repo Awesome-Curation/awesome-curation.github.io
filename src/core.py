@@ -1,52 +1,34 @@
 import api
 import re
 import json
+import time
 import os.path
-from helpers import write_emojis
+from helpers import write_emojis, get_root_path
 
 # HTML page markers for inserting text
 MARKERS = ["Dropdown", "Table"]
 
 def main():
+    start_time = time.time()
+
     sandbox_readme = get_root_path() + '/data/sandbox_readme'
-    #sandbox_links = get_root_path() + '/src/sandbox'
     with open(sandbox_readme) as f:
         text = f.read()
     
-    
     repos = build_links_dict(text)
-    links = repos['Bluetooth']
+    links = repos['UI']
 
     destroy_section('Table')
-    write_section(links, 'Table')        
+    destroy_section('Dropdown')
+    write_section(build_categories(repos), 'Dropdown')
+    write_section(build_table(links), 'Table')        
 
+    elapsed_time = time.time() - start_time
+    print('Time elapsed: ' + str(float("%0.4f" % (elapsed_time))))
 
-# Write categories to html
-# Accepts dictionary (with categories key) or list
-def build_categories(items):
-    sections = []
-    if isinstance(items, dict):
-        for key in items:
-            sections.append(key)
-    elif isinstance(text, list):
-        sections = items
-    else:
-        print("Unsupported text argument. Requires dictionary or list")
-        return []
-    return sections
-
-# Format categories to html for dropdown button
-def html_categories(sections):
-    try:
-        for item in sections:
-            rows += "<option>" + item + "</option>\n"
-    except AttributeError as err:
-        print("============")
-        print("Categories attribute error")
-        print(sections)
-        return ""
-
-    return rows.encode('utf-8')
+'''
+MARK: Build Core Data Section
+'''
 
 # Create dictionary for links with category
 # Keys - Categories
@@ -66,47 +48,9 @@ def build_links_dict(text):
             repos[section] = items    
     return repos
 
-# Get all links from a file/string (\n separated)
-# Return 'list' of links
-def repo_links(text):
-    links=[]
-    lines = []
-    if isinstance(text, str):
-        lines = text.splitlines()
-    elif isinstance(text, list):
-        lines = text
-    else:
-        print("Unsupported text argument. Requires string or list")
-
-    for line in lines:
-        link = api.get_url(line)
-        if link:
-            links.append(link) #+ "\n"
-            
-    return links #[:-1]
-
-
-# Read emojis from json text file
-def read_emojis():
-    g_emojis = get_root_path() + '/data/emojis.txt'
-    try:
-        with open(g_emojis, 'r') as f:
-            data = f.read()
-    except IOError:
-        print("Error reading emojis.txt"
-              "Calling api rewrite file...")
-        return write_emojis()
-    except ValueError:
-        print("Fatal error. Could not fetch emojis"
-              "Reevaluate your life.")
-
-    return json.loads(data)
-
-# Get the root directory of the project
-# (Just the parent directory. Probably a much better way)
-def get_root_path(f=__file__):
-    path = os.path.dirname(f)
-    return os.path.abspath(os.path.join(path, os.pardir)) 
+'''
+MARK: HTML Modification Section
+'''
 
 # Delete section from index.html
 # section - marker to look for (ex: Dropdown)
@@ -120,7 +64,7 @@ def destroy_section(section):
         buffer = f.readlines()
     
     marker = section + ' Insertion'
-    isSection = False
+    isSection, start_success, end_success = (False,)*3
     with open(site, 'w') as html:
         for line in buffer:
             if 'Begin ' + marker in line:
@@ -152,15 +96,19 @@ def write_section(data, section):
     with open(site, 'r') as f:
         buffer = f.readlines()
     
-    info = build_table(data)
     with open(site, 'w') as html:
         for line in buffer:
             if marker in line:
-                line += info
+                line += data
                 success = True
             html.write(line)    
         if not success:
             print("Unable to insert '" + section + "' into html page")
+
+
+'''
+MARK: Table Section
+'''
 
 # Return a string with the html formatted table rows
 def build_table(text):
@@ -173,26 +121,24 @@ def build_table(text):
 
     return table
 
-# Format description to include emoji images 
-def format_description(text):
-    if not text:
-        return ''
-    
-    formatted = text
-    emojis = re.findall(':[a-z_]{1,30}:', text)
-    for emoji in emojis:
-        name = re.sub(':', '', emoji)
-        try:
-             # Put in an image html tag
-             g_emojis = read_emojis()
-             tag = "<img src='" + g_emojis[name] + "'> "
-        except (KeyError, AttributeError):
-            print("Unable to get emoji")
-            print("Full description: " + text)
-            tag = ''
-        formatted = re.sub(emoji, tag, formatted)
-    
-    return formatted
+# Get all links from a file/string (\n separated)
+# Return 'list' of links
+def repo_links(text):
+    links=[]
+    lines = []
+    if isinstance(text, str):
+        lines = text.splitlines()
+    elif isinstance(text, list):
+        lines = text
+    else:
+        print("Unsupported text argument. Requires string or list")
+
+    for line in lines:
+        link = api.get_url(line)
+        if link:
+            links.append(link) #+ "\n"
+            
+    return links #[:-1]
 
 # Format repo info to an html table row
 # Sometime api returns with values missing. Need to reload if so
@@ -221,6 +167,77 @@ def html_table(repo, url, data):
         return ""
 
     return row.encode('utf-8')
+
+# Format description to include emoji images 
+def format_description(text):
+    if not text:
+        return ''
+    
+    formatted = text
+    emojis = re.findall(':[a-z_]{1,30}:', text)
+    for emoji in emojis:
+        name = re.sub(':', '', emoji)
+        try:
+             # Put in an image html tag
+             g_emojis = read_emojis()
+             tag = "<img src='" + g_emojis[name] + "'> "
+        except (KeyError, AttributeError):
+            print("Unable to get emoji")
+            print("Full description: " + text)
+            tag = ''
+        formatted = re.sub(emoji, tag, formatted)
+    
+    return formatted
+
+# Read emojis from json text file
+def read_emojis():
+    g_emojis = get_root_path() + '/data/emojis.txt'
+    try:
+        with open(g_emojis, 'r') as f:
+            data = f.read()
+    except IOError:
+        print("Error reading emojis.txt"
+              "Calling api rewrite file...")
+        return write_emojis()
+    except ValueError:
+        print("Fatal error. Could not fetch emojis"
+              "Reevaluate your life.")
+
+    return json.loads(data)
+
+'''
+MARK: Categories Section
+'''
+
+# Write categories to html
+# Accepts dictionary (with categories key) or list
+def build_categories(items):
+    sections = []
+    if isinstance(items, dict):
+        for key in items:
+            sections.append(key)
+    elif isinstance(items, list):
+        sections = items
+    else:
+        print("Unsupported text argument. Requires dictionary or list")
+        return ""
+    
+    dr = html_categories(sections)
+    return dr
+
+# Format categories to html for dropdown button
+def html_categories(sections):
+    rows = ''
+    try:
+        for item in sections:
+            rows += "<option>" + item + "</option>\n"
+    except AttributeError as err:
+        print('============')
+        print('Categories attribute error')
+        print(sections)
+        return ''
+
+    return rows.encode('utf-8')
 
 if __name__ == '__main__':
     main()
