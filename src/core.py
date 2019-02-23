@@ -1,8 +1,12 @@
-import api
-import re
-import json
-import time
+#!/usr/bin/env python
+# -*- coding: utf-8 -*
+
 import os.path
+import re
+import time
+import json
+
+import api
 from helpers import write_emojis, get_root_path
 
 # HTML page markers for inserting text
@@ -17,6 +21,7 @@ def main():
     
     repos = build_links_dict(text)
     links = repos['UI']
+    print(api.get_rate_limit('Reset'))
 
     destroy_section('Table')
     destroy_section('Dropdown')
@@ -34,6 +39,23 @@ MARK: Build Core Data Section
 # Keys - Categories
 # Values - List of repo links
 def build_links_dict(text):
+    """ Get all repositories in each category
+
+    This function traverses a markdown formatted string to get
+    links to all repositories in each category. A dictionary is
+    formed with a the category as the key and a list of GitHub 
+    links (strings) as the value. Currently the lists of links are 
+    only stored in the immediate parent markdown header (i.e. there 
+    are no sub-sections iOS->UI->Animation->Transformation would 
+    just have 'Transformation' as the category) 
+
+    Args:
+        text (str): A markdown formatted string (containing newlines)
+    Returns:
+        dict: Categories with repository links
+            - {'Category':['https://github.com/user/repo', 'https://github.com/2user/2repo']}
+
+    """
     section = 'unknown'
     items = []
     repos = {}
@@ -55,6 +77,18 @@ MARK: HTML Modification Section
 # Delete section from index.html
 # section - marker to look for (ex: Dropdown)
 def destroy_section(section):
+    """ Delete a section of index.html
+
+    This function will remove all content between two markers
+    in the home page with the format:
+    <!-- Begin Section Inserstion -->
+    <!-- End Section Insertion -->
+    Acceptable section parameters are explicitly defined in a 
+    global list named MARKERS.
+
+    Args:
+        section (str): section to search and destroy
+    """
     if section not in MARKERS:
         print("Unable to find html marker to destroy")
         return
@@ -87,6 +121,20 @@ def destroy_section(section):
 # date - text to write
 # section - marker to look for (ex: Dropdown)
 def write_section(data, section):
+    """ Insert a section of text into an index.html page
+
+    This function will insert content between two markers in 
+    the home page with the format:
+    <!-- Begin Section Inserstion -->
+    Acceptable section arguments are explicitly defined in a 
+    global list named MARKERS. The string must be in valid HTML
+    format.
+        - TODO: Validate acceptable html 
+
+    Args:
+        data (str): HTML content to insert
+        section (str): marker to insert after
+    """
     if section not in MARKERS:
         print("Unable to find html marker to insert")
         return
@@ -112,6 +160,15 @@ MARK: Table Section
 
 # Return a string with the html formatted table rows
 def build_table(text):
+    """ Setup and HTML formatted table with GitHub repo data
+
+    This function will request all data for repositories in a
+    given markdown string. The data will be returned in an HTML
+    formatted table for all of the links found in the argument.
+    
+    
+
+    """
     table = ""
     for link in repo_links(text):
         (user, repo) = api.get_user_repo(link)
