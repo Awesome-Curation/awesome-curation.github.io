@@ -1,8 +1,28 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*
 
+# Standard libs
 import os.path
+import re
+
+# Custom
 import api
+
+def get_valid_filename(name):
+    """ Get a valid filename for a string
+
+    This function converts string into a valid filename
+    to store data. Should also be used on button actions
+    when fetching the file.
+
+    Args:
+        name (str): string to convert
+    Returns:
+        str: valid filename
+    
+    """
+    s = str(name).strip().replace(' ', '_')
+    return re.sub('(?u)[^-\w.]', '', s)
 
 def get_root_path(f=__file__):
     """ Get the root path of the project
