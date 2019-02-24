@@ -1,0 +1,469 @@
+<tr>
+    <td> <a href='https://github.com/codestergit/SweetAlert-iOS'target='_blank'>SweetAlert-iOS</a></td>
+    <td>Live animated Alert View for iOS written in Swift</td>
+    <td>1912</td>
+    <td>283</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/nealyoung/NYAlertViewController'target='_blank'>NYAlertViewController</a></td>
+    <td>Highly configurable iOS Alert Views with custom content views</td>
+    <td>566</td>
+    <td>97</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/vikmeup/SCLAlertView-Swift'target='_blank'>SCLAlertView-Swift</a></td>
+    <td>Beautiful animated Alert View. Written in Swift</td>
+    <td>4718</td>
+    <td>684</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/zekunyan/TTGSnackbar'target='_blank'>TTGSnackbar</a></td>
+    <td>TTGSnackbar shows simple message and action button on the bottom or top of the screen with multi kinds of animation, which is written in Swift3 and inspired by Snackbar in Android. It also support showing custom view, icon image or multi action button.</td>
+    <td>442</td>
+    <td>72</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/GabrielAlva/Swift-Prompts'target='_blank'>Swift-Prompts</a></td>
+    <td>A Swift library to design custom prompts with a great scope of options to choose from. </td>
+    <td>742</td>
+    <td>60</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/bryx-inc/BRYXBanner'target='_blank'>BRYXBanner</a></td>
+    <td>A lightweight dropdown notification for iOS 7+, in Swift.</td>
+    <td>931</td>
+    <td>128</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/LISNR/LNRSimpleNotifications'target='_blank'>LNRSimpleNotifications</a></td>
+    <td>Simple Swift in-app notifications</td>
+    <td>195</td>
+    <td>31</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/nhdang103/HDNotificationView'target='_blank'>HDNotificationView</a></td>
+    <td>Emulates the native Remote Notification View.</td>
+    <td>285</td>
+    <td>45</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/calimarkus/JDStatusBarNotification'target='_blank'>JDStatusBarNotification</a></td>
+    <td>[iOS] Easy, customizable notifications displayed on top of the statusbar. With progress and activity. iPhone X ready.</td>
+    <td>3651</td>
+    <td>523</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/thii/Notie'target='_blank'>Notie</a></td>
+    <td>In-app notification in Swift, with customizable buttons and input text field.</td>
+    <td>86</td>
+    <td>11</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/thellimist/EZAlertController'target='_blank'>EZAlertController</a></td>
+    <td>Easy Swift UIAlertController</td>
+    <td>311</td>
+    <td>45</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/wxxsw/GSMessages'target='_blank'>GSMessages</a></td>
+    <td>A simple style messages/notifications, in Swift.</td>
+    <td>404</td>
+    <td>49</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/OEA/OEANotification'target='_blank'>OEANotification</a></td>
+    <td>OEANotification is a customizable notification view framework</td>
+    <td>18</td>
+    <td>3</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/cwRichardKim/RKDropdownAlert'target='_blank'>RKDropdownAlert</a></td>
+    <td>iOS / Objective C: an extremely simple UIAlertView alternative</td>
+    <td>1536</td>
+    <td>146</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/entotsu/TKSwarmAlert'target='_blank'>TKSwarmAlert</a></td>
+    <td>Animated alert library like Swarm app.</td>
+    <td>506</td>
+    <td>57</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/hyperoslo/Whisper'target='_blank'>Whisper</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4e3.png?v8'>  Whisper is a component that will make the task of display messages and in-app notifications simple. It has three different views inside</td>
+    <td>3569</td>
+    <td>362</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/KyoheiG3/SimpleAlert'target='_blank'>SimpleAlert</a></td>
+    <td>Customizable simple Alert and simple ActionSheet for Swift</td>
+    <td>323</td>
+    <td>39</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ytakzk/Hokusai'target='_blank'>Hokusai</a></td>
+    <td>A Swift library to provide a bouncy action sheet</td>
+    <td>409</td>
+    <td>31</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/johnlui/SwiftNotice'target='_blank'>SwiftNotice</a></td>
+    <td> GUI library for displaying various popups (HUD), written in pure Swift.</td>
+    <td>764</td>
+    <td>134</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/peterprokop/SwiftOverlays'target='_blank'>SwiftOverlays</a></td>
+    <td>SwiftOverlays is a Swift GUI library for displaying various popups and notifications</td>
+    <td>571</td>
+    <td>76</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/morizotter/SwiftyDrop'target='_blank'>SwiftyDrop</a></td>
+    <td>Lightweight dropdown message bar in Swift. It's simple and beautiful.</td>
+    <td>628</td>
+    <td>73</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Lightningkite/LKAlertController'target='_blank'>LKAlertController</a></td>
+    <td>An easy to use UIAlertController builder for swift</td>
+    <td>73</td>
+    <td>17</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/okmr-d/DOAlertController'target='_blank'>DOAlertController</a></td>
+    <td>Simple Alert View written in Swift, which can be used as a UIAlertController. (AlertController/AlertView/ActionSheet)</td>
+    <td>355</td>
+    <td>60</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/beryu/CustomizableActionSheet'target='_blank'>CustomizableActionSheet</a></td>
+    <td>Action sheet allows including your custom views and buttons.</td>
+    <td>154</td>
+    <td>17</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/scalessec/Toast-Swift'target='_blank'>Toast-Swift</a></td>
+    <td>A Swift extension that adds toast notifications to the UIView object class.</td>
+    <td>1692</td>
+    <td>278</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/pmusolino/PMAlertController'target='_blank'>PMAlertController</a></td>
+    <td>PMAlertController is a great and customizable alert that can substitute to UIAlertController</td>
+    <td>1958</td>
+    <td>150</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/dimillian/PopupViewController'target='_blank'>PopupViewController</a></td>
+    <td>UIViewController drop in replacement with much more customisation</td>
+    <td>16</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/PhilippeBoisney/AlertViewLoveNotification'target='_blank'>AlertViewLoveNotification</a></td>
+    <td>A simple and attractive AlertView to ask permission to your users for Push Notification.</td>
+    <td>35</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/cruffenach/CRToast'target='_blank'>CRToast</a></td>
+    <td>A modern iOS toast view that can fit your notification needs</td>
+    <td>4181</td>
+    <td>479</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/devxoul/Toaster'target='_blank'>Toaster</a></td>
+    <td>🍞 Toast for Swift</td>
+    <td>1113</td>
+    <td>135</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/rollmind/CuckooAlert'target='_blank'>CuckooAlert</a></td>
+    <td>UIAlertController with continuity.</td>
+    <td>5</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/krimpedance/KRAlertController'target='_blank'>KRAlertController</a></td>
+    <td>A colored alert view for your iOS.</td>
+    <td>49</td>
+    <td>5</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/evgenyneu/Dodo'target='_blank'>Dodo</a></td>
+    <td>A message bar for iOS written in Swift.</td>
+    <td>825</td>
+    <td>57</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ntnhon/MaterialActionSheetController'target='_blank'>MaterialActionSheetController</a></td>
+    <td>A Google like action sheet for iOS written in Swift.</td>
+    <td>92</td>
+    <td>9</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/SwiftKickMobile/SwiftMessages'target='_blank'>SwiftMessages</a></td>
+    <td>A very flexible message bar for iOS written in Swift.</td>
+    <td>4424</td>
+    <td>370</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/krispenney/FCAlertView'target='_blank'>FCAlertView</a></td>
+    <td>FCAlertView is a Flat Customizable AlertView for iOS (Swift)</td>
+    <td>95</td>
+    <td>15</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/nimati/FCAlertView'target='_blank'>FCAlertView</a></td>
+    <td>FCAlertView is a Flat Customizable AlertView for iOS (Written in Objective C)</td>
+    <td>751</td>
+    <td>130</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/candostdagdeviren/CDAlertView'target='_blank'>CDAlertView</a></td>
+    <td>Highly customizable alertview and alert/notification/success/error/alarm popup written in Swift</td>
+    <td>878</td>
+    <td>77</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/CooperRS/RMActionController'target='_blank'>RMActionController</a></td>
+    <td>This is an iOS control for presenting any UIView in an UIAlertController like manner</td>
+    <td>456</td>
+    <td>54</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/CooperRS/RMDateSelectionViewController'target='_blank'>RMDateSelectionViewController</a></td>
+    <td>This is an iOS control for selecting a date using UIDatePicker in an UIAlertController like manner</td>
+    <td>1117</td>
+    <td>157</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/CooperRS/RMPickerViewController'target='_blank'>RMPickerViewController</a></td>
+    <td>This is an iOS control for selecting something using UIPickerView in an UIAlertController like manner</td>
+    <td>364</td>
+    <td>50</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/SebastianBoldt/Jelly'target='_blank'>Jelly</a></td>
+    <td>🌊 - Jelly is a library for animated, non-interactive & interactive viewcontroller  transitions and presentations with the focus on a simple and yet flexible API.</td>
+    <td>1894</td>
+    <td>93</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/vitormesquita/Malert'target='_blank'>Malert</a></td>
+    <td>Custom alert View to iOS applications</td>
+    <td>227</td>
+    <td>17</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/roycms/AlertView'target='_blank'>AlertView</a></td>
+    <td>AlertView, Ios popup window, A pop-up framework, Can be simple and convenient to join your project. IOS 提示框，IOS弹框，IOS弹窗</td>
+    <td>56</td>
+    <td>6</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/qiuncheng/NoticeBar'target='_blank'>NoticeBar</a></td>
+    <td>😍A simple NoticeBar written by Swift 3, similar with QQ notice view.</td>
+    <td>242</td>
+    <td>29</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Lasithih/LIHAlert'target='_blank'>LIHAlert</a></td>
+    <td>Advance animated alerts for iOS written in Swift</td>
+    <td>32</td>
+    <td>5</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ppth0608/BPStatusBarAlert'target='_blank'>BPStatusBarAlert</a></td>
+    <td>BPStatusBarAlert is a library that allows you to easily make text-based alert that appear on the status bar and below navigation bar. </td>
+    <td>107</td>
+    <td>9</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Codigami/CFAlertViewController'target='_blank'>CFAlertViewController</a></td>
+    <td>It is a highly configurable iOS library which allows easy styling with built in styles as well as extra header and footer views so that you can make extremely unique alerts and action sheets.</td>
+    <td>946</td>
+    <td>58</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Daltron/NotificationBanner'target='_blank'>NotificationBanner</a></td>
+    <td>The easiest way to display highly customizable in app notification banners in iOS</td>
+    <td>2622</td>
+    <td>276</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/sgr-ksmt/Alertift'target='_blank'>Alertift</a></td>
+    <td>Swifty, modern UIAlertController wrapper.</td>
+    <td>128</td>
+    <td>15</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/hryk224/PCLBlurEffectAlert'target='_blank'>PCLBlurEffectAlert</a></td>
+    <td>Swift AlertController with UIVisualeffectview</td>
+    <td>144</td>
+    <td>19</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/trilliwon/JDropDownAlert'target='_blank'>JDropDownAlert</a></td>
+    <td>Simple DropDown Alert View For Any iOS Projects.</td>
+    <td>50</td>
+    <td>20</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/alexaubry/BulletinBoard'target='_blank'>BulletinBoard</a></td>
+    <td>General-purpose contextual cards for iOS</td>
+    <td>4088</td>
+    <td>201</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/hallelujahbaby/CFNotify'target='_blank'>CFNotify</a></td>
+    <td>A customizable framework to create draggable views</td>
+    <td>454</td>
+    <td>21</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/LowKostKustomz/StatusAlert'target='_blank'>StatusAlert</a></td>
+    <td>Display Apple system-like self-hiding status alerts. It is well suited for notifying user without interrupting user flow in iOS-like way.</td>
+    <td>600</td>
+    <td>36</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/dillidon/alerts-and-pickers'target='_blank'>alerts-and-pickers</a></td>
+    <td>Advanced usage of UIAlertController and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date...</td>
+    <td>3574</td>
+    <td>375</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/donileo/RMessage'target='_blank'>RMessage</a></td>
+    <td>A crisp in-app notification/message banner built in Swift.</td>
+    <td>328</td>
+    <td>57</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/lucabecchetti/InAppNotify'target='_blank'>InAppNotify</a></td>
+    <td>Swift library to manage in app notification in swift language, like WhatsApp, Telegram, Frind, ecc.</td>
+    <td>421</td>
+    <td>31</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ra1028/FloatingActionSheetController'target='_blank'>FloatingActionSheetController</a></td>
+    <td>FloatingActionSheetController is a cool design ActionSheetController library written in Swift2.</td>
+    <td>136</td>
+    <td>20</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/TimOliver/TOActionSheet'target='_blank'>TOActionSheet</a></td>
+    <td>A custom-designed reimplementation of the UIActionSheet control for iOS</td>
+    <td>164</td>
+    <td>19</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/xmartlabs/XLActionController'target='_blank'>XLActionController</a></td>
+    <td>Fully customizable and extensible action sheet controller written in Swift</td>
+    <td>2855</td>
+    <td>291</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/CaliCastle/PopMenu'target='_blank'>PopMenu</a></td>
+    <td>A fully customizable popup style menu for iOS 😎</td>
+    <td>452</td>
+    <td>44</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/TheAbstractDev/NotchyAlert'target='_blank'>NotchyAlert</a></td>
+    <td>🚨Use the iPhone X Notch to display alerts. 🚨</td>
+    <td>17</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/rob-nash/Sheet'target='_blank'>Sheet</a></td>
+    <td>Show a workflow of view controllers as an action sheet</td>
+    <td>42</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ParkGwangBeom/Sheet'target='_blank'>Sheet</a></td>
+    <td>📑 Actionsheet with navigation features such as the Flipboard App</td>
+    <td>113</td>
+    <td>10</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mshrwtnb/alrt'target='_blank'>ALRT</a></td>
+    <td>An easier constructor for UIAlertController. Present an alert from anywhere.</td>
+    <td>33</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ImKcat/CatAlertController'target='_blank'>CatAlertController</a></td>
+    <td>Use UIAlertController like a boss.</td>
+    <td>5</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>

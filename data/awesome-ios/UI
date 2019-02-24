@@ -1,0 +1,784 @@
+<tr>
+    <td> <a href='https://github.com/Grouper/FlatUIKit'target='_blank'>FlatUIKit</a></td>
+    <td>A collection of awesome flat UI components for iOS.</td>
+    <td>7846</td>
+    <td>1013</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/erichoracek/Motif'target='_blank'>Motif</a></td>
+    <td>Lightweight and customizable stylesheets for iOS</td>
+    <td>874</td>
+    <td>61</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/TextureGroup/Texture'target='_blank'>Texture</a></td>
+    <td>Smooth asynchronous user interfaces for iOS apps.</td>
+    <td>5151</td>
+    <td>691</td>
+    <td>Objective-C++</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/skywinder/GaugeKit'target='_blank'>GaugeKit</a></td>
+    <td>Kit for building custom gauges + easy reproducible Apple's style ring gauges.</td>
+    <td>950</td>
+    <td>83</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/marty-suzuki/SAHistoryNavigationViewController'target='_blank'>SAHistoryNavigationViewController</a></td>
+    <td>SAHistoryNavigationViewController realizes iOS task manager like UI in UINavigationContoller. Support 3D Touch!</td>
+    <td>1556</td>
+    <td>98</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/nicklockwood/iCarousel'target='_blank'>iCarousel</a></td>
+    <td>A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS</td>
+    <td>11131</td>
+    <td>2501</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/devinross/tapkulibrary'target='_blank'>tapkulibrary</a></td>
+    <td>tap + haiku = tapku, a well crafted open source iOS framework</td>
+    <td>3992</td>
+    <td>706</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kciter/HorizontalDial'target='_blank'>HorizontalDial</a></td>
+    <td>A horizontal scroll dial like Instagram.</td>
+    <td>154</td>
+    <td>11</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/cwRichardKim/RKNotificationHub'target='_blank'>RKNotificationHub</a></td>
+    <td>Make any UIView a full fledged notification center</td>
+    <td>3000</td>
+    <td>343</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/hughbe/phone-number-picker'target='_blank'>phone-number-picker</a></td>
+    <td>A simple and easy to use view controller enabling you to enter a phone number with a country code similar to WhatsApp written in Swift</td>
+    <td>131</td>
+    <td>24</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/recruit-mtl/EXTView'target='_blank'>EXTView</a></td>
+    <td>Extended UIView for Interface Builder by using IB_DESIGNABLE and IBInspectable.</td>
+    <td>156</td>
+    <td>18</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Boris-Em/BEMCheckBox#sample-app'target='_blank'>BEMCheckBox</a></td>
+    <td>Tasteful Checkbox for iOS. (Check box)</td>
+    <td>2265</td>
+    <td>233</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/DroidsOnRoids/MPParallaxView'target='_blank'>MPParallaxView</a></td>
+    <td>Apple TV Parallax effect in Swift.</td>
+    <td>1601</td>
+    <td>95</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/yannickl/Splitflap'target='_blank'>Splitflap</a></td>
+    <td>A simple split-flap display for your Swift applications</td>
+    <td>923</td>
+    <td>68</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/goktugyil/EZSwipeController'target='_blank'>EZSwipeController</a></td>
+    <td>:point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages</td>
+    <td>780</td>
+    <td>70</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/devinross/curry'target='_blank'>curry</a></td>
+    <td>curry is a framework built to enhance and compliment Foundation and UIKit.</td>
+    <td>41</td>
+    <td>6</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/hyperoslo/Pages'target='_blank'>Pages</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png?v8'>  UIPageViewController made simple</td>
+    <td>451</td>
+    <td>40</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Karumi/BothamUI'target='_blank'>BothamUI</a></td>
+    <td>Model View Presenter Framework written in Swift.</td>
+    <td>353</td>
+    <td>43</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/collinhundley/APCustomBlurView'target='_blank'>APCustomBlurView</a></td>
+    <td>A subclass of UIVisualEffectView with customizable blur radius.</td>
+    <td>169</td>
+    <td>16</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/antiguab/BAFluidView'target='_blank'>BAFluidView</a></td>
+    <td>UIView that simulates a 2D view of a fluid in motion</td>
+    <td>1334</td>
+    <td>114</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/wongzigii/WZDraggableSwitchHeaderView'target='_blank'>WZDraggableSwitchHeaderView</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  Show status for transition across viewControllers.</td>
+    <td>548</td>
+    <td>45</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/SergioChan/SCTrelloNavigation'target='_blank'>SCTrelloNavigation</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png?v8'>  An iOS native implementation of a Trello Animated Navagation. See more at https://dribbble.com/shots/2114816-Trello-Navigation. iOS上类似trello的导航动效框架实现。</td>
+    <td>802</td>
+    <td>105</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/hyperoslo/Spots'target='_blank'>Spots</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f38d.png?v8'>  Spots is a cross-platform view controller framework for building component-based UIs</td>
+    <td>6</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Alterplay/APAddressBook'target='_blank'>APAddressBook</a></td>
+    <td>Easy access to iOS address book</td>
+    <td>1424</td>
+    <td>208</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Azuritul/AZExpandableIconListView'target='_blank'>AZExpandableIconListView</a></td>
+    <td>An expandable/collapsible view component written in Swift.</td>
+    <td>217</td>
+    <td>31</td>
+    <td>Shell</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/thinkclay/FlourishUI'target='_blank'>FlourishUI</a></td>
+    <td>A highly configurable and out-of-the-box-pretty UI library</td>
+    <td>216</td>
+    <td>19</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Ramotion/navigation-stack'target='_blank'>navigation-stack</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  NavigationStack is a stack-modeled UI navigation controller. Swift UI library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries</td>
+    <td>2176</td>
+    <td>172</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/andreamazz/UIView-draggable'target='_blank'>UIView-draggable</a></td>
+    <td>UIView category that adds dragging capabilities</td>
+    <td>413</td>
+    <td>69</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/marmelroy/PeekPop'target='_blank'>PeekPop</a></td>
+    <td>Peek and Pop with backwards-compatibility </td>
+    <td>1962</td>
+    <td>124</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ipraba/EPSignature'target='_blank'>EPSignature</a></td>
+    <td>Signature component for iOS in Swift</td>
+    <td>738</td>
+    <td>143</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/nevyn/CoreDragon'target='_blank'>CoreDragon</a></td>
+    <td>[iOS/deprecated!] Stop using context menus. Drag and drop instead, even between apps!</td>
+    <td>711</td>
+    <td>28</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/evermeer/EVFaceTracker'target='_blank'>EVFaceTracker</a></td>
+    <td>Calculate the distance and angle of your device with regards to your face</td>
+    <td>237</td>
+    <td>37</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/vadymmarkov/Fashion'target='_blank'>Fashion</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f485.png?v8'>  Fashion accessories and beauty tools to share and reuse UI styles in a Swifty way</td>
+    <td>89</td>
+    <td>13</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/wangshengjia/LeeGo'target='_blank'>LeeGo</a></td>
+    <td>Declarative, configurable & highly reusable UI development as making Lego bricks.</td>
+    <td>948</td>
+    <td>48</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/manuelescrig/MEVHorizontalContacts'target='_blank'>MEVHorizontalContacts</a></td>
+    <td>An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.</td>
+    <td>346</td>
+    <td>41</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/RamonGilabert/Ripple'target='_blank'>Ripple</a></td>
+    <td>Remember there's no such thing as a small act of kindness. Every act creates a ripple with no logical end.</td>
+    <td>77</td>
+    <td>5</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kronik/ScalePicker'target='_blank'>ScalePicker</a></td>
+    <td>Generic scale and a handy float-value picker for any iOS app.</td>
+    <td>159</td>
+    <td>24</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/efremidze/VisualEffectView'target='_blank'>VisualEffectView</a></td>
+    <td>Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱</td>
+    <td>588</td>
+    <td>35</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/PureSwift/Cacao'target='_blank'>Cacao</a></td>
+    <td>Pure Swift Cross-platform UIKit (Cocoa Touch) implementation (Supports Linux)</td>
+    <td>941</td>
+    <td>35</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/sahandnayebaziz/StateView'target='_blank'>StateView</a></td>
+    <td>UIViews that update themselves when your data changes, like React.</td>
+    <td>501</td>
+    <td>16</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/calimarkus/JDFlipNumberView'target='_blank'>JDFlipNumberView</a></td>
+    <td>[iOS] Representing analog flip numbers like airport/trainstation displays</td>
+    <td>736</td>
+    <td>141</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/instant-solutions/ISTimeline'target='_blank'>ISTimeline</a></td>
+    <td>Simple timeline view written in Swift 3</td>
+    <td>966</td>
+    <td>82</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/atljeremy/JFCardSelectionViewController'target='_blank'>JFCardSelectionViewController</a></td>
+    <td>A fancy collection style view controller</td>
+    <td>421</td>
+    <td>52</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/agordeev/DCKit'target='_blank'>DCKit</a></td>
+    <td>Set of iOS controls with useful IBInspectable properties. Written on Swift.</td>
+    <td>129</td>
+    <td>14</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Guzlan/BackgroundVideoiOS'target='_blank'>BackgroundVideoiOS</a></td>
+    <td>A swift and objective-C object that lets you add a background video to iOS views</td>
+    <td>546</td>
+    <td>50</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Draveness/NightNight'target='_blank'>NightNight</a></td>
+    <td>Elegant way to integrate night mode to swift projects</td>
+    <td>703</td>
+    <td>52</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/jiecao-fm/SwiftTheme'target='_blank'>SwiftTheme</a></td>
+    <td>🎨 Powerful theme/skin manager for iOS 8+ 主题/换肤, 夜间模式</td>
+    <td>1520</td>
+    <td>183</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/forkingdog/FDStackView'target='_blank'>FDStackView</a></td>
+    <td>Use UIStackView directly in iOS6+</td>
+    <td>2479</td>
+    <td>331</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/yahoo/YangMingShan'target='_blank'>YangMingShan</a></td>
+    <td>YangMingShan is a collection of iOS UI components that we created while building Yahoo apps.</td>
+    <td>648</td>
+    <td>102</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/tombenner/nui'target='_blank'>nui</a></td>
+    <td>Style iOS apps with a stylesheet, similar to CSS</td>
+    <td>3795</td>
+    <td>462</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/CosmicMind/Material'target='_blank'>Material</a></td>
+    <td>A UI/UX framework for creating beautiful applications.</td>
+    <td>10737</td>
+    <td>1150</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/qmathe/DistancePicker'target='_blank'>DistancePicker</a></td>
+    <td>Custom UIKit control to select a distance with a pan gesture, written in Swift</td>
+    <td>102</td>
+    <td>18</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/nsomar/OAStackView'target='_blank'>OAStackView</a></td>
+    <td>Porting UIStackView to iOS 7+</td>
+    <td>2196</td>
+    <td>215</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/146BC/StyleKit'target='_blank'>StyleKit</a></td>
+    <td>A powerful & easy to use styling framework written in Swift</td>
+    <td>1156</td>
+    <td>46</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/hirohisa/PageController'target='_blank'>PageController</a></td>
+    <td>Infinite paging controller, scrolling through contents and title bar scrolls with a delay</td>
+    <td>257</td>
+    <td>32</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mariohahn/StatusProvider'target='_blank'>StatusProvider</a></td>
+    <td>Protocol to handle initial Loadings, Empty Views and Error Handling in a ViewController & views</td>
+    <td>863</td>
+    <td>46</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/scamps88/ASBubbleDrag'target='_blank'>ASBubbleDrag</a></td>
+    <td>round icon drag control (made in swift) dock style</td>
+    <td>44</td>
+    <td>10</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/bridger/StackLayout'target='_blank'>StackLayout</a></td>
+    <td>An alternative to UIStackView for common Auto Layout patterns.</td>
+    <td>76</td>
+    <td>4</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Boris-Em/NightView'target='_blank'>NightView</a></td>
+    <td>Dazzling Nights on iOS. </td>
+    <td>165</td>
+    <td>13</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/dingwilson/SwiftVideoBackground'target='_blank'>SwiftVideoBackground</a></td>
+    <td>📹 Framework to Play a Video in the Background of any UIView</td>
+    <td>197</td>
+    <td>19</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mrigdon/MRArticleViewController'target='_blank'>MRArticleViewController</a></td>
+    <td>Easily create UIViewControllers for news articles similar to those in the News app.</td>
+    <td>107</td>
+    <td>14</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/OrRon/ConfettiView'target='_blank'>ConfettiView</a></td>
+    <td>Confetti View lets you create a magnificent confetti view in your app</td>
+    <td>222</td>
+    <td>14</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/BohdanOrlov/BouncyPageViewController'target='_blank'>BouncyPageViewController</a></td>
+    <td>Page view controller with bounce effect</td>
+    <td>769</td>
+    <td>50</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/rolandleth/LTHRadioButton'target='_blank'>LTHRadioButton</a></td>
+    <td>A radio button with a pretty animation</td>
+    <td>238</td>
+    <td>13</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/exyte/Macaw-Examples'target='_blank'>Macaw-Examples</a></td>
+    <td>Various usages of the Macaw library</td>
+    <td>235</td>
+    <td>38</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/yannickl/Reactions'target='_blank'>Reactions</a></td>
+    <td>Fully customizable Facebook reactions control</td>
+    <td>498</td>
+    <td>52</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/dhirajjadhao/Newly'target='_blank'>Newly</a></td>
+    <td>Newly is a drop in solution to add Twitter/Facebook/Linkedin style, new updates/tweets/posts available button. It can be used to notify user about new content availability and can other actions can be triggers using its delegate method.</td>
+    <td>190</td>
+    <td>24</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/jobandtalent/CardStackController'target='_blank'>CardStackController</a></td>
+    <td>iOS custom controller used in Jobandtalent app to present new view controllers as cards</td>
+    <td>466</td>
+    <td>34</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/material-components/material-components-ios'target='_blank'>material-components-ios</a></td>
+    <td>Modular and customizable Material Design UI components for iOS</td>
+    <td>3190</td>
+    <td>513</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/farshidce/RKMultiUnitRuler/'target='_blank'>RKMultiUnitRuler</a></td>
+    <td>Simple customizable ruler control that supports multiple units</td>
+    <td>37</td>
+    <td>8</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mukeshthawani/FAQView'target='_blank'>FAQView</a></td>
+    <td>An easy to use FAQ view for iOS written in Swift</td>
+    <td>432</td>
+    <td>27</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/oxozle/OXPatternLock'target='_blank'>OXPatternLock</a></td>
+    <td>An iOS pattern lock like Android authentication written in Swift.</td>
+    <td>23</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/lucamozza/LMArticleViewController'target='_blank'>LMArticleViewController</a></td>
+    <td>UIViewController subclass to beautifully present news articles and blog posts.</td>
+    <td>5</td>
+    <td>0</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/WenchaoD/FSPagerView'target='_blank'>FSPagerView</a></td>
+    <td>FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.</td>
+    <td>3982</td>
+    <td>443</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/louisdh/panelkit'target='_blank'>panelkit</a></td>
+    <td>A UI framework that enables panels on iOS.</td>
+    <td>3661</td>
+    <td>134</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Ramotion/elongation-preview'target='_blank'>elongation-preview</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  ElongationPreview is an elegant UI push-pop style view controller. iOS library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries</td>
+    <td>799</td>
+    <td>81</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/uias/Pageboy'target='_blank'>Pageboy</a></td>
+    <td>📖 A simple, highly informative page view controller</td>
+    <td>1262</td>
+    <td>70</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/iGenius-Srl/IGColorPicker'target='_blank'>IGColorPicker</a></td>
+    <td>A customizable color picker for iOS in Swift</td>
+    <td>148</td>
+    <td>38</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/khuong291/KPActionSheet'target='_blank'>KPActionSheet</a></td>
+    <td>A replacement of default action sheet, but has very simple usage</td>
+    <td>6</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/D-32/SegmentedProgressBar'target='_blank'>SegmentedProgressBar</a></td>
+    <td>Snapchat / Instagram Stories like progress indicator</td>
+    <td>262</td>
+    <td>35</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/efremidze/Magnetic'target='_blank'>Magnetic</a></td>
+    <td>SpriteKit Floating Bubble Picker (inspired by Apple Music) 🧲</td>
+    <td>935</td>
+    <td>63</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/GlebRadchenko/AmazingBubbles'target='_blank'>AmazingBubbles</a></td>
+    <td>Bubble pickers, inspired by Apple</td>
+    <td>49</td>
+    <td>7</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/efremidze/Haptica'target='_blank'>Haptica</a></td>
+    <td>Easy Haptic Feedback Generator 📳</td>
+    <td>361</td>
+    <td>20</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/saeid/GDCheckbox'target='_blank'>GDCheckbox</a></td>
+    <td>Simple checkbox/radio box component for iOS</td>
+    <td>13</td>
+    <td>0</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Howardw3/HamsterUIKit'target='_blank'>HamsterUIKit</a></td>
+    <td>A simple and elegant UIKit for iOS.</td>
+    <td>22</td>
+    <td>3</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Minitour/AZEmptyState'target='_blank'>AZEmptyState</a></td>
+    <td>A UIControl subclass that makes it easy to create empty states.</td>
+    <td>80</td>
+    <td>11</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/jegumhon/URWeatherView'target='_blank'>URWeatherView</a></td>
+    <td>Show the weather effects onto view written in Swift4.2</td>
+    <td>407</td>
+    <td>32</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/linhcn/LCUIComponents'target='_blank'>LCUIComponents</a></td>
+    <td>It provides UI components such as popover, popup, dialog supporting iOS apps</td>
+    <td>6</td>
+    <td>0</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Sajjon/ViewComposer'target='_blank'>ViewComposer</a></td>
+    <td>Compose views using enums swiftly: `let label: UILabel = [.text("Hello"), .textColor(.red)]`</td>
+    <td>21</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/yonat/BatteryView'target='_blank'>BatteryView</a></td>
+    <td>Simple battery shaped UIView</td>
+    <td>18</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/PierrePerrin/ShadowView'target='_blank'>ShadowView</a></td>
+    <td>An iOS Library that makes shadows management easy on UIView.</td>
+    <td>310</td>
+    <td>13</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/52inc/Pulley'target='_blank'>Pulley</a></td>
+    <td>A library to imitate the iOS 10 Maps UI.</td>
+    <td>1509</td>
+    <td>185</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/n8iveapps/N8iveKit'target='_blank'>N8iveKit</a></td>
+    <td>A set of frameworks making iOS development more fun</td>
+    <td>18</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/wordlessj/Panda'target='_blank'>Panda</a></td>
+    <td>Create view hierarchies declaratively.</td>
+    <td>28</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/HarshilShah/NotchKit'target='_blank'>NotchKit</a></td>
+    <td>A simple way to hide the notch on the iPhone X</td>
+    <td>1840</td>
+    <td>65</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/TintPoint/Overlay'target='_blank'>Overlay</a></td>
+    <td>Flexible UI Framework Designed for Swift</td>
+    <td>48</td>
+    <td>5</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/haoking/SwiftyUI'target='_blank'>SwiftyUI</a></td>
+    <td>High performance and lightweight UIView,  UIImage, UIImageView, UIlabel, UIButton, Promise and more.</td>
+    <td>387</td>
+    <td>27</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/AFathi/NotchToolkit'target='_blank'>NotchToolkit</a></td>
+    <td>Use the iPhone X notch in creative ways 👩‍🎨👨‍🎨.</td>
+    <td>47</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/MarioIannotta/PullUpController'target='_blank'>PullUpController</a></td>
+    <td>Pull up controller with multiple sticky points like in iOS Maps</td>
+    <td>764</td>
+    <td>71</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Babylonpartners/DrawerKit'target='_blank'>DrawerKit</a></td>
+    <td>DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.</td>
+    <td>634</td>
+    <td>32</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/aaronjsutton/Shades'target='_blank'>Shades</a></td>
+    <td>Easily add drop shadows, borders, and round corners to a UIView.</td>
+    <td>8</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Interactive-Studio/ISPageControl'target='_blank'>ISPageControl</a></td>
+    <td>A page control similar to that used in Instagram</td>
+    <td>206</td>
+    <td>21</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/oney/Mixin'target='_blank'>Mixin</a></td>
+    <td>React.js like Mixin. More powerful Protocol-Oriented Programming.</td>
+    <td>41</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/efremidze/Shiny'target='_blank'>Shiny</a></td>
+    <td>Iridescent Effect View (inspired by Apple Pay Cash) ✨</td>
+    <td>598</td>
+    <td>27</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/seedco/StackViewController'target='_blank'>StackViewController</a></td>
+    <td>A controller that uses a UIStackView and view controller composition to display content in a list</td>
+    <td>725</td>
+    <td>48</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/uber/UberSignature'target='_blank'>UberSignature</a></td>
+    <td>Provides an iOS view controller allowing a user to draw their signature with their finger in a realistic style.</td>
+    <td>861</td>
+    <td>86</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/startry/SwViewCapture'target='_blank'>SwViewCapture</a></td>
+    <td>A nice iOS View Capture Swift Library which can capture all content.</td>
+    <td>500</td>
+    <td>64</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/HamzaGhazouani/HGRippleRadarView'target='_blank'>HGRippleRadarView</a></td>
+    <td>A beautiful radar view to show nearby items (users, restaurants, ...) with ripple animation, fully customizable </td>
+    <td>198</td>
+    <td>18</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/saeid/GDGauge'target='_blank'>GDGauge</a></td>
+    <td>Full Customizable, Beautiful, Easy to use gauge view</td>
+    <td>39</td>
+    <td>6</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Stunner/STAControls'target='_blank'>STAControls</a></td>
+    <td>Handy UIControl subclasses. (Think Three20/NimbusKit of UIControls.)</td>
+    <td>9</td>
+    <td>6</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/shindyu/ApplyStyleKit'target='_blank'>ApplyStyleKit</a></td>
+    <td>Elegant Apply Style by Swift Method Chain.🌙</td>
+    <td>127</td>
+    <td>11</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/applidium/ADOverlayContainer'target='_blank'>ADOverlayContainer</a></td>
+    <td>iOS UI library to implement overlay based interfaces</td>
+    <td>213</td>
+    <td>12</td>
+    <td>Swift</td>
+</tr>

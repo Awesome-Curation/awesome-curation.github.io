@@ -1,0 +1,154 @@
+<tr>
+    <td> <a href='https://github.com/Gurpartap/AESCrypt-ObjC'target='_blank'>AESCrypt-ObjC</a></td>
+    <td>A simple and opinionated AES encrypt / decrypt Objective-C class that just works.</td>
+    <td>751</td>
+    <td>219</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/iosdevzone/IDZSwiftCommonCrypto'target='_blank'>IDZSwiftCommonCrypto</a></td>
+    <td>A wrapper for Apple's Common Crypto library written in Swift.</td>
+    <td>404</td>
+    <td>66</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/onmyway133/Arcane'target='_blank'>Arcane</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f531.png?v8'>  CommonCrypto in Swift, and more</td>
+    <td>252</td>
+    <td>21</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mpurland/SwiftMD5'target='_blank'>SwiftMD5</a></td>
+    <td>A pure Swift implementation of MD5</td>
+    <td>10</td>
+    <td>7</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/onmyway133/SwiftHash'target='_blank'>SwiftHash</a></td>
+    <td>🍕 MD5 in pure Swift</td>
+    <td>141</td>
+    <td>21</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/jancassio/SweetHMAC'target='_blank'>SweetHMAC</a></td>
+    <td>A tiny and easy to use Swift class to encrypt strings using HMAC algorithms.</td>
+    <td>38</td>
+    <td>6</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/soyersoyer/SwCrypt'target='_blank'>SwCrypt</a></td>
+    <td>RSA public/private key generation, RSA, AES encryption/decryption, RSA sign/verify in Swift with CommonCrypto in iOS and OS X</td>
+    <td>496</td>
+    <td>73</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/SwiftP2P/SwiftSSL'target='_blank'>SwiftSSL</a></td>
+    <td>An Elegant crypto toolkit in Swift.</td>
+    <td>184</td>
+    <td>21</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/TakeScoop/SwiftyRSA'target='_blank'>SwiftyRSA</a></td>
+    <td>RSA public/private key encryption in Swift</td>
+    <td>619</td>
+    <td>142</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mikaoj/EnigmaKit'target='_blank'>EnigmaKit</a></td>
+    <td>Enigma encryption in Swift</td>
+    <td>105</td>
+    <td>6</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/cossacklabs/themis'target='_blank'>themis</a></td>
+    <td>Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across ten platforms.</td>
+    <td>667</td>
+    <td>57</td>
+    <td>C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/pjebs/Obfuscator-iOS'target='_blank'>Obfuscator-iOS</a></td>
+    <td>Secure your app by obfuscating all the hard-coded security-sensitive strings.</td>
+    <td>497</td>
+    <td>87</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/jedisct1/swift-sodium'target='_blank'>swift-sodium</a></td>
+    <td>Safe and easy to use crypto for iOS and macOS</td>
+    <td>287</td>
+    <td>86</td>
+    <td>C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/krzyzanowskim/CryptoSwift'target='_blank'>CryptoSwift</a></td>
+    <td>CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift</td>
+    <td>6443</td>
+    <td>735</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/sgl0v/SCrypto'target='_blank'>SCrypto</a></td>
+    <td>Elegant  Swift interface to access the CommonCrypto routines</td>
+    <td>23</td>
+    <td>9</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/attaswift/SipHash'target='_blank'>SipHash</a></td>
+    <td>Simple and secure hashing in Swift with the SipHash algorithm</td>
+    <td>226</td>
+    <td>19</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/RNCryptor/RNCryptor'target='_blank'>RNCryptor</a></td>
+    <td>CCCryptor (AES encryption) wrappers for iOS and Mac in Swift. -- For ObjC, see RNCryptor/RNCryptor-objc</td>
+    <td>3018</td>
+    <td>477</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ImKcat/CatCrypto'target='_blank'>CatCrypto</a></td>
+    <td>An easy way for hashing and encryption.</td>
+    <td>36</td>
+    <td>4</td>
+    <td>C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/trailofbits/SecureEnclaveCrypto'target='_blank'>SecureEnclaveCrypto</a></td>
+    <td>Demonstration library for using the Secure Enclave on iOS</td>
+    <td>209</td>
+    <td>23</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/4taras4/RSASwiftGenerator'target='_blank'>RSASwiftGenerator</a></td>
+    <td>Util for generation RSA keys on your client and save to keychain or convert into Data 🔑 🔐</td>
+    <td>11</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/VirgilSecurity/virgil-crypto-x'target='_blank'>virgil-crypto-x</a></td>
+    <td>Virgil Crypto stack Objective-C/Swift</td>
+    <td>23</td>
+    <td>3</td>
+    <td>C++</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/airsidemobile/JOSESwift'target='_blank'>JOSESwift</a></td>
+    <td>A framework for the JOSE standards JWS, JWE, and JWK written in Swift.</td>
+    <td>50</td>
+    <td>21</td>
+    <td>Swift</td>
+</tr>

@@ -1,0 +1,98 @@
+<tr>
+    <td> <a href='https://github.com/Zewo/Venice'target='_blank'>Venice</a></td>
+    <td>Coroutines, structured concurrency and CSP for Swift on macOS and Linux.</td>
+    <td>1414</td>
+    <td>56</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/typelift/Concurrent'target='_blank'>Concurrent</a></td>
+    <td>Functional Concurrency Primitives</td>
+    <td>170</td>
+    <td>13</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/JohnSundell/Flow'target='_blank'>Flow</a></td>
+    <td>Operation Oriented Programming in Swift</td>
+    <td>207</td>
+    <td>6</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/jmfieldman/Brisk'target='_blank'>Brisk</a></td>
+    <td>A Swift DSL that allows concise and effective concurrency manipulation</td>
+    <td>26</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/aojet/Aojet'target='_blank'>Aojet</a></td>
+    <td>An actor model library for swift.</td>
+    <td>29</td>
+    <td>3</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/arikis/Overdrive'target='_blank'>Overdrive</a></td>
+    <td>⚡️ Fast async task based Swift framework with focus on type safety, concurrency and multi threading</td>
+    <td>833</td>
+    <td>32</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/AsyncNinja/AsyncNinja'target='_blank'>AsyncNinja</a></td>
+    <td>A complete set of primitives for concurrency and reactive programming on Swift</td>
+    <td>112</td>
+    <td>9</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/intelygenz/Kommander-iOS'target='_blank'>Kommander-iOS</a></td>
+    <td>A lightweight, pure-Swift library for manage the task execution in different threads. Through the definition a simple but powerful concept, Kommand.</td>
+    <td>150</td>
+    <td>15</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/nvzqz/Threadly'target='_blank'>Threadly</a></td>
+    <td>Type-safe thread-local storage in Swift</td>
+    <td>55</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/roytornado/Flow-iOS'target='_blank'>Flow-iOS</a></td>
+    <td>Make your logic flow and data flow clean and human readable</td>
+    <td>12</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/FabrizioBrancati/Queuer'target='_blank'>Queuer</a></td>
+    <td>Queuer is a queue manager, built on top of OperationQueue and Dispatch (aka GCD).</td>
+    <td>817</td>
+    <td>32</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/lucas34/SwiftQueue'target='_blank'>SwiftQueue</a></td>
+    <td>Job Scheduler for IOS with Concurrent run, failure/retry, persistence, repeat, delay and more</td>
+    <td>113</td>
+    <td>12</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/quanvo87/GroupWork'target='_blank'>GroupWork</a></td>
+    <td>Easy, concurrent, asynchronous tasks in Swift.</td>
+    <td>36</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/stickytools/sticky-locking'target='_blank'>sticky-locking</a></td>
+    <td>A general purpose embedded hierarchical lock manager used to build highly concurrent applications of all types.</td>
+    <td>2</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>

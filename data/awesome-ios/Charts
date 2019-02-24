@@ -1,0 +1,217 @@
+<tr>
+    <td> <a href='https://github.com/danielgindi/Charts'target='_blank'>Charts</a></td>
+    <td>Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.</td>
+    <td>20323</td>
+    <td>3924</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kevinzhow/PNChart'target='_blank'>PNChart</a></td>
+    <td>A simple and beautiful chart lib used in Piner and CoinsMan for iOS</td>
+    <td>9563</td>
+    <td>1825</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/JunyiXie/XJYChart'target='_blank'>XJYChart</a></td>
+    <td>iOS Chart. Support animation, click, scroll, area highlight.</td>
+    <td>749</td>
+    <td>92</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Boris-Em/BEMSimpleLineGraph'target='_blank'>BEMSimpleLineGraph</a></td>
+    <td>Elegant Line Graphs for iOS. (Charting library)</td>
+    <td>2726</td>
+    <td>413</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Jawbone/JBChartView'target='_blank'>JBChartView</a></td>
+    <td>iOS-based charting library for both line and bar graphs.</td>
+    <td>3802</td>
+    <td>451</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/xyfeng/XYPieChart'target='_blank'>XYPieChart</a></td>
+    <td>A simple and animated Pie Chart for your iOS app.</td>
+    <td>1760</td>
+    <td>316</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/xhacker/TEAChart'target='_blank'>TEAChart</a></td>
+    <td>Simple and intuitive iOS chart library. Contribution graph, clock chart, and bar chart.</td>
+    <td>1183</td>
+    <td>142</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/zhuhuihuihui/EChart'target='_blank'>EChart</a></td>
+    <td>iOS/iPhone/iPad Chart, Graph. Event handling and animation supported.</td>
+    <td>643</td>
+    <td>126</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ArthurGuibert/FSLineChart'target='_blank'>FSLineChart</a></td>
+    <td>A line chart library for iOS</td>
+    <td>852</td>
+    <td>125</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/zhiyu/chartee'target='_blank'>chartee</a></td>
+    <td>a charting library for mobile platforms</td>
+    <td>934</td>
+    <td>283</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/anaglik/ANDLineChartView'target='_blank'>ANDLineChartView</a></td>
+    <td>ANDLineChartView is easy to use view-based class for displaying animated line chart.</td>
+    <td>422</td>
+    <td>60</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/chasseurmic/TWRCharts'target='_blank'>TWRCharts</a></td>
+    <td>An iOS wrapper for ChartJS. Easily build animated charts by leveraging the power of native Obj-C code.</td>
+    <td>370</td>
+    <td>55</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/i-schuetz/SwiftCharts'target='_blank'>SwiftCharts</a></td>
+    <td>Easy to use and highly customizable charts library for iOS</td>
+    <td>1870</td>
+    <td>301</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/drinkius/flowerchart'target='_blank'>FlowerChart</a></td>
+    <td>Flower-like chart written in Swift</td>
+    <td>10</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/philackm/ScrollableGraphView'target='_blank'>ScrollableGraphView</a></td>
+    <td>An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.</td>
+    <td>4837</td>
+    <td>407</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Zomato/DR-charts'target='_blank'>DR-charts</a></td>
+    <td></td>
+    <td>86</td>
+    <td>43</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/recruit-mtl/Graphs'target='_blank'>Graphs</a></td>
+    <td>Light weight charts view generater for iOS. Written in Swift.</td>
+    <td>927</td>
+    <td>64</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ArthurGuibert/FSInteractiveMap'target='_blank'>FSInteractiveMap</a></td>
+    <td>A charting library to visualize and interact with a vector map on iOS. It's like Geochart but for iOS!</td>
+    <td>511</td>
+    <td>77</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/johnnywjy/JYRadarChart'target='_blank'>JYRadarChart</a></td>
+    <td>an iOS open source Radar Chart implementation</td>
+    <td>414</td>
+    <td>95</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/TBXark/TKRadarChart'target='_blank'>TKRadarChart</a></td>
+    <td>A customizable radar chart  in Swift</td>
+    <td>164</td>
+    <td>22</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/AlexandrGraschenkov/MagicPie'target='_blank'>MagicPie</a></td>
+    <td>Amazing animations available with MagicPie!</td>
+    <td>538</td>
+    <td>87</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/i-schuetz/PieCharts'target='_blank'>PieCharts</a></td>
+    <td>Easy to use and highly customizable pie charts library for iOS</td>
+    <td>420</td>
+    <td>68</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/youkchansim/CSPieChart'target='_blank'>CSPieChart</a></td>
+    <td>This is pie chart that is very easy to use and customizable design.</td>
+    <td>36</td>
+    <td>5</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/dadalar/DDSpiderChart'target='_blank'>DDSpiderChart</a></td>
+    <td>Easy to use Spider (Radar) Chart library for iOS written in Swift.</td>
+    <td>45</td>
+    <td>5</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/core-plot/core-plot'target='_blank'>core-plot</a></td>
+    <td>Core Plot source code and example applications</td>
+    <td>2599</td>
+    <td>607</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/hadiidbouk/ChartProgressBar-iOS'target='_blank'>ChartProgressBar-iOS</a></td>
+    <td>Draw a chart with progress bar style</td>
+    <td>61</td>
+    <td>8</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/VRGsoftUA/SMDiagramView'target='_blank'>SMDiagramView</a></td>
+    <td>Diagram View for iOS</td>
+    <td>25</td>
+    <td>5</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/zemirco/swift-linechart'target='_blank'>swift-linechart</a></td>
+    <td>Line Chart library for iOS written in Swift</td>
+    <td>558</td>
+    <td>62</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/gpbl/SwiftChart'target='_blank'>SwiftChart</a></td>
+    <td>Line and area chart library for iOS</td>
+    <td>769</td>
+    <td>93</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Yalantis/EatFit'target='_blank'>EatFit</a></td>
+    <td>Eat fit is a component for attractive data representation inspired by Google Fit</td>
+    <td>656</td>
+    <td>86</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/CoreCharts/CoreCharts'target='_blank'>CoreCharts</a></td>
+    <td>CoreCharts is a simple powerfull yet Charts library for apple products</td>
+    <td>62</td>
+    <td>6</td>
+    <td>Swift</td>
+</tr>

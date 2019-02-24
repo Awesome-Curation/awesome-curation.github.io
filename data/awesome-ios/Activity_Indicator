@@ -1,0 +1,420 @@
+<tr>
+    <td> <a href='https://github.com/ninjaprox/NVActivityIndicatorView'target='_blank'>NVActivityIndicatorView</a></td>
+    <td>A collection of awesome loading animations</td>
+    <td>8054</td>
+    <td>872</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/TBXark/TKRubberIndicator'target='_blank'>TKRubberIndicator</a></td>
+    <td>A rubber animation pagecontrol</td>
+    <td>1162</td>
+    <td>160</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/naoyashiga/RPLoadingAnimation'target='_blank'>RPLoadingAnimation</a></td>
+    <td>Loading animations <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f300.png?v8'>  by using Swift CALayer</td>
+    <td>188</td>
+    <td>30</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/yoavlt/LiquidLoader'target='_blank'>LiquidLoader</a></td>
+    <td>Spinner loader components with liquid animation</td>
+    <td>1133</td>
+    <td>172</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/CardinalNow/iOS-CircleProgressView'target='_blank'>iOS-CircleProgressView</a></td>
+    <td>CircleProgressView</td>
+    <td>433</td>
+    <td>81</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Eclair/CircleProgressBar'target='_blank'>CircleProgressBar</a></td>
+    <td>iOS Circle Progress Bar</td>
+    <td>394</td>
+    <td>64</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/PhilippeBoisney/LinearProgressBar'target='_blank'>LinearProgressBar</a></td>
+    <td>A simple Linear Progress Bar for IOS (Swift 3.0), inspired by Material Design</td>
+    <td>118</td>
+    <td>39</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/saitjr/STLoadingGroup'target='_blank'>STLoadingGroup</a></td>
+    <td>loading views</td>
+    <td>395</td>
+    <td>39</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/AlexLittlejohn/ALThreeCircleSpinner'target='_blank'>ALThreeCircleSpinner</a></td>
+    <td>A pulsing spinner view written in swift</td>
+    <td>40</td>
+    <td>11</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mehfuzh/MHRadialProgressView'target='_blank'>MHRadialProgressView</a></td>
+    <td>iOS 7 radial animated progress view.</td>
+    <td>78</td>
+    <td>11</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Ekhoo/Loader'target='_blank'>Loader</a></td>
+    <td>Amazing animated switch activity indicator written in swift</td>
+    <td>98</td>
+    <td>8</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/jdg/MBProgressHUD'target='_blank'>MBProgressHUD</a></td>
+    <td>MBProgressHUD + Customizations</td>
+    <td>15068</td>
+    <td>3429</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/SVProgressHUD/SVProgressHUD'target='_blank'>SVProgressHUD</a></td>
+    <td>A clean and lightweight progress HUD for your iOS and tvOS app.</td>
+    <td>11495</td>
+    <td>2286</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/relatedcode/ProgressHUD'target='_blank'>ProgressHUD</a></td>
+    <td>ProgressHUD is a lightweight and easy-to-use HUD for iOS. (Objective-C)</td>
+    <td>1310</td>
+    <td>250</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Marxon13/M13ProgressSuite'target='_blank'>M13ProgressSuite</a></td>
+    <td>A suite containing many tools to display progress information on iOS.</td>
+    <td>3841</td>
+    <td>494</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/pkluz/PKHUD'target='_blank'>PKHUD</a></td>
+    <td>A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.</td>
+    <td>3108</td>
+    <td>415</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/goktugyil/EZLoadingActivity'target='_blank'>EZLoadingActivity</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f423.png?v8'>  Lightweight Swift loading activity for iOS7+</td>
+    <td>551</td>
+    <td>75</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/elbryan/FFCircularProgressView'target='_blank'>FFCircularProgressView</a></td>
+    <td>FFCircularProgressView - An iOS 7-inspired blue circular progress view</td>
+    <td>1017</td>
+    <td>116</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mrackwitz/MRProgress'target='_blank'>MRProgress</a></td>
+    <td>Collection of iOS drop-in components to visualize progress</td>
+    <td>2600</td>
+    <td>308</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/marcelofabri/BigBrother'target='_blank'>BigBrother</a></td>
+    <td>Automatically sets the network activity indicator for any performed request.</td>
+    <td>454</td>
+    <td>21</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Alamofire/AlamofireNetworkActivityIndicator'target='_blank'>AlamofireNetworkActivityIndicator</a></td>
+    <td>Controls the visibility of the network activity indicator on iOS using Alamofire.</td>
+    <td>548</td>
+    <td>44</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kaandedeoglu/KDCircularProgress'target='_blank'>KDCircularProgress</a></td>
+    <td>A circular progress view with gradients written in Swift</td>
+    <td>781</td>
+    <td>183</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/danielamitay/DACircularProgress'target='_blank'>DACircularProgress</a></td>
+    <td>DACircularProgress is a UIView subclass with circular UIProgressView properties.</td>
+    <td>2349</td>
+    <td>341</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ykyouhei/KYNavigationProgress'target='_blank'>KYNavigationProgress</a></td>
+    <td>Simple extension of UINavigationController to display progress on the UINavigationBar.</td>
+    <td>228</td>
+    <td>17</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/andreamazz/GearRefreshControl'target='_blank'>GearRefreshControl</a></td>
+    <td>A custom animation for the UIRefreshControl</td>
+    <td>606</td>
+    <td>53</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ninjinkun/NJKWebViewProgress'target='_blank'>NJKWebViewProgress</a></td>
+    <td>UIWebView progress interface</td>
+    <td>3948</td>
+    <td>625</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/maxkonovalov/MKRingProgressView'target='_blank'>MKRingProgressView</a></td>
+    <td>⭕️ Ring progress view similar to Activity app on Apple Watch</td>
+    <td>870</td>
+    <td>70</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/gautier-gdx/Hexacon'target='_blank'>Hexacon</a></td>
+    <td>A fancy hexagonal layout for displaying data like your Apple Watch</td>
+    <td>298</td>
+    <td>14</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/BalestraPatrick/ParticlesLoadingView'target='_blank'>ParticlesLoadingView</a></td>
+    <td>A customizable SpriteKit particles animation on the border of a view.</td>
+    <td>889</td>
+    <td>38</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/iwasrobbed/RPCircularProgress'target='_blank'>RPCircularProgress</a></td>
+    <td>(Swift) Circular progress UIView subclass with UIProgressView properties</td>
+    <td>178</td>
+    <td>42</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/MatiBot/MBCircularProgressBar'target='_blank'>MBCircularProgressBar</a></td>
+    <td>A circular, animatable & highly customizable progress bar from the Interface Builder (Objective-C)</td>
+    <td>846</td>
+    <td>149</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/devSC/WSProgressHUD'target='_blank'>WSProgressHUD</a></td>
+    <td>This is a beauful hud view for iPhone & iPad</td>
+    <td>567</td>
+    <td>80</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/dabing1022/DBMetaballLoading'target='_blank'>DBMetaballLoading</a></td>
+    <td>A metaball loading written in Swift.</td>
+    <td>70</td>
+    <td>10</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/polqf/FillableLoaders'target='_blank'>FillableLoaders</a></td>
+    <td>Completely customizable progress based loaders drawn using custom CGPaths written in Swift</td>
+    <td>1930</td>
+    <td>158</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/xxxAIRINxxx/VHUD'target='_blank'>VHUD</a></td>
+    <td>Simple HUD.</td>
+    <td>139</td>
+    <td>18</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/icanzilb/SwiftSpinner'target='_blank'>SwiftSpinner</a></td>
+    <td>A beautiful activity indicator and modal alert written in Swift (originally developed for my app DoodleDoodle) Using blur effects, translucency, flat and bold design - all iOS 8 latest and greatest</td>
+    <td>1813</td>
+    <td>244</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/andresinaka/SnapTimer'target='_blank'>SnapTimer</a></td>
+    <td>Implementation of Snapchat's stories timer. </td>
+    <td>266</td>
+    <td>19</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/alaphao/LLSpinner'target='_blank'>LLSpinner</a></td>
+    <td>The easiest way to handle a simple full screen activity indicator in iOS. Written in Swift.</td>
+    <td>21</td>
+    <td>5</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kirankunigiri/SVUploader'target='_blank'>SVUploader</a></td>
+    <td>A view class for iOS that makes uploading easy and beautiful.</td>
+    <td>68</td>
+    <td>9</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/yannickl/YLProgressBar'target='_blank'>YLProgressBar</a></td>
+    <td>UIProgressView replacement with an highly and fully customizable animated progress bar in pure Core Graphics</td>
+    <td>1164</td>
+    <td>185</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/amratab/FlexibleSteppedProgressBar'target='_blank'>FlexibleSteppedProgressBar</a></td>
+    <td>Flexible Stepped Progress Bar for IOS</td>
+    <td>217</td>
+    <td>56</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/fxm90/GradientLoadingBar'target='_blank'>GradientLoadingBar</a></td>
+    <td>A customizable animated gradient loading bar.</td>
+    <td>231</td>
+    <td>26</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/DholStudio/DSGradientProgressView'target='_blank'>DSGradientProgressView</a></td>
+    <td>A simple animated progress bar in Swift</td>
+    <td>307</td>
+    <td>28</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/fxm90/GradientProgressBar'target='_blank'>GradientProgressBar</a></td>
+    <td>A customizable gradient progress bar (UIProgressView).</td>
+    <td>102</td>
+    <td>12</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ppth0608/BPCircleActivityIndicator'target='_blank'>BPCircleActivityIndicator</a></td>
+    <td> A lightweight and awesome loading Activity Indicator for your iOS app.</td>
+    <td>42</td>
+    <td>6</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/nikola9core/DottedProgressBar'target='_blank'>DottedProgressBar</a></td>
+    <td>Simple and powerful animated progress bar with dots</td>
+    <td>31</td>
+    <td>7</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/roytornado/RSLoadingView'target='_blank'>RSLoadingView</a></td>
+    <td>Awesome loading animations using 3D engine written with Swift</td>
+    <td>322</td>
+    <td>46</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/LeonardoCardoso/SendIndicator'target='_blank'>SendIndicator</a></td>
+    <td>Yet another task indicator</td>
+    <td>51</td>
+    <td>8</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/yonat/StepProgressView'target='_blank'>StepProgressView</a></td>
+    <td>Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.</td>
+    <td>128</td>
+    <td>7</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ppth0608/BPBlockActivityIndicator'target='_blank'>BPBlockActivityIndicator</a></td>
+    <td>A simple and awesome loading Activity Indicator(with block moving animation) for your iOS app.</td>
+    <td>35</td>
+    <td>6</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/jamesdouble/JDBreaksLoading'target='_blank'>JDBreaksLoading</a></td>
+    <td>You can easily start up a little breaking game by one line.</td>
+    <td>141</td>
+    <td>10</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Juanpe/SkeletonView'target='_blank'>SkeletonView</a></td>
+    <td>An elegant way to show users that something is happening and also prepare them to which contents he is waiting</td>
+    <td>6814</td>
+    <td>445</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Interactive-Studio/Windless'target='_blank'>Windless</a></td>
+    <td>Windless makes it easy to implement invisible layout loading view.</td>
+    <td>771</td>
+    <td>52</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/gonzalonunez/Skeleton'target='_blank'>Skeleton</a></td>
+    <td>💀 An easy way to create sliding CAGradientLayer animations! Works great for creating skeleton screens for loading content.</td>
+    <td>485</td>
+    <td>57</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/IdleHandsApps/StatusBarOverlay'target='_blank'>StatusBarOverlay</a></td>
+    <td>StatusBarOverlay will automatically show a "No Internet Connection" bar when your app loses connection, and hide it again. It supports apps which hide the status bar and The Notch</td>
+    <td>106</td>
+    <td>16</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/hyperoslo/RetroProgress'target='_blank'>RetroProgress</a></td>
+    <td>💈 Retro looking progress bar straight from the 90s</td>
+    <td>5</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Recouse/LinearProgressBar'target='_blank'>LinearProgressBar</a></td>
+    <td>Material Linear Progress Bar for your iOS apps</td>
+    <td>52</td>
+    <td>10</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kamirana4/MKProgress'target='_blank'>MKProgress</a></td>
+    <td>Simple Swift Progress HUD </td>
+    <td>31</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/robertherdzik/RHPlaceholder'target='_blank'>RHPlaceholder</a></td>
+    <td>Show pleasant loading view for your users 😍</td>
+    <td>159</td>
+    <td>14</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Swiftify-Corp/IHProgressHUD'target='_blank'>IHProgressHUD</a></td>
+    <td>A clean and lightweight progress HUD based on SVProgressHUD, converted to Swift with the help of Swiftify.</td>
+    <td>46</td>
+    <td>6</td>
+    <td>Swift</td>
+</tr>

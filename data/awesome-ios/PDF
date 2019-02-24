@@ -1,0 +1,63 @@
+<tr>
+    <td> <a href='https://github.com/vfr/Reader'target='_blank'>Reader</a></td>
+    <td>PDF Reader Core for iOS</td>
+    <td>4164</td>
+    <td>1175</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/RobertAPhillips/UIView_2_PDF'target='_blank'>UIView_2_PDF</a></td>
+    <td>PDF generator using UIViews or UIViews with an associated XIB</td>
+    <td>30</td>
+    <td>4</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/FolioReader/FolioReaderKit'target='_blank'>FolioReaderKit</a></td>
+    <td>📚 A Swift ePub reader and parser framework for iOS.</td>
+    <td>1921</td>
+    <td>420</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/sgr-ksmt/PDFGenerator'target='_blank'>PDFGenerator</a></td>
+    <td>A simple generator of PDF written in Swift. </td>
+    <td>457</td>
+    <td>78</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/nRewik/SimplePDF'target='_blank'>SimplePDF</a></td>
+    <td>Create a simple PDF effortlessly. <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8'> </td>
+    <td>162</td>
+    <td>31</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kayoslab/SwiftPDFGenerator'target='_blank'>SwiftPDFGenerator</a></td>
+    <td>Generate beautiful .pdf Files from xib</td>
+    <td>12</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Techprimate/TPPDF'target='_blank'>TPPDF</a></td>
+    <td>TPPDF is a simple-to-use PDF builder for iOS</td>
+    <td>267</td>
+    <td>54</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mobfarm/FastPdfKit'target='_blank'>FastPdfKit</a></td>
+    <td>A Static Library to be embedded on iOS applications to display pdf documents derived from Fast PDF</td>
+    <td>1208</td>
+    <td>341</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/DimaMishchenko/UIImagePlusPDF'target='_blank'>UIImagePlusPDF</a></td>
+    <td>UIImage PDF extensions.</td>
+    <td>29</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>

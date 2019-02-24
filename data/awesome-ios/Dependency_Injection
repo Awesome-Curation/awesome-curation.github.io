@@ -1,0 +1,91 @@
+<tr>
+    <td> <a href='https://github.com/Swinject/Swinject'target='_blank'>Swinject</a></td>
+    <td>Dependency injection framework for Swift with iOS/macOS/Linux</td>
+    <td>3043</td>
+    <td>226</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/appfoundry/Reliant'target='_blank'>Reliant</a></td>
+    <td>Nonintrusive Objective-C Dependency Injection</td>
+    <td>54</td>
+    <td>7</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/sabirvirtuoso/Kraken'target='_blank'>Kraken</a></td>
+    <td>Simple Dependency Injection container for Swift. Use protocols to resolve dependencies with easy-to-use syntax!</td>
+    <td>1</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/square/Cleanse'target='_blank'>Cleanse</a></td>
+    <td>Lightweight Swift Dependency Injection Framework</td>
+    <td>1188</td>
+    <td>63</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/appsquickly/Typhoon'target='_blank'>typhoon</a></td>
+    <td>Powerful dependency injection for iOS & OSX (Objective-C & Swift)</td>
+    <td>2544</td>
+    <td>266</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/thoughtbot/Perform'target='_blank'>Perform</a></td>
+    <td>Easy dependency injection for storyboard segues</td>
+    <td>276</td>
+    <td>12</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/drekka/Alchemic'target='_blank'>Alchemic</a></td>
+    <td>The most advanced iOS DI framework available</td>
+    <td>13</td>
+    <td>1</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/prosumma/Guise'target='_blank'>Guise</a></td>
+    <td>An elegant, flexible, type-safe dependency resolution framework for Swift</td>
+    <td>43</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/scribd/Weaver'target='_blank'>Weaver</a></td>
+    <td>Dependency Injection framework for Swift (iOS/macOS/Linux)</td>
+    <td>320</td>
+    <td>9</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/hiro-nagami/StoryboardBuilder'target='_blank'>StoryboardBuilder</a></td>
+    <td>Simple dependency injection for generating views from storyboard.</td>
+    <td>3</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ladeiko/ViperServices'target='_blank'>ViperServices</a></td>
+    <td>Simple dependency injection container for services written for iOS in swift supporting boot order</td>
+    <td>3</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ivlevAstef/DITranquillity'target='_blank'>DITranquillity</a></td>
+    <td>Dependency injection for iOS (Swift)</td>
+    <td>168</td>
+    <td>19</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/uber/needle'target='_blank'>needle</a></td>
+    <td>Compile-time safe Swift dependency injection framework with real code</td>
+    <td>313</td>
+    <td>11</td>
+    <td>Swift</td>
+</tr>

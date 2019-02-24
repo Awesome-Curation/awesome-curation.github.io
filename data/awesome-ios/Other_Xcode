@@ -1,0 +1,77 @@
+<tr>
+    <td> <a href='https://github.com/aashishtamsya/awesome-xcode-scripts'target='_blank'>awesome-xcode-scripts</a></td>
+    <td>A curated list of useful xcode scripts 📝 .</td>
+    <td>76</td>
+    <td>8</td>
+    <td>Shell</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/venmo/synx'target='_blank'>synx</a></td>
+    <td>A command-line tool that reorganizes your Xcode project folder to match your Xcode groups</td>
+    <td>5896</td>
+    <td>285</td>
+    <td>Ruby</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Tintenklecks/IBDelegateCodesippets'target='_blank'>IBDelegateCodesippets</a></td>
+    <td></td>
+    <td>13</td>
+    <td>2</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/DeskConnect/SBShortcutMenuSimulator'target='_blank'>SBShortcutMenuSimulator</a></td>
+    <td>3D Touch shortcuts in the Simulator</td>
+    <td>1796</td>
+    <td>181</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/aashishtamsya/awesome-gitignore-templates'target='_blank'>awesome-gitignore-templates</a></td>
+    <td>A curated collection of useful gitignore templates for different programming languages while pushing your code to git. 😊  📝</td>
+    <td>14</td>
+    <td>3</td>
+    <td>None</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/artemnovichkov/swift-project-template'target='_blank'>swift-project-template</a></td>
+    <td>🍪 Easily generate Swift projects with Cookiecutter</td>
+    <td>73</td>
+    <td>11</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Juanpe/Swift-VIPER-Module'target='_blank'>Swift-VIPER-Module</a></td>
+    <td>Xcode template for VIPER Architecture written in Swift 4</td>
+    <td>408</td>
+    <td>79</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/abdullahselek/ViperC'target='_blank'>ViperC</a></td>
+    <td>Xcode template for VIPER Architecture for both Objective-C and Swift.</td>
+    <td>67</td>
+    <td>17</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ismetanin/XcodeCodeSnippets'target='_blank'>XcodeCodeSnippets</a></td>
+    <td>Code snippets for Xcode.</td>
+    <td>18</td>
+    <td>3</td>
+    <td>Shell</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Camji55/xtm'target='_blank'>xtm</a></td>
+    <td>Xcode Template Manager is a Swift command line tool that helps you manage your Xcode project templates.</td>
+    <td>19</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/EvsenevDev/VIPERModuleTemplate'target='_blank'>VIPERModuleTemplate</a></td>
+    <td>Template of VIPER Module for Xcode</td>
+    <td>15</td>
+    <td>3</td>
+    <td>Swift</td>
+</tr>

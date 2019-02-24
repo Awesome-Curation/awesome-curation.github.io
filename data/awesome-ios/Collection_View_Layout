@@ -1,0 +1,91 @@
+<tr>
+    <td> <a href='https://github.com/chiahsien/CHTCollectionViewWaterfallLayout'target='_blank'>CHTCollectionViewWaterfallLayout</a></td>
+    <td>The waterfall (i.e., Pinterest-like) layout for UICollectionView.</td>
+    <td>3826</td>
+    <td>627</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/fmitech/FMMosaicLayout'target='_blank'>FMMosaicLayout</a></td>
+    <td>A drop-in mosaic collection view layout with a focus on simple customizations.</td>
+    <td>586</td>
+    <td>64</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/vinnyoodles/mosaic-layout'target='_blank'>mosaic-layout</a></td>
+    <td>A mosaic collection view layout inspired by Lightbox's Algorithm, written in Swift 🔶</td>
+    <td>221</td>
+    <td>27</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/SwiftKickMobile/TLLayoutTransitioning'target='_blank'>TLLayoutTransitioning</a></td>
+    <td>Enhanced transitioning between UICollectionView layouts in iOS.</td>
+    <td>344</td>
+    <td>42</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ra1028/RAReorderableLayout'target='_blank'>RAReorderableLayout</a></td>
+    <td>A UICollectionView layout whitch can move item with drag and drop.</td>
+    <td>858</td>
+    <td>140</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/BenEmdon/CenteredCollectionView'target='_blank'>CenteredCollectionView</a></td>
+    <td>A lightweight UICollectionViewLayout that 'pages' and centers its cells 🎡 written in Swift</td>
+    <td>609</td>
+    <td>48</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/yacir/CollectionViewSlantedLayout'target='_blank'>CollectionViewSlantedLayout</a></td>
+    <td>UICollectionViewLayout to display slanted content</td>
+    <td>1287</td>
+    <td>72</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/iwheelbuy/SquareMosaicLayout'target='_blank'>SquareMosaicLayout</a></td>
+    <td>An extandable mosaic UICollectionViewLayout with a focus on extremely flexible customizations <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f536.png?v8'> </td>
+    <td>155</td>
+    <td>7</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/roberthein/BouncyLayout'target='_blank'>BouncyLayout</a></td>
+    <td>Make. It. Bounce.</td>
+    <td>3315</td>
+    <td>157</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/AfrozZaheer/AZSafariCollectionViewLayout'target='_blank'>AZSafariCollectionViewLayout</a></td>
+    <td>AZSafariCollectionViewLayout is replica of safari browser history page layout. very easy to use, IBInspectable are given for easy integration</td>
+    <td>182</td>
+    <td>15</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/zenangst/Blueprints'target='_blank'>Blueprints</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f300.png?v8'>  Blueprints - A framework that is meant to make your life easier when working with collection view flow layouts.</td>
+    <td>380</td>
+    <td>18</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/yahoojapan/UICollectionViewSplitLayout'target='_blank'>UICollectionViewSplitLayout</a></td>
+    <td>UICollectionViewSplitLayout makes collection view more responsive.</td>
+    <td>136</td>
+    <td>3</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/VladIacobIonut/Swinflate'target='_blank'>Swinflate</a></td>
+    <td>A bunch of layouts providing light and seamless experiences in your Collection View</td>
+    <td>37</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>

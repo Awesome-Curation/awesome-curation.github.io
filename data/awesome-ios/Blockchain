@@ -1,0 +1,42 @@
+<tr>
+    <td> <a href='https://github.com/Boilertalk/Web3.swift'target='_blank'>Web3.swift</a></td>
+    <td>A pure swift Ethereum Web3 library</td>
+    <td>193</td>
+    <td>27</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/BANKEX/web3swift'target='_blank'>web3swift</a></td>
+    <td>Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions on Ethereum network.</td>
+    <td>413</td>
+    <td>103</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/D-Technologies/EthereumKit'target='_blank'>EthereumKit</a></td>
+    <td>EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.</td>
+    <td>358</td>
+    <td>58</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/yenom/BitcoinKit'target='_blank'>BitcoinKit</a></td>
+    <td>Bitcoin protocol toolkit for Swift</td>
+    <td>616</td>
+    <td>106</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/SteadyAction/EtherWalletKit'target='_blank'>EtherWalletKit</a></td>
+    <td>Ethereum Wallet Toolkit for iOS - You can implement an Ethereum wallet without a server and blockchain knowledge.</td>
+    <td>73</td>
+    <td>16</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/coinpaprika/coinpaprika-api-swift-client'target='_blank'>coinpaprika-api-swift-client</a></td>
+    <td>This library provides convenient way to use Coinpaprika.com API in Swift.</td>
+    <td>12</td>
+    <td>0</td>
+    <td>Swift</td>
+</tr>

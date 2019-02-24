@@ -1,0 +1,308 @@
+<tr>
+    <td> <a href='https://github.com/realm/realm-cocoa'target='_blank'>realm-cocoa</a></td>
+    <td>Realm is a mobile database: a replacement for Core Data & SQLite</td>
+    <td>12932</td>
+    <td>1662</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/yapstudios/YapDatabase'target='_blank'>YapDatabase</a></td>
+    <td>YapDatabase is an extensible database for iOS & Mac.</td>
+    <td>3188</td>
+    <td>350</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ccgus/fmdb'target='_blank'>fmdb</a></td>
+    <td>A Cocoa / Objective-C wrapper around SQLite</td>
+    <td>12888</td>
+    <td>2765</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/marcoarment/FCModel'target='_blank'>FCModel</a></td>
+    <td>An alternative to Core Data for people who like having direct SQL access.</td>
+    <td>1649</td>
+    <td>176</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ArtSabintsev/Zephyr'target='_blank'>Zephyr</a></td>
+    <td>Effortlessly synchronize UserDefaults over iCloud.</td>
+    <td>526</td>
+    <td>39</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/phimage/Prephirences'target='_blank'>Prephirences</a></td>
+    <td>Prephirences is a Swift library that provides useful protocols and convenience methods to manage application preferences, configurations and app-state. UserDefaults</td>
+    <td>474</td>
+    <td>27</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/SwiftKitz/Storez'target='_blank'>Storez</a></td>
+    <td>💾 Safe, statically-typed, store-agnostic key-value storage written in Swift!</td>
+    <td>56</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/radex/SwiftyUserDefaults'target='_blank'>SwiftyUserDefaults</a></td>
+    <td>Modern Swift API for NSUserDefaults</td>
+    <td>3628</td>
+    <td>241</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/modo-studio/SugarRecord'target='_blank'>SugarRecord</a></td>
+    <td>CoreData/Realm sweet wrapper written in Swift</td>
+    <td>2065</td>
+    <td>212</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/stephencelis/SQLite.swift'target='_blank'>SQLite.swift</a></td>
+    <td>A type-safe, Swift-language layer over SQLite3.</td>
+    <td>5840</td>
+    <td>986</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/groue/GRDB.swift'target='_blank'>GRDB.swift</a></td>
+    <td>A toolkit for SQLite databases, with a focus on application development</td>
+    <td>1742</td>
+    <td>158</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/vapor/fluent'target='_blank'>fluent</a></td>
+    <td>🖋 Swift ORM framework (queries, models, and relations) for building NoSQL and SQL database integrations.</td>
+    <td>913</td>
+    <td>126</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/relatedcode/ParseAlternatives'target='_blank'>ParseAlternatives</a></td>
+    <td>A collaborative list of Parse alternative backend service providers.</td>
+    <td>2699</td>
+    <td>293</td>
+    <td>None</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/tasanobu/TypedDefaults'target='_blank'>TypedDefaults</a></td>
+    <td>TypedDefaults is a utility library to type-safely use NSUserDefaults.</td>
+    <td>110</td>
+    <td>3</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/realm/realm-cocoa-converter'target='_blank'>realm-cocoa-converter</a></td>
+    <td>A library that provides the ability to import/export Realm files from a variety of data container formats.</td>
+    <td>172</td>
+    <td>24</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/danthorpe/YapDatabaseExtensions'target='_blank'>YapDatabaseExtensions</a></td>
+    <td>YapDatabase extensions for use with Swift</td>
+    <td>87</td>
+    <td>19</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mhergon/RealmGeoQueries'target='_blank'>RealmGeoQueries</a></td>
+    <td>Realm GeoQueries made easy</td>
+    <td>126</td>
+    <td>22</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Danappelxx/SwiftMongoDB'target='_blank'>SwiftMongoDB</a></td>
+    <td>A MongoDB interface for Swift [Not under active development]</td>
+    <td>272</td>
+    <td>29</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/iabudiab/ObjectiveRocks'target='_blank'>ObjectiveRocks</a></td>
+    <td>An Objective-C wrapper for RocksDB - A Persistent Key-Value Store for Flash and RAM Storage.</td>
+    <td>46</td>
+    <td>14</td>
+    <td>Objective-C++</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/oleghnidets/OHMySQL'target='_blank'>OHMySQL</a></td>
+    <td> Easy direct access to your database 🎯  http://oleghnidets.github.io/OHMySQL/</td>
+    <td>108</td>
+    <td>23</td>
+    <td>C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/hemantasapkota/SwiftStore'target='_blank'>SwiftStore</a></td>
+    <td>Key-Value store for Swift backed by LevelDB</td>
+    <td>87</td>
+    <td>21</td>
+    <td>C++</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/muukii/OneStore'target='_blank'>OneStore</a></td>
+    <td>📕A single value proxy for NSUserDefaults, with clean API.</td>
+    <td>24</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/PerfectlySoft/Perfect-MongoDB'target='_blank'>Perfect-MongoDB</a></td>
+    <td>A stand-alone Swift wrapper around the mongo-c client library, enabling access to MongoDB servers.</td>
+    <td>49</td>
+    <td>20</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/PerfectlySoft/Perfect-MySQL'target='_blank'>Perfect-MySQL</a></td>
+    <td>A stand-alone Swift wrapper around the MySQL client library, enabling access to MySQL servers.</td>
+    <td>89</td>
+    <td>47</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/PerfectlySoft/Perfect-Redis'target='_blank'>Perfect-Redis</a></td>
+    <td>A Swift client for Redis.</td>
+    <td>23</td>
+    <td>10</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/PerfectlySoft/Perfect-PostgreSQL'target='_blank'>Perfect-PostgreSQL</a></td>
+    <td>A stand-alone Swift wrapper around the libpq client library, enabling access to PostgreSQL servers.</td>
+    <td>43</td>
+    <td>16</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/PerfectlySoft/Perfect-FileMaker'target='_blank'>Perfect-FileMaker</a></td>
+    <td>A stand-alone Swift wrapper around the FileMaker XML Web publishing interface, enabling access to FileMaker servers.</td>
+    <td>27</td>
+    <td>6</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/SD10/Nora'target='_blank'>Nora</a></td>
+    <td>Nora is a Firebase abstraction layer for FirebaseDatabase and FirebaseStorage</td>
+    <td>255</td>
+    <td>22</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/IvanRublev/PersistentStorageSerializable'target='_blank'>PersistentStorageSerializable</a></td>
+    <td>Swift library that makes easier to serialize the user's preferences (app's settings) with system User Defaults or Property List file on disk.</td>
+    <td>164</td>
+    <td>5</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Tencent/wcdb'target='_blank'>wcdb</a></td>
+    <td>WCDB is a cross-platform database framework developed by WeChat.</td>
+    <td>6959</td>
+    <td>936</td>
+    <td>C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/StorageKit/StorageKit'target='_blank'>StorageKit</a></td>
+    <td>Your Data Storage Troubleshooter 🛠</td>
+    <td>200</td>
+    <td>9</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/nmdias/DefaultsKit'target='_blank'>DefaultsKit</a></td>
+    <td>Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS</td>
+    <td>1168</td>
+    <td>58</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Nirma/Default'target='_blank'>Default</a></td>
+    <td>Modern interface to UserDefaults + Codable support</td>
+    <td>404</td>
+    <td>17</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/caiyue1993/IceCream'target='_blank'>IceCream</a></td>
+    <td>Sync Realm Database with CloudKit</td>
+    <td>1095</td>
+    <td>91</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/quanvo87/FirebaseHelper'target='_blank'>FirebaseHelper</a></td>
+    <td>Safe and easy wrappers for common Firebase Realtime Database functions.</td>
+    <td>9</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/dreymonde/Shallows'target='_blank'>Shallows</a></td>
+    <td>🛶 Your lightweight persistence toolbox</td>
+    <td>576</td>
+    <td>11</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/iAmrSalman/StorageManager'target='_blank'>StorageManager</a></td>
+    <td>Safe and easy way to use FileManager as Database</td>
+    <td>28</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/k-lpmg/RealmWrapper'target='_blank'>RealmWrapper</a></td>
+    <td>Safe and easy wrappers for RealmSwift.</td>
+    <td>14</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/omaralbeik/UserDefaultsStore'target='_blank'>UserDefaultsStore</a></td>
+    <td>Why not use UserDefaults to store Codable objects 😉</td>
+    <td>313</td>
+    <td>12</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/metasmile/PropertyKit'target='_blank'>PropertyKit</a></td>
+    <td>A protocol-centric, type and queue safe key-value workflow.</td>
+    <td>12</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Teknasyon-Teknoloji/PersistenceKit'target='_blank'>PersistenceKit</a></td>
+    <td>Store and retrieve Codable objects to various persistence layers, in a couple lines of code!</td>
+    <td>89</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ssamadgh/ModelAssistant'target='_blank'>ModelAssistant</a></td>
+    <td>Elegant library to manage the interactions between view and model in Swift</td>
+    <td>17</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Tencent/MMKV'target='_blank'>MMKV</a></td>
+    <td>An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS, Android, macOS and Windows.</td>
+    <td>6449</td>
+    <td>612</td>
+    <td>C++</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/sindresorhus/Defaults'target='_blank'>Defaults</a></td>
+    <td>Swifty and modern UserDefaults</td>
+    <td>304</td>
+    <td>14</td>
+    <td>Swift</td>
+</tr>

@@ -1,0 +1,98 @@
+<tr>
+    <td> <a href='https://github.com/MHaroonBaig/MotionKit'target='_blank'>MotionKit</a></td>
+    <td>Get the data from Accelerometer, Gyroscope and Magnetometer in only Two or a few lines of code. CoreMotion now made insanely simple  <img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>    <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4e1.png?v8'>     </td>
+    <td>1017</td>
+    <td>135</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/jensmeder/DarkLightning'target='_blank'>DarkLightning</a></td>
+    <td>Simply the fastest way to transmit data between iOS/tvOS and OSX</td>
+    <td>227</td>
+    <td>15</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/andrealufino/Deviice'target='_blank'>Deviice</a></td>
+    <td>Swift library to check the device on which the app is running</td>
+    <td>27</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/dennisweissmann/DeviceKit'target='_blank'>DeviceKit</a></td>
+    <td>DeviceKit is a value-type replacement of UIDevice.</td>
+    <td>2507</td>
+    <td>236</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/andrealufino/Luminous'target='_blank'>Luminous</a></td>
+    <td>Luminous gives you all the system information you need!</td>
+    <td>250</td>
+    <td>29</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Ekhoo/Device'target='_blank'>Device</a></td>
+    <td>Light weight tool for detecting the current device and screen size written in swift.</td>
+    <td>1204</td>
+    <td>105</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ezefranca/WatchShaker'target='_blank'>WatchShaker</a></td>
+    <td>Simple motion detector for ⌚️ (watchOS) shake gesture.</td>
+    <td>169</td>
+    <td>12</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/abdullahselek/WatchCon'target='_blank'>WatchCon</a></td>
+    <td>WatchCon is a tool which enables creating easy connectivity between iOS and WatchOS.</td>
+    <td>27</td>
+    <td>2</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/WorldDownTown/TapticEngine'target='_blank'>TapticEngine</a></td>
+    <td>TapticEngine generates haptic feedback vibrations on iOS device.</td>
+    <td>218</td>
+    <td>17</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Nirma/UIDeviceComplete'target='_blank'>UIDeviceComplete</a></td>
+    <td>UIDevice extensions that fill in the missing pieces.</td>
+    <td>264</td>
+    <td>19</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/jvk75/NFCNDEFParse'target='_blank'>NFCNDEFParse</a></td>
+    <td>NFC Forum Well Known Type Data Parser for iOS11 and Core NFC</td>
+    <td>10</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/schickling/Device.swift'target='_blank'>Device.swift</a></td>
+    <td>Super-lightweight library to detect used device</td>
+    <td>182</td>
+    <td>54</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/sebyddd/SDVersion'target='_blank'>SDVersion</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png?v8'>  Lightweight Cocoa library for detecting the running device's model and screen size.</td>
+    <td>1327</td>
+    <td>197</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/iSapozhnik/Haptico'target='_blank'>Haptico</a></td>
+    <td>Haptico 📳 - easy to use haptic feedback generator with pattern-play support</td>
+    <td>238</td>
+    <td>10</td>
+    <td>Swift</td>
+</tr>

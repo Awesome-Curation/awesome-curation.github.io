@@ -1,0 +1,35 @@
+<tr>
+    <td> <a href='https://github.com/gemr/GTrack'target='_blank'>GTrack</a></td>
+    <td>GTrack is a lightweight Objective-C wrapper around the Google Analytics for iOS SDK with some extra goodies.</td>
+    <td>85</td>
+    <td>5</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/orta/ARAnalytics'target='_blank'>ARAnalytics</a></td>
+    <td>Simplify your iOS/Mac analytics</td>
+    <td>1784</td>
+    <td>210</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/segmentio/analytics-ios'target='_blank'>analytics-ios</a></td>
+    <td>The hassle-free way to integrate analytics into any iOS application. </td>
+    <td>290</td>
+    <td>206</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/abbiio/iosdk'target='_blank'>iosdk</a></td>
+    <td>Abbi iOS SDK</td>
+    <td>2</td>
+    <td>1</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/matomo-org/matomo-sdk-ios'target='_blank'>matomo-sdk-ios</a></td>
+    <td>Matomo iOS, tvOS and macOS SDK: a Matomo tracker written in Swift</td>
+    <td>251</td>
+    <td>111</td>
+    <td>Swift</td>
+</tr>

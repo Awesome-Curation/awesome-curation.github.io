@@ -1,0 +1,63 @@
+<tr>
+    <td> <a href='https://github.com/fastlane/fastlane'target='_blank'>fastlane</a></td>
+    <td>🚀 The easiest way to automate building and releasing your iOS and Android apps</td>
+    <td>24643</td>
+    <td>3744</td>
+    <td>Ruby</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/fastlane/fastlane/tree/master/deliver'target='_blank'>fastlane</a></td>
+    <td>🚀 The easiest way to automate building and releasing your iOS and Android apps</td>
+    <td>24643</td>
+    <td>3744</td>
+    <td>Ruby</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/fastlane/fastlane/tree/master/snapshot'target='_blank'>fastlane</a></td>
+    <td>🚀 The easiest way to automate building and releasing your iOS and Android apps</td>
+    <td>24643</td>
+    <td>3744</td>
+    <td>Ruby</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/fastlane/watchbuild'target='_blank'>watchbuild</a></td>
+    <td>Get a notification once your iTunes Connect build is finished processing</td>
+    <td>154</td>
+    <td>7</td>
+    <td>Ruby</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/fastlane/boarding'target='_blank'>boarding</a></td>
+    <td>Instantly create a simple signup page for TestFlight beta testers</td>
+    <td>777</td>
+    <td>192</td>
+    <td>Ruby</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/bitstadium/HockeyKit'target='_blank'>HockeyKit</a></td>
+    <td>A software update kit for iOS and Android. Provided as is. For more functionality and maintained work, check out @hockeyapp</td>
+    <td>2196</td>
+    <td>458</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/LaunchKit/LaunchKit'target='_blank'>LaunchKit</a></td>
+    <td>A set of web-based tools for mobile app developers, now open source!</td>
+    <td>2020</td>
+    <td>256</td>
+    <td>JavaScript</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/electricbolt/appfiguratesdk'target='_blank'>appfiguratesdk</a></td>
+    <td>Appfigurate SDK - secure runtime configuration for iOS and watchOS, apps and app extensions</td>
+    <td>7</td>
+    <td>0</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/IdeasOnCanvas/ScreenshotFramer'target='_blank'>ScreenshotFramer</a></td>
+    <td>Create localized App Store screenshots</td>
+    <td>564</td>
+    <td>26</td>
+    <td>Swift</td>
+</tr>

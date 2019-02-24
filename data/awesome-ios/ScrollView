@@ -1,0 +1,56 @@
+<tr>
+    <td> <a href='https://github.com/ktanaka117/ScrollingFollowView'target='_blank'>ScrollingFollowView</a></td>
+    <td>ScrollingFollowView is a simple view which follows UIScrollView scrolling.</td>
+    <td>164</td>
+    <td>17</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/pronebird/UIScrollView-InfiniteScroll'target='_blank'>UIScrollView-InfiniteScroll</a></td>
+    <td>UIScrollView ∞ scroll category</td>
+    <td>884</td>
+    <td>124</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/zjmdp/GoAutoSlideView'target='_blank'>GoAutoSlideView</a></td>
+    <td>GoAutoSlideView extends UIScrollView by featuring infinitely and automatically slide.</td>
+    <td>54</td>
+    <td>9</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView'target='_blank'>AppStoreStyleHorizontalScrollView</a></td>
+    <td>App store style horizontal scroll view</td>
+    <td>635</td>
+    <td>74</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/sgr-ksmt/PullToDismiss'target='_blank'>PullToDismiss</a></td>
+    <td>You can dismiss modal viewcontroller like Facebook Messenger by pulling scrollview or navigationbar in Swift.</td>
+    <td>338</td>
+    <td>40</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kishikawakatsumi/SpreadsheetView'target='_blank'>SpreadsheetView</a></td>
+    <td>Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.</td>
+    <td>2784</td>
+    <td>249</td>
+    <td>HTML</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/huri000/CrownControl'target='_blank'>CrownControl</a></td>
+    <td>CrownControl is a tiny accessory that makes scrolling through scrollable content possible without lifting your thumb.</td>
+    <td>34</td>
+    <td>5</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Jiar/SegementSlide'target='_blank'>SegementSlide</a></td>
+    <td>Multi-tier UIScrollView nested scrolling solution. 😋😋😋</td>
+    <td>417</td>
+    <td>18</td>
+    <td>Swift</td>
+</tr>

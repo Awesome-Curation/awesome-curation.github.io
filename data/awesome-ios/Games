@@ -1,0 +1,35 @@
+<tr>
+    <td> <a href='https://github.com/nvzqz/Sage'target='_blank'>Sage</a></td>
+    <td>A cross-platform chess library for Swift</td>
+    <td>351</td>
+    <td>35</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/codelynx/ShogibanKit'target='_blank'>ShogibanKit</a></td>
+    <td>ShogibanKit is a framework (not yet) for implementing complex Japanese Chess (Shogii) in Swift. No UI, nor AI.</td>
+    <td>51</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mfessenden/SKTiled'target='_blank'>SKTiled</a></td>
+    <td>Swift framework for working with Tiled assets in SpriteKit</td>
+    <td>146</td>
+    <td>14</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/bwide/CollectionNode'target='_blank'>CollectionNode</a></td>
+    <td>a collectionView made for Sprite Kit</td>
+    <td>75</td>
+    <td>7</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/eugenebokhan/AssetImportKit'target='_blank'>AssetImportKit</a></td>
+    <td>Swift framework for loading various 3d models in SceneKit</td>
+    <td>5</td>
+    <td>0</td>
+    <td>C++</td>
+</tr>

@@ -1,0 +1,77 @@
+<tr>
+    <td> <a href='https://github.com/alsedi/AnimatedSwitch'target='_blank'>AnimatedSwitch</a></td>
+    <td>UISwitch which paints over the parent view with the color in Swift.</td>
+    <td>214</td>
+    <td>20</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/andreamazz/ViralSwitch'target='_blank'>ViralSwitch</a></td>
+    <td>A UISwitch that infects its superview with its tint color. </td>
+    <td>334</td>
+    <td>25</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/JunichiT/JTMaterialSwitch'target='_blank'>JTMaterialSwitch</a></td>
+    <td>A Customizable Switch UI for iOS, Inspired from Google's Material Design</td>
+    <td>289</td>
+    <td>46</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/TBXark/TKSwitcherCollection'target='_blank'>TKSwitcherCollection</a></td>
+    <td>An animation switch collection</td>
+    <td>644</td>
+    <td>63</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/bvogelzang/SevenSwitch'target='_blank'>SevenSwitch</a></td>
+    <td>iOS7 style drop in replacement for UISwitch</td>
+    <td>771</td>
+    <td>199</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/gontovnik/DGRunkeeperSwitch'target='_blank'>DGRunkeeperSwitch</a></td>
+    <td>Runkeeper design switch control</td>
+    <td>1865</td>
+    <td>161</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kovpas/PMZSwitch'target='_blank'>PMZSwitch</a></td>
+    <td>Yet another animated toggle</td>
+    <td>74</td>
+    <td>10</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/knn90/Switcher'target='_blank'>Switcher</a></td>
+    <td>Swift - Custom UISwitcher with animation when change status</td>
+    <td>198</td>
+    <td>20</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Ramotion/paper-switch'target='_blank'>paper-switch</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  🎚 RAMPaperSwitch is a Swift material design UI module which paints over the parent view when the switch is turned on. iOS library by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries</td>
+    <td>2647</td>
+    <td>224</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/cocoatoucher/AIFlatSwitch'target='_blank'>AIFlatSwitch</a></td>
+    <td>Nicely animated flat design switch alternative to UISwitch</td>
+    <td>752</td>
+    <td>50</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/T-Pham/Switch'target='_blank'>Switch</a></td>
+    <td>💊 An iOS switch control implemented in Swift with full Interface Builder support</td>
+    <td>103</td>
+    <td>16</td>
+    <td>Swift</td>
+</tr>

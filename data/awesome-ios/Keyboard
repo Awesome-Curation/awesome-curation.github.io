@@ -1,0 +1,105 @@
+<tr>
+    <td> <a href='https://github.com/ruslanskorb/RSKKeyboardAnimationObserver'target='_blank'>RSKKeyboardAnimationObserver</a></td>
+    <td>Showing / dismissing keyboard animation in simple UIViewController category.</td>
+    <td>41</td>
+    <td>5</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ruddfawcett/RFKeyboardToolbar'target='_blank'>RFKeyboardToolbar</a></td>
+    <td>[iOS] Add customized buttons and toolbars to your UITextInputs.</td>
+    <td>418</td>
+    <td>42</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/hackiftekhar/IQKeyboardManager'target='_blank'>IQKeyboardManager</a></td>
+    <td>Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.</td>
+    <td>12726</td>
+    <td>2023</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/meiwin/NgKeyboardTracker'target='_blank'>NgKeyboardTracker</a></td>
+    <td>Objective-C library for tracking keyboard in iOS apps.</td>
+    <td>803</td>
+    <td>83</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/matmartinez/MMNumberKeyboard'target='_blank'>MMNumberKeyboard</a></td>
+    <td>A simple keyboard to use with numbers and, optionally, a decimal point.</td>
+    <td>930</td>
+    <td>100</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/morizotter/KeyboardObserver'target='_blank'>KeyboardObserver</a></td>
+    <td>For less complicated keyboard event handling.</td>
+    <td>141</td>
+    <td>18</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/michaeltyson/TPKeyboardAvoiding'target='_blank'>TPKeyboardAvoiding</a></td>
+    <td>A drop-in universal solution for moving text fields out of the way of the keyboard in iOS</td>
+    <td>5664</td>
+    <td>936</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ibireme/YYKeyboardManager'target='_blank'>YYKeyboardManager</a></td>
+    <td>iOS utility class allows you to access keyboard view and track keyboard animation.</td>
+    <td>446</td>
+    <td>71</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/nixzhu/KeyboardMan'target='_blank'>KeyboardMan</a></td>
+    <td>KeyboardMan helps you to make keyboard animation.</td>
+    <td>346</td>
+    <td>27</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/makemoji/MakemojiSDK'target='_blank'>MakemojiSDK</a></td>
+    <td>Emoji Keyboard SDK (iOS)</td>
+    <td>95</td>
+    <td>43</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/totocaster/Typist'target='_blank'>Typist</a></td>
+    <td>Swift UIKit keyboard manager for iOS apps.</td>
+    <td>913</td>
+    <td>44</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/bonyadmitr/KeyboardHideManager'target='_blank'>KeyboardHideManager</a></td>
+    <td>Codeless manager to hide keyboard by tapping on views for iOS written in Swift</td>
+    <td>54</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/1amageek/Toolbar'target='_blank'>Toolbar</a></td>
+    <td>Awesome autolayout Toolbar. Toolbar is a library for iOS. You can easily create chat InputBar.</td>
+    <td>426</td>
+    <td>32</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/IdleHandsApps/IHKeyboardAvoiding'target='_blank'>IHKeyboardAvoiding</a></td>
+    <td>IHKeyboardAvoiding is an elegant solution for keeping any UIView visible when the keyboard is being shown - no UIScrollView required!</td>
+    <td>1293</td>
+    <td>124</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/efremidze/NumPad'target='_blank'>NumPad</a></td>
+    <td>Number Pad (inspired by Square)</td>
+    <td>60</td>
+    <td>14</td>
+    <td>Swift</td>
+</tr>

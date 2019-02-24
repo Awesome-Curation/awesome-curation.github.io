@@ -1,0 +1,406 @@
+<tr>
+    <td> <a href='https://github.com/evnaz/ENSwiftSideMenu'target='_blank'>ENSwiftSideMenu</a></td>
+    <td>A simple side menu for iOS written in Swift. </td>
+    <td>1726</td>
+    <td>284</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/romaonthego/RESideMenu'target='_blank'>RESideMenu</a></td>
+    <td>iOS 7/8 style side menu with parallax effect.</td>
+    <td>7229</td>
+    <td>1426</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/SSA111/SSASideMenu'target='_blank'>SSASideMenu</a></td>
+    <td>A Swift implementation of RESideMenu</td>
+    <td>606</td>
+    <td>100</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kitasuke/PagingMenuController'target='_blank'>PagingMenuController</a></td>
+    <td>Paging view controller with customizable menu in Swift</td>
+    <td>2372</td>
+    <td>397</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/bradjasper/radialmenu'target='_blank'>RadialMenu</a></td>
+    <td>RadialMenu is a custom control for providing a touch context menu (like iMessage recording in iOS 8) built with Swift & POP</td>
+    <td>288</td>
+    <td>29</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/arn00s/cariocamenu'target='_blank'>cariocamenu</a></td>
+    <td>The fastest zero-tap iOS menu.</td>
+    <td>696</td>
+    <td>56</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/vangelov/VLDContextSheet'target='_blank'>VLDContextSheet</a></td>
+    <td>Context menu similar to the one in the Pinterest iOS app</td>
+    <td>171</td>
+    <td>35</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Yalantis/GuillotineMenu'target='_blank'>GuillotineMenu</a></td>
+    <td>Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.</td>
+    <td>2718</td>
+    <td>267</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/pixyzehn/MediumMenu'target='_blank'>MediumMenu</a></td>
+    <td>A menu based on Medium iOS app.</td>
+    <td>318</td>
+    <td>43</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/hossamghareeb/SwiftySideMenu'target='_blank'>SwiftySideMenu</a></td>
+    <td>SwiftySideMenu is a lightweight and easy to use side menu controller to add left menu and center view controllers with scale animation based on Pop framework.</td>
+    <td>84</td>
+    <td>14</td>
+    <td>Objective-C++</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/lilei644/LLSlideMenu'target='_blank'>LLSlideMenu</a></td>
+    <td>This is a spring slide menu for iOS apps - 一个弹性侧滑菜单 </td>
+    <td>579</td>
+    <td>95</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/PhilippeBoisney/Swift-Slide-Menu'target='_blank'>Swift-Slide-Menu</a></td>
+    <td>A Slide Menu, written in Swift, inspired by Slide Menu Material Design</td>
+    <td>81</td>
+    <td>14</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/cxa/MenuItemKit'target='_blank'>MenuItemKit</a></td>
+    <td>UIMenuItem with image and closure(block) action</td>
+    <td>650</td>
+    <td>42</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/PhamBaTho/BTNavigationDropdownMenu'target='_blank'>BTNavigationDropdownMenu</a></td>
+    <td>The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title.</td>
+    <td>2378</td>
+    <td>376</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/AlexLittlejohn/ALRadialMenu'target='_blank'>ALRadialMenu</a></td>
+    <td>A radial/circular menu featuring spring animations.</td>
+    <td>41</td>
+    <td>16</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Azuritul/AZDropdownMenu'target='_blank'>AZDropdownMenu</a></td>
+    <td>A simple dropdown menu component for iPhone</td>
+    <td>194</td>
+    <td>50</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Ramotion/circle-menu'target='_blank'>circle-menu</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  ⭕️ CircleMenu is a simple, elegant UI menu with a circular layout and material design animations. Swift UI library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries</td>
+    <td>2924</td>
+    <td>341</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/dekatotoro/SlideMenuControllerSwift'target='_blank'>SlideMenuControllerSwift</a></td>
+    <td>iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app.  It is written in pure swift.</td>
+    <td>3180</td>
+    <td>628</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/jonkykong/SideMenu'target='_blank'>SideMenu</a></td>
+    <td>Simple side/slide menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes or less.</td>
+    <td>3406</td>
+    <td>432</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/cemolcay/CategorySliderView'target='_blank'>CategorySliderView</a></td>
+    <td>slider view for choosing categories. add any UIView type as category item view. Fully customisable</td>
+    <td>364</td>
+    <td>38</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/maxkonovalov/MKDropdownMenu'target='_blank'>MKDropdownMenu</a></td>
+    <td>🔻 Dropdown Menu for iOS with many customizable parameters to suit any needs</td>
+    <td>464</td>
+    <td>75</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/monoqlo/ExpandingMenu'target='_blank'>ExpandingMenu</a></td>
+    <td>ExpandingMenu is menu button for iOS written in Swift.</td>
+    <td>366</td>
+    <td>75</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/PageMenu/PageMenu'target='_blank'>PageMenu</a></td>
+    <td>A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram)</td>
+    <td>4909</td>
+    <td>850</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/zsy78191/XXXRoundMenuButton'target='_blank'>XXXRoundMenuButton</a></td>
+    <td>A simple circle style menu.</td>
+    <td>339</td>
+    <td>65</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/sunilsharma08/IGCMenu'target='_blank'>IGCMenu</a></td>
+    <td>Grid and Circular Menu for iOS.</td>
+    <td>117</td>
+    <td>21</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/eejahromi/EEJSelectMenu'target='_blank'>EEJSelectMenu</a></td>
+    <td>Single selection menu with cool animations</td>
+    <td>21</td>
+    <td>7</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/bestwnh/IGLDropDownMenu'target='_blank'>IGLDropDownMenu</a></td>
+    <td>An iOS drop down menu with pretty animation and easy to customize.</td>
+    <td>1192</td>
+    <td>165</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Yalantis/Side-Menu.iOS'target='_blank'>Side-Menu.iOS</a></td>
+    <td>Animated side menu with customizable UI</td>
+    <td>2648</td>
+    <td>349</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/xhzengAIB/PopMenu'target='_blank'>PopMenu</a></td>
+    <td>PopMenu is pop animation menu inspired by Sina weibo / NetEase app.</td>
+    <td>872</td>
+    <td>213</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/yannickl/FlowingMenu'target='_blank'>FlowingMenu</a></td>
+    <td>Interactive view transition to display menus with flowing and bouncing effects in Swift</td>
+    <td>847</td>
+    <td>113</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Yalantis/Persei'target='_blank'>Persei</a></td>
+    <td>Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift</td>
+    <td>3130</td>
+    <td>319</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/AssistoLab/DropDown'target='_blank'>DropDown</a></td>
+    <td>A Material Design drop down for iOS</td>
+    <td>1470</td>
+    <td>308</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/KittenYang/KYGooeyMenu'target='_blank'>KYGooeyMenu</a></td>
+    <td>A not bad gooey effects menu.</td>
+    <td>1868</td>
+    <td>269</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/teodorpatras/SideMenuController'target='_blank'>SideMenuController</a></td>
+    <td>A side menu controller written in Swift for iOS</td>
+    <td>1059</td>
+    <td>248</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Yalantis/Context-Menu.iOS'target='_blank'>Context-Menu.iOS</a></td>
+    <td>You can easily add awesome animated context menu to your app.</td>
+    <td>1875</td>
+    <td>268</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ViewDeck/ViewDeck'target='_blank'>ViewDeck</a></td>
+    <td>An implementation of the sliding menu found in various iOS apps.</td>
+    <td>5335</td>
+    <td>1016</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/edekhayser/FrostedSidebar'target='_blank'>FrostedSidebar</a></td>
+    <td>Hamburger Menu using Swift and iOS 8 API's</td>
+    <td>438</td>
+    <td>60</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Nightonke/VHBoomMenuButton'target='_blank'>VHBoomMenuButton</a></td>
+    <td>A menu which can ... BOOM! - iOS</td>
+    <td>523</td>
+    <td>109</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/qmathe/DropDownMenuKit'target='_blank'>DropDownMenuKit</a></td>
+    <td>UIKit drop down menu, simple yet flexible and written in Swift</td>
+    <td>199</td>
+    <td>28</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/anatoliyv/RevealMenuController'target='_blank'>RevealMenuController</a></td>
+    <td>Menu controller with expandable item groups, custom position and appearance animation written with Swift. Similar to ActionSheet style of UIAlertController.</td>
+    <td>15</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/robertherdzik/RHSideButtons'target='_blank'>RHSideButtons</a></td>
+    <td>Library provides easy to implement variation of Android (Material Design) Floating Action Button for iOS. You can use it as your app small side menu. 🌶</td>
+    <td>105</td>
+    <td>16</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Sufi-Al-Hussaini/Swift-CircleMenu'target='_blank'>Swift-CircleMenu</a></td>
+    <td>Rotating circle menu written in Swift 3</td>
+    <td>118</td>
+    <td>14</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/dogo/AKSideMenu'target='_blank'>AKSideMenu</a></td>
+    <td>Beautiful iOS side menu library with parallax effect. Written in Swift</td>
+    <td>158</td>
+    <td>33</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/handsomecode/InteractiveSideMenu'target='_blank'>InteractiveSideMenu</a></td>
+    <td>iOS Interactive Side Menu written in Swift.</td>
+    <td>559</td>
+    <td>108</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/younatics/YNDropDownMenu'target='_blank'>YNDropDownMenu</a></td>
+    <td>✨ Awesome Dropdown menu for iOS with Swift 4.2</td>
+    <td>1088</td>
+    <td>103</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Kawoou/KWDrawerController'target='_blank'>KWDrawerController</a></td>
+    <td>Drawer view controller that easy to use! </td>
+    <td>118</td>
+    <td>25</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/javalnanda/JNDropDownMenu'target='_blank'>JNDropDownMenu</a></td>
+    <td>Swift version of https://github.com/dopcn/DOPDropDownMenu</td>
+    <td>57</td>
+    <td>7</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/exyte/fan-menu'target='_blank'>fan-menu</a></td>
+    <td>Menu with a circular layout based on Macaw</td>
+    <td>395</td>
+    <td>39</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/uptechteam/AirBar'target='_blank'>AirBar</a></td>
+    <td>iOS library - UIScrollView driven expandable menu. </td>
+    <td>369</td>
+    <td>34</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/fahidattique55/FAPanels'target='_blank'>FAPanels</a></td>
+    <td>FAPanels - Swift</td>
+    <td>735</td>
+    <td>80</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/yysskk/SwipeMenuViewController'target='_blank'>SwipeMenuViewController</a></td>
+    <td>Swipable tab and menu View and ViewController.</td>
+    <td>619</td>
+    <td>61</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/tungvoduc/DTPagerController'target='_blank'>DTPagerController</a></td>
+    <td>A fully customizable container view controller to display a set of ViewControllers in a horizontal scroll view. Written in Swift.</td>
+    <td>115</td>
+    <td>22</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kazuhiro4949/PagingKit'target='_blank'>PagingKit</a></td>
+    <td>PagingKit provides customizable menu UI. It has more flexible layout and design than the other libraries. </td>
+    <td>790</td>
+    <td>54</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/onmyway133/Dropdowns'target='_blank'>Dropdowns</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4a7.png?v8'>  Dropdown in Swift</td>
+    <td>196</td>
+    <td>27</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/rechsteiner/Parchment'target='_blank'>Parchment</a></td>
+    <td>A paging view controller with a highly customizable menu ✨</td>
+    <td>1321</td>
+    <td>125</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/GitHawkApp/ContextMenu'target='_blank'>ContextMenu</a></td>
+    <td>An iOS context menu UI inspired by Things 3.</td>
+    <td>767</td>
+    <td>34</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/antoniocasero/Panels'target='_blank'>Panels</a></td>
+    <td>Panels is a framework to easily add sliding panels to your application</td>
+    <td>964</td>
+    <td>43</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/AlekseyPleshkov/UIMenuScroll'target='_blank'>UIMenuScroll</a></td>
+    <td>Creating the horizontal swiping navigation how on Facebook Messenger.</td>
+    <td>2</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>

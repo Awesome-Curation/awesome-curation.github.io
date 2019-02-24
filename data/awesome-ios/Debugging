@@ -1,0 +1,112 @@
+<tr>
+    <td> <a href='https://github.com/xmartlabs/Xniffer'target='_blank'>Xniffer</a></td>
+    <td>A swift network profiler built on top of URLSession.</td>
+    <td>462</td>
+    <td>17</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kasketis/netfox'target='_blank'>netfox</a></td>
+    <td>A lightweight, one line setup, iOS / OSX network debugging library! 🦊</td>
+    <td>2596</td>
+    <td>190</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/square/PonyDebugger'target='_blank'>PonyDebugger</a></td>
+    <td>Remote network and data debugging for your native iOS app using Chrome Developer Tools</td>
+    <td>5679</td>
+    <td>591</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/dbukowski/DBDebugToolkit'target='_blank'>DBDebugToolkit</a></td>
+    <td>Set of easy to use debugging tools for iOS developers & QA engineers.</td>
+    <td>1029</td>
+    <td>59</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Flipboard/FLEX'target='_blank'>FLEX</a></td>
+    <td>An in-app debugging and exploration tool for iOS</td>
+    <td>10144</td>
+    <td>1135</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/facebook/chisel'target='_blank'>chisel</a></td>
+    <td>Chisel is a collection of LLDB commands to assist debugging iOS apps.</td>
+    <td>7374</td>
+    <td>648</td>
+    <td>Python</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Legoless/Alpha'target='_blank'>Alpha</a></td>
+    <td>Next generation debugging framework for iOS</td>
+    <td>709</td>
+    <td>41</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/tadija/AEConsole'target='_blank'>AEConsole</a></td>
+    <td>Customizable Console UI overlay with debug log on top of your iOS App</td>
+    <td>109</td>
+    <td>10</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/zixun/GodEye'target='_blank'>GodEye</a></td>
+    <td>Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes</td>
+    <td>3246</td>
+    <td>247</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/coderyi/NetworkEye'target='_blank'>NetworkEye</a></td>
+    <td>a iOS network debug library ,It can monitor HTTP requests within the App and displays information related to the request.</td>
+    <td>1185</td>
+    <td>212</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/remirobert/Dotzu'target='_blank'>Dotzu</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png?v8'> <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f440.png?v8'>  In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.</td>
+    <td>1747</td>
+    <td>136</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/willowtreeapps/Hyperion-iOS'target='_blank'>Hyperion-iOS</a></td>
+    <td>In-app design review tool to inspect measurements, attributes, and animations.</td>
+    <td>1647</td>
+    <td>57</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/MuShare/Httper-iOS'target='_blank'>Httper-iOS</a></td>
+    <td>App for developers to test REST API.</td>
+    <td>330</td>
+    <td>12</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/myriadmobile/Droar'target='_blank'>Droar</a></td>
+    <td>Droar is a modular, single-line installation debugging window</td>
+    <td>35</td>
+    <td>3</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/pmusolino/Wormholy'target='_blank'>Wormholy</a></td>
+    <td>iOS network debugging, like a wizard 🧙‍♂️</td>
+    <td>1556</td>
+    <td>60</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/isavynskyi/LayoutInspector'target='_blank'>LayoutInspector</a></td>
+    <td>Tool to debug layouts directly on iOS devices: inspect layers in 3D and debug each visible view attributes</td>
+    <td>329</td>
+    <td>11</td>
+    <td>Swift</td>
+</tr>

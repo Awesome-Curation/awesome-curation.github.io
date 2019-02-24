@@ -1,0 +1,161 @@
+<tr>
+    <td> <a href='https://github.com/cesarferreira/SwiftEventBus'target='_blank'>SwiftEventBus</a></td>
+    <td>A publish/subscribe EventBus optimized for iOS</td>
+    <td>757</td>
+    <td>68</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mxcl/PromiseKit'target='_blank'>PromiseKit</a></td>
+    <td>Promises for Swift & ObjC.</td>
+    <td>10973</td>
+    <td>1023</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/BoltsFramework/Bolts-ObjC'target='_blank'>Bolts-ObjC</a></td>
+    <td>Bolts is a collection of low-level libraries designed to make developing mobile apps easier.</td>
+    <td>5493</td>
+    <td>560</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ReactKit/SwiftTask'target='_blank'>SwiftTask</a></td>
+    <td>Promise + progress + pause + cancel + retry for Swift.</td>
+    <td>1832</td>
+    <td>162</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/vadymmarkov/When'target='_blank'>When</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/23f0.png?v8'>  A lightweight implementation of Promises in Swift</td>
+    <td>186</td>
+    <td>26</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/freshOS/then'target='_blank'>then</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f3ac.png?v8'>  Promises Library for Swift with Async/Await</td>
+    <td>752</td>
+    <td>45</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/BoltsFramework/Bolts-Swift'target='_blank'>Bolts-Swift</a></td>
+    <td>Bolts is a collection of low-level libraries designed to make developing mobile apps easier.</td>
+    <td>1187</td>
+    <td>106</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/deput/RWPromiseKit'target='_blank'>RWPromiseKit</a></td>
+    <td>A light-weighted Promise library for Objective-C</td>
+    <td>109</td>
+    <td>8</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/couchdeveloper/FutureLib'target='_blank'>FutureLib</a></td>
+    <td>FutureLib is a pure Swift 2 library implementing Futures & Promises inspired by Scala.</td>
+    <td>37</td>
+    <td>6</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/100mango/SwiftNotificationCenter'target='_blank'>SwiftNotificationCenter</a></td>
+    <td>A Protocol-Oriented NotificationCenter which is type safe, thread safe and with memory safety</td>
+    <td>554</td>
+    <td>37</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/FutureKit/FutureKit'target='_blank'>FutureKit</a></td>
+    <td>A Swift based Future/Promises Library for IOS and OS X.</td>
+    <td>736</td>
+    <td>61</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/uber/signals-ios'target='_blank'>signals-ios</a></td>
+    <td>Typeful eventing</td>
+    <td>516</td>
+    <td>54</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Thomvis/BrightFutures'target='_blank'>BrightFutures</a></td>
+    <td>Write great asynchronous code in Swift using futures and promises</td>
+    <td>1745</td>
+    <td>168</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/marty-suzuki/NoticeObserveKit'target='_blank'>NoticeObserveKit</a></td>
+    <td>NoticeObserveKit is type-safe NotificationCenter wrapper.</td>
+    <td>130</td>
+    <td>6</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/malcommac/Hydra'target='_blank'>Hydra</a></td>
+    <td>Lightweight full-featured Promises, Async & Await Library in Swift</td>
+    <td>1667</td>
+    <td>78</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/albertodebortoli/Promis'target='_blank'>Promis</a></td>
+    <td>The easiest Future and Promises framework in Swift. No magic. No boilerplate.</td>
+    <td>85</td>
+    <td>8</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/AndrewBarba/Bluebird.swift'target='_blank'>Bluebird.swift</a></td>
+    <td>Promise/A+, Bluebird inspired, implementation in Swift 4.2</td>
+    <td>34</td>
+    <td>0</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/khanlou/Promise'target='_blank'>Promise</a></td>
+    <td>A Promise library for Swift, based partially on Javascript's A+ spec</td>
+    <td>521</td>
+    <td>50</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/google/promises'target='_blank'>promises</a></td>
+    <td>Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.</td>
+    <td>2483</td>
+    <td>129</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/marty-suzuki/Continuum'target='_blank'>Continuum</a></td>
+    <td>NotificationCenter based Lightweight UI / AnyObject binder.</td>
+    <td>86</td>
+    <td>5</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/formbound/Futures'target='_blank'>Futures</a></td>
+    <td>Lightweight promises for iOS, macOS, tvOS, watchOS, and server-side Swift</td>
+    <td>52</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/DimaMishchenko/EasyFutures'target='_blank'>EasyFutures</a></td>
+    <td>Easy Swift Futures & Promises.</td>
+    <td>37</td>
+    <td>3</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mcmatan/topicEventBus'target='_blank'>TopicEventBus</a></td>
+    <td>Publish–subscribe design pattern implementation framework, with an ability to publish events by topic.</td>
+    <td>51</td>
+    <td>3</td>
+    <td>Swift</td>
+</tr>

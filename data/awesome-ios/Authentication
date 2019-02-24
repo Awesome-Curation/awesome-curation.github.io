@@ -1,0 +1,112 @@
+<tr>
+    <td> <a href='https://github.com/trivago/Heimdallr.swift'target='_blank'>Heimdallr.swift</a></td>
+    <td>Easy to use OAuth 2 library for iOS, written in Swift.</td>
+    <td>531</td>
+    <td>67</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/hyperoslo/OhMyAuth'target='_blank'>OhMyAuth</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f510.png?v8'>  Simple OAuth2 library with a support of multiple services.</td>
+    <td>60</td>
+    <td>8</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/raulriera/AuthenticationViewController'target='_blank'>AuthenticationViewController</a></td>
+    <td>A simple to use, standard interface for authenticating to oauth 2.0 protected endpoints via SFSafariViewController.</td>
+    <td>245</td>
+    <td>11</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/p2/OAuth2'target='_blank'>OAuth2</a></td>
+    <td>OAuth2 framework for macOS and iOS, written in Swift.</td>
+    <td>802</td>
+    <td>188</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/OAuthSwift/OAuthSwift'target='_blank'>OAuthSwift</a></td>
+    <td>Swift based OAuth library for iOS</td>
+    <td>2248</td>
+    <td>399</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/calebd/SimpleAuth'target='_blank'>SimpleAuth</a></td>
+    <td>Simple social authentication for iOS.</td>
+    <td>1161</td>
+    <td>144</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/evermeer/AlamofireOauth2'target='_blank'>AlamofireOauth2</a></td>
+    <td>A swift implementation of OAuth2</td>
+    <td>77</td>
+    <td>20</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/delba/SwiftyOAuth'target='_blank'>SwiftyOAuth</a></td>
+    <td>A simple OAuth library for iOS with a built-in set of providers</td>
+    <td>463</td>
+    <td>23</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/SimplicityMobile/Simplicity'target='_blank'>Simplicity</a></td>
+    <td>A simple way to implement Facebook and Google login in your iOS apps.</td>
+    <td>671</td>
+    <td>62</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Isuru-Nanayakkara/InstagramAuthViewController'target='_blank'>InstagramAuthViewController</a></td>
+    <td>A ViewController for Instagram authentication.</td>
+    <td>35</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/rbaumbach/InstagramSimpleOAuth'target='_blank'>InstagramSimpleOAuth</a></td>
+    <td>A quick and simple way to authenticate an Instagram user in your iPhone or iPad app. </td>
+    <td>85</td>
+    <td>18</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/rbaumbach/DropboxSimpleOAuth'target='_blank'>DropboxSimpleOAuth</a></td>
+    <td>A quick and simple way to authenticate a Dropbox user in your iPhone or iPad app.</td>
+    <td>43</td>
+    <td>6</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/rbaumbach/BoxSimpleOAuth'target='_blank'>BoxSimpleOAuth</a></td>
+    <td>A quick and simple way to authenticate a Box user in your iPhone or iPad app.</td>
+    <td>15</td>
+    <td>6</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/AnderGoig/InstagramLogin'target='_blank'>InstagramLogin</a></td>
+    <td>Simple way to authenticate Instagram accounts on iOS</td>
+    <td>44</td>
+    <td>12</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/fjcaetano/ReCaptcha'target='_blank'>ReCaptcha</a></td>
+    <td>[In]visible ReCaptcha for iOS</td>
+    <td>118</td>
+    <td>32</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/serhii-londar/LinkedInSignIn'target='_blank'>LinkedInSignIn</a></td>
+    <td>Simple view controller to log in and retrieve an access token from LinkedIn.</td>
+    <td>26</td>
+    <td>3</td>
+    <td>Swift</td>
+</tr>

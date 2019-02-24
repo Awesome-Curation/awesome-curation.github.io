@@ -1,0 +1,49 @@
+<tr>
+    <td> <a href='https://github.com/oisin/app-release-checklist/blob/master/checklist.md'target='_blank'>app-release-checklist</a></td>
+    <td>A checklist to pore over before you ship that amazing app that has taken ages to complete, but you don't want to rush out in case you commit a schoolboy error that will end up making you look dumber than you are.</td>
+    <td>777</td>
+    <td>126</td>
+    <td>None</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ArtSabintsev/Harpy'target='_blank'>Harpy</a></td>
+    <td>Notify users when a new version of your app is available and prompt them to upgrade.</td>
+    <td>2595</td>
+    <td>323</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/nicklockwood/iRate'target='_blank'>iRate</a></td>
+    <td>[DEPRECATED]</td>
+    <td>4281</td>
+    <td>753</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/arashpayan/appirater'target='_blank'>appirater</a></td>
+    <td>A utility that reminds your iPhone app's users to review the app.</td>
+    <td>4640</td>
+    <td>915</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ArtSabintsev/Siren'target='_blank'>Siren</a></td>
+    <td>Notify users when a new version of your app is available and prompt them to upgrade.</td>
+    <td>2864</td>
+    <td>267</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/aashishtamsya/Appstore-Review-Guidelines'target='_blank'>Appstore-Review-Guidelines</a></td>
+    <td>A curated list of guideline which has to be taken care before submitting your application to Appstore.</td>
+    <td>8</td>
+    <td>2</td>
+    <td>None</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/amebalabs/AppVersion'target='_blank'>AppVersion</a></td>
+    <td>Keep users on the up-to date version of your App.</td>
+    <td>4</td>
+    <td>0</td>
+    <td>Swift</td>
+</tr>

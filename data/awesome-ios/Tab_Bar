@@ -1,0 +1,182 @@
+<tr>
+    <td> <a href='https://github.com/ezescaruli/ESTabBarController'target='_blank'>ESTabBarController</a></td>
+    <td>A custom tab bar controller for iOS.</td>
+    <td>112</td>
+    <td>21</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/KittenYang/GooeyTabbar'target='_blank'>GooeyTabbar</a></td>
+    <td>A gooey effect tabbar</td>
+    <td>822</td>
+    <td>79</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Ramotion/animated-tab-bar'target='_blank'>animated-tab-bar</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries</td>
+    <td>9735</td>
+    <td>1242</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Yalantis/FoldingTabBar.iOS'target='_blank'>FoldingTabBar.iOS</a></td>
+    <td>Folding Tab Bar and Tab Bar Controller</td>
+    <td>3666</td>
+    <td>480</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Goles/GGTabBar'target='_blank'>GGTabBar</a></td>
+    <td>Another UITabBar & UITabBarController (iOS Tab Bar) replacement, but uses Auto Layout for arranging it's views hierarchy.</td>
+    <td>154</td>
+    <td>26</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Ramotion/adaptive-tab-bar'target='_blank'>adaptive-tab-bar</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  AdaptiveController is a 'Progressive Reduction' Swift UI module for adding custom states to Native or Custom iOS UI elements. Swift UI component by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries</td>
+    <td>1921</td>
+    <td>146</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/lucoceano/Pager'target='_blank'>Pager</a></td>
+    <td>Pager is the simplest and best way to implement sliding view controllers in Swift</td>
+    <td>217</td>
+    <td>42</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/xmartlabs/XLPagerTabStrip'target='_blank'>XLPagerTabStrip</a></td>
+    <td>Android PagerTabStrip for iOS.</td>
+    <td>5731</td>
+    <td>984</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/EndouMari/TabPageViewController'target='_blank'>TabPageViewController</a></td>
+    <td>Paging view controller and scroll tab view</td>
+    <td>939</td>
+    <td>156</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/winslowdibona/TabDrawer'target='_blank'>TabDrawer</a></td>
+    <td></td>
+    <td>502</td>
+    <td>35</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/fortmarek/SwipeViewController'target='_blank'>SwipeViewController</a></td>
+    <td>SwipeViewController is a Swift modification of RKSwipeBetweenViewControllers - navigate between pages / ViewControllers</td>
+    <td>538</td>
+    <td>38</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Yalantis/ColorMatchTabs'target='_blank'>ColorMatchTabs</a></td>
+    <td>This is a Review posting app that let user find interesting places near them</td>
+    <td>1151</td>
+    <td>141</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/antiguab/BATabBarController'target='_blank'>BATabBarController</a></td>
+    <td>A TabBarController with a unique animation for selection</td>
+    <td>781</td>
+    <td>115</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/aryaxt/ScrollPager'target='_blank'>ScrollPager</a></td>
+    <td>A scroll pager that displays a list of tabs (segments) and manages paging between given views</td>
+    <td>460</td>
+    <td>65</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Yalantis/Segmentio'target='_blank'>Segmentio</a></td>
+    <td>Animated top/bottom segmented control written in Swift.</td>
+    <td>1867</td>
+    <td>220</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ykyouhei/KYWheelTabController'target='_blank'>KYWheelTabController</a></td>
+    <td>KYWheelTabController is a subclass of UITabBarController.It displays the circular menu instead of UITabBar.</td>
+    <td>105</td>
+    <td>16</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/odedharth/SuperBadges'target='_blank'>SuperBadges</a></td>
+    <td>Emoji Tab Bar button badges ✨</td>
+    <td>31</td>
+    <td>7</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Minitour/AZTabBarController'target='_blank'>AZTabBarController</a></td>
+    <td>A custom tab bar controller for iOS written in Swift 4.2</td>
+    <td>185</td>
+    <td>43</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/D-32/MiniTabBar'target='_blank'>MiniTabBar</a></td>
+    <td>📱 A minimal tab bar alternative</td>
+    <td>95</td>
+    <td>21</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/marcosgriselli/SwipeableTabBarController'target='_blank'>SwipeableTabBarController</a></td>
+    <td>UITabBarController with swipe interaction between its tabs.</td>
+    <td>510</td>
+    <td>46</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/smahajan28/SMSwipeableTabView'target='_blank'>SMSwipeableTabView</a></td>
+    <td>Swipeable Views with Tabs (Like Android SwipeView With Tabs Layout)</td>
+    <td>40</td>
+    <td>12</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/uias/Tabman'target='_blank'>Tabman</a></td>
+    <td>™️ A powerful paging view controller with interactive indicator bars</td>
+    <td>1425</td>
+    <td>117</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/EzimetYusup/WormTabStrip'target='_blank'>WormTabStrip</a></td>
+    <td>🐛WormTabStrip ViewPager for iOS written in Swift, which gives continuous feedback to the user when scrolling</td>
+    <td>104</td>
+    <td>20</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/simformsolutions/SSCustomTabMenu'target='_blank'>SSCustomTabMenu</a></td>
+    <td>Customisable iOS bottom menu works like Tabbar</td>
+    <td>55</td>
+    <td>13</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/yervandsar/SmoothTab'target='_blank'>SmoothTab</a></td>
+    <td>Smooth customizable tabs for iOS apps.</td>
+    <td>47</td>
+    <td>8</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/yervandsar/ExpandedTabBar'target='_blank'>ExpandedTabBar</a></td>
+    <td>ExpandedTabBar is a very creative designed solution for "more" items in UITabBarController</td>
+    <td>52</td>
+    <td>8</td>
+    <td>Swift</td>
+</tr>

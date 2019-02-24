@@ -2,16 +2,18 @@
 # -*- coding: utf-8 -*-
 
 """
-Todo:
+TODO:
     * Exception handling
     * HTTP error code handling
     * Tests
 """
-import requests
-import json
-import re
+
+# Standard libs
 import os
+import re
 import sys
+import json
+import requests
 
 _API = 'https://api.github.com/'
 try:

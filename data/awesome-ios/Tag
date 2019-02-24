@@ -1,0 +1,70 @@
+<tr>
+    <td> <a href='https://github.com/paulrolfe/PARTagPicker'target='_blank'>PARTagPicker</a></td>
+    <td>This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.</td>
+    <td>331</td>
+    <td>49</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/andreamazz/AMTagListView'target='_blank'>AMTagListView</a></td>
+    <td>UIScrollView subclass that allows to add a list of highly customizable tags.</td>
+    <td>733</td>
+    <td>111</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/riteshhgupta/TagCellLayout'target='_blank'>TagCellLayout</a></td>
+    <td>Made in Swift - Tag layout for UICollectionView supporting 3 types of alignments - Left || Centre || Right</td>
+    <td>188</td>
+    <td>21</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/zekunyan/TTGTagCollectionView'target='_blank'>TTGTagCollectionView</a></td>
+    <td>Useful for showing text or custom view tags in a vertical or horizontal scrollable view and support Autolayout at the same time. It is highly customizable that most features of the text tag can be configured. 标签流显示控件，同时支持文字或自定义View</td>
+    <td>1039</td>
+    <td>156</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ElaWorkshop/TagListView'target='_blank'>TagListView</a></td>
+    <td>Simple and highly customizable iOS tag list view, in Swift.</td>
+    <td>1709</td>
+    <td>261</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kuler90/RKTagsView'target='_blank'>RKTagsView</a></td>
+    <td>Highly customizable iOS tags view [input, edit, dynamic, tag, token, field, NSTokenField]</td>
+    <td>430</td>
+    <td>51</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/whitesmith/WSTagsField'target='_blank'>WSTagsField</a></td>
+    <td>An iOS text field that represents different Tags</td>
+    <td>811</td>
+    <td>115</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/artemkrachulov/AKMaskField'target='_blank'>AKMaskField</a></td>
+    <td>Swift plugin which allow add mask to input field</td>
+    <td>291</td>
+    <td>59</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/younatics/YNSearch'target='_blank'>YNSearch</a></td>
+    <td>🔍 Awesome fully customize search view like Pinterest written in Swift 4 + Realm support!</td>
+    <td>955</td>
+    <td>82</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/fdzsergio/SFFocusViewLayout'target='_blank'>SFFocusViewLayout</a></td>
+    <td>UICollectionViewLayout with focused content</td>
+    <td>1692</td>
+    <td>191</td>
+    <td>Swift</td>
+</tr>

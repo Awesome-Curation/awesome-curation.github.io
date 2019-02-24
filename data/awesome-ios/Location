@@ -1,0 +1,56 @@
+<tr>
+    <td> <a href='https://github.com/IngeoSDK/ingeo-ios-sdk'target='_blank'>ingeo-ios-sdk</a></td>
+    <td>The most power-efficient and lightweight iOS location manager for Swift and ObjC</td>
+    <td>96</td>
+    <td>6</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/intuit/LocationManager'target='_blank'>LocationManager</a></td>
+    <td>Easily get the device's current location on iOS.</td>
+    <td>2340</td>
+    <td>356</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/malcommac/SwiftLocation'target='_blank'>SwiftLocation</a></td>
+    <td>Easy & Efficient Location Tracker for iOS</td>
+    <td>2075</td>
+    <td>285</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/arturdev/SOMotionDetector'target='_blank'>SOMotionDetector</a></td>
+    <td>Simple library to detect motion type (walking, running, automotive) and count users steps. This library will make motion detection much more easily.</td>
+    <td>1060</td>
+    <td>151</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/JeromeTan1997/LocationPicker'target='_blank'>LocationPicker</a></td>
+    <td>A ready for use and fully customizable location picker for your app</td>
+    <td>337</td>
+    <td>55</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/benzamin/BBLocationManager'target='_blank'>BBLocationManager</a></td>
+    <td>A Location Manager for easily implementing location services & geofencing in iOS. Ready for iOS 11.</td>
+    <td>96</td>
+    <td>15</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/lyft/set-simulator-location'target='_blank'>set-simulator-location</a></td>
+    <td>CLI for setting location in the iOS simulator</td>
+    <td>389</td>
+    <td>13</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/caloon/NominatimKit'target='_blank'>NominatimKit</a></td>
+    <td>A Swift wrapper for forward and reverse geocoding of OpenStreetMap data</td>
+    <td>42</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>

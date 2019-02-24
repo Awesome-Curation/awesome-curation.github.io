@@ -1,0 +1,84 @@
+<tr>
+    <td> <a href='https://github.com/JohnEstropia/GCDKit'target='_blank'>GCDKit</a></td>
+    <td>Grand Central Dispatch simplified with swift.</td>
+    <td>301</td>
+    <td>31</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/duemunk/Async'target='_blank'>Async</a></td>
+    <td>Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch</td>
+    <td>4363</td>
+    <td>299</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/nodes-ios/SwiftSafe'target='_blank'>SwiftSafe</a></td>
+    <td>Thread synchronization made easy.</td>
+    <td>160</td>
+    <td>11</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ibireme/YYDispatchQueuePool'target='_blank'>YYDispatchQueuePool</a></td>
+    <td>iOS utility class to manage global dispatch queue.</td>
+    <td>382</td>
+    <td>65</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Alecrim/AlecrimAsyncKit'target='_blank'>AlecrimAsyncKit</a></td>
+    <td>async and await for Swift.</td>
+    <td>88</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/jessesquires/GrandSugarDispatch'target='_blank'>GrandSugarDispatch</a></td>
+    <td>[DEPRECATED] Syntactic sugar for Grand Central Dispatch (GCD)</td>
+    <td>31</td>
+    <td>0</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mitchtreece/Threader'target='_blank'>Threader</a></td>
+    <td>Pretty GCD calls and easier code execution.</td>
+    <td>38</td>
+    <td>0</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/JARMourato/Dispatch'target='_blank'>Dispatch</a></td>
+    <td>Just a tiny library to make using GCD easier and intuitive</td>
+    <td>177</td>
+    <td>19</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/hemantasapkota/GCDTimer'target='_blank'>GCDTimer</a></td>
+    <td>Well-tested GCD Timer in Swift</td>
+    <td>175</td>
+    <td>17</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/comyar/Chronos-Swift'target='_blank'>Chronos-Swift</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/231b.png?v8'>  Grand Central Dispatch Utilities</td>
+    <td>255</td>
+    <td>26</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/pascalbros/Me'target='_blank'>Me</a></td>
+    <td>A super slim solution to the nested asynchronous computations</td>
+    <td>193</td>
+    <td>12</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Albinzr/SwiftyTask'target='_blank'>SwiftyTask</a></td>
+    <td>An extreme queuing system with high performance for managing all task in app with closure</td>
+    <td>21</td>
+    <td>0</td>
+    <td>Swift</td>
+</tr>

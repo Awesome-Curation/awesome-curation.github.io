@@ -1,0 +1,28 @@
+<tr>
+    <td> <a href='https://github.com/garnele007/SwiftOCR'target='_blank'>SwiftOCR</a></td>
+    <td>Fast and simple OCR library written in Swift</td>
+    <td>3698</td>
+    <td>370</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/aschuch/QRCode'target='_blank'>QRCode</a></td>
+    <td>A QRCode generator written in Swift.</td>
+    <td>613</td>
+    <td>128</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/EFPrefix/EFQRCode'target='_blank'>EFQRCode</a></td>
+    <td>A better way to operate quick response code in Swift.</td>
+    <td>3063</td>
+    <td>300</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/lovoo/NSFWDetector'target='_blank'>NSFWDetector</a></td>
+    <td>A NSFW (aka porn) detector with CoreML</td>
+    <td>1055</td>
+    <td>32</td>
+    <td>Swift</td>
+</tr>

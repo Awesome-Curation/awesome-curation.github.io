@@ -1,0 +1,14 @@
+<tr>
+    <td> <a href='https://github.com/frozon/passbook'target='_blank'>passbook</a></td>
+    <td>Passbook gem let's you create pkpass for passbook iOS 6</td>
+    <td>219</td>
+    <td>53</td>
+    <td>Ruby</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/nomad/dubai'target='_blank'>dubai</a></td>
+    <td>Generate and Preview Passbook Passes</td>
+    <td>323</td>
+    <td>22</td>
+    <td>Ruby</td>
+</tr>

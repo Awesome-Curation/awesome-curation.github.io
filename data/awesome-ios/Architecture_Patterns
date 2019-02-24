@@ -1,0 +1,70 @@
+<tr>
+    <td> <a href='https://github.com/codytwinton/SwiftyVIPER'target='_blank'>SwiftyVIPER</a></td>
+    <td>Swift Interaction with VIPER Architecture</td>
+    <td>89</td>
+    <td>9</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/sergdort/CleanArchitectureRxSwift'target='_blank'>CleanArchitectureRxSwift</a></td>
+    <td>Example of Clean Architecture of iOS app using RxSwift</td>
+    <td>1960</td>
+    <td>223</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ferranabello/Viperit'target='_blank'>Viperit</a></td>
+    <td>Viper Framework for iOS using Swift v4</td>
+    <td>313</td>
+    <td>52</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Brightify/Reactant'target='_blank'>Reactant</a></td>
+    <td>Reactant is a reactive architecture for iOS</td>
+    <td>364</td>
+    <td>11</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/alfa-laboratory/YARCH'target='_blank'>YARCH</a></td>
+    <td>YARCH iOS Architecture</td>
+    <td>97</td>
+    <td>13</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/MindorksOpenSource/iOS-Viper-Architecture'target='_blank'>iOS-Viper-Architecture</a></td>
+    <td>This repository contains a detailed sample app that implements VIPER architecture in iOS using libraries and frameworks like Alamofire, AlamofireImage, PKHUD, CoreData etc.</td>
+    <td>420</td>
+    <td>113</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/BendingSpoons/tempura-swift'target='_blank'>tempura-swift</a></td>
+    <td>A holistic approach to iOS development, inspired by Redux and MVVM</td>
+    <td>447</td>
+    <td>14</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Kaakati/VIPER-Module-Generator'target='_blank'>VIPER-Module-Generator</a></td>
+    <td>A Swift 4.2 VIPER Module Boilerplate Generator with predefined functions and a BaseViewProtocol.</td>
+    <td>30</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Maryom/MMVMi'target='_blank'>MMVMi</a></td>
+    <td>MMVMi: A Validation Model for MVC and MVVM Design Patterns in iOS Applications</td>
+    <td>4</td>
+    <td>1</td>
+    <td>Python</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/tailec/ios-architecture'target='_blank'>ios-architecture</a></td>
+    <td>A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others</td>
+    <td>312</td>
+    <td>22</td>
+    <td>Swift</td>
+</tr>

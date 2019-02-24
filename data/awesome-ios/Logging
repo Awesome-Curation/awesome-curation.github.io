@@ -1,0 +1,217 @@
+<tr>
+    <td> <a href='https://github.com/emaloney/CleanroomLogger'target='_blank'>CleanroomLogger</a></td>
+    <td>CleanroomLogger provides an extensible Swift-based logging API that is simple, lightweight and performant</td>
+    <td>1221</td>
+    <td>111</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/CocoaLumberjack/CocoaLumberjack'target='_blank'>CocoaLumberjack</a></td>
+    <td>A fast & simple, yet powerful & flexible logging framework for Mac and iOS</td>
+    <td>11000</td>
+    <td>1925</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/fpillet/NSLogger'target='_blank'>NSLogger</a></td>
+    <td>A modern, flexible logging tool</td>
+    <td>4589</td>
+    <td>541</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/goktugyil/QorumLogs'target='_blank'>QorumLogs</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4d5.png?v8'>  Swift Logging Utility for Xcode & Google Docs </td>
+    <td>760</td>
+    <td>88</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/delba/Log'target='_blank'>Log</a></td>
+    <td>An extensible logging framework for Swift</td>
+    <td>758</td>
+    <td>53</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/onevcat/Rainbow'target='_blank'>Rainbow</a></td>
+    <td>Delightful console output for Swift developers.</td>
+    <td>1156</td>
+    <td>74</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/SwiftyBeaver/SwiftyBeaver'target='_blank'>SwiftyBeaver</a></td>
+    <td>Convenient logging during development & release in Swift 2, 3 & 4</td>
+    <td>4088</td>
+    <td>279</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/scottrhoyt/SwiftyTextTable'target='_blank'>SwiftyTextTable</a></td>
+    <td>A lightweight library for generating text tables.</td>
+    <td>164</td>
+    <td>15</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/wojteklu/Watchdog'target='_blank'>Watchdog</a></td>
+    <td>Class for logging excessive blocking on the main thread</td>
+    <td>1593</td>
+    <td>76</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/DaveWoodCom/XCGLogger'target='_blank'>XCGLogger</a></td>
+    <td>A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog() or print(), but with additional information, such as the date, function name, filename and line number.</td>
+    <td>3203</td>
+    <td>409</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/cookpad/puree-ios'target='_blank'>puree-ios</a></td>
+    <td>[Obsoleted] A log collector for iOS (new version! -> https://github.com/cookpad/Puree-Swift)</td>
+    <td>152</td>
+    <td>24</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/icodeforlove/Colors'target='_blank'>Colors</a></td>
+    <td>A pure Swift library for using ANSI codes. Basically makes command-line coloring and styling very easy!</td>
+    <td>26</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/honghaoz/Loggerithm'target='_blank'>Loggerithm</a></td>
+    <td>A lightweight Swift logger, uses `print` in development and `NSLog` in production. Support colourful and formatted output.</td>
+    <td>266</td>
+    <td>14</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/tadija/AELog'target='_blank'>AELog</a></td>
+    <td>Simple, lightweight and flexible debug logging framework written in Swift</td>
+    <td>23</td>
+    <td>3</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mattcomi/ReflectedStringConvertible'target='_blank'>ReflectedStringConvertible</a></td>
+    <td>A protocol that allows any class to be printed as if it were a struct or a JSON object.</td>
+    <td>54</td>
+    <td>5</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/nilsleiffischer/Evergreen'target='_blank'>Evergreen</a></td>
+    <td>Most natural Swift logging</td>
+    <td>76</td>
+    <td>9</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/johnno1962/SwiftTrace'target='_blank'>SwiftTrace</a></td>
+    <td>Trace Swift and Objective-C method invocations</td>
+    <td>149</td>
+    <td>8</td>
+    <td>Assembly</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Nike-Inc/Willow'target='_blank'>Willow</a></td>
+    <td>Willow is a powerful, yet lightweight logging library written in Swift.</td>
+    <td>1093</td>
+    <td>59</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/bugfender/BugfenderSDK-iOS'target='_blank'>BugfenderSDK-iOS</a></td>
+    <td>Bugfender SDK for iOS, a remote logger tailor-made for mobile</td>
+    <td>44</td>
+    <td>20</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/DeveloperLx/LxDBAnything'target='_blank'>LxDBAnything</a></td>
+    <td>Automate box any value! Print log without any format control symbol! Change debug habit thoroughly! </td>
+    <td>428</td>
+    <td>60</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/xareelee/XLTestLog'target='_blank'>XLTestLog</a></td>
+    <td>Styling and coloring your XCTest logs on Xcode Console</td>
+    <td>60</td>
+    <td>7</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/swisspol/XLFacility'target='_blank'>XLFacility</a></td>
+    <td>Elegant and extensive logging facility for OS X & iOS (includes database, Telnet and HTTP servers)</td>
+    <td>295</td>
+    <td>24</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/DrewKiino/Atlantis'target='_blank'>Atlantis</a></td>
+    <td>A powerful input-agnostic swift logging framework made to speed up development with maximum readability.</td>
+    <td>202</td>
+    <td>9</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/drekka/StoryTeller'target='_blank'>StoryTeller</a></td>
+    <td>A log should tell a story, not drown the reader in irrelevance.</td>
+    <td>9</td>
+    <td>1</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ubclaunchpad/LumberMill'target='_blank'>LumberMill</a></td>
+    <td>A Simple iOS Testing Framework </td>
+    <td>2</td>
+    <td>0</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Cosmo/TinyConsole'target='_blank'>TinyConsole</a></td>
+    <td>🚦📱 A tiny log console to display information while using your iOS app. Written in Swift 3.</td>
+    <td>1792</td>
+    <td>72</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/abdullahselek/Lighty'target='_blank'>Lighty</a></td>
+    <td>Easy to use and lightweight logger for iOS, macOS, tvOS, watchOS and Linux in Swift.</td>
+    <td>42</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/justeat/JustLog'target='_blank'>JustLog</a></td>
+    <td>JustLog brings logging on iOS to the next level. It supports console, file and remote Logstash logging via TCP socket with no effort. Support for logz.io available.</td>
+    <td>318</td>
+    <td>50</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/twitter/ios-twitter-logging-service'target='_blank'>ios-twitter-logging-service</a></td>
+    <td>Twitter Logging Service is a robust and performant logging framework for iOS clients</td>
+    <td>199</td>
+    <td>19</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/AckeeCZ/Reqres'target='_blank'>Reqres</a></td>
+    <td>Simple network activity logger for iOS</td>
+    <td>48</td>
+    <td>9</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/tonystone/tracelog'target='_blank'>tracelog</a></td>
+    <td>Dead Simple: logging the way it's meant to be!</td>
+    <td>29</td>
+    <td>7</td>
+    <td>Swift</td>
+</tr>
