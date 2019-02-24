@@ -1,51 +1,194 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+Todo:
+    * Exception handling
+    * HTTP error code handling
+    * Tests
+"""
 import requests
 import json
 import re
 import os
+import sys
 
 _API = 'https://api.github.com/'
-_TOKEN = os.environ['TOKEN']
+try:
+    _TOKEN = os.environ['TOKEN']
+    _USER = os.environ['GITHUB_NAME']
+except KeyError:
+    msg = ("Unable to fetch environment variables.\n"
+           "Please set your api token and username.\n"
+           "Ex:\n"
+           "export TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n"
+           "export GITHUB_NAME=ryans-git")
+    sys.exit(msg)
 
-# Get JSON repo data from github api
-def get_api_data(url):
+def get_api_data(url, format=True, display=False):
+    """ Get data response from GitHub api
+
+    Send a request to GitHub with specified URL. Use this
+    function to retrieve REST API json data. Contains default
+    headers of token & json formatting. Can maybe be expanded
+    to using a an argument
+
+    Args:
+        url (str): endpoint suffix link to send 
+        format (bool, optional): return data in a json dictionary
+            defaults to True
+        display (bool, optional): pretty print json data to console
+            defaults to False
+    Returns:
+        dict: json response if format is True
+        obj: requests module object
+    Raises:
+        requests.exceptions.RequestException: IOError from requests
+        requests.exceptions.HTTPError: response code from github
+    """
+
     h = {'Authorization':"token " + _TOKEN,
          'Accept':'application/vnd.github.v3+json'}
     try:
         r = requests.get(_API + url, headers=h)
         # TODO: Handle status_code
-        #print(json.dumps(r.json(), indent=4, sort_keys=True))
-        return r.json()
+        if display:
+            print(json.dumps(r.json(), indent=4, sort_keys=True))
+        if format:
+            return r.json()
+        else:
+            return r
     except requests.RequestException as err:
-        print("Unable to get repo data")
+        print("Unable to fetch api data")
 
-# Extract username and repo name from github link
-def get_user_repo(link):
-    # ['https:', '', 'github.com', 'bayandin', 'awesome-awesomeness']
-    parts = link.split("/")
-    user = parts[3]
-    repo = parts[4]
+def get_user_repo(url):
+    """ Extract username and repository name from GitHub URL
+    Args:
+        url (str): Full GitHub URL
+            ex: https://github.com/user/repo
+    Returns:
+        tuple: username and repository
+    """
+
+    try:
+        if not re.search('http[s]?://github.com', url):
+           raise Exception('Invalid GitHub link')
+
+        # ['https:', '', 'github.com', 'user', 'repo']
+        parts = url.split("/")
+        user = parts[3]
+        repo = parts[4]
+        
+        # TODO: regex validate names
+        #regex = '/^[a-z\d](?:[a-z\d]|-(?=[a-z\d])){0,38}$/i'
+        #if not re.search(regex, user) or not re.search(regex, repo):
+        #    raise Exception('Invalid name or repo')
+    except IndexError:
+        print('Unable to get user repo. Failed to access split parts')
+        return ('','')
+    except Exception as err:
+        print('Unable to get user repo ' + str(err))
+        return ('','')
+
     return (user, repo)
 
-# Get user token for github authentication
-# Put token in a file instead of an environment variable 
 def get_token():
+    """ Get API token key from a file
+
+    Optional method of setting the GitHub API token.
+    Create a file in cwd named 'token' with a single line
+    containing the key.
+    
+    Returns:
+        str: token value
+    Raises:
+        IOError: couldn't get it; error reading file
+    """
     try:
         path = os.path.dirname(__file__)
-        with open(path + "/token") as f:
+        with open(path + "/token", 'r') as f:
             return f.readline().strip()
     except IOError as err:
         print("Failed to get API token\nCreate a 'token' file in this directory")
 
-# Get links to GitHub emoji assets
-# Returns dictionary of URLs
 def get_emojis():
+    """ Get the GitHub emoji assets links
+
+    Use the function to get image links when the emojis
+    cannot be found/printed in html UTF-8. Avoid calling 
+    every time an emoji is needed. Store in text file or
+    variable.
+    
+    Returns:
+        dict: json formatted with name & links
+    """
     return get_api_data("emojis")
 
 def get_repo_data(user, repo):
+    """ Get the GitHub repository data
+
+    Use the function to get entire repository data
+    response from GitHub API. Only used for single level
+    depth items {str:str} (ex: stars, lang, forks). Others
+    may be easer to get from just crawling the actual
+    repository GitHub page (ex: latest commit date)
+    
+    Returns:
+        dict: json formatted with name & links
+    """    
     return get_api_data('repos/' + user + '/' + repo)
+
+def get_rate_limit(option=''):
+    """ Get GitHub API rate limit data
+
+    Use this function to monitor how many API request
+    are left in the hour to fetch data accordingly.
+
+    Args:
+        option (str, optional): X-RateLimit option
+            - `Limit`: max number of queries per hour
+            - `Remaining`: number of queries left in the hour
+            - 'Reset': UTC time until limit reset 
+    Returns:
+        tuple: all 3 option if no argument given
+        int: number for given argument
+    
+    Raises:
+        KeyError: problem getting number from the response header
+
+    """
+    req = get_api_data('users/' + _USER, format=False)
+    try:
+        limit = req.headers['X-RateLimit-Limit'] 
+        remaining = req.headers['X-RateLimit-Remaining']
+        reset = req.headers['X-RateLimit-Reset']
+    except KeyError:
+        print("Unable to get RateLimit data")
+
+    if not option:
+        return (limit, remaining, reset)
+    
+    opts = ['Limit', 'Remaining', 'Reset']
+    if option not in opts:
+        print("Unable to get RateLimit data")
+        print("Options: Limit, Remaining, Reset")
+    else:
+        return req.headers['X-RateLimit-' + option]
 
 # Get README.md raw data file to string
 def get_readme(user, repo):
+    """ Get README raw text data
+
+    Use for getting finding the GitHub links in the 'awesome list'
+    README file. Current architecture should call this seperatley
+    for each list to store in data/repo.txt file.
+
+    Args:
+        user (str): username
+        repo (str): repository name
+    Returns:
+        str: raw text
+    """
     h = {"Accept":"application/vnd.github.VERSION.raw"}
     url = _API + 'repos/' + user + "/" + repo + "/readme"
     r = requests.get(url, headers=h)
@@ -53,6 +196,17 @@ def get_readme(user, repo):
  
  # Extract github link from a string
 def get_url(text):
+    """ Extract URL from a markdown bullet
+
+    Use this function to get GitHub link found between
+    parentheses an a markdown bullet point.
+    * [repo_name](https://github.com/user/repo) - Description
+
+    Args:
+        text (str): single like to extract from
+    Returns:
+        str: GitHub URL
+    """
     try:
         if 'https://github.com/' in text:
             url = re.search("(?P<url>https?://[^\s]+)", text)  
