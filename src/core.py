@@ -24,7 +24,9 @@ def main():
     
     repos = build_links_dict(text)
     #links = repos['UI'] # Random sections (contains the most URLs)
+    #links = repos['PickerView'] # erroneous '-' appended to repo url
 
+    # Write all html tables to files
     for category in repos:
         print('='*60)
         print('Writing - ' + category)
@@ -45,8 +47,8 @@ def main():
 
     destroy_section('Table')
     destroy_section('Dropdown')
-    #write_section(build_categories(repos), 'Dropdown')
-    #write_section(build_table(links), 'Table')        
+    write_section(build_categories(repos), 'Dropdown')
+    write_section(build_table(links), 'Table')        
 
     elapsed_time = time.time() - start_time
     print("TOTAL TIME:")
@@ -262,6 +264,7 @@ def html_table(repo, url, data):
     except KeyError:
         print('Unable to get data from API request.')
         print('Repo: ' + repo + '\nurl: ' + url)
+        return ""
     except UnicodeDecodeError as err:
         print("Table unicode error")
         print(repo)
