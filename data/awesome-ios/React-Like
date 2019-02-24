@@ -1,0 +1,35 @@
+<tr>
+    <td> <a href='https://github.com/alexdrone/Render'target='_blank'>Render</a></td>
+    <td>Swift and UIKit a la React.</td>
+    <td>1923</td>
+    <td>90</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/BendingSpoons/katana-swift'target='_blank'>katana-swift</a></td>
+    <td>Swift Apps in a Swoosh! A modern framework for creating iOS apps, inspired by Redux.</td>
+    <td>1869</td>
+    <td>68</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mcudich/TemplateKit'target='_blank'>TemplateKit</a></td>
+    <td>React-inspired framework for building component-based user interfaces in Swift.</td>
+    <td>151</td>
+    <td>8</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/freshOS/Komponents'target='_blank'>Komponents</a></td>
+    <td>📦 React-inspired UIKit Components</td>
+    <td>179</td>
+    <td>10</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/surfstudio/CoreEvents'target='_blank'>CoreEvents</a></td>
+    <td>Small swift events kit</td>
+    <td>2</td>
+    <td>0</td>
+    <td>Swift</td>
+</tr>

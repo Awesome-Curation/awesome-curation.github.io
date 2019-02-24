@@ -1,0 +1,119 @@
+<tr>
+    <td> <a href='https://github.com/hyperoslo/Form'target='_blank'>Form</a></td>
+    <td>The most flexible and powerful way to build a form on iOS</td>
+    <td>8</td>
+    <td>2</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/xmartlabs/XLForm'target='_blank'>XLForm</a></td>
+    <td>XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C. </td>
+    <td>5430</td>
+    <td>924</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/xmartlabs/Eureka'target='_blank'>Eureka</a></td>
+    <td>Elegant iOS form builder in Swift</td>
+    <td>9539</td>
+    <td>1072</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Yalantis/YALField'target='_blank'>YALField</a></td>
+    <td>Custom Field component with validation for creating easier form-like UI from interface builder.</td>
+    <td>477</td>
+    <td>60</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ra1028/Former'target='_blank'>Former</a></td>
+    <td>Former is a fully customizable Swift library for easy creating UITableView based form.</td>
+    <td>1125</td>
+    <td>128</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ortuman/SwiftForms'target='_blank'>SwiftForms</a></td>
+    <td>A small and lightweight library written in Swift that allows you to easily create forms.</td>
+    <td>1248</td>
+    <td>196</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Alterplay/APValidators'target='_blank'>APValidators</a></td>
+    <td>Codeless solution for form validation in iOS!</td>
+    <td>127</td>
+    <td>19</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/seedco/Formalist'target='_blank'>Formalist</a></td>
+    <td>Declarative form building framework for iOS</td>
+    <td>147</td>
+    <td>7</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/neoneye/SwiftyFORM'target='_blank'>SwiftyFORM</a></td>
+    <td>iOS framework for creating forms</td>
+    <td>794</td>
+    <td>65</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/nicklockwood/FXForms'target='_blank'>FXForms</a></td>
+    <td>[DEPRECATED]</td>
+    <td>3006</td>
+    <td>381</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/SwiftValidatorCommunity/SwiftValidator'target='_blank'>SwiftValidator</a></td>
+    <td>A rule-based validation library for Swift</td>
+    <td>1181</td>
+    <td>293</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/m1entus/MZFormSheetPresentationController'target='_blank'>MZFormSheetPresentationController</a></td>
+    <td>MZFormSheetPresentationController provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup UIPresentationController size and feel form sheet.</td>
+    <td>951</td>
+    <td>144</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/EurekaCommunity/GenericPasswordRow'target='_blank'>GenericPasswordRow</a></td>
+    <td>A row for Eureka to implement password validations.</td>
+    <td>165</td>
+    <td>30</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/manuelescrig/SuggestionsBox'target='_blank'>SuggestionsBox</a></td>
+    <td>SuggestionsBox helps you build better a product trough your user suggestions. Written in Swift. 🗳 </td>
+    <td>99</td>
+    <td>3</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ustwo/formvalidator-swift'target='_blank'>formvalidator-swift</a></td>
+    <td>A framework to validate inputs of text fields and text views in a convenient way.</td>
+    <td>484</td>
+    <td>29</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/farshidce/LightForm'target='_blank'>LightForm</a></td>
+    <td>Simple interactive and customizable library to handle form input and validations.</td>
+    <td>8</td>
+    <td>2</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/nsagora/validation-toolkit'target='_blank'>validation-toolkit</a></td>
+    <td>Lightweight framework for input validation written in Swift</td>
+    <td>14</td>
+    <td>6</td>
+    <td>Swift</td>
+</tr>

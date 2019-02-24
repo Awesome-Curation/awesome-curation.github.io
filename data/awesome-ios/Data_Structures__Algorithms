@@ -1,0 +1,210 @@
+<tr>
+    <td> <a href='https://github.com/bemindinteractive/SwiftSortedList'target='_blank'>SwiftSortedList</a></td>
+    <td>Sometimes you need order</td>
+    <td>4</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/osteslag/Changeset'target='_blank'>Changeset</a></td>
+    <td>Minimal edits from one collection to another</td>
+    <td>779</td>
+    <td>42</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/attaswift/BTree'target='_blank'>BTree</a></td>
+    <td>Fast sorted collections for Swift using in-memory B-trees</td>
+    <td>1084</td>
+    <td>68</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/waynewbishop/SwiftStructures'target='_blank'>SwiftStructures</a></td>
+    <td>Examples of commonly used data structures and algorithms in Swift.</td>
+    <td>1939</td>
+    <td>279</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/soffes/diff'target='_blank'>Diff</a></td>
+    <td>Simple diff library in pure Swift</td>
+    <td>97</td>
+    <td>7</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/hyperoslo/Brick'target='_blank'>Brick</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4a7.png?v8'>  A generic view model for both basic and complex scenarios</td>
+    <td>57</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/CosmicMind/Algorithm'target='_blank'>Algorithm</a></td>
+    <td>Algorithm is a library of tools that is used to create intelligent applications.</td>
+    <td>708</td>
+    <td>78</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/tarunon/AnyObjectConvertible'target='_blank'>AnyObjectConvertible</a></td>
+    <td>Convert your own struct/enum to AnyObject easily.</td>
+    <td>63</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ankurp/Dollar'target='_blank'>Dollar</a></td>
+    <td>A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript</td>
+    <td>3927</td>
+    <td>290</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/antitypical/Result'target='_blank'>Result</a></td>
+    <td>Swift type modelling the success/failure of arbitrary operations.</td>
+    <td>2356</td>
+    <td>221</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/EvgenyKarkan/EKAlgorithms'target='_blank'>EKAlgorithms</a></td>
+    <td>EKAlgorithms contains some well known CS algorithms & data structures.</td>
+    <td>2384</td>
+    <td>382</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/naru-jpn/Monaka'target='_blank'>Monaka</a></td>
+    <td>Monaka convert custom struct to NSData.</td>
+    <td>20</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/alexdrone/Buffer'target='_blank'>Buffer</a></td>
+    <td>Swift μ-framework for efficient array diffs and list datasource adapters.</td>
+    <td>347</td>
+    <td>13</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/davecom/SwiftGraph'target='_blank'>SwiftGraph</a></td>
+    <td>A Graph Data Structure in Pure Swift</td>
+    <td>448</td>
+    <td>53</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/davecom/SwiftPriorityQueue'target='_blank'>SwiftPriorityQueue</a></td>
+    <td>A Generic Priority Queue in Pure Swift</td>
+    <td>259</td>
+    <td>30</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/naru-jpn/pencil'target='_blank'>pencil</a></td>
+    <td>Super lightweight DB written in Swift.</td>
+    <td>78</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mcudich/HeckelDiff'target='_blank'>HeckelDiff</a></td>
+    <td>A fast Swift diffing library.</td>
+    <td>148</td>
+    <td>25</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/artemstepanenko/Dekoter'target='_blank'>Dekoter</a></td>
+    <td>NSCoding's counterpart for Swift structs.</td>
+    <td>22</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/raywenderlich/swift-algorithm-club'target='_blank'>swift-algorithm-club</a></td>
+    <td>Algorithms and data structures in Swift, with explanations!</td>
+    <td>19659</td>
+    <td>3253</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/david-coyle-sjc/impeller'target='_blank'>impeller</a></td>
+    <td>A Distributed Value Store in Swift.</td>
+    <td>0</td>
+    <td>7</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/alexdrone/Dispatch'target='_blank'>Dispatch</a></td>
+    <td>Multi-store Flux implementation in Swift.</td>
+    <td>281</td>
+    <td>15</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/onmyway133/DeepDiff'target='_blank'>DeepDiff</a></td>
+    <td>🦀Amazingly incredible extraordinary lightning fast diffing in Swift</td>
+    <td>1309</td>
+    <td>67</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Cosmo/BinaryKit'target='_blank'>BinaryKit</a></td>
+    <td>0️⃣1️⃣ Access bits and bytes from binary data in Swift.</td>
+    <td>60</td>
+    <td>6</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/tonyarnold/Differ'target='_blank'>Differ</a></td>
+    <td>Swift library to generate differences and patches between collections.</td>
+    <td>414</td>
+    <td>40</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/harlanhaskins/Probably'target='_blank'>Probably</a></td>
+    <td>A Swift probability and statistics library</td>
+    <td>236</td>
+    <td>9</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/jamesdouble/RandMyMod'target='_blank'>RandMyMod</a></td>
+    <td>RandMyMod base on your own struct or class create one or a set of instance, which the variable's value in the instance is automatic randomized.</td>
+    <td>16</td>
+    <td>5</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/vincent-pradeilles/KeyPathKit'target='_blank'>KeyPathKit</a></td>
+    <td>KeyPathKit is a library that provides the standard functions to manipulate data along with a call-syntax that relies on typed keypaths to make the call sites as short and clean as possible.</td>
+    <td>139</td>
+    <td>8</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/zenangst/Differific'target='_blank'>Differific</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/26fd.png?v8'>  Differific - a fast and convenient diffing framework.</td>
+    <td>102</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ladeiko/OneWaySynchronizer'target='_blank'>OneWaySynchronizer</a></td>
+    <td>The simplest abstraction to synchronize local data with remote source. For iOS, wirtten in swift.</td>
+    <td>5</td>
+    <td>3</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ra1028/DifferenceKit'target='_blank'>DifferenceKit</a></td>
+    <td>💻 A fast and flexible O(n) difference algorithm framework for Swift collection.</td>
+    <td>1722</td>
+    <td>86</td>
+    <td>Swift</td>
+</tr>

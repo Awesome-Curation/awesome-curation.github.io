@@ -1,0 +1,84 @@
+<tr>
+    <td> <a href='https://github.com/skywinder/ActionSheetPicker-3.0/'target='_blank'>ActionSheetPicker-3.0</a></td>
+    <td>Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.</td>
+    <td>3157</td>
+    <td>627</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/filipealva/PickerView'target='_blank'>PickerView</a></td>
+    <td>🔸 A customizable alternative to UIPickerView in Swift.</td>
+    <td>368</td>
+    <td>71</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/squimer/DatePickerDialog-iOS-Swift'target='_blank'>DatePickerDialog-iOS-Swift</a></td>
+    <td>Date picker dialog for iOS</td>
+    <td>388</td>
+    <td>122</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/chenzeyu/CZPicker'target='_blank'>CZPicker</a></td>
+    <td>a picker view shown as a popup for iOS in Objective-C</td>
+    <td>511</td>
+    <td>91</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/alikaragoz/AIDatePickerController'target='_blank'>AIDatePickerController</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png?v8'>  UIDatePicker modally presented with iOS 7 custom transitions.</td>
+    <td>91</td>
+    <td>16</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/4taras4/CountryCode'target='_blank'>CountryCode</a></td>
+    <td> 🎯 Swift country and phone code Picker</td>
+    <td>135</td>
+    <td>53</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kmcgill88/McPicker-iOS'target='_blank'>McPicker-iOS</a></td>
+    <td>McPicker is a customizable, closure driven UIPickerView drop-in solution with animations that is rotation ready.</td>
+    <td>118</td>
+    <td>20</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/blueapron/Mandoline'target='_blank'>Mandoline</a></td>
+    <td>An iOS picker view to serve all your "picking" needs</td>
+    <td>705</td>
+    <td>30</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/di2pra/D2PDatePicker'target='_blank'>D2PDatePicker</a></td>
+    <td>Elegant and Easy-to-Use iOS Swift Date Picker</td>
+    <td>242</td>
+    <td>21</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kwallet/planet'target='_blank'>planet</a></td>
+    <td>A country picker view controller for iOS</td>
+    <td>64</td>
+    <td>22</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mustafaibrahim989/MICountryPicker'target='_blank'>MICountryPicker</a></td>
+    <td>MICountryPicker is a country picker controller for iOS8+ with an option to search.</td>
+    <td>86</td>
+    <td>32</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/abhiperry/ADDatePicker'target='_blank'>ADDatePicker</a></td>
+    <td>A fully customizable iOS Horizontal PickerView library, written in pure swift</td>
+    <td>86</td>
+    <td>15</td>
+    <td>Swift</td>
+</tr>

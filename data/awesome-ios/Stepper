@@ -1,0 +1,42 @@
+<tr>
+    <td> <a href='https://github.com/PerfectFreeze/PFStepper'target='_blank'>PFStepper</a></td>
+    <td>May be the most elegant stepper you have ever had!</td>
+    <td>25</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/BalestraPatrick/ValueStepper'target='_blank'>ValueStepper</a></td>
+    <td>A Stepper object that displays its value.</td>
+    <td>275</td>
+    <td>34</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/gmertk/GMStepper'target='_blank'>GMStepper</a></td>
+    <td>A stepper with a sliding label in the middle.</td>
+    <td>676</td>
+    <td>84</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/arn00s/barceloneta'target='_blank'>barceloneta</a></td>
+    <td>The right way to increment/decrement values with a simple gesture on iOS.</td>
+    <td>48</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/yannickl/SnappingStepper'target='_blank'>SnappingStepper</a></td>
+    <td>An elegant alternative to the UIStepper written in Swift</td>
+    <td>365</td>
+    <td>29</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/SinaMoetakef/SMNumberWheel'target='_blank'>SMNumberWheel</a></td>
+    <td>SMNumberWheel is a subclass of UIControl written in Swift, which is ideal for picking numbers using a rotating wheel.</td>
+    <td>20</td>
+    <td>5</td>
+    <td>Swift</td>
+</tr>

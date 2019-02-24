@@ -1,0 +1,189 @@
+<tr>
+    <td> <a href='https://github.com/Citrrus/BlurryModalSegue'target='_blank'>BlurryModalSegue</a></td>
+    <td>A custom modal segue providing a blurred overlay effect.</td>
+    <td>934</td>
+    <td>78</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ifitdoesntwork/DAExpandAnimation'target='_blank'>DAExpandAnimation</a></td>
+    <td>A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants.</td>
+    <td>564</td>
+    <td>42</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/andreamazz/BubbleTransition'target='_blank'>BubbleTransition</a></td>
+    <td>A custom modal transition that presents and dismiss a controller with an expanding bubble effect.</td>
+    <td>2887</td>
+    <td>227</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/naoyashiga/RPModalGestureTransition'target='_blank'>RPModalGestureTransition</a></td>
+    <td>You can dismiss modal by using gesture :point_up_2: <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png?v8'> </td>
+    <td>91</td>
+    <td>8</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/recruit-mp/RMPZoomTransitionAnimator'target='_blank'>RMPZoomTransitionAnimator</a></td>
+    <td>A custom zooming transition animation for UIViewController</td>
+    <td>1687</td>
+    <td>182</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/lkzhao/ElasticTransition'target='_blank'>ElasticTransition</a></td>
+    <td>A UIKit custom transition that simulates an elastic drag. Written in Swift.</td>
+    <td>2069</td>
+    <td>168</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/taglia3/ElasticTransition-ObjC'target='_blank'>ElasticTransition-ObjC</a></td>
+    <td>A UIKit custom transition that simulates an elastic drag.This is the Objective-C Version of Elastic Transition written in Swift by lkzhao </td>
+    <td>391</td>
+    <td>44</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/zoonooz/ZFDragableModalTransition'target='_blank'>ZFDragableModalTransition</a></td>
+    <td>Custom animation transition for present modal view controller</td>
+    <td>2442</td>
+    <td>312</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition'target='_blank'>ZOZolaZoomTransition</a></td>
+    <td>Zoom transition that animates the entire view heirarchy. Used extensively in the Zola iOS application.</td>
+    <td>899</td>
+    <td>80</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/jonathantribouharet/JTMaterialTransition'target='_blank'>JTMaterialTransition</a></td>
+    <td>An iOS transition for controllers based on material design.</td>
+    <td>933</td>
+    <td>91</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/shu223/AnimatedTransitionGallery'target='_blank'>AnimatedTransitionGallery</a></td>
+    <td>A gallery app of custom animated transitions for iOS.</td>
+    <td>2433</td>
+    <td>290</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/DianQK/TransitionTreasury'target='_blank'>TransitionTreasury</a></td>
+    <td>Easier way to push your viewController.</td>
+    <td>2050</td>
+    <td>162</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/muukii/Presenter'target='_blank'>Presenter</a></td>
+    <td>Screen transition with safe and clean code.</td>
+    <td>12</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/bannzai/Kaeru'target='_blank'>Kaeru</a></td>
+    <td>Switch viewcontroller like ios task manager</td>
+    <td>444</td>
+    <td>32</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/naru-jpn/View2ViewTransition'target='_blank'>View2ViewTransition</a></td>
+    <td>Custom interactive view controller transition from one view to another view.</td>
+    <td>824</td>
+    <td>59</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/azimin/AZTransitions'target='_blank'>AZTransitions</a></td>
+    <td>API to make great custom transitions in one method</td>
+    <td>385</td>
+    <td>29</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/HeroTransitions/Hero'target='_blank'>Hero</a></td>
+    <td>Elegant transition library for iOS & tvOS</td>
+    <td>16017</td>
+    <td>1249</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/CosmicMind/Motion'target='_blank'>Motion</a></td>
+    <td>A library used to create beautiful animations and transitions for Apple devices.</td>
+    <td>1269</td>
+    <td>76</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/jessesquires/PresenterKit'target='_blank'>PresenterKit</a></td>
+    <td>Swifty view controller presentation for iOS</td>
+    <td>440</td>
+    <td>21</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Touchwonders/Transition'target='_blank'>Transition</a></td>
+    <td>Easy interactive interruptible custom ViewController transitions</td>
+    <td>2158</td>
+    <td>93</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Boerworz/Gagat'target='_blank'>Gagat</a></td>
+    <td>A delightful way to transition between visual styles in your iOS applications.</td>
+    <td>804</td>
+    <td>28</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/HarshilShah/DeckTransition'target='_blank'>DeckTransition</a></td>
+    <td>A library to recreate the iOS Apple Music now playing transition</td>
+    <td>2027</td>
+    <td>154</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Interactive-Studio/TransitionableTab'target='_blank'>TransitionableTab</a></td>
+    <td>TransitionableTab makes it easy to animate when switching between tab.</td>
+    <td>591</td>
+    <td>40</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/loopeer/AlertTransition'target='_blank'>AlertTransition</a></td>
+    <td>AlertTransition is a extensible library for making view controller transitions, especially for alert transitions.</td>
+    <td>511</td>
+    <td>45</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/muyexi/SemiModalViewController'target='_blank'>SemiModalViewController</a></td>
+    <td>UIViewController extension to present view / view controller as bottom-half modal.</td>
+    <td>31</td>
+    <td>7</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/shtnkgm/ImageTransition'target='_blank'>ImageTransition</a></td>
+    <td>Library for smooth animation of images during transitions.</td>
+    <td>79</td>
+    <td>3</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/AlexandrGraschenkov/LiquidTransition'target='_blank'>LiquidTransition</a></td>
+    <td>New way to perform animated transitions</td>
+    <td>187</td>
+    <td>5</td>
+    <td>Swift</td>
+</tr>

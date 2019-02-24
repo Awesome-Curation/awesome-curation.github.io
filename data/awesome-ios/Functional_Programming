@@ -1,0 +1,70 @@
+<tr>
+    <td> <a href='https://github.com/ulrikdamm/Forbind'target='_blank'>Forbind</a></td>
+    <td>Functional chaining and promises in Swift</td>
+    <td>44</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/brynbellomy/Funky'target='_blank'>Funky</a></td>
+    <td>Functional programming tools and experiments in Swift.</td>
+    <td>12</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/LlamaKit/LlamaKit'target='_blank'>LlamaKit</a></td>
+    <td>Collection of must-have functional Swift tools</td>
+    <td>627</td>
+    <td>54</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/tptee/Oriole'target='_blank'>Oriole</a></td>
+    <td>A functional utility belt implemented as Swift 2.0 protocol extensions.</td>
+    <td>11</td>
+    <td>0</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/robrix/Prelude'target='_blank'>Prelude</a></td>
+    <td>Swift µframework of simple functional programming tools</td>
+    <td>376</td>
+    <td>27</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/typelift/Swiftx'target='_blank'>Swiftx</a></td>
+    <td>Functional data types and functions for any project</td>
+    <td>212</td>
+    <td>25</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/typelift/Swiftz'target='_blank'>Swiftz</a></td>
+    <td>Functional programming in Swift</td>
+    <td>3226</td>
+    <td>246</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/RuiAAPeres/OptionalExtensions'target='_blank'>OptionalExtensions</a></td>
+    <td>Swift µframework with extensions for the Optional Type</td>
+    <td>180</td>
+    <td>17</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/thoughtbot/Argo'target='_blank'>Argo</a></td>
+    <td>Functional JSON parsing library for Swift</td>
+    <td>3430</td>
+    <td>208</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/thoughtbot/Runes'target='_blank'>Runes</a></td>
+    <td>Infix operators for monadic functions in Swift</td>
+    <td>748</td>
+    <td>58</td>
+    <td>Swift</td>
+</tr>

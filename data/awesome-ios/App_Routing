@@ -1,0 +1,140 @@
+<tr>
+    <td> <a href='https://github.com/Wasappli/WAAppRouting'target='_blank'>WAAppRouting</a></td>
+    <td>iOS routing done right. Handles both URL recognition and controller displaying with parsed parameters. All in one line, controller stack preserved automatically!</td>
+    <td>579</td>
+    <td>30</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/button/DeepLinkKit'target='_blank'>DeepLinkKit</a></td>
+    <td>A splendid route-matching, block-based way to handle your deep links.</td>
+    <td>3193</td>
+    <td>237</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/intentkit/IntentKit'target='_blank'>IntentKit</a></td>
+    <td>An easier way to handle third-party URL schemes in iOS apps.</td>
+    <td>1823</td>
+    <td>125</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/joeldev/JLRoutes'target='_blank'>JLRoutes</a></td>
+    <td>URL routing library for iOS with a simple block-based API</td>
+    <td>4909</td>
+    <td>578</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/IanKeen/IKRouter'target='_blank'>IKRouter</a></td>
+    <td>URLScheme router than supports auto creation of UIViewControllers for associated url parameters to allow creation of navigation stacks</td>
+    <td>97</td>
+    <td>3</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/hyperoslo/Compass'target='_blank'>Compass</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png?v8'>  Compass helps you setup a central navigation system for your application</td>
+    <td>795</td>
+    <td>32</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/SwiftKitz/Appz'target='_blank'>Appz</a></td>
+    <td>📱 Launch external apps, and deeplink, with ease using Swift!</td>
+    <td>983</td>
+    <td>62</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/devxoul/URLNavigator'target='_blank'>URLNavigator</a></td>
+    <td>⛵️ Elegant URL Routing for Swift</td>
+    <td>1903</td>
+    <td>143</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/avito-tech/Marshroute'target='_blank'>Marshroute</a></td>
+    <td>Marshroute is an iOS Library for making your Routers simple but extremely powerful</td>
+    <td>187</td>
+    <td>30</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/skyline75489/SwiftRouter'target='_blank'>SwiftRouter</a></td>
+    <td>A URL Router for iOS, written in Swift</td>
+    <td>214</td>
+    <td>23</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/freshOS/Router'target='_blank'>Router</a></td>
+    <td>🛣 Simple Navigation for iOS</td>
+    <td>275</td>
+    <td>16</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/AndreyPanov/ApplicationCoordinator'target='_blank'>ApplicationCoordinator</a></td>
+    <td>Coordinators Essential tutorial</td>
+    <td>458</td>
+    <td>38</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/RxSwiftCommunity/RxFlow'target='_blank'>RxFlow</a></td>
+    <td>RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern</td>
+    <td>1005</td>
+    <td>54</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/MaksimKurpa/Linker'target='_blank'>Linker</a></td>
+    <td>🎯 Your easiest way to handle all URLs.</td>
+    <td>129</td>
+    <td>1</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/aronbalog/CoreNavigation'target='_blank'>CoreNavigation</a></td>
+    <td>📱📲 Navigate between view controllers with ease. 💫</td>
+    <td>62</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/yishuiliunian/DZURLRoute'target='_blank'>DZURLRoute</a></td>
+    <td>DZURLRoute是支持基于标准URL进行Native页面间跳转的Objective-C实现。方便您架构页面之间高内聚低耦合的开发模式。他的核心思想是把每一个页面当成一个资源，通过标准的URL协议（统一资源定位符）来定位到每一个可触达的页面（资源）。</td>
+    <td>69</td>
+    <td>24</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/giginet/Crossroad'target='_blank'>Crossroad</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f68d.png?v8'>  Route URL schemes easily</td>
+    <td>265</td>
+    <td>6</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Zuikyo/ZIKRouter'target='_blank'>ZIKRouter</a></td>
+    <td>Interface-oriented router for discovering modules, and injecting dependencies with protocol in Objective-C and Swift.</td>
+    <td>186</td>
+    <td>36</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/saksdirect/route-composer'target='_blank'>route-composer</a></td>
+    <td>Protocol oriented, Cocoa UI abstractions based library that helps to handle view controllers composition, routing and deep linking tasks in the iOS application.</td>
+    <td>117</td>
+    <td>6</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/SpectralDragon/LightRoute'target='_blank'>LightRoute</a></td>
+    <td>LightRoute is easy transition for your app. Written on Swift 4</td>
+    <td>71</td>
+    <td>15</td>
+    <td>Swift</td>
+</tr>

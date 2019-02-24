@@ -1,0 +1,77 @@
+<tr>
+    <td> <a href='https://github.com/gmarm/BetterSegmentedControl'target='_blank'>BetterSegmentedControl</a></td>
+    <td>An easy to use, customizable replacement for UISegmentedControl & UISwitch.</td>
+    <td>1175</td>
+    <td>147</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Stormotion-Mobile/LUNSegmentedControl'target='_blank'>LUNSegmentedControl</a></td>
+    <td>Customizable segmented control with interactive animation. </td>
+    <td>268</td>
+    <td>38</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/alikaragoz/AKASegmentedControl'target='_blank'>AKASegmentedControl</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f36b.png?v8'>  Fully customizable Segmented Control for iOS</td>
+    <td>400</td>
+    <td>55</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/twicketapp/TwicketSegmentedControl'target='_blank'>TwicketSegmentedControl</a></td>
+    <td>Custom UISegmentedControl replacement for iOS, written in Swift</td>
+    <td>1457</td>
+    <td>147</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/sasojadrovski/SJFluidSegmentedControl'target='_blank'>SJFluidSegmentedControl</a></td>
+    <td>A segmented control with custom appearance and interactive animations. Written in Swift 3.0.</td>
+    <td>786</td>
+    <td>54</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/HeshamMegid/HMSegmentedControl'target='_blank'>HMSegmentedControl</a></td>
+    <td>A drop-in replacement for UISegmentedControl mimicking the style of the segmented control used in Google Currents and various other Google products.</td>
+    <td>3537</td>
+    <td>781</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/afishhhhh/YUSegment'target='_blank'>YUSegment</a></td>
+    <td>A customizable Segmented Control for iOS. Supports text and image.</td>
+    <td>108</td>
+    <td>22</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/yonat/MultiSelectSegmentedControl'target='_blank'>MultiSelectSegmentedControl</a></td>
+    <td>Multiple-Selection UISegmentedControl</td>
+    <td>105</td>
+    <td>34</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/KittenYang/DynamicMaskSegmentSwitch'target='_blank'>DynamicMaskSegmentSwitch</a></td>
+    <td>A segment switcher with dynamic text mask effect</td>
+    <td>302</td>
+    <td>32</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/TBXark/PinterestSegment'target='_blank'>PinterestSegment</a></td>
+    <td>A Pinterest-like segment control with masking animation.</td>
+    <td>412</td>
+    <td>32</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/rob-nash/Rotary'target='_blank'>Rotary</a></td>
+    <td>A customisable rotary wheel UI component.</td>
+    <td>37</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>

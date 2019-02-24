@@ -1,0 +1,56 @@
+<tr>
+    <td> <a href='https://github.com/nsomar/Swiftline'target='_blank'>Swiftline</a></td>
+    <td>Swiftline is a set of tools to help you create command line applications.</td>
+    <td>1093</td>
+    <td>61</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/jatoben/CommandLine'target='_blank'>CommandLine</a></td>
+    <td>A pure Swift library for creating command-line interfaces</td>
+    <td>1094</td>
+    <td>138</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kylef/Commander'target='_blank'>Commander</a></td>
+    <td>Compose beautiful command line interfaces in Swift</td>
+    <td>1245</td>
+    <td>67</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mtynior/ColorizeSwift'target='_blank'>ColorizeSwift</a></td>
+    <td>Terminal string styling for Swift.</td>
+    <td>187</td>
+    <td>13</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/nsomar/Guaka'target='_blank'>Guaka</a></td>
+    <td>The smartest and most beautiful (POSIX compliant) Command line framework for Swift 🤖</td>
+    <td>1104</td>
+    <td>28</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/JohnSundell/Marathon'target='_blank'>Marathon</a></td>
+    <td>Marathon makes it easy to write, run and manage your Swift scripts 🏃</td>
+    <td>1816</td>
+    <td>80</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/surfandneptune/CommandCougar'target='_blank'>CommandCougar</a></td>
+    <td>Simple & Elegant Command Line Interfaces in Swift</td>
+    <td>32</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/jianstm/Crayon'target='_blank'>Crayon</a></td>
+    <td>🖍 Expressive styling on terminal string. (chalk for swift)</td>
+    <td>33</td>
+    <td>0</td>
+    <td>Swift</td>
+</tr>

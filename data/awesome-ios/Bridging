@@ -1,0 +1,21 @@
+<tr>
+    <td> <a href='https://github.com/bang590/JSPatch'target='_blank'>JSPatch</a></td>
+    <td>JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally used to hotfix iOS App.</td>
+    <td>10780</td>
+    <td>2196</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/marcuswestin/WebViewJavascriptBridge'target='_blank'>WebViewJavascriptBridge</a></td>
+    <td>An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews</td>
+    <td>12023</td>
+    <td>2539</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/MichaelBuckley/MAIKit'target='_blank'>MAIKit</a></td>
+    <td>A framework for sharing code between iOS and OS X</td>
+    <td>140</td>
+    <td>3</td>
+    <td>Objective-C</td>
+</tr>

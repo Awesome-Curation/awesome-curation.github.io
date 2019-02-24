@@ -1,0 +1,56 @@
+<tr>
+    <td> <a href='https://github.com/ProjectDent/ARKit-CoreLocation'target='_blank'>ARKit-CoreLocation</a></td>
+    <td>Combines the high accuracy of AR with the scale of GPS data.</td>
+    <td>4333</td>
+    <td>555</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ignacio-chiazzo/ARKit'target='_blank'>ARKit</a></td>
+    <td>ARKit Base Project. Place virtual objects based on WWDC example project</td>
+    <td>216</td>
+    <td>57</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/AFathi/ARVideoKit'target='_blank'>ARVideoKit</a></td>
+    <td>Capture & record ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆.</td>
+    <td>892</td>
+    <td>88</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/svtek/ARKitEnvironmentMapper'target='_blank'>ARKitEnvironmentMapper</a></td>
+    <td> A library that allows you to generate and update environment maps in real-time using the camera feed and ARKit's tracking capabilities.</td>
+    <td>59</td>
+    <td>5</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/rsrbk/SmileToUnlock'target='_blank'>SmileToUnlock</a></td>
+    <td>This library uses ARKit Face Tracking in order to catch a user's smile.</td>
+    <td>566</td>
+    <td>28</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Placenote/PlacenoteSDK-iOS'target='_blank'>PlacenoteSDK-iOS</a></td>
+    <td>PlacenoteSDK Sample app in native iOS using ARKit, written primarily in Swift</td>
+    <td>54</td>
+    <td>7</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/piemonte/Poly'target='_blank'>Poly</a></td>
+    <td>🦕 Unofficial Google Poly SDK in Swift – search & display 3D models</td>
+    <td>33</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kboy-silvergym/ARKit-Emperor'target='_blank'>ARKit-Emperor</a></td>
+    <td>Power! Unlimited power for ARKit 2.0!</td>
+    <td>290</td>
+    <td>21</td>
+    <td>Swift</td>
+</tr>

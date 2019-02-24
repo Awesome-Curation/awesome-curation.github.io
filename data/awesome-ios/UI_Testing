@@ -1,0 +1,77 @@
+<tr>
+    <td> <a href='https://github.com/serhatbolsu/robotframework-appiumlibrary'target='_blank'>robotframework-appiumlibrary</a></td>
+    <td>AppiumLibrary is an appium testing library for RobotFramework</td>
+    <td>192</td>
+    <td>190</td>
+    <td>Python</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kif-framework/KIF'target='_blank'>KIF</a></td>
+    <td>Keep It Functional - An iOS Functional Testing Framework</td>
+    <td>5541</td>
+    <td>857</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/inkling/Subliminal'target='_blank'>Subliminal</a></td>
+    <td>An understated approach to iOS integration testing.</td>
+    <td>782</td>
+    <td>57</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/johnno1962/Remote'target='_blank'>Remote</a></td>
+    <td>Control your iPhone from inside Xcode for end-to-end testing.</td>
+    <td>694</td>
+    <td>34</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/linkedin/LayoutTest-iOS'target='_blank'>LayoutTest-iOS</a></td>
+    <td>Write unit tests which test the layout of a view in multiple configurations</td>
+    <td>539</td>
+    <td>39</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/google/EarlGrey'target='_blank'>EarlGrey</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f375.png?v8'>  iOS UI Automation Test Framework</td>
+    <td>4595</td>
+    <td>586</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/joemasilotti/UI-Testing-Cheat-Sheet'target='_blank'>UI-Testing-Cheat-Sheet</a></td>
+    <td>How do I test this with UI Testing?</td>
+    <td>1679</td>
+    <td>130</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Buglife/Floater_'target='_blank'>Floater_</a></td>
+    <td>Add a floating fingertip to your app demo. www.buglife.com</td>
+    <td>230</td>
+    <td>5</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/linkedin/bluepill'target='_blank'>bluepill</a></td>
+    <td>Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine</td>
+    <td>2773</td>
+    <td>181</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/morizotter/TouchVisualizer'target='_blank'>TouchVisualizer</a></td>
+    <td>Lightweight touch visualization library in Swift. A single line of code and visualize your touches!</td>
+    <td>681</td>
+    <td>54</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/evermeer/UITestHelper'target='_blank'>UITestHelper</a></td>
+    <td>UITest helper library for creating readable and maintainable tests</td>
+    <td>30</td>
+    <td>6</td>
+    <td>Swift</td>
+</tr>

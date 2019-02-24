@@ -1,0 +1,245 @@
+<tr>
+    <td> <a href='https://github.com/nst/STTwitter'target='_blank'>STTwitter</a></td>
+    <td>A stable, mature and comprehensive Objective-C library for Twitter REST API 1.1</td>
+    <td>1016</td>
+    <td>173</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/natesymer/FHSTwitterEngine'target='_blank'>FHSTwitterEngine</a></td>
+    <td>Twitter API for Cocoa developers</td>
+    <td>219</td>
+    <td>80</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/heyalexchoi/Giphy-iOS'target='_blank'>Giphy-iOS</a></td>
+    <td>Giphy API client for iOS in Objective-C</td>
+    <td>50</td>
+    <td>22</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/sachinkesiraju/UberKit'target='_blank'>UberKit</a></td>
+    <td>An easy-to-use Objective-C wrapper for the Uber API (no longer supported)</td>
+    <td>97</td>
+    <td>25</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/shyambhat/InstagramKit'target='_blank'>InstagramKit</a></td>
+    <td>The unofficial Instagram iOS SDK</td>
+    <td>943</td>
+    <td>249</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/agilie/dribbble-ios-sdk'target='_blank'>dribbble-ios-sdk</a></td>
+    <td>Unofficial Dribbble iOS wrapper allows you to integrate Dribble API into iOS application (Designer, Shot, Comment, User Story, Like, Follow)</td>
+    <td>77</td>
+    <td>9</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/lukhnos/objectiveflickr'target='_blank'>objectiveflickr</a></td>
+    <td>ObjectiveFlickr, a Flickr API framework for Objective-C</td>
+    <td>723</td>
+    <td>160</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/pjebs/EasySocial'target='_blank'>EasySocial</a></td>
+    <td>The Easiest and Simplest iOS library for Twitter and Facebook. Just Drop in and Use!</td>
+    <td>129</td>
+    <td>14</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Constantine-Fry/das-quadrat'target='_blank'>das-quadrat</a></td>
+    <td>A Swift wrapper for Foursquare API. iOS and OSX.</td>
+    <td>171</td>
+    <td>47</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/darkcl/SocialLib'target='_blank'>SocialLib</a></td>
+    <td>SocialLib handles sharing message to multiple social media. </td>
+    <td>10</td>
+    <td>4</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ContinuousLearning/PokemonKit'target='_blank'>PokemonKit</a></td>
+    <td>Pokeapi wrapper, written in Swift</td>
+    <td>85</td>
+    <td>15</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/timonus/TJDropbox'target='_blank'>TJDropbox</a></td>
+    <td>A Dropbox v2 client library written in Objective-C</td>
+    <td>49</td>
+    <td>9</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/genadyo/Lyft'target='_blank'>Lyft</a></td>
+    <td>Some pink mustache company forgot to build that SDK.</td>
+    <td>63</td>
+    <td>10</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/onmyway133/github.swift'target='_blank'>Github.swift</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  Unofficial GitHub API client in Swift</td>
+    <td>167</td>
+    <td>17</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/CloudRail/cloudrail-si-ios-sdk'target='_blank'>cloudrail-si-ios-sdk</a></td>
+    <td>Unified API Library for: Cloud Storage, Social Log-In, Social Interaction, Payment, Email, SMS, POIs, Video & Messaging. Included services are Dropbox, Google Drive, OneDrive, OneDrive for Business, Box, Egnyte, PayPal, Stripe,  Google Places, Foursquare, Yelp, YouTube, Vimeo, Twitch, Facebook Messenger, Telegram, Line, Viber, Facebook, GitHub, Google+, LinkedIn, Slack, Twitter, Windows Live, Yahoo, Mailjet, Sendgrid, Twilio, Nexmo, Twizo.</td>
+    <td>202</td>
+    <td>20</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/96-problems/medium-sdk-swift'target='_blank'>medium-sdk-swift</a></td>
+    <td>A swift SDK for Medium's OAuth2 API https://medium.com</td>
+    <td>9</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mattdonnelly/Swifter'target='_blank'>Swifter</a></td>
+    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f426.png?v8'>  A Twitter framework for iOS & OS X written in Swift</td>
+    <td>1973</td>
+    <td>305</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/pvzig/SlackKit'target='_blank'>SlackKit</a></td>
+    <td>Build Slack apps, in Swift</td>
+    <td>771</td>
+    <td>93</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/dingwilson/RandomUserSwift'target='_blank'>RandomUserSwift</a></td>
+    <td>👤 Framework to Generate Random Users - An Unofficial Swift SDK for randomuser.me</td>
+    <td>88</td>
+    <td>12</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/pantuspavel/PPEventRegistryAPI/'target='_blank'>PPEventRegistryAPI</a></td>
+    <td>Swift 3 framework for accessing data in Event Registry (http://eventregistry.org/)</td>
+    <td>8</td>
+    <td>3</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/modo-studio/UnsplashKit'target='_blank'>UnsplashKit</a></td>
+    <td>Swift client for Unsplash</td>
+    <td>171</td>
+    <td>7</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mike4aday/SwiftlySalesforce'target='_blank'>SwiftlySalesforce</a></td>
+    <td>The swiftest way to build iOS apps that connect to Salesforce</td>
+    <td>90</td>
+    <td>29</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Daltron/Spartan'target='_blank'>Spartan</a></td>
+    <td>An Elegant Spotify Web API Library Written in Swift for iOS and macOS</td>
+    <td>74</td>
+    <td>11</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Daltron/BigBoard'target='_blank'>BigBoard</a></td>
+    <td>An Elegant Financial Markets Library Written in Swift</td>
+    <td>56</td>
+    <td>5</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/saeid/BittrexApiKit'target='_blank'>BittrexApiKit</a></td>
+    <td>Swift Wrapper For Bittrex API</td>
+    <td>9</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/SwiftyVK/SwiftyVK'target='_blank'>SwiftyVK</a></td>
+    <td>Easy and powerful way to interact with VK API for iOS and macOS</td>
+    <td>202</td>
+    <td>34</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/sleepdefic1t/ARKKit'target='_blank'>ARKKit</a></td>
+    <td>iOS/macOS Cross-platform Ark-Ecosystem Framework in Swift | Powered by Ѧrk.io |</td>
+    <td>17</td>
+    <td>8</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/AnderGoig/SwiftInstagram'target='_blank'>SwiftInstagram</a></td>
+    <td>Instagram API client written in Swift</td>
+    <td>518</td>
+    <td>65</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Awalz/SwiftyArk'target='_blank'>SwiftyArk</a></td>
+    <td>A Swift Framework build for the Ark Ecosystem</td>
+    <td>9</td>
+    <td>1</td>
+    <td>JavaScript</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/CaptainYukinoshitaHachiman/PerfectSlackAPIClient'target='_blank'>PerfectSlackAPIClient</a></td>
+    <td>A Slack API Client for the Perfect Server-Side Swift Framework</td>
+    <td>0</td>
+    <td>0</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/thecb4/MotherShip'target='_blank'>MotherShip</a></td>
+    <td>iTunes Connect Library inspired by FastLane</td>
+    <td>72</td>
+    <td>5</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/rinov/SwiftFlyer'target='_blank'>SwiftFlyer</a></td>
+    <td>An API wrapper for bitFlyer.</td>
+    <td>37</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kylebrowning/waterwheel.swift'target='_blank'>waterwheel.swift</a></td>
+    <td>The Waterwheel Swift SDK provides classes to natively connect iOS, macOS, tvOS, and watchOS applications to Drupal 7 and 8.</td>
+    <td>418</td>
+    <td>103</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/sxg/ForecastIO'target='_blank'>ForecastIO</a></td>
+    <td>A Swift library for the Forecast.io Dark Sky API</td>
+    <td>152</td>
+    <td>22</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ethenyl/JamfKit'target='_blank'>JamfKit</a></td>
+    <td>A JSS communication framework written in Swift</td>
+    <td>21</td>
+    <td>0</td>
+    <td>Swift</td>
+</tr>

@@ -1,0 +1,154 @@
+<tr>
+    <td> <a href='https://github.com/SwiftKitz/Graphicz'target='_blank'>Graphicz</a></td>
+    <td>Light-weight, operator-overloading-free complements to CoreGraphics!</td>
+    <td>39</td>
+    <td>3</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/pkluz/PKCoreTechniques'target='_blank'>PKCoreTechniques</a></td>
+    <td>The code for my CoreGraphics+CoreAnimation talk, held during the 2012 iOS Game Design Seminar at the Technical University Munich.</td>
+    <td>143</td>
+    <td>23</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mpw/MPWDrawingContext'target='_blank'>MPWDrawingContext</a></td>
+    <td>An Objective-C wrapper for CoreGraphics CGContext</td>
+    <td>94</td>
+    <td>9</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/davidcairns/DePict'target='_blank'>DePict</a></td>
+    <td>A simple, declarative, functional drawing framework, in Swift!</td>
+    <td>32</td>
+    <td>2</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mchoe/SwiftSVG'target='_blank'>SwiftSVG</a></td>
+    <td>A simple, performant, and lightweight SVG parser</td>
+    <td>1206</td>
+    <td>134</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/shaps80/InkKit'target='_blank'>InkKit</a></td>
+    <td>Drawing and Geometry made easy on iOS - now in Swift 3.0</td>
+    <td>372</td>
+    <td>25</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ibireme/YYAsyncLayer'target='_blank'>YYAsyncLayer</a></td>
+    <td>iOS utility classes for asynchronous rendering and display.</td>
+    <td>544</td>
+    <td>83</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Nicejinux/NXDrawKit'target='_blank'>NXDrawKit</a></td>
+    <td>NXDrawKit is a simple and easy but useful drawing kit for iPhone</td>
+    <td>1149</td>
+    <td>86</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/IFTTT/jot'target='_blank'>jot</a></td>
+    <td>An iOS framework for easily adding drawings and text to images.</td>
+    <td>1759</td>
+    <td>164</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/SVGKit/SVGKit'target='_blank'>SVGKit</a></td>
+    <td>Display and interact with SVG Images on iOS / OS X, using native rendering (CoreAnimation)</td>
+    <td>3390</td>
+    <td>716</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/onmyway133/Snowflake'target='_blank'>Snowflake</a></td>
+    <td>❄️  SVG in Swift</td>
+    <td>863</td>
+    <td>47</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/victorgama/HxSTLParser'target='_blank'>HxSTLParser</a></td>
+    <td>Basic STL loader for SceneKit</td>
+    <td>15</td>
+    <td>1</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/natmark/ProcessingKit'target='_blank'>ProcessingKit</a></td>
+    <td>Visual designing library for iOS & OSX</td>
+    <td>283</td>
+    <td>11</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/shashankpali/EZYGradientView'target='_blank'>EZYGradientView</a></td>
+    <td>Create gradients and blur gradients without a single line of code</td>
+    <td>354</td>
+    <td>37</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/tadija/AEConicalGradient'target='_blank'>AEConicalGradient</a></td>
+    <td>Conical (angular) gradient for iOS written in Swift</td>
+    <td>59</td>
+    <td>14</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/maxkonovalov/MKGradientView'target='_blank'>MKGradientView</a></td>
+    <td>🌈 Highly customizable Core Graphics based gradient view for iOS</td>
+    <td>121</td>
+    <td>12</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ipraba/EPShapes'target='_blank'>EPShapes</a></td>
+    <td>Design shapes in Interface Builder</td>
+    <td>393</td>
+    <td>32</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/exyte/macaw'target='_blank'>Macaw</a></td>
+    <td>Powerful and easy-to-use vector graphics Swift library with SVG support</td>
+    <td>4248</td>
+    <td>318</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Boilertalk/BlockiesSwift'target='_blank'>BlockiesSwift</a></td>
+    <td>Unique blocky identicons generator for Swift</td>
+    <td>35</td>
+    <td>4</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/bakhtiyork/Rough'target='_blank'>Rough</a></td>
+    <td>Rough lets you draw in a sketchy, hand-drawn-like, style.</td>
+    <td>62</td>
+    <td>5</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/bakhtiyork/GraphLayout'target='_blank'>GraphLayout</a></td>
+    <td>GraphLayout - iOS UI controls to visualize graphs. Powered by Graphviz</td>
+    <td>74</td>
+    <td>3</td>
+    <td>C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Asana/Drawsana'target='_blank'>Drawsana</a></td>
+    <td>An open source library that lets your users draw on things - mark up images with text, shapes, etc.</td>
+    <td>285</td>
+    <td>18</td>
+    <td>Swift</td>
+</tr>

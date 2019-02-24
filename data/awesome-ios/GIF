@@ -1,0 +1,77 @@
+<tr>
+    <td> <a href='https://github.com/liyong03/YLGIFImage'target='_blank'>YLGIFImage</a></td>
+    <td>Async GIF image decoder and Image viewer supporting play GIF images. It just use very less memory.</td>
+    <td>1755</td>
+    <td>200</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/Flipboard/FLAnimatedImage'target='_blank'>FLAnimatedImage</a></td>
+    <td>Performant animated GIF engine for iOS</td>
+    <td>7066</td>
+    <td>1069</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kaishin/gifu'target='_blank'>Gifu</a></td>
+    <td>High-performance animated GIF support for iOS in Swift</td>
+    <td>2219</td>
+    <td>208</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/mattt/AnimatedGIFImageSerialization'target='_blank'>AnimatedGIFImageSerialization</a></td>
+    <td>Complete Animated GIF Support for iOS, with Functions, NSJSONSerialization-style Class, and (Optional) UIImage Swizzling</td>
+    <td>1063</td>
+    <td>112</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/khaledmtaha/XAnimatedImage'target='_blank'>XAnimatedImage</a></td>
+    <td>XAnimatedImage is a performant animated GIF engine for iOS written in Swift based on FLAnimatedImage</td>
+    <td>571</td>
+    <td>35</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/swiftgif/SwiftGif'target='_blank'>SwiftGif</a></td>
+    <td>A small UIImage extension with gif support</td>
+    <td>969</td>
+    <td>219</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/onevcat/APNGKit'target='_blank'>APNGKit</a></td>
+    <td>High performance and delightful way to play with APNG format in iOS.</td>
+    <td>1475</td>
+    <td>151</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/ibireme/YYImage'target='_blank'>YYImage</a></td>
+    <td>Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more.</td>
+    <td>1431</td>
+    <td>255</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/wangjwchn/AImage'target='_blank'>AImage</a></td>
+    <td>A animated gif & apng engine for iOS in Swift. Have a great performance on memory and cpu usage.</td>
+    <td>1002</td>
+    <td>97</td>
+    <td>Swift</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/metasmile/NSGIF2'target='_blank'>NSGIF2</a></td>
+    <td>Convert live photos and videos into animated GIFs in iOS, or extract frames from them.</td>
+    <td>73</td>
+    <td>11</td>
+    <td>Objective-C</td>
+</tr>
+<tr>
+    <td> <a href='https://github.com/kirualex/SwiftyGif'target='_blank'>SwiftyGif</a></td>
+    <td>High performance GIF engine</td>
+    <td>918</td>
+    <td>97</td>
+    <td>Swift</td>
+</tr>
