@@ -1,13 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*
 
+# Standard libs
 import os.path
 import re
 import time
 import json
 
+# Custom
 import api
-from helpers import write_emojis, get_root_path
+from helpers import *
 
 # HTML page markers for inserting text
 MARKERS = ["Dropdown", "Table"]
@@ -21,15 +23,33 @@ def main():
         text = f.read()
     
     repos = build_links_dict(text)
-    links = repos['UI'] # Random sections (contains the most URLs)
+    #links = repos['UI'] # Random sections (contains the most URLs)
+
+    for category in repos:
+        print('='*60)
+        print('Writing - ' + category)
+
+        st = time.time()
+        name = get_valid_filename(category)
+        links = repos[category]
+        table = build_table(links)
+        write_table_file('awesome-ios', name, table)
+
+        et = time.time() - st
+        print('Done    - ' + category)
+        print('Time elapsed: ' + str(float("%0.4f" % (et))))
+        print('='*60)
+        print()
+        
     print(api.get_rate_limit('Remaining'))
 
     destroy_section('Table')
     destroy_section('Dropdown')
-    write_section(build_categories(repos), 'Dropdown')
-    write_section(build_table(links), 'Table')        
+    #write_section(build_categories(repos), 'Dropdown')
+    #write_section(build_table(links), 'Table')        
 
     elapsed_time = time.time() - start_time
+    print("TOTAL TIME:")
     print('Time elapsed: ' + str(float("%0.4f" % (elapsed_time))))
 
 ##############################################
@@ -156,11 +176,12 @@ def write_section(data, section):
 def build_table(text):
     """ Setup and HTML formatted table with GitHub repo data
 
-    This function will request all data for repositories in a
-    given markdown string. The data will be returned in an HTML
-    formatted table for all of the links found in the argument.
-    Only markdown bulleted, new line separated strings should
-    be passed to this function. Ex:
+    This function will request ALL data for repositories in a
+    given markdown string. Requests take about 0.5s so EXPECT A 
+    SIGNIFICANT DELAY for large arguments. The data will be 
+    returned in an HTML formatted table for all of the links found 
+    in the argument.Only markdown bulleted, new line separated 
+    strings should be passed to this function. Ex:
         * [repo_name](https://github.com/user/repo) - Description
     
     Args:
@@ -225,12 +246,12 @@ def html_table(repo, url, data):
         url (str): GitHub URL. Should be available from 'data'
         data (dict): GitHub json response dictionary
     """
-    stars = data['stargazers_count']
-    forks = data['forks_count']
-    name = data['name'] if data['name'] != None else "None" # None == NoneType i guess
-    lang = data['language'] if data['language'] != None else "None"
-    description = format_description(data['description'])   
     try:
+        stars = data['stargazers_count']
+        forks = data['forks_count']
+        name = data['name'] if data['name'] != None else "None" # None == NoneType i guess
+        lang = data['language'] if data['language'] != None else "None"
+        description = format_description(data['description'])   
         row = ("<tr>\n"
                "    <td> <a href='" + url + "'target='_blank'>" + name +"</a></td>\n"
                "    <td>"+ description +"</td>\n"
@@ -238,6 +259,9 @@ def html_table(repo, url, data):
                "    <td>"+ str(forks)  +"</td>\n"
                "    <td>"+ lang  +"</td>\n"
                "</tr>\n")
+    except KeyError:
+        print('Unable to get data from API request.')
+        print('Repo: ' + repo + '\nurl: ' + url)
     except UnicodeDecodeError as err:
         print("Table unicode error")
         print(repo)
@@ -250,7 +274,6 @@ def html_table(repo, url, data):
 
     return row.encode('utf-8')
 
-# Format description to include emoji images 
 def format_description(text):
     """ Format repository description to handle invalid UTF-8 strings
 
@@ -285,7 +308,6 @@ def format_description(text):
     
     return formatted
 
-# Read emojis from json text file
 def read_emojis():
     """ Get emoji dictionary with GitHub assets links
 
@@ -314,13 +336,36 @@ def read_emojis():
 
     return json.loads(data)
 
+def write_table_file(a_list, category, table):
+    """ Write html formatted table data to file
+
+    This function writes table rows for a category to a file 
+    that is later retrieved to be inserted into index.html when 
+    the corresponding category button is selected. The file is
+    created with the category name in the directory of the
+    current awesome list (repository).
+        data/awesome-list/category
+
+        -TODO:
+            * Validation & Error handling
+    
+    Args:
+        a_list (str): awesome list name (directory to save tables)
+        category (str): file name to write table
+        table (str): html formatted table data
+    """
+    path = get_root_path() + '/data/' + a_list + '/' + category
+
+    try:
+        with open(path, 'w') as f:
+            f.write(table)
+    except IOError:
+        print('Unable to write data table file.')
 
 ##############################################
 # Categories Section
 ##############################################
 
-# Write categories to html
-# Accepts dictionary (with categories key) or list
 def build_categories(items):
     """ Build an HTML list of categories
 
@@ -350,7 +395,6 @@ def build_categories(items):
     dr = html_categories(sections)
     return dr
 
-# Format categories to html for dropdown button
 def html_categories(sections):
     """ Put categories into 'bootstrap-select' formatted dropdown list
     
