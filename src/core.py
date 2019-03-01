@@ -23,8 +23,7 @@ def main():
     sandbox_readme = get_root_path() + '/data/sandbox_readme'
     with open(sandbox_readme) as f:
         text = f.read()
-        CORE_LOG.info('read file')
-        #CORE_LOG.hello()
+        CORE_LOG.debug('read file')
 
     repos = build_links_dict(text)
     links = repos['Bluetooth'] # Random sections (contains the most URLs)
@@ -95,6 +94,7 @@ def build_links_dict(text):
         if re.search('\* \[.*]\(http[s]?:\/\/.*\)', line):
             items.append(line)
             repos[section] = items    
+            CORE_LOG.debug('(%s) %s', section, line)
     return repos
 
 
@@ -143,6 +143,8 @@ def destroy_section(section):
         if not end_success:
             CORE_LOG.error("Unable to find '%s' End marker", section)
 
+    CORE_LOG.info('Deleted section: %s', section)
+
 def write_section(data, section):
     """ Insert a section of text into an index.html page
 
@@ -177,6 +179,8 @@ def write_section(data, section):
         if not success:
             CORE_LOG.error("Unable to insert '%s' into html page", section)
 
+    CORE_LOG.info('Inserted section: %s', section)
+
 
 ##############################################
 # Table Section
@@ -193,6 +197,9 @@ def build_table(text):
     strings should be passed to this function. Ex:
         * [repo_name](https://github.com/user/repo) - Description
     
+        - TODO:
+            * Handle get_repo_data requests exception
+    
     Args:
         text (str): markdown bullets with GitHub repo links
     Returns:
@@ -200,11 +207,18 @@ def build_table(text):
 
     """
     table = ""
+    CORE_LOG.debug('**** Building HTML Table ****')
     for link in repo_links(text):
-        (user, repo) = api.get_user_repo(link)
-        data = api.get_repo_data(user, repo)
-        tr = html_table(repo, link, data)
-        table += tr
+        try:
+            (user, repo) = api.get_user_repo(link)
+            data = api.get_repo_data(user, repo)
+            tr = html_table(repo, link, data)
+            table += tr
+        except ValueError:
+            table += ''
+            CORE_LOG.warning('Skipping failed link: %s', link)
+
+    CORE_LOG.debug('**** Finished HTML Table ****')
     return table
 
 def repo_links(text):
@@ -237,6 +251,7 @@ def repo_links(text):
         if link:
             links.append(link) #+ "\n"
             
+    CORE_LOG.debug('Retrieved all GitHub links from text')
     return links #[:-1]
 
 def html_table(repo, url, data):
@@ -255,6 +270,7 @@ def html_table(repo, url, data):
         url (str): GitHub URL. Should be available from 'data'
         data (dict): GitHub json response dictionary
     """
+    CORE_LOG.debug('Building table row for repo: %s', repo)
     try:
         stars = data['stargazers_count']
         forks = data['forks_count']
@@ -271,10 +287,10 @@ def html_table(repo, url, data):
     except KeyError:
         CORE_LOG.error('Unable to get data from API request.\nRepo: %s\nURL: %s', repo, url)
         return ""
-    except UnicodeDecodeError as err:
+    except UnicodeDecodeError:
         CORE_LOG.error('HTML Table Unicode decoding.\nRepo: %s\nURL: %s', repo, url)
         return ""
-    except AttributeError as err:
+    except AttributeError:
         CORE_LOG.error('HTML Table Attribute.\nRepo: %s\nURL: %s', repo, url)
         return ""
 
@@ -307,6 +323,7 @@ def format_description(text):
              # Put in an image html tag
              g_emojis = read_emojis()
              tag = "<img src='" + g_emojis[name] + "'> "
+             CORE_LOG.debug('Added image for emoji: %s', name)
         except (KeyError, AttributeError):
             CORE_LOG.error('Unable to get emoji asset.\nFull description: %s', text)
             tag = ''
@@ -366,6 +383,8 @@ def write_table_file(a_list, category, table):
             f.write(table)
     except IOError:
         CORE_LOG.error('Unable to write date to table file')
+    
+    CORE_LOG.info('Successfully wrote html table to: %s', path)
 
 ##############################################
 # Categories Section
@@ -421,7 +440,9 @@ def html_categories(sections):
     except AttributeError as err:
         CORE_LOG.critical('Unable to write categories: %s', sections)
 
+    CORE_LOG.info('Successfully build html categories')
     return rows.encode('utf-8')
 
 if __name__ == '__main__':
+    CORE_LOG.debug('***** init *****')
     main()
