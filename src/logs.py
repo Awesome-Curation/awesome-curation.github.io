@@ -56,7 +56,7 @@ class ContextFilter(logging.Filter):
         print('='*40)
 
     def filter(self, record):
-        self._category_repos += 1
+        msg = record.getMessage()
         #if self._repos_complete % 2 ==0:
         #    self._end_logging()
         
@@ -79,7 +79,7 @@ def setup_logging():
 
     # Simplified log for console
     console = logging.StreamHandler()
-    console.setLevel(logging.INFO)
+    console.setLevel(logging.DEBUG)
 
     formatter = logging.Formatter('%(name)-6s: %(levelname)-8s %(message)s')
     console.setFormatter(formatter)
@@ -87,6 +87,10 @@ def setup_logging():
     filter = ContextFilter()
     logging.getLogger('').addHandler(console)
     logging.getLogger('').addFilter(filter)
+
+def set_console_level(lvl):
+    if 'Debug' in lvl:
+        logging.getLogger('').setLevel(logging.DEBUG)
 
 def add_logger(name):
     if not isinstance(name, str):
