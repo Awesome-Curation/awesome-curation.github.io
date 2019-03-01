@@ -10,9 +10,11 @@ import json
 # Custom
 import api
 from helpers import *
+from logs import *
 
 # HTML page markers for inserting text
 MARKERS = ["Dropdown", "Table"]
+CORE_LOG = add_logger('core')
 
 def main():
     start_time = time.time()
@@ -21,12 +23,15 @@ def main():
     sandbox_readme = get_root_path() + '/data/sandbox_readme'
     with open(sandbox_readme) as f:
         text = f.read()
-    
+        CORE_LOG.info('read file')
+        #CORE_LOG.hello()
+
     repos = build_links_dict(text)
-    #links = repos['UI'] # Random sections (contains the most URLs)
+    links = repos['Bluetooth'] # Random sections (contains the most URLs)
     #links = repos['PickerView'] # erroneous '-' appended to repo url
 
     # Write all html tables to files
+    '''
     for category in repos:
         print('='*60)
         print('Writing - ' + category)
@@ -42,6 +47,7 @@ def main():
         print('Time elapsed: ' + str(float("%0.4f" % (et))))
         print('='*60)
         print()
+    '''
         
     print(api.get_rate_limit('Remaining'))
 
@@ -85,6 +91,7 @@ def build_links_dict(text):
             h = re.sub('^#{2,5} {1,5}','',line)        
             if len(h) > 0:
                 section = h 
+                CORE_LOG.debug('Added section: %s', section)
         if re.search('\* \[.*]\(http[s]?:\/\/.*\)', line):
             items.append(line)
             repos[section] = items    
@@ -109,7 +116,7 @@ def destroy_section(section):
         section (str): section to search and destroy
     """
     if section not in MARKERS:
-        print("Unable to find html marker to destroy")
+        CORE_LOG.error("Unable to find markers for sections: %s", section)
         return
 
     site = get_root_path() + '/index.html'
@@ -132,9 +139,9 @@ def destroy_section(section):
                 html.write(line)    
 
         if not start_success:
-            print("Unable to find '" + section + "' Begin marker")
+            CORE_LOG.error("Unable to find '%s' Begin marker", section)
         if not end_success:
-            print("Unable to find '" + section + "' End marker")
+            CORE_LOG.error("Unable to find '%s' End marker", section)
 
 def write_section(data, section):
     """ Insert a section of text into an index.html page
@@ -153,7 +160,7 @@ def write_section(data, section):
         section (str): marker to insert after
     """
     if section not in MARKERS:
-        print("Unable to find html marker to insert")
+        CORE_LOG.error("Unable to find html marker to insert")
         return
 
     marker = 'Begin ' + section + ' Insertion'
@@ -168,7 +175,7 @@ def write_section(data, section):
                 success = True
             html.write(line)    
         if not success:
-            print("Unable to insert '" + section + "' into html page")
+            CORE_LOG.error("Unable to insert '%s' into html page", section)
 
 
 ##############################################
@@ -198,7 +205,6 @@ def build_table(text):
         data = api.get_repo_data(user, repo)
         tr = html_table(repo, link, data)
         table += tr
-
     return table
 
 def repo_links(text):
@@ -223,7 +229,8 @@ def repo_links(text):
     elif isinstance(text, list):
         lines = text
     else:
-        print("Unsupported text argument. Requires string or list")
+        CORE_LOG.error('Unsupported text argument. Requires string or list')
+        raise TypeError
 
     for line in lines:
         link = api.get_url(line)
@@ -262,17 +269,13 @@ def html_table(repo, url, data):
                "    <td>"+ lang  +"</td>\n"
                "</tr>\n")
     except KeyError:
-        print('Unable to get data from API request.')
-        print('Repo: ' + repo + '\nurl: ' + url)
+        CORE_LOG.error('Unable to get data from API request.\nRepo: %s\nURL: %s', repo, url)
         return ""
     except UnicodeDecodeError as err:
-        print("Table unicode error")
-        print(repo)
-        print(lang)
+        CORE_LOG.error('HTML Table Unicode decoding.\nRepo: %s\nURL: %s', repo, url)
         return ""
     except AttributeError as err:
-        print("Table attribute error")
-        print(repo)
+        CORE_LOG.error('HTML Table Attribute.\nRepo: %s\nURL: %s', repo, url)
         return ""
 
     return row.encode('utf-8')
@@ -293,6 +296,7 @@ def format_description(text):
 
     """
     if not text:
+        CORE_LOG.warning('No text to format')
         return ''
     
     formatted = text
@@ -304,8 +308,7 @@ def format_description(text):
              g_emojis = read_emojis()
              tag = "<img src='" + g_emojis[name] + "'> "
         except (KeyError, AttributeError):
-            print("Unable to get emoji")
-            print("Full description: " + text)
+            CORE_LOG.error('Unable to get emoji asset.\nFull description: %s', text)
             tag = ''
         formatted = re.sub(emoji, tag, formatted)
     
@@ -330,12 +333,11 @@ def read_emojis():
         with open(g_emojis, 'r') as f:
             data = f.read()
     except IOError:
-        print("Error reading emojis.txt"
-              "Calling api rewrite file...")
+        CORE_LOG.error('Unable to read emojis.txt')
+        CORE_LOG.info('Calling api to rewrite file...')
         return write_emojis()
     except ValueError:
-        print("Fatal error. Could not fetch emojis"
-              "Reevaluate your life.")
+        CORE_LOG.critical('Fatal error. Could not fetch emojis.')
 
     return json.loads(data)
 
@@ -363,7 +365,7 @@ def write_table_file(a_list, category, table):
         with open(path, 'w') as f:
             f.write(table)
     except IOError:
-        print('Unable to write data table file.')
+        CORE_LOG.error('Unable to write date to table file')
 
 ##############################################
 # Categories Section
@@ -392,7 +394,7 @@ def build_categories(items):
     elif isinstance(items, list):
         sections = items
     else:
-        print("Unsupported text argument. Requires dictionary or list")
+        CORE_LOG.error('Unsupported text argument. Requires dictionary or list')
         return ""
     
     dr = html_categories(sections)
@@ -417,10 +419,7 @@ def html_categories(sections):
         for item in sections:
             rows += "<option>" + item + "</option>\n"
     except AttributeError as err:
-        print('============')
-        print('Categories attribute error')
-        print(sections)
-        return ''
+        CORE_LOG.critical('Unable to write categories: %s', sections)
 
     return rows.encode('utf-8')
 
