@@ -177,7 +177,7 @@ def get_rate_limit(option=''):
         return ''
 
     if not option:
-        API_LOG.debug('Retrieved all RateLimit data')
+        API_LOG.info('Retrieved all RateLimit data: %s', (limit, remaining, reset))
         return (limit, remaining, reset)
     
     opts = ['Limit', 'Remaining', 'Reset']
@@ -185,8 +185,9 @@ def get_rate_limit(option=''):
         API_LOG.error("Unable to get RateLimit data")
         API_LOG.info("Options: Limit, Remaining, Reset")
     else:
-        API_LOG.info('Retrieved RateLimit: %s', option)
-        return req.headers['X-RateLimit-' + option]
+        data = req.headers['X-RateLimit-' + option]
+        API_LOG.info('Retrieved RateLimit: %s = %s', option, data)
+        return data
 
 # Get README.md raw data file to string
 def get_readme(user, repo):
