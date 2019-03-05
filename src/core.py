@@ -13,55 +13,80 @@ from helpers import *
 from logs import *
 
 # HTML page markers for inserting text
-MARKERS = ["Dropdown", "Table"]
-CORE_LOG = add_logger('core')
+MARKERS   = ["Dropdown", "Table"]
+CORE_LOG  = add_logger('core')
+ROOT_PATH = get_root_path()
 
 def main():
-    start_time = time.time()
+    setup_logging()
 
     # Testing - contains a sample readme file
-    sandbox_readme = get_root_path() + '/data/sandbox_readme'
+    sandbox_readme = os.path.join(ROOT_PATH, 'data/sandbox_readme')
     with open(sandbox_readme) as f:
         text = f.read()
         CORE_LOG.debug('read file')
 
     repos = build_links_dict(text)
-    links = repos['Bluetooth'] # Random sections (contains the most URLs)
+    #links = repos['Bluetooth'] # Random sections (contains the most URLs)
     #links = repos['PickerView'] # erroneous '-' appended to repo url
 
     # Write all html tables to files
-    '''
-    for category in repos:
-        print('='*60)
-        print('Writing - ' + category)
+    build_database(repos, 'awesome-ios')
 
-        st = time.time()
-        name = get_valid_filename(category)
-        links = repos[category]
-        table = build_table(links)
-        write_table_file('awesome-ios', name, table)
-
-        et = time.time() - st
-        print('Done    - ' + category)
-        print('Time elapsed: ' + str(float("%0.4f" % (et))))
-        print('='*60)
-        print()
-    '''
-        
-    print(api.get_rate_limit('Remaining'))
+    api.get_rate_limit('Remaining')
 
     destroy_section('Table')
     destroy_section('Dropdown')
-    write_section(build_categories(repos), 'Dropdown')
-    write_section(build_table(links), 'Table')        
+    #write_section(build_categories(repos), 'Dropdown')
+    #write_section(build_table(links), 'Table')        
 
-    elapsed_time = time.time() - start_time
-    print("TOTAL TIME:")
-    print('Time elapsed: ' + str(float("%0.4f" % (elapsed_time))))
+    CORE_LOG.info(FINISHED + SCRIPT)
 
 ##############################################
 # Build Core Data Section
 ##############################################
+
+def build_database(repos, list_name):
+    """ Save all categories & repos to data files as an html table
+
+    This function loops all categories in an awesome list and builds
+    html tables that are saved to files in 'data/awesome-list/category',
+    which will be added and deleted to the table in index.html 
+    dynamically through js. A dict ('info') is used to store & print
+    logging information.
+
+    Args:
+        repos (dict): Category keys and list of repo links as values
+        list_name (str): Awesome List to traverse
+
+    """
+    CORE_LOG.info(CATEGORY + FULL_LIST, {'Awesome List': list_name})
+
+    total_repos = 0
+    total_categories = 0
+    for category in repos:
+        info = {'Awesome List': list_name, 'Category': category}
+        CORE_LOG.info(WRITING + CATEGORY, info)
+
+        name = get_valid_filename(category)
+        links = repos[category]
+        table = build_table(links)
+        write_table_file(list_name, name, table)
+
+        repo_count = len(links)
+        total_repos += repo_count
+        total_categories += 1
+        info['Repo Count'] = repo_count
+        info['File Name'] = name
+        CORE_LOG.info(FINISHED + CATEGORY, info)
+    
+    info = {
+        'Awesome List': list_name,
+        'Category Count': total_categories,
+        'Repo Count': total_repos
+    }
+    CORE_LOG.info(FINISHED + FULL_LIST, info)
+
 
 def build_links_dict(text):
     """ Get all repositories in each category
@@ -94,7 +119,14 @@ def build_links_dict(text):
         if re.search('\* \[.*]\(http[s]?:\/\/.*\)', line):
             items.append(line)
             repos[section] = items    
-            CORE_LOG.debug('(%s) %s', section, line)
+            re.search('\[.*\(.*\)', line)
+
+            # Simplify logging text
+            try:
+                repo = re.search('\[.*\(.*\)', line).group(0) 
+            except:
+                repo = line
+            CORE_LOG.debug('%s - %s', section, repo)
     return repos
 
 
@@ -119,7 +151,7 @@ def destroy_section(section):
         CORE_LOG.error("Unable to find markers for sections: %s", section)
         return
 
-    site = get_root_path() + '/index.html'
+    site = os.path.join(ROOT_PATH, 'index.html')
     with open(site, 'r') as f:
         buffer = f.readlines()
     
@@ -166,7 +198,7 @@ def write_section(data, section):
         return
 
     marker = 'Begin ' + section + ' Insertion'
-    site = get_root_path() + '/index.html'
+    site = os.path.join(ROOT_PATH, 'index.html')
     with open(site, 'r') as f:
         buffer = f.readlines()
     
@@ -345,7 +377,7 @@ def read_emojis():
             - {'emoji_name':'https://github.githubassets.com/images/icons/emoji/emoji_name.png?v'}
 
     """
-    g_emojis = get_root_path() + '/data/emojis.txt'
+    g_emojis = os.path.join(ROOT_PATH, 'data/emojis.txt')
     try:
         with open(g_emojis, 'r') as f:
             data = f.read()
@@ -358,7 +390,7 @@ def read_emojis():
 
     return json.loads(data)
 
-def write_table_file(a_list, category, table):
+def write_table_file(list_name, category, table):
     """ Write html formatted table data to file
 
     This function writes table rows for a category to a file 
@@ -372,19 +404,20 @@ def write_table_file(a_list, category, table):
             * Validation & Error handling
     
     Args:
-        a_list (str): awesome list name (directory to save tables)
+        list_name (str): awesome list name (directory to save tables)
         category (str): file name to write table
         table (str): html formatted table data
     """
-    path = get_root_path() + '/data/' + a_list + '/' + category
+    path = os.path.join(ROOT_PATH, 'data', list_name, category)
 
     try:
         with open(path, 'w') as f:
             f.write(table)
     except IOError:
         CORE_LOG.error('Unable to write date to table file')
+        return
     
-    CORE_LOG.info('Successfully wrote html table to: %s', path)
+    CORE_LOG.info('Successfully wrote html table to: %s', 'data/' + list_name + '/' + category)
 
 ##############################################
 # Categories Section
