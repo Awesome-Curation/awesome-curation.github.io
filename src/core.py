@@ -12,7 +12,7 @@ import api
 from helpers import *
 from logs import *
 
-# HTML page markers for inserting text - depreciated
+# HTML page markers for inserting text
 MARKERS   = ["Dropdown", "Table"]
 CORE_LOG  = add_logger('core')
 ROOT_PATH = get_root_path()
@@ -27,24 +27,18 @@ def main():
         CORE_LOG.debug('read file')
 
     repos = build_links_dict(text)
-    #links = repos['GIF'] # Random sections (contains the most URLs)
-    #links = repos['PickerView'] # erroneous '-' appended to repo url
+    #links = repos['GIF'] # Random section to test
 
-    #print(build_table(links))
-    name = get_valid_filename('GIF')
-    links = repos['GIF']
-    table = build_table(links)
-    write_table_file('awesome-ios', name, table)
     # Write all html tables to files
-    #build_database(repos, 'awesome-ios')
+    build_database(repos, 'awesome-ios')
 
     api.get_rate_limit('Remaining')
 
     # HTML table insert depreciated
     #destroy_section('Table')
-    #destroy_section('Dropdown')
+    destroy_section('Dropdown')
     # Should move logs into build_ functions
-    #write_section(build_categories(repos), 'Dropdown')
+    write_section(build_categories(repos), 'Dropdown')
     #write_section(build_table(links), 'Table')        
 
     CORE_LOG.info(FINISHED + SCRIPT)
@@ -57,10 +51,10 @@ def build_database(repos, list_name):
     """ Save all categories & repos to data files as an html table
 
     This function loops all categories in an awesome list and builds
-    html tables that are saved to files in 'data/awesome-list/category',
-    which will be added and deleted to the table in index.html 
-    dynamically through js. A dict ('info') is used to store & print
-    logging information.
+    html tables that are saved to files in 'data/awesome-list/category.json',
+    which will be used by DataTables to add and delete the conetents 
+    in the table shown in index.html. This will be accomplished through button
+    clicks in js. A dict ('info') is used to store & print logging information.
 
     Args:
         repos (dict): Category keys and list of repo links as values
@@ -71,6 +65,9 @@ def build_database(repos, list_name):
 
     total_repos = 0
     total_categories = 0
+    full_table = {
+        "data": []
+    }
     for category in repos:
         info = {'Awesome List': list_name, 'Category': category}
         CORE_LOG.info(WRITING + CATEGORY, info)
@@ -78,7 +75,9 @@ def build_database(repos, list_name):
         name = get_valid_filename(category)
         links = repos[category]
         table = build_table(links)
-        write_table_file(list_name, name, table)
+        full_table["data"].append(table)
+        table_str = json.dumps(table, indent=4, sort_keys=True) 
+        write_table_file(list_name, name, table_str)
 
         repo_count = len(links)
         total_repos += repo_count
@@ -87,6 +86,9 @@ def build_database(repos, list_name):
         info['File Name'] = name
         CORE_LOG.info(FINISHED + CATEGORY, info)
     
+    # Create file with all json tables
+    ft = json.dumps(full_table, indent=4, sort_keys=True)
+    write_table_file(list_name, '__all__', ft)
     info = {
         'Awesome List': list_name,
         'Category Count': total_categories,
@@ -243,7 +245,7 @@ def build_table(text):
     Args:
         text (str): markdown bullets with GitHub repo links
     Returns:
-        str: json object formatted to a string to be printed
+        dict: json object with column name keys and repo data values
 
     """
     table = {
@@ -260,8 +262,8 @@ def build_table(text):
         except ValueError:
             CORE_LOG.warning('Skipping failed link: %s', link)
 
-    CORE_LOG.debug('**** Finished HTML Table ****')
-    return json.dumps(table, indent=4, sort_keys=True) 
+    CORE_LOG.debug('**** Finished JSON Table ****')
+    return table
 
 def repo_links(text):
     """ Get a list of repository links
@@ -468,16 +470,16 @@ def write_table_file(list_name, category, table):
         category (str): file name to write table
         table (str): html formatted table data
     """
-    path = os.path.join(ROOT_PATH, 'data', list_name, category)
+    path = os.path.join(ROOT_PATH, 'data', list_name, category + '.json')
 
     try:
         with open(path, 'w') as f:
             f.write(table)
     except IOError:
-        CORE_LOG.error('Unable to write date to table file')
+        CORE_LOG.error('Unable to write date to table file: %s', path)
         return
     
-    CORE_LOG.info('Successfully wrote html table to: %s', 'data/' + list_name + '/' + category)
+    CORE_LOG.info('Successfully wrote html table to: %s', 'data/' + list_name + '/' + category + '.json')
 
 ##############################################
 # Categories Section
@@ -516,9 +518,10 @@ def html_categories(sections):
     """ Put categories into 'bootstrap-select' formatted dropdown list
     
     This function accepts a list of categories and formats them for
-    bootstrap-select to handle in a dropdown menu. Categories are
+    bootstrap-select to handle in a dropdown menu. The file json filename
+    containing the table data is stored as the 'id' tag. Categories are
     concatinated in the form:
-        <option>Category</option>
+        <option id='category.json'>Category</option>
     
     Args: 
         sections (list): categories to add in dropdown
@@ -529,7 +532,8 @@ def html_categories(sections):
     rows = ''
     try:
         for item in sections:
-            rows += "<option>" + item + "</option>\n"
+            fn = get_valid_filename(item) + '.json'
+            rows += "<option id='"+ fn +"'>" + item + "</option>\n"
     except AttributeError as err:
         CORE_LOG.critical('Unable to write categories: %s', sections)
 
@@ -537,5 +541,5 @@ def html_categories(sections):
     return rows.encode('utf-8')
 
 if __name__ == '__main__':
-    CORE_LOG.debug('***** init *****')
+    CORE_LOG.info('***** init *****')
     main()
