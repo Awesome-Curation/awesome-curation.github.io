@@ -12,7 +12,7 @@ FULL_LIST = 'List: '
 SCRIPT    = 'Script: '
 DEBUG_LVL = logging.INFO
 path = os.path.dirname(__file__)
-FILE_PATH = os.path.abspath(os.path.join(path, os.pardir)) + '/data/sandboxz'
+FILE_PATH = os.path.abspath(os.path.join(path, os.pardir)) + '/data/script_log'
 
 class ContextFilter(logging.Filter):
     """ Injects contextual information into the log.
