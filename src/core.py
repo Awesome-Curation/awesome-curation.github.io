@@ -12,7 +12,7 @@ import api
 from helpers import *
 from logs import *
 
-# HTML page markers for inserting text
+# HTML page markers for inserting text - depreciated
 MARKERS   = ["Dropdown", "Table"]
 CORE_LOG  = add_logger('core')
 ROOT_PATH = get_root_path()
@@ -27,16 +27,23 @@ def main():
         CORE_LOG.debug('read file')
 
     repos = build_links_dict(text)
-    #links = repos['Bluetooth'] # Random sections (contains the most URLs)
+    #links = repos['GIF'] # Random sections (contains the most URLs)
     #links = repos['PickerView'] # erroneous '-' appended to repo url
 
+    #print(build_table(links))
+    name = get_valid_filename('GIF')
+    links = repos['GIF']
+    table = build_table(links)
+    write_table_file('awesome-ios', name, table)
     # Write all html tables to files
-    build_database(repos, 'awesome-ios')
+    #build_database(repos, 'awesome-ios')
 
     api.get_rate_limit('Remaining')
 
-    destroy_section('Table')
-    destroy_section('Dropdown')
+    # HTML table insert depreciated
+    #destroy_section('Table')
+    #destroy_section('Dropdown')
+    # Should move logs into build_ functions
     #write_section(build_categories(repos), 'Dropdown')
     #write_section(build_table(links), 'Table')        
 
@@ -219,14 +226,15 @@ def write_section(data, section):
 ##############################################
 
 def build_table(text):
-    """ Setup and HTML formatted table with GitHub repo data
+    """ Setup and json formatted table with GitHub repo data
 
     This function will request ALL data for repositories in a
     given markdown string. Requests take about 0.5s so EXPECT A 
     SIGNIFICANT DELAY for large arguments. The data will be 
-    returned in an HTML formatted table for all of the links found 
-    in the argument.Only markdown bulleted, new line separated 
-    strings should be passed to this function. Ex:
+    returned in an json object to be loaded into the table displayed
+    in the webpage. All of the links found in the argument will be 
+    added the to object returned. Only markdown bulleted, new line 
+    separated strings should be passed to this function. Ex:
         * [repo_name](https://github.com/user/repo) - Description
     
         - TODO:
@@ -235,23 +243,25 @@ def build_table(text):
     Args:
         text (str): markdown bullets with GitHub repo links
     Returns:
-        str: HTML formatted table rows
+        str: json object formatted to a string to be printed
 
     """
-    table = ""
+    table = {
+        "data" : []
+    }   
     CORE_LOG.debug('**** Building HTML Table ****')
     for link in repo_links(text):
         try:
+            # TODO: need to log bad links
             (user, repo) = api.get_user_repo(link)
             data = api.get_repo_data(user, repo)
-            tr = html_table(repo, link, data)
-            table += tr
+            tr = json_table(repo, link, data)
+            table["data"].append(tr)
         except ValueError:
-            table += ''
             CORE_LOG.warning('Skipping failed link: %s', link)
 
     CORE_LOG.debug('**** Finished HTML Table ****')
-    return table
+    return json.dumps(table, indent=4, sort_keys=True) 
 
 def repo_links(text):
     """ Get a list of repository links
@@ -279,6 +289,7 @@ def repo_links(text):
         raise TypeError
 
     for line in lines:
+        # TODO: Need error raised for bad links
         link = api.get_url(line)
         if link:
             links.append(link) #+ "\n"
@@ -286,6 +297,55 @@ def repo_links(text):
     CORE_LOG.debug('Retrieved all GitHub links from text')
     return links #[:-1]
 
+def json_table(repo, url, data):
+    """ Format repository data into dictionary used for a single table row
+
+    This function accepts a json dictionary containing the repository
+    data and filters only the needed attributes for the table to a new json 
+    object used by DataTables (datatables.js)
+        - TODO:
+            * Handle bad repo arguments (raise & call a reload)
+            * Handle exceptions (& add one for KeyError 'data' access)
+            * Repo & url arguments are unnecessary & can be removed
+            * Add more table rows (as options to be shown by DataTables lib)
+    
+    Args:
+        repo (str): used to print during exceptions. Should be removed
+        url (str): GitHub URL. Should be available from 'data'
+        data (dict): GitHub json response dictionary
+    Returns:
+        dict: column name keys with GitHub repo data values
+    """
+    CORE_LOG.debug('Building table row for repo: %s', repo)
+
+    try:
+        name = data['name'] if data['name'] != None else "None" # None == NoneType i guess
+        description = format_description(data['description'])   
+        stars = data['stargazers_count']
+        forks = data['forks_count']
+        lang = data['language'] if data['language'] != None else "None"
+
+        row = {
+            "Repo" : "<a href='" + url + "'target='_blank'>" + name +"</a>",
+            "Description": description,
+            "Stars": stars,
+            "Forks": forks,
+            "Language": lang
+        }
+    except KeyError:
+        CORE_LOG.error('Unable to get data from API request.\nRepo: %s\nURL: %s', repo, url)
+        raise ValueError
+    except UnicodeDecodeError:
+        CORE_LOG.error('HTML Table Unicode decoding.\nRepo: %s\nURL: %s', repo, url)
+        raise ValueError
+    except AttributeError:
+        CORE_LOG.error('HTML Table Attribute.\nRepo: %s\nURL: %s', repo, url)
+        raise ValueError
+
+    return row
+
+# DEPRECIATED - may be removed
+# Using JSON for datatables ajax seems better
 def html_table(repo, url, data):
     """ Format repository data into an HTML table row
 
