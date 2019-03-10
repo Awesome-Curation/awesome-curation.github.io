@@ -33,6 +33,8 @@ class ContextFilter(logging.Filter):
     _script_lists = 0
     _script_categories = 0
     _script_repos = 0
+    _errors = 0
+    _warnings = 0
 
     # Awesome list execution time
     _list_time = _script_time
@@ -140,6 +142,8 @@ class ContextFilter(logging.Filter):
             self._print('List Count:     {}'.format(self._script_lists))
             self._print('Category Count: {}'.format(self._script_categories))
             self._print('Repo Count:     {}'.format(self._script_repos))
+            self._print('Warnings:       {}'.format(self._warnings))
+            self._print('Errors:         {}'.format(self._errors))
         except (TypeError, KeyError):
             self._print('Unable to get category info')
             self._print(record.getMessage())
@@ -174,6 +178,10 @@ class ContextFilter(logging.Filter):
         """
         if record.levelno == logging.CRITICAL:
             self._critical_err(record)
+        elif record.levelno == logging.ERROR:
+            self._errors += 1
+        elif record.levelno == logging.WARNING:
+            self._warnings += 1
         
         msg = record.getMessage()
 
@@ -247,7 +255,6 @@ def add_logger(name):
     logger = logging.getLogger(name) 
     logger.addFilter(filter)
     return logger
-
 
 '''
 # Subclass testing
