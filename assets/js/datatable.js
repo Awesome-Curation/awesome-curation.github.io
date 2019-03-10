@@ -1,6 +1,9 @@
 $(document).ready(function () {
-    $('#curated').DataTable( {
-        "ajax" : "data/sandbox.json",
+    var awesome_list = 'awesome-ios'
+
+    // Build DataTable instance with custom attributes
+    var table = $('#curated').DataTable( {
+        "ajax" : "data/" + awesome_list + "/__all__.json",
         "columns" : [
             { "data" : "Repo"},
             { "data" : "Description"},
@@ -24,20 +27,11 @@ $(document).ready(function () {
         responsive: true
 
     });
-})
 
-/*
-function myFunction() {
-    var table = $('#curated').DataTable( {
-    } );
-
-    if (document.getElementById("demo-button").style.color == 'red') {
-        document.getElementById("demo-button").style.color = "white";
-    }
-    else {
-        table.destroy();
-        document.getElementById("demo-button").style.color = "red";
-        //table.reload();
-    }
-}
-*/
+    // Load whichever table is selected from the dropdown
+    $('.selectpicker').change(function () {
+        var selectedItem = $(this).find("option:selected").val();
+        file_name = $(this).find("option:selected").attr("id");
+        table.ajax.url( 'data/awesome-ios/' + file_name ).load();
+    });
+});
