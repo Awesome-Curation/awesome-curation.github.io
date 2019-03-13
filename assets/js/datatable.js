@@ -1,6 +1,7 @@
 $(document).ready(function () {
     var awesome_list = 'awesome-ios';
-    var full_table = "data/" + awesome_list + "/__all__.json";
+    var data_source = 'Data_Structures__Algorithms.json'; // __all__.json is broken
+    var full_table = "data/" + awesome_list + "/" + data_source;
 
     // Build DataTable instance with custom attributes
     var table = $('#curated').DataTable( {
