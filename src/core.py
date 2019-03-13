@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*
 
 # Standard libs
-import os.path
+import os
 import re
 import time
 import json
@@ -20,26 +20,27 @@ ROOT_PATH = get_root_path()
 def main():
     setup_logging()
 
-    # Testing - contains a sample readme file
-    sandbox_readme = os.path.join(ROOT_PATH, 'data/sandbox_readme')
-    with open(sandbox_readme) as f:
+    awesome_list = 'awesome-ios'
+    readme = os.path.join(ROOT_PATH, 'data', awesome_list)
+    with open(readme) as f:
         text = f.read()
-        CORE_LOG.debug('read file')
+        CORE_LOG.debug('Reading list: %s', awesome_list)
 
+    # Get all categories in a list and the repos they contain
     repos = build_links_dict(text)
-    #links = repos['GIF'] # Random section to test
+    #links = repos['GIF'] # Testing - Random category to test
 
     # Write all html tables to files
-    build_database(repos, 'awesome-ios')
+    build_database(repos, awesome_list)
 
     api.get_rate_limit('Remaining')
 
-    # HTML table insert depreciated
-    #destroy_section('Table')
+    # Build the dropdown menu bar with the list's categories
     destroy_section('Dropdown')
-    # Should move logs into build_ functions
     write_section(build_categories(repos), 'Dropdown')
-    #write_section(build_table(links), 'Table')        
+
+    # Build table file with all repos
+    json_combine_all(awesome_list)
 
     CORE_LOG.info(FINISHED + SCRIPT)
 
@@ -345,6 +346,48 @@ def json_table(repo, url, data):
         raise ValueError
 
     return row
+
+def json_combine_all(list_name, out_file='__all__.json'):
+    """ Combine all categories for a list into single json file
+
+    This function loops all .json files in a list's data directory and combines 
+    them into a single json file name 'out_file'. The file is stored in
+    the usual json format of single key, 'data', containing values as a list 
+    of table rows with keys, 'column-name' and the corresponding value. The
+    files being combined should be formatted the same.
+
+    Args:
+        list_name (str): list directory to traverse and combine
+        out_file (str, optional): name of file to combin into
+            - datatable.js currently reads '__all__.json' from the
+              list's directory (and the option id in index.html)
+
+    """
+    path = os.path.join(ROOT_PATH, 'data', list_name)
+
+    if not os.path.exists(path):
+        CORE_LOG.error("Unable to combine json file. '%s' list dir does not exist", list_name)
+        return
+    
+    data = {
+        "data": []
+    }
+    for root, dirs, files in os.walk(path):
+        for f in files:
+            if out_file in f:
+                CORE_LOG.warning('%s already exists. Overwriting', out_file)
+                continue
+            fp = os.path.join(root, f)
+            with open(fp, 'r') as d:
+                try:
+                    rows = json.loads(d.read())
+                    data["data"] += rows["data"]
+                except (KeyError, ValueError):
+                    CORE_LOG.error("Unable to add: '%s' to %s", f, out_file)
+    
+    fp = os.path.join(path, out_file)
+    with open(fp, 'w') as d:
+        d.write(json.dumps(data, indent=4, sort_keys=True))
 
 # DEPRECIATED - may be removed
 # Using JSON for datatables ajax seems better
