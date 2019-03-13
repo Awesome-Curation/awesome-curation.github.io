@@ -1,0 +1,8 @@
+/* Avoid horizontal scrolling table */
+td.break {
+  word-break: break-all;
+}
+
+td.wrapok {
+  white-space:normal
+}
