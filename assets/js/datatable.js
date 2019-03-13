@@ -4,7 +4,10 @@ $(document).ready(function () {
 
     // Build DataTable instance with custom attributes
     var table = $('#curated').DataTable( {
-        "ajax" : full_table,
+        "ajax" : {
+            "url": full_table,
+            "dataSrc": "data"
+        },
         "columnDefs": [
             { "data" : "Repo",        "targets": 0},
             { "data" : "Description", "targets": 1},
