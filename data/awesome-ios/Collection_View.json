@@ -1,0 +1,207 @@
+{
+    "data": [
+        {
+            "Description": "Swift Diff", 
+            "Forks": 113, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jflinter/Dwifft'target='_blank'>Dwifft</a>", 
+            "Stars": 1681
+        }, 
+        {
+            "Description": "An iOS drop-in UITableView, UICollectionView and UIScrollView superclass category for showing a customizable floating button on top of it.", 
+            "Forks": 41, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/manuelescrig/MEVFloatingButton'target='_blank'>MEVFloatingButton</a>", 
+            "Stars": 292
+        }, 
+        {
+            "Description": "Automates prefetching of content in UITableView and UICollectionView", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kean/Preheat'target='_blank'>Preheat</a>", 
+            "Stars": 622
+        }, 
+        {
+            "Description": "Custom transition between two collection view layouts", 
+            "Forks": 177, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Yalantis/DisplaySwitcher'target='_blank'>DisplaySwitcher</a>", 
+            "Stars": 1890
+        }, 
+        {
+            "Description": "A Swift mixin for reusing views easily and in a type-safe way (UITableViewCells, UICollectionViewCells, custom UIViews, ViewControllers, Storyboards\u2026)", 
+            "Forks": 142, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AliSoftware/Reusable'target='_blank'>Reusable</a>", 
+            "Stars": 2004
+        }, 
+        {
+            "Description": "Cellmodel-driven collectionview manager", 
+            "Forks": 20, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nghialv/Sapporo'target='_blank'>Sapporo</a>", 
+            "Stars": 242
+        }, 
+        {
+            "Description": "UICollectionView layout for presenting of the overlapping cells.", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/matbeich/StickyCollectionView-Swift'target='_blank'>StickyCollectionView-Swift</a>", 
+            "Stars": 274
+        }, 
+        {
+            "Description": "TLIndexPathTools is a small set of classes that can greatly simplify your table and collection views.", 
+            "Forks": 61, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/SwiftKickMobile/TLIndexPathTools'target='_blank'>TLIndexPathTools</a>", 
+            "Stars": 342
+        }, 
+        {
+            "Description": "A data-driven UICollectionView framework for building fast and flexible lists.", 
+            "Forks": 1041, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Instagram/IGListKit'target='_blank'>IGListKit</a>", 
+            "Stars": 9881
+        }, 
+        {
+            "Description": "Generic collection view controller with external data processing", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dimpiax/FlexibleCollectionViewController'target='_blank'>FlexibleCollectionViewController</a>", 
+            "Stars": 3
+        }, 
+        {
+            "Description": "A Swift collection view inspired by Airbnb.", 
+            "Forks": 16, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/abdullahselek/ASCollectionView'target='_blank'>ASCollectionView</a>", 
+            "Stars": 189
+        }, 
+        {
+            "Description": "Netflix and App Store like UITableView with UICollectionView, written in pure Swift 4.2", 
+            "Forks": 36, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/giulio92/GLTableCollectionView'target='_blank'>GLTableCollectionView</a>", 
+            "Stars": 654
+        }, 
+        {
+            "Description": "Incremental update tool to UITableView and UICollectionView", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kazuhiro4949/EditDistance'target='_blank'>EditDistance</a>", 
+            "Stars": 74
+        }, 
+        {
+            "Description": "Spreadsheet CollectionViewLayout in Swift. Fully customizable. \ud83d\udd36", 
+            "Forks": 27, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/stuffrabbit/SwiftSpreadsheet'target='_blank'>SwiftSpreadsheet</a>", 
+            "Stars": 485
+        }, 
+        {
+            "Description": "A generic small reusable components for data source implementation for UITableView/UICollectionView in Swift.", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/GenericDataSource/GenericDataSource'target='_blank'>GenericDataSource</a>", 
+            "Stars": 93
+        }, 
+        {
+            "Description": "Infinite paging, Smart auto layout, Interface of similar to UIKit.", 
+            "Forks": 38, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/KyoheiG3/PagingView'target='_blank'>PagingView</a>", 
+            "Stars": 280
+        }, 
+        {
+            "Description": "PJFDataSource is a small library that provides a simple, clean architecture for your app to manage its data sources while providing a consistent user interface for common content states (i.e. loading, loaded, empty, and error).", 
+            "Forks": 4, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/square/PJFDataSource'target='_blank'>PJFDataSource</a>", 
+            "Stars": 89
+        }, 
+        {
+            "Description": "\ud83d\udcbe \ud83d\udd1c\ud83d\udcf1 Type-safe data-driven CollectionView, TableView Framework. (We can also use ASCollectionNode)", 
+            "Forks": 24, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/muukii/DataSources'target='_blank'>DataSources</a>", 
+            "Stars": 476
+        }, 
+        {
+            "Description": "This component allows for the transfer of data items between collection views through drag and drop", 
+            "Forks": 54, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mmick66/KDDragAndDropCollectionView'target='_blank'>KDDragAndDropCollectionView</a>", 
+            "Stars": 361
+        }, 
+        {
+            "Description": "A component to quickly scroll between collection view sections", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/3lvis/SectionScrubber'target='_blank'>SectionScrubber</a>", 
+            "Stars": 175
+        }, 
+        {
+            "Description": "Reimagining UICollectionView", 
+            "Forks": 163, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SoySauceLab/CollectionKit'target='_blank'>CollectionKit</a>", 
+            "Stars": 3396
+        }, 
+        {
+            "Description": " Easy way to integrate pagination with dummy views in CollectionView, make Instagram \"Discover\" within minutes.", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AfrozZaheer/AZCollectionViewController'target='_blank'>AZCollectionViewController</a>", 
+            "Stars": 64
+        }, 
+        {
+            "Description": "Collapse and expand UICollectionView sections with one method call.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/touchlane/CampcotCollectionView'target='_blank'>CampcotCollectionView</a>", 
+            "Stars": 35
+        }, 
+        {
+            "Description": "A guy that helps you manage collections and placeholders in easy way.", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/appunite/Stefan'target='_blank'>Stefan</a>", 
+            "Stars": 44
+        }, 
+        {
+            "Description": "Parallax Scroll-Jacking Effects Engine for iOS / tvOS", 
+            "Forks": 29, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/HelloElephant/Parade'target='_blank'>Parade</a>", 
+            "Stars": 647
+        }, 
+        {
+            "Description": "A custom paging behavior that peeks the previous and next items in a collection view", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MaherKSantina/MSPeekCollectionViewDelegateImplementation'target='_blank'>MSPeekCollectionViewDelegateImplementation</a>", 
+            "Stars": 61
+        }, 
+        {
+            "Description": "Easy and type-safe iOS table and collection views in Swift.", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Squarespace/simple-source'target='_blank'>simple-source</a>", 
+            "Stars": 50
+        }, 
+        {
+            "Description": "Conv smart represent UICollectionView data structure more than UIKit.", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/bannzai/conv'target='_blank'>Conv</a>", 
+            "Stars": 111
+        }, 
+        {
+            "Description": "\ud83d\udeb4 A declarative library for building component-based user interfaces in UITableView and UICollectionView.", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ra1028/Carbon'target='_blank'>Carbon</a>", 
+            "Stars": 442
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "Description": "iOS custom badge button.", 
+            "Forks": 62, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mustafaibrahim989/MIBadgeButton-Swift'target='_blank'>MIBadgeButton-Swift</a>", 
+            "Stars": 315
+        }, 
+        {
+            "Description": "UIView extension that adds a notification badge.", 
+            "Forks": 22, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Minitour/EasyNotificationBadge'target='_blank'>EasyNotificationBadge</a>", 
+            "Stars": 83
+        }, 
+        {
+            "Description": "Badgify anything.", 
+            "Forks": 27, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/gemr/Sheriff'target='_blank'>Sheriff</a>", 
+            "Stars": 256
+        }, 
+        {
+            "Description": "A badge view for iOS/tvOS written in Swift", 
+            "Forks": 62, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/evgenyneu/swift-badge'target='_blank'>swift-badge</a>", 
+            "Stars": 329
+        }
+    ]
+}

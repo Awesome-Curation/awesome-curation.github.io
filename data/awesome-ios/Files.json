@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "Description": "Simple and expressive file management in Swift", 
+            "Forks": 165, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nvzqz/FileKit'target='_blank'>FileKit</a>", 
+            "Stars": 1940
+        }, 
+        {
+            "Description": "Swift framework for zipping and unzipping files.", 
+            "Forks": 237, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marmelroy/Zip'target='_blank'>Zip</a>", 
+            "Stars": 1517
+        }, 
+        {
+            "Description": "Finder-style iOS file browser written in Swift", 
+            "Forks": 164, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marmelroy/FileBrowser'target='_blank'>FileBrowser</a>", 
+            "Stars": 1331
+        }, 
+        {
+            "Description": "Zero-setup P2P file transfer between Macs and iOS devices", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/indragiek/Ares'target='_blank'>Ares</a>", 
+            "Stars": 120
+        }, 
+        {
+            "Description": "FileManager replacement for Local, iCloud and Remote (WebDAV/FTP/Dropbox/OneDrive) files -- Swift", 
+            "Forks": 71, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/amosavian/FileProvider'target='_blank'>FileProvider</a>", 
+            "Stars": 451
+        }, 
+        {
+            "Description": "A micro-framework for observing file changes, both local and remote. Helpful in building developer tools.", 
+            "Forks": 54, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/krzysztofzablocki/KZFileWatchers'target='_blank'>KZFileWatchers</a>", 
+            "Stars": 927
+        }, 
+        {
+            "Description": "ZipArchive is a simple utility class for zipping and unzipping files on iOS, macOS and tvOS.", 
+            "Forks": 959, 
+            "Language": "C", 
+            "Repo": "<a href='https://github.com/ZipArchive/ZipArchive'target='_blank'>ZipArchive</a>", 
+            "Stars": 3898
+        }, 
+        {
+            "Description": "FileExplorer is a powerful iOS file browser that allows its users to choose and remove files and/or directories", 
+            "Forks": 84, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Augustyniak/FileExplorer'target='_blank'>FileExplorer</a>", 
+            "Stars": 621
+        }, 
+        {
+            "Description": "Effortless ZIP Handling in Swift", 
+            "Forks": 49, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/weichsel/ZIPFoundation'target='_blank'>ZIPFoundation</a>", 
+            "Stars": 1042
+        }, 
+        {
+            "Description": "\ud83d\uddc2 Never use NSSearchPathForDirectoriesInDomains again. Never.", 
+            "Forks": 22, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dreymonde/AppFolder'target='_blank'>AppFolder</a>", 
+            "Stars": 899
+        }, 
+        {
+            "Description": "zip file I/O library for iOS, macOS and tvOS", 
+            "Forks": 179, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/pixelglow/ZipZap'target='_blank'>ZipZap</a>", 
+            "Stars": 1165
+        }, 
+        {
+            "Description": "Swift framework to connect SMB2/3 shares", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/amosavian/AMSMB2'target='_blank'>AMSMB2</a>", 
+            "Stars": 32
+        }
+    ]
+}

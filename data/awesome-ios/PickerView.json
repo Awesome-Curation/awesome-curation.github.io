@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "Description": "\ud83d\udd38 A customizable alternative to UIPickerView in Swift.", 
+            "Forks": 72, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/filipealva/PickerView'target='_blank'>PickerView</a>", 
+            "Stars": 369
+        }, 
+        {
+            "Description": "Date picker dialog for iOS", 
+            "Forks": 124, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/squimer/DatePickerDialog-iOS-Swift'target='_blank'>DatePickerDialog-iOS-Swift</a>", 
+            "Stars": 389
+        }, 
+        {
+            "Description": "a picker view shown as a popup for iOS in Objective-C", 
+            "Forks": 92, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/chenzeyu/CZPicker'target='_blank'>CZPicker</a>", 
+            "Stars": 512
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png?v8'>  UIDatePicker modally presented with iOS 7 custom transitions.", 
+            "Forks": 16, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/alikaragoz/AIDatePickerController'target='_blank'>AIDatePickerController</a>", 
+            "Stars": 91
+        }, 
+        {
+            "Description": " \ud83c\udfaf Swift country and phone code Picker", 
+            "Forks": 53, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/4taras4/CountryCode'target='_blank'>CountryCode</a>", 
+            "Stars": 139
+        }, 
+        {
+            "Description": "McPicker is a customizable, closure driven UIPickerView drop-in solution with animations that is rotation ready.", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kmcgill88/McPicker-iOS'target='_blank'>McPicker-iOS</a>", 
+            "Stars": 119
+        }, 
+        {
+            "Description": "An iOS picker view to serve all your \"picking\" needs", 
+            "Forks": 31, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/blueapron/Mandoline'target='_blank'>Mandoline</a>", 
+            "Stars": 710
+        }, 
+        {
+            "Description": "Elegant and Easy-to-Use iOS Swift Date Picker", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/di2pra/D2PDatePicker'target='_blank'>D2PDatePicker</a>", 
+            "Stars": 243
+        }, 
+        {
+            "Description": "A country picker view controller for iOS", 
+            "Forks": 23, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kwallet/planet'target='_blank'>planet</a>", 
+            "Stars": 65
+        }, 
+        {
+            "Description": "MICountryPicker is a country picker controller for iOS8+ with an option to search.", 
+            "Forks": 33, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mustafaibrahim989/MICountryPicker'target='_blank'>MICountryPicker</a>", 
+            "Stars": 87
+        }, 
+        {
+            "Description": "A fully customizable iOS Horizontal PickerView library, written in pure swift", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/abhiperry/ADDatePicker'target='_blank'>ADDatePicker</a>", 
+            "Stars": 89
+        }
+    ]
+}

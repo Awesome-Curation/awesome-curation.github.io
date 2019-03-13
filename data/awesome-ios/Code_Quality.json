@@ -1,0 +1,179 @@
+{
+    "data": [
+        {
+            "Description": "iOS project bootstrap aimed at high quality coding.", 
+            "Forks": 121, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/krzysztofzablocki/Bootstrap'target='_blank'>Bootstrap</a>", 
+            "Stars": 1993
+        }, 
+        {
+            "Description": "Asserts on roids, test all your assumptions with ease.", 
+            "Forks": 11, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/krzysztofzablocki/KZAsserts'target='_blank'>KZAsserts</a>", 
+            "Stars": 104
+        }, 
+        {
+            "Description": "Objective-C style checker", 
+            "Forks": 37, 
+            "Language": "Python", 
+            "Repo": "<a href='https://github.com/Cue/ocstyle'target='_blank'>ocstyle</a>", 
+            "Stars": 260
+        }, 
+        {
+            "Description": "Commit fully-formatted Objective-C as a team without even trying.", 
+            "Forks": 140, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/square/spacecommander'target='_blank'>spacecommander</a>", 
+            "Stars": 980
+        }, 
+        {
+            "Description": "Optimizing UITableViewCell For Fast Scrolling", 
+            "Forks": 41, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/diwu/DWURecyclingAlert'target='_blank'>DWURecyclingAlert</a>", 
+            "Stars": 571
+        }, 
+        {
+            "Description": "Cross-platform static analyzer and linter for Swift.", 
+            "Forks": 48, 
+            "Language": "Java", 
+            "Repo": "<a href='https://github.com/sleekbyte/tailor'target='_blank'>tailor</a>", 
+            "Stars": 1278
+        }, 
+        {
+            "Description": "SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations.", 
+            "Forks": 35, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/andresinaka/SwiftCop'target='_blank'>SwiftCop</a>", 
+            "Stars": 536
+        }, 
+        {
+            "Description": "Trackable is a simple analytics integration helper library. It\u2019s especially designed for easy and comfortable integration with existing projects.", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/VojtaStavik/Trackable'target='_blank'>Trackable</a>", 
+            "Stars": 142
+        }, 
+        {
+            "Description": "Find memory leaks in your iOS app at develop time.", 
+            "Forks": 656, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Tencent/MLeaksFinder'target='_blank'>MLeaksFinder</a>", 
+            "Stars": 4176
+        }, 
+        {
+            "Description": "Find memory issues & leaks in your iOS app without instruments", 
+            "Forks": 135, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/tapwork/HeapInspector-for-iOS'target='_blank'>HeapInspector-for-iOS</a>", 
+            "Stars": 1742
+        }, 
+        {
+            "Description": "iOS tool that helps with profiling iOS Memory usage.", 
+            "Forks": 344, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/facebook/FBMemoryProfiler'target='_blank'>FBMemoryProfiler</a>", 
+            "Stars": 3123
+        }, 
+        {
+            "Description": "iOS library to help detecting retain cycles in runtime.", 
+            "Forks": 381, 
+            "Language": "Objective-C++", 
+            "Repo": "<a href='https://github.com/facebook/FBRetainCycleDetector'target='_blank'>FBRetainCycleDetector</a>", 
+            "Stars": 3356
+        }, 
+        {
+            "Description": "Awesome bug reporting for iOS apps", 
+            "Forks": 48, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Buglife/Buglife-iOS'target='_blank'>Buglife-iOS</a>", 
+            "Stars": 459
+        }, 
+        {
+            "Description": "An xcconfig (Xcode configuration) file for easily turning on a boatload of warnings in your project or its targets.", 
+            "Forks": 21, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/boredzo/Warnings-xcconfig'target='_blank'>Warnings-xcconfig</a>", 
+            "Stars": 443
+        }, 
+        {
+            "Description": "Aardvark is a library that makes it dead simple to create actionable bug reports.", 
+            "Forks": 38, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/square/Aardvark'target='_blank'>Aardvark</a>", 
+            "Stars": 219
+        }, 
+        {
+            "Description": "In-app memory usage monitoring for iOS", 
+            "Forks": 18, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/shu223/Stats'target='_blank'>Stats</a>", 
+            "Stars": 157
+        }, 
+        {
+            "Description": "Type-safe observable values and collections in Swift", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/attaswift/GlueKit'target='_blank'>GlueKit</a>", 
+            "Stars": 361
+        }, 
+        {
+            "Description": "A code library and command-line formatting tool for reformatting Swift code", 
+            "Forks": 175, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nicklockwood/SwiftFormat'target='_blank'>SwiftFormat</a>", 
+            "Stars": 2778
+        }, 
+        {
+            "Description": "Makes it easier to support older versions of iOS by fixing things and adding missing methods", 
+            "Forks": 9, 
+            "Language": "Objective-C++", 
+            "Repo": "<a href='https://github.com/PSPDFKit-labs/PSTModernizer'target='_blank'>PSTModernizer</a>", 
+            "Stars": 217
+        }, 
+        {
+            "Description": "\ud83d\udc8a Syntactic sugar for Swift do-try-catch", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/devxoul/Fallback'target='_blank'>Fallback</a>", 
+            "Stars": 42
+        }, 
+        {
+            "Description": "A guard to help you check if you make UI changes not in main thread", 
+            "Forks": 24, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/olddonkey/ODUIThreadGuard'target='_blank'>ODUIThreadGuard</a>", 
+            "Stars": 697
+        }, 
+        {
+            "Description": "Find common xib and storyboard-related problems without running your app or writing unit tests.", 
+            "Forks": 24, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/fastred/IBAnalyzer'target='_blank'>IBAnalyzer</a>", 
+            "Stars": 933
+        }, 
+        {
+            "Description": "decoupling between modules in your iOS Project. iOS\u6a21\u5757\u5316\u8fc7\u7a0b\u4e2d\u6a21\u5757\u95f4\u89e3\u8026\u65b9\u6848", 
+            "Forks": 18, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/coderyi/DecouplingKit'target='_blank'>DecouplingKit</a>", 
+            "Stars": 132
+        }, 
+        {
+            "Description": "Flexible bug report framework for iOS", 
+            "Forks": 19, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Geek-1001/Clue'target='_blank'>Clue</a>", 
+            "Stars": 278
+        }, 
+        {
+            "Description": "A Swift micro-framework to easily deal with weak references to self inside closures", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/vincent-pradeilles/weakable-self'target='_blank'>weakable-self</a>", 
+            "Stars": 28
+        }
+    ]
+}

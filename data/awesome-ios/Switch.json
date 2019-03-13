@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "Description": "UISwitch which paints over the parent view with the color in Swift.", 
+            "Forks": 20, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/alsedi/AnimatedSwitch'target='_blank'>AnimatedSwitch</a>", 
+            "Stars": 215
+        }, 
+        {
+            "Description": "A UISwitch that infects its superview with its tint color. ", 
+            "Forks": 25, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/andreamazz/ViralSwitch'target='_blank'>ViralSwitch</a>", 
+            "Stars": 335
+        }, 
+        {
+            "Description": "A Customizable Switch UI for iOS, Inspired from Google's Material Design", 
+            "Forks": 46, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/JunichiT/JTMaterialSwitch'target='_blank'>JTMaterialSwitch</a>", 
+            "Stars": 291
+        }, 
+        {
+            "Description": "An animation switch collection", 
+            "Forks": 63, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/TBXark/TKSwitcherCollection'target='_blank'>TKSwitcherCollection</a>", 
+            "Stars": 647
+        }, 
+        {
+            "Description": "iOS7 style drop in replacement for UISwitch", 
+            "Forks": 199, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/bvogelzang/SevenSwitch'target='_blank'>SevenSwitch</a>", 
+            "Stars": 771
+        }, 
+        {
+            "Description": "Runkeeper design switch control", 
+            "Forks": 161, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/gontovnik/DGRunkeeperSwitch'target='_blank'>DGRunkeeperSwitch</a>", 
+            "Stars": 1866
+        }, 
+        {
+            "Description": "Yet another animated toggle", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kovpas/PMZSwitch'target='_blank'>PMZSwitch</a>", 
+            "Stars": 74
+        }, 
+        {
+            "Description": "Swift - Custom UISwitcher with animation when change status", 
+            "Forks": 20, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/knn90/Switcher'target='_blank'>Switcher</a>", 
+            "Stars": 198
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  \ud83c\udf9a RAMPaperSwitch is a Swift material design UI module which paints over the parent view when the switch is turned on. iOS library by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries", 
+            "Forks": 226, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Ramotion/paper-switch'target='_blank'>paper-switch</a>", 
+            "Stars": 2668
+        }, 
+        {
+            "Description": "Nicely animated flat design switch alternative to UISwitch", 
+            "Forks": 50, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/cocoatoucher/AIFlatSwitch'target='_blank'>AIFlatSwitch</a>", 
+            "Stars": 755
+        }, 
+        {
+            "Description": "\ud83d\udc8a An iOS switch control implemented in Swift with full Interface Builder support", 
+            "Forks": 16, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/T-Pham/Switch'target='_blank'>Switch</a>", 
+            "Stars": 103
+        }
+    ]
+}

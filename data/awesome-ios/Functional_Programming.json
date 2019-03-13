@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "Description": "Functional chaining and promises in Swift", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ulrikdamm/Forbind'target='_blank'>Forbind</a>", 
+            "Stars": 44
+        }, 
+        {
+            "Description": "Functional programming tools and experiments in Swift.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/brynbellomy/Funky'target='_blank'>Funky</a>", 
+            "Stars": 12
+        }, 
+        {
+            "Description": "Collection of must-have functional Swift tools", 
+            "Forks": 54, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/LlamaKit/LlamaKit'target='_blank'>LlamaKit</a>", 
+            "Stars": 627
+        }, 
+        {
+            "Description": "A functional utility belt implemented as Swift 2.0 protocol extensions.", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tptee/Oriole'target='_blank'>Oriole</a>", 
+            "Stars": 11
+        }, 
+        {
+            "Description": "Swift \u00b5framework of simple functional programming tools", 
+            "Forks": 27, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/robrix/Prelude'target='_blank'>Prelude</a>", 
+            "Stars": 377
+        }, 
+        {
+            "Description": "Functional data types and functions for any project", 
+            "Forks": 23, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/typelift/Swiftx'target='_blank'>Swiftx</a>", 
+            "Stars": 212
+        }, 
+        {
+            "Description": "Functional programming in Swift", 
+            "Forks": 244, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/typelift/Swiftz'target='_blank'>Swiftz</a>", 
+            "Stars": 3232
+        }, 
+        {
+            "Description": "Swift \u00b5framework with extensions for the Optional Type", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/RuiAAPeres/OptionalExtensions'target='_blank'>OptionalExtensions</a>", 
+            "Stars": 180
+        }, 
+        {
+            "Description": "Functional JSON parsing library for Swift", 
+            "Forks": 208, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/thoughtbot/Argo'target='_blank'>Argo</a>", 
+            "Stars": 3435
+        }, 
+        {
+            "Description": "Infix operators for monadic functions in Swift", 
+            "Forks": 58, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/thoughtbot/Runes'target='_blank'>Runes</a>", 
+            "Stars": 750
+        }
+    ]
+}

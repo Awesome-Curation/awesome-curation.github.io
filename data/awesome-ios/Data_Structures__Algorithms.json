@@ -1,0 +1,214 @@
+{
+    "data": [
+        {
+            "Description": "Sometimes you need order", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/bemindinteractive/SwiftSortedList'target='_blank'>SwiftSortedList</a>", 
+            "Stars": 4
+        }, 
+        {
+            "Description": "Minimal edits from one collection to another", 
+            "Forks": 42, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/osteslag/Changeset'target='_blank'>Changeset</a>", 
+            "Stars": 785
+        }, 
+        {
+            "Description": "Fast sorted collections for Swift using in-memory B-trees", 
+            "Forks": 69, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/attaswift/BTree'target='_blank'>BTree</a>", 
+            "Stars": 1087
+        }, 
+        {
+            "Description": "Examples of commonly used data structures and algorithms in Swift.", 
+            "Forks": 277, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/waynewbishop/SwiftStructures'target='_blank'>SwiftStructures</a>", 
+            "Stars": 1940
+        }, 
+        {
+            "Description": "Simple diff library in pure Swift", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/soffes/diff'target='_blank'>Diff</a>", 
+            "Stars": 99
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4a7.png?v8'>  A generic view model for both basic and complex scenarios", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hyperoslo/Brick'target='_blank'>Brick</a>", 
+            "Stars": 57
+        }, 
+        {
+            "Description": "Algorithm is a library of tools that is used to create intelligent applications.", 
+            "Forks": 78, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/CosmicMind/Algorithm'target='_blank'>Algorithm</a>", 
+            "Stars": 710
+        }, 
+        {
+            "Description": "Convert your own struct/enum to AnyObject easily.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tarunon/AnyObjectConvertible'target='_blank'>AnyObjectConvertible</a>", 
+            "Stars": 63
+        }, 
+        {
+            "Description": "A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript", 
+            "Forks": 291, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ankurp/Dollar'target='_blank'>Dollar</a>", 
+            "Stars": 3932
+        }, 
+        {
+            "Description": "Swift type modelling the success/failure of arbitrary operations.", 
+            "Forks": 225, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/antitypical/Result'target='_blank'>Result</a>", 
+            "Stars": 2370
+        }, 
+        {
+            "Description": "EKAlgorithms contains some well known CS algorithms & data structures.", 
+            "Forks": 382, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/EvgenyKarkan/EKAlgorithms'target='_blank'>EKAlgorithms</a>", 
+            "Stars": 2382
+        }, 
+        {
+            "Description": "Monaka convert custom struct to NSData.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/naru-jpn/Monaka'target='_blank'>Monaka</a>", 
+            "Stars": 20
+        }, 
+        {
+            "Description": "Swift \u03bc-framework for efficient array diffs and datasource adapters.", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/alexdrone/Buffer'target='_blank'>Buffer</a>", 
+            "Stars": 348
+        }, 
+        {
+            "Description": "A Graph Data Structure in Pure Swift", 
+            "Forks": 53, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/davecom/SwiftGraph'target='_blank'>SwiftGraph</a>", 
+            "Stars": 449
+        }, 
+        {
+            "Description": "A Generic Priority Queue in Pure Swift", 
+            "Forks": 30, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/davecom/SwiftPriorityQueue'target='_blank'>SwiftPriorityQueue</a>", 
+            "Stars": 262
+        }, 
+        {
+            "Description": "Super lightweight DB written in Swift.", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/naru-jpn/pencil'target='_blank'>pencil</a>", 
+            "Stars": 78
+        }, 
+        {
+            "Description": "A fast Swift diffing library.", 
+            "Forks": 25, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mcudich/HeckelDiff'target='_blank'>HeckelDiff</a>", 
+            "Stars": 150
+        }, 
+        {
+            "Description": "NSCoding's counterpart for Swift structs.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/artemstepanenko/Dekoter'target='_blank'>Dekoter</a>", 
+            "Stars": 22
+        }, 
+        {
+            "Description": "Algorithms and data structures in Swift, with explanations!", 
+            "Forks": 3279, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/raywenderlich/swift-algorithm-club'target='_blank'>swift-algorithm-club</a>", 
+            "Stars": 19800
+        }, 
+        {
+            "Description": "A Distributed Value Store in Swift.", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/david-coyle-sjc/impeller'target='_blank'>impeller</a>", 
+            "Stars": 0
+        }, 
+        {
+            "Description": "Multi-store Flux implementation in Swift.", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/alexdrone/Dispatch'target='_blank'>Dispatch</a>", 
+            "Stars": 282
+        }, 
+        {
+            "Description": "\ud83e\udd80Amazingly incredible extraordinary lightning fast diffing in Swift", 
+            "Forks": 74, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/onmyway133/DeepDiff'target='_blank'>DeepDiff</a>", 
+            "Stars": 1324
+        }, 
+        {
+            "Description": "0\ufe0f\u20e31\ufe0f\u20e3 Access bits and bytes from binary data in Swift.", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Cosmo/BinaryKit'target='_blank'>BinaryKit</a>", 
+            "Stars": 60
+        }, 
+        {
+            "Description": "Swift library to generate differences and patches between collections.", 
+            "Forks": 42, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tonyarnold/Differ'target='_blank'>Differ</a>", 
+            "Stars": 420
+        }, 
+        {
+            "Description": "A Swift probability and statistics library", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/harlanhaskins/Probably'target='_blank'>Probably</a>", 
+            "Stars": 236
+        }, 
+        {
+            "Description": "RandMyMod base on your own struct or class create one or a set of instance, which the variable's value in the instance is automatic randomized.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jamesdouble/RandMyMod'target='_blank'>RandMyMod</a>", 
+            "Stars": 16
+        }, 
+        {
+            "Description": "KeyPathKit is a library that provides the standard functions to manipulate data along with a call-syntax that relies on typed keypaths to make the call sites as short and clean as possible.", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/vincent-pradeilles/KeyPathKit'target='_blank'>KeyPathKit</a>", 
+            "Stars": 223
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/26fd.png?v8'>  Differific - a fast and convenient diffing framework.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/zenangst/Differific'target='_blank'>Differific</a>", 
+            "Stars": 102
+        }, 
+        {
+            "Description": "The simplest abstraction to synchronize local data with remote source. For iOS, wirtten in swift.", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ladeiko/OneWaySynchronizer'target='_blank'>OneWaySynchronizer</a>", 
+            "Stars": 5
+        }, 
+        {
+            "Description": "\ud83d\udcbb A fast and flexible O(n) difference algorithm framework for Swift collection.", 
+            "Forks": 92, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ra1028/DifferenceKit'target='_blank'>DifferenceKit</a>", 
+            "Stars": 1756
+        }
+    ]
+}

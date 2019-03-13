@@ -1,0 +1,137 @@
+{
+    "data": [
+        {
+            "Description": "[EXPERIMENTAL] Graceful morphing effects for UILabel written in Swift.", 
+            "Forks": 702, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/lexrus/LTMorphingLabel'target='_blank'>LTMorphingLabel</a>", 
+            "Stars": 6799
+        }, 
+        {
+            "Description": "UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift", 
+            "Forks": 379, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/optonaut/ActiveLabel.swift'target='_blank'>ActiveLabel.swift</a>", 
+            "Stars": 2789
+        }, 
+        {
+            "Description": "A handy class for iOS to use UILabel as a countdown timer or stopwatch just like in Apple Clock App.", 
+            "Forks": 248, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/mineschan/MZTimerLabel'target='_blank'>MZTimerLabel</a>", 
+            "Stars": 1491
+        }, 
+        {
+            "Description": "Simple countdown UILabel with morphing animation, and some useful function.", 
+            "Forks": 89, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/suzuki-0000/CountdownLabel'target='_blank'>CountdownLabel</a>", 
+            "Stars": 527
+        }, 
+        {
+            "Description": "Incrementable UILabel for iOS and tvOS", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tbaranes/IncrementableLabel'target='_blank'>IncrementableLabel</a>", 
+            "Stars": 46
+        }, 
+        {
+            "Description": "A drop-in replacement for UILabel that supports attributes, data detectors, links, and more", 
+            "Forks": 1569, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/TTTAttributedLabel/TTTAttributedLabel'target='_blank'>TTTAttributedLabel</a>", 
+            "Stars": 8374
+        }, 
+        {
+            "Description": "A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.", 
+            "Forks": 110, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/me-abhinav/NumberMorphView'target='_blank'>NumberMorphView</a>", 
+            "Stars": 1449
+        }, 
+        {
+            "Description": "G..lit...c...hing UILa..bel fo..r iO...S <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4fa.png?v8'> ", 
+            "Forks": 29, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kciter/GlitchLabel'target='_blank'>GlitchLabel</a>", 
+            "Stars": 773
+        }, 
+        {
+            "Description": "Configurable morphing transitions between text values of a label.", 
+            "Forks": 118, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/tomknig/TOMSMorphingLabel'target='_blank'>TOMSMorphingLabel</a>", 
+            "Stars": 1862
+        }, 
+        {
+            "Description": "UILabel subclass, which additionally allows shadow blur, inner shadow, stroke text and fill gradient.", 
+            "Forks": 103, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/tobihagemann/THLabel'target='_blank'>THLabel</a>", 
+            "Stars": 595
+        }, 
+        {
+            "Description": "Secret app like text animation", 
+            "Forks": 223, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/zipme/RQShineLabel'target='_blank'>RQShineLabel</a>", 
+            "Stars": 1846
+        }, 
+        {
+            "Description": "UILabel replacement with fine-grain appear/disappear animation", 
+            "Forks": 226, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/overboming/ZCAnimatedLabel'target='_blank'>ZCAnimatedLabel</a>", 
+            "Stars": 2213
+        }, 
+        {
+            "Description": "A triangle shaped corner label view for iOS written in Swift.", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mukeshthawani/TriLabelView'target='_blank'>TriLabelView</a>", 
+            "Stars": 142
+        }, 
+        {
+            "Description": "Custom Label to apply animations on whole text or letters.", 
+            "Forks": 74, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Yalantis/Preloader.Ophiuchus'target='_blank'>Preloader.Ophiuchus</a>", 
+            "Stars": 860
+        }, 
+        {
+            "Description": "", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/recruit-mtl/MTLLinkLabel'target='_blank'>MTLLinkLabel</a>", 
+            "Stars": 75
+        }, 
+        {
+            "Description": "Swift UIView for sliding text with page indicator", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dnKaratzas/SlidingText'target='_blank'>SlidingText</a>", 
+            "Stars": 45
+        }, 
+        {
+            "Description": "A simple designable subclass on UILabel with extra IBDesignable and Blinking features.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jogendra/JSLabel'target='_blank'>JSLabel</a>", 
+            "Stars": 4
+        }, 
+        {
+            "Description": "Animated Mask Label is a nice gradient animated label. This is an easy way to add a shimmering effect to any view in your app. It is useful as an unobtrusive loading indicator.", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jogendra/AnimatedMaskLabel'target='_blank'>AnimatedMaskLabel</a>", 
+            "Stars": 255
+        }, 
+        {
+            "Description": "A faster and more flexible label view for iOS", 
+            "Forks": 2, 
+            "Language": "Objective-C++", 
+            "Repo": "<a href='https://github.com/stephan-tolksdorf/STULabel'target='_blank'>STULabel</a>", 
+            "Stars": 38
+        }
+    ]
+}

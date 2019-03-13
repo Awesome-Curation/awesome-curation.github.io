@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "Description": "Swipe to \"like\" or \"dislike\" any view, just like Tinder.app. Build a flashcard app, a photo viewer, and more, in minutes, not hours!", 
+            "Forks": 456, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/modocache/MDCSwipeToChoose'target='_blank'>MDCSwipeToChoose</a>", 
+            "Stars": 2553
+        }, 
+        {
+            "Description": "Swipe able, customizable card stack view, Tinder like card stack view based on UICollectionView. Cards UI", 
+            "Forks": 69, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tispr/tispr-card-stack'target='_blank'>tispr-card-stack</a>", 
+            "Stars": 727
+        }, 
+        {
+            "Description": "Card flip animation by pan gesture.", 
+            "Forks": 124, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/seedante/CardAnimation'target='_blank'>CardAnimation</a>", 
+            "Stars": 1109
+        }, 
+        {
+            "Description": "KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. ", 
+            "Forks": 670, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Yalantis/Koloda'target='_blank'>Koloda</a>", 
+            "Stars": 4240
+        }, 
+        {
+            "Description": "Awesome looking Dial like card selection ViewController", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kunalverma25/KVCardSelectionVC'target='_blank'>KVCardSelectionVC</a>", 
+            "Stars": 15
+        }, 
+        {
+            "Description": "\ud83c\udccf Tinder like card interface", 
+            "Forks": 30, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/D-32/DMSwipeCards'target='_blank'>DMSwipeCards</a>", 
+            "Stars": 223
+        }, 
+        {
+            "Description": "Presenting timelines as cards, single or bundled in scrollable feed!", 
+            "Forks": 45, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/vladaverin24/TimelineCards'target='_blank'>TimelineCards</a>", 
+            "Stars": 373
+        }, 
+        {
+            "Description": "Awesome iOS 11 appstore cards in swift 4.", 
+            "Forks": 194, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PaoloCuscela/Cards'target='_blank'>Cards</a>", 
+            "Stars": 3215
+        }, 
+        {
+            "Description": "Cusom CollectionView card layout", 
+            "Forks": 32, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MillmanY/MMCardView'target='_blank'>MMCardView</a>", 
+            "Stars": 477
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8'>  Custom card-designed CollectionView layout", 
+            "Forks": 34, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/filletofish/CardsLayout'target='_blank'>CardsLayout</a>", 
+            "Stars": 533
+        }, 
+        {
+            "Description": "A reactive, card-based UI framework built on UIKit for iOS developers.", 
+            "Forks": 84, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/intuit/CardParts'target='_blank'>CardParts</a>", 
+            "Stars": 1392
+        }, 
+        {
+            "Description": "A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.", 
+            "Forks": 33, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/JoniVR/VerticalCardSwiper'target='_blank'>VerticalCardSwiper</a>", 
+            "Stars": 447
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "Description": "Grand Central Dispatch simplified with swift.", 
+            "Forks": 31, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/JohnEstropia/GCDKit'target='_blank'>GCDKit</a>", 
+            "Stars": 301
+        }, 
+        {
+            "Description": "Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch", 
+            "Forks": 299, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/duemunk/Async'target='_blank'>Async</a>", 
+            "Stars": 4364
+        }, 
+        {
+            "Description": "Thread synchronization made easy.", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nodes-ios/SwiftSafe'target='_blank'>SwiftSafe</a>", 
+            "Stars": 160
+        }, 
+        {
+            "Description": "iOS utility class to manage global dispatch queue.", 
+            "Forks": 65, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ibireme/YYDispatchQueuePool'target='_blank'>YYDispatchQueuePool</a>", 
+            "Stars": 383
+        }, 
+        {
+            "Description": "async and await for Swift.", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Alecrim/AlecrimAsyncKit'target='_blank'>AlecrimAsyncKit</a>", 
+            "Stars": 89
+        }, 
+        {
+            "Description": "[DEPRECATED] Syntactic sugar for Grand Central Dispatch (GCD)", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jessesquires/GrandSugarDispatch'target='_blank'>GrandSugarDispatch</a>", 
+            "Stars": 31
+        }, 
+        {
+            "Description": "Pretty GCD calls and easier code execution.", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mitchtreece/Threader'target='_blank'>Threader</a>", 
+            "Stars": 38
+        }, 
+        {
+            "Description": "Just a tiny library to make using GCD easier and intuitive", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/JARMourato/Dispatch'target='_blank'>Dispatch</a>", 
+            "Stars": 177
+        }, 
+        {
+            "Description": "Well-tested GCD Timer in Swift", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hemantasapkota/GCDTimer'target='_blank'>GCDTimer</a>", 
+            "Stars": 175
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/231b.png?v8'>  Grand Central Dispatch Utilities", 
+            "Forks": 25, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/comyar/Chronos-Swift'target='_blank'>Chronos-Swift</a>", 
+            "Stars": 255
+        }, 
+        {
+            "Description": "A super slim solution to the nested asynchronous computations", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/pascalbros/Me'target='_blank'>Me</a>", 
+            "Stars": 193
+        }, 
+        {
+            "Description": "An extreme queuing system with high performance for managing all task in app with closure", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Albinzr/SwiftyTask'target='_blank'>SwiftyTask</a>", 
+            "Stars": 21
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "data": [
+        {
+            "Description": "Simple way to present custom views as a popup in iOS and tvOS.", 
+            "Forks": 5, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/rynecheow/PopupKit'target='_blank'>PopupKit</a>", 
+            "Stars": 47
+        }, 
+        {
+            "Description": "Pop-up based view(e.g. alert sheet), can easily customize.", 
+            "Forks": 379, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/adad184/MMPopupView'target='_blank'>MMPopupView</a>", 
+            "Stars": 1995
+        }, 
+        {
+            "Description": "STPopup provides STPopupController, which works just like UINavigationController in form sheet/bottom sheet style, for both iPhone and iPad.", 
+            "Forks": 318, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/kevin0571/STPopup'target='_blank'>STPopup</a>", 
+            "Stars": 2251
+        }, 
+        {
+            "Description": "Simple Swift class for iOS that shows nice popup windows with animation. ", 
+            "Forks": 33, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/psy2k/NMPopUpView'target='_blank'>NMPopUpView</a>", 
+            "Stars": 187
+        }, 
+        {
+            "Description": "*DEPRECATED* CNPPopupController is a simple and versatile class for presenting a custom popup in a variety of fashions. It includes a many options for controlling how your popup appears and behaves.", 
+            "Forks": 208, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/carsonperrotti/CNPPopupController'target='_blank'>CNPPopupController</a>", 
+            "Stars": 1690
+        }, 
+        {
+            "Description": "PopupController is a controller for showing temporary popup view.", 
+            "Forks": 44, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/daisuke310vvv/PopupController'target='_blank'>PopupController</a>", 
+            "Stars": 268
+        }, 
+        {
+            "Description": "Subscription View Controller like the Tinder uses", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/binchik/SubscriptionPrompt'target='_blank'>SubscriptionPrompt</a>", 
+            "Stars": 226
+        }, 
+        {
+            "Description": "Swift wrapper for custom ViewController presentations on iOS", 
+            "Forks": 209, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/IcaliaLabs/Presentr'target='_blank'>Presentr</a>", 
+            "Stars": 2331
+        }, 
+        {
+            "Description": "A simple, customizable popup dialog for iOS written in Swift. Replaces UIAlertController alert style.", 
+            "Forks": 360, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Orderella/PopupDialog'target='_blank'>PopupDialog</a>", 
+            "Stars": 3056
+        }, 
+        {
+            "Description": "Simple selection dialog", 
+            "Forks": 20, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kciter/SelectionDialog'target='_blank'>SelectionDialog</a>", 
+            "Stars": 89
+        }, 
+        {
+            "Description": "A highly customizable alert dialog controller that mimics Snapchat's alert dialog.", 
+            "Forks": 37, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Minitour/AZDialogViewController'target='_blank'>AZDialogViewController</a>", 
+            "Stars": 650
+        }, 
+        {
+            "Description": "MIBlurPopup lets you create popups with a blurred background", 
+            "Forks": 46, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MarioIannotta/MIBlurPopup'target='_blank'>MIBlurPopup</a>", 
+            "Stars": 478
+        }, 
+        {
+            "Description": "LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.", 
+            "Forks": 282, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/LeoNatan/LNPopupController'target='_blank'>LNPopupController</a>", 
+            "Stars": 2398
+        }, 
+        {
+            "Description": "PopupWindow is a simple Popup using another UIWindow in Swift", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/shin8484/PopupWindow'target='_blank'>PopupWindow</a>", 
+            "Stars": 315
+        }, 
+        {
+            "Description": "A lightweight library for popup view", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/iamshezad/SHPopup'target='_blank'>SHPopup</a>", 
+            "Stars": 31
+        }, 
+        {
+            "Description": "Popover is a balloon library like Facebook app. It is written in pure swift.", 
+            "Forks": 252, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/corin8823/Popover'target='_blank'>Popover</a>", 
+            "Stars": 1615
+        }, 
+        {
+            "Description": "SwiftEntryKit is a banner presenter library for iOS. It can be used to easily display pop-ups and notification-like views within your iOS apps.", 
+            "Forks": 171, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/huri000/SwiftEntryKit'target='_blank'>SwiftEntryKit</a>", 
+            "Stars": 2999
+        }, 
+        {
+            "Description": "\u26e9Presenting custom views as a popup in iOS.", 
+            "Forks": 27, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/JonyFang/FFPopup'target='_blank'>FFPopup</a>", 
+            "Stars": 378
+        }
+    ]
+}

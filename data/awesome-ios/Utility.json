@@ -1,0 +1,459 @@
+{
+    "data": [
+        {
+            "Description": "A DSL for Data Manipulation", 
+            "Forks": 106, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/robb/Underscore.m'target='_blank'>Underscore.m</a>", 
+            "Stars": 1510
+        }, 
+        {
+            "Description": "Easier sharing of structured data between iOS applications and share extensions", 
+            "Forks": 12, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/tumblr/XExtensionItem'target='_blank'>XExtensionItem</a>", 
+            "Stars": 81
+        }, 
+        {
+            "Description": "Reflection for enumerations in Objective-C.", 
+            "Forks": 11, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/fastred/ReflectableEnum'target='_blank'>ReflectableEnum</a>", 
+            "Stars": 334
+        }, 
+        {
+            "Description": "ObjectiveC additions for humans. Ruby style.", 
+            "Forks": 213, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/supermarin/ObjectiveSugar'target='_blank'>ObjectiveSugar</a>", 
+            "Stars": 2232
+        }, 
+        {
+            "Description": "Because Objective-C should have inherited more from Smalltalk", 
+            "Forks": 0, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/leoschweizer/OpinionatedC'target='_blank'>OpinionatedC</a>", 
+            "Stars": 48
+        }, 
+        {
+            "Description": "A tiny generator of random data for swift", 
+            "Forks": 49, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/thellimist/SwiftRandom'target='_blank'>SwiftRandom</a>", 
+            "Stars": 518
+        }, 
+        {
+            "Description": "Getting square objects down round holes", 
+            "Forks": 35, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/mxcl/YOLOKit'target='_blank'>YOLOKit</a>", 
+            "Stars": 659
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f60f.png?v8'>  How Swift standard types and classes were supposed to work.", 
+            "Forks": 324, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/goktugyil/EZSwiftExtensions'target='_blank'>EZSwiftExtensions</a>", 
+            "Stars": 2651
+        }, 
+        {
+            "Description": "The missing light persistence layer for Swift", 
+            "Forks": 55, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nickoneill/Pantry'target='_blank'>Pantry</a>", 
+            "Stars": 852
+        }, 
+        {
+            "Description": "A parser combinator library written in the Swift programming language.", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/davedufresne/SwiftParsec'target='_blank'>SwiftParsec</a>", 
+            "Stars": 154
+        }, 
+        {
+            "Description": "A Swift collection of unique, ordered objects", 
+            "Forks": 35, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Weebly/OrderedSet'target='_blank'>OrderedSet</a>", 
+            "Stars": 215
+        }, 
+        {
+            "Description": "\ud83d\udcc6 Breeze through Date, DateComponents, and TimeInterval with Swift!", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SwiftKitz/Datez'target='_blank'>Datez</a>", 
+            "Stars": 234
+        }, 
+        {
+            "Description": "BFKit is a collection of useful classes and categories to develop Apps faster.", 
+            "Forks": 130, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/FabrizioBrancati/BFKit'target='_blank'>BFKit</a>", 
+            "Stars": 797
+        }, 
+        {
+            "Description": "BFKit-Swift is a collection of useful classes, structs and extensions to develop Apps faster.", 
+            "Forks": 99, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/FabrizioBrancati/BFKit-Swift'target='_blank'>BFKit-Swift</a>", 
+            "Stars": 799
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f38f.png?v8'>  Unit converter in Swift", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/onmyway133/scale'target='_blank'>Scale</a>", 
+            "Stars": 313
+        }, 
+        {
+            "Description": "Protocols for your every day iOS needs", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/cconeil/Standard-Template-Protocols'target='_blank'>Standard-Template-Protocols</a>", 
+            "Stars": 381
+        }, 
+        {
+            "Description": "Easly DateTime (NSDate) managment in Swift", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/JonFir/TimeLord'target='_blank'>TimeLord</a>", 
+            "Stars": 7
+        }, 
+        {
+            "Description": "Monitor iOS app version easily.", 
+            "Forks": 16, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/eure/AppVersionMonitor'target='_blank'>AppVersionMonitor</a>", 
+            "Stars": 239
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/2615.png?v8'>  Something sweet that goes great with your Cocoa", 
+            "Forks": 64, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hyperoslo/Sugar'target='_blank'>Sugar</a>", 
+            "Stars": 1008
+        }, 
+        {
+            "Description": "\u2728 Super sweet syntactic sugar for Swift initializers", 
+            "Forks": 166, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/devxoul/Then'target='_blank'>Then</a>", 
+            "Stars": 2687
+        }, 
+        {
+            "Description": "App Store Receipt Validation", 
+            "Forks": 24, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Cocoanetics/Kvitto'target='_blank'>Kvitto</a>", 
+            "Stars": 245
+        }, 
+        {
+            "Description": "\ud83d\udce1 Helping you own NotificationCenter in Swift!", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SwiftKitz/Notificationz'target='_blank'>Notificationz</a>", 
+            "Stars": 69
+        }, 
+        {
+            "Description": "Cross-Platform, Protocol-Oriented Programming base library to complement the Swift Standard Library. (Pure Swift, Supports Linux)", 
+            "Forks": 52, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PureSwift/SwiftFoundation'target='_blank'>SwiftFoundation</a>", 
+            "Stars": 623
+        }, 
+        {
+            "Description": "A Cocoa library to extend the Objective-C programming language.", 
+            "Forks": 425, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/jspahrsummers/libextobjc'target='_blank'>libextobjc</a>", 
+            "Stars": 4237
+        }, 
+        {
+            "Description": "Versions tracker for your iOS, macOS, and tvOS app", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tbaranes/VersionTrackerSwift'target='_blank'>VersionTrackerSwift</a>", 
+            "Stars": 66
+        }, 
+        {
+            "Description": "Simple and Lightweight App Version Tracking for iOS written in Swift", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tadija/AEAppVersion'target='_blank'>AEAppVersion</a>", 
+            "Stars": 10
+        }, 
+        {
+            "Description": "The Objective-C block utilities you always wish you had.", 
+            "Forks": 1116, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/BlocksKit/BlocksKit'target='_blank'>BlocksKit</a>", 
+            "Stars": 6819
+        }, 
+        {
+            "Description": "All the reusable code that we need in each project", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tbaranes/swiftyutils'target='_blank'>SwiftyUtils</a>", 
+            "Stars": 301
+        }, 
+        {
+            "Description": "Simple utility for only executing code every so often.", 
+            "Forks": 52, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/soffes/RateLimit'target='_blank'>RateLimit</a>", 
+            "Stars": 911
+        }, 
+        {
+            "Description": "Utility functions for validating IBOutlet and IBAction connections", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/phatblat/Outlets'target='_blank'>Outlets</a>", 
+            "Stars": 129
+        }, 
+        {
+            "Description": "A way to easily add Cocoapod licenses and App Version to your iOS App using the Settings Bundle", 
+            "Forks": 6, 
+            "Language": "Shell", 
+            "Repo": "<a href='https://github.com/JARMourato/EasyAbout'target='_blank'>EasyAbout</a>", 
+            "Stars": 48
+        }, 
+        {
+            "Description": "A Swift \u03bc-Library for Somewhat Dependent Types", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Ben-G/Validated'target='_blank'>Validated</a>", 
+            "Stars": 607
+        }, 
+        {
+            "Description": "Extensions for Swift Standard Types and Classes", 
+            "Forks": 31, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ankurp/Cent'target='_blank'>Cent</a>", 
+            "Stars": 202
+        }, 
+        {
+            "Description": "Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.", 
+            "Forks": 39, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/anatoliyv/AssistantKit'target='_blank'>AssistantKit</a>", 
+            "Stars": 517
+        }, 
+        {
+            "Description": "It makes a preview from an URL, grabbing all the information such as title, relevant texts and images.", 
+            "Forks": 87, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/LeonardoCardoso/SwiftLinkPreview'target='_blank'>SwiftLinkPreview</a>", 
+            "Stars": 969
+        }, 
+        {
+            "Description": "Simple getter for bundle informations, written in Swift", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/rollmind/BundleInfos'target='_blank'>BundleInfos</a>", 
+            "Stars": 1
+        }, 
+        {
+            "Description": "Proper YAML support for Objective-C. Based on recommended libyaml.", 
+            "Forks": 87, 
+            "Language": "HTML", 
+            "Repo": "<a href='https://github.com/mirek/YAML.framework'target='_blank'>YAML.framework</a>", 
+            "Stars": 206
+        }, 
+        {
+            "Description": "Preview extractor for news, articles and full-texts in Swift", 
+            "Forks": 54, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/exyte/ReadabilityKit'target='_blank'>ReadabilityKit</a>", 
+            "Stars": 685
+        }, 
+        {
+            "Description": "Super powerful remote config utility written in Swift (iOS, watchOS, tvOS, OSX)", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/appculture/MissionControl-iOS'target='_blank'>MissionControl-iOS</a>", 
+            "Stars": 105
+        }, 
+        {
+            "Description": "Tweak your iOS app without recompiling! ", 
+            "Forks": 92, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Khan/SwiftTweaks'target='_blank'>SwiftTweaks</a>", 
+            "Stars": 1183
+        }, 
+        {
+            "Description": "Alert popup to notify your users if they use an unsupported iOS version", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/caloon/UnsupportedOSVersionAlert'target='_blank'>UnsupportedOSVersionAlert</a>", 
+            "Stars": 9
+        }, 
+        {
+            "Description": "Useful functions and extensions for sorting in Swift", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dsmatter/SwiftSortUtils'target='_blank'>SwiftSortUtils</a>", 
+            "Stars": 60
+        }, 
+        {
+            "Description": "Haven't you wished for `try` to sometimes try a little harder? Meet `retry`", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/icanzilb/Retry'target='_blank'>Retry</a>", 
+            "Stars": 464
+        }, 
+        {
+            "Description": "Swift-friendly API for a set of powerful Objective C runtime functions.", 
+            "Forks": 36, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marmelroy/ObjectiveKit'target='_blank'>ObjectiveKit</a>", 
+            "Stars": 795
+        }, 
+        {
+            "Description": "\ud83c\udf6f Syntactic sugar for Moya", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/devxoul/MoyaSugar'target='_blank'>MoyaSugar</a>", 
+            "Stars": 116
+        }, 
+        {
+            "Description": "A handy collection of more than 500 native Swift extensions to boost your productivity.", 
+            "Forks": 795, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SwifterSwift/SwifterSwift'target='_blank'>SwifterSwift</a>", 
+            "Stars": 6925
+        }, 
+        {
+            "Description": "An eject button for Interface Builder to generate swift code", 
+            "Forks": 26, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Raizlabs/Eject'target='_blank'>Eject</a>", 
+            "Stars": 520
+        }, 
+        {
+            "Description": "Contacts wrapper for iOS 9 or upper with Objective-C", 
+            "Forks": 6, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/abdullahselek/ContactsWrapper'target='_blank'>ContactsWrapper</a>", 
+            "Stars": 19
+        }, 
+        {
+            "Description": "An extensible monitoring framework written in Swift", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/eBardX/XestiMonitors'target='_blank'>XestiMonitors</a>", 
+            "Stars": 265
+        }, 
+        {
+            "Description": "The simplest way to display the librarie's licences used in your application.", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/floriangbh/OpenSourceController'target='_blank'>OpenSourceController</a>", 
+            "Stars": 38
+        }, 
+        {
+            "Description": "Simple app install/update behavior detection.", 
+            "Forks": 4, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Stunner/App-Update-Tracker'target='_blank'>App-Update-Tracker</a>", 
+            "Stars": 23
+        }, 
+        {
+            "Description": "\ud83c\udfaf Useful swift extensions", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/4taras4/SwiftExtension'target='_blank'>SwiftExtension</a>", 
+            "Stars": 8
+        }, 
+        {
+            "Description": "This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.", 
+            "Forks": 529, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/futuretap/InAppSettingsKit'target='_blank'>InAppSettingsKit</a>", 
+            "Stars": 2887
+        }, 
+        {
+            "Description": "Message passing between iOS apps and extensions.", 
+            "Forks": 253, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/mutualmobile/MMWormhole'target='_blank'>MMWormhole</a>", 
+            "Stars": 3567
+        }, 
+        {
+            "Description": "[DEPRECATED] A default CustomStringConvertible implementation for Swift types", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jessesquires/DefaultStringConvertible'target='_blank'>DefaultStringConvertible</a>", 
+            "Stars": 127
+        }, 
+        {
+            "Description": "This is what makes the Flux design pattern possible.", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marty-suzuki/FluxCapacitor'target='_blank'>FluxCapacitor</a>", 
+            "Stars": 125
+        }, 
+        {
+            "Description": "Ready to use \u201cAcknowledgements\u201d/\u201cLicenses\u201d view controller for CocoaPods.", 
+            "Forks": 62, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/vtourraine/VTAcknowledgementsViewController'target='_blank'>VTAcknowledgementsViewController</a>", 
+            "Stars": 845
+        }, 
+        {
+            "Description": "Swifty closures for UIKit and Foundation", 
+            "Forks": 86, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/vhesener/Closures'target='_blank'>Closures</a>", 
+            "Stars": 1491
+        }, 
+        {
+            "Description": "Showcase new features after an app update similar to Pages, Numbers and Keynote.", 
+            "Forks": 61, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/BalestraPatrick/WhatsNew'target='_blank'>WhatsNew</a>", 
+            "Stars": 1412
+        }, 
+        {
+            "Description": "Unit conversion library for Swift.", 
+            "Forks": 30, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/michalkonturek/MKUnits'target='_blank'>MKUnits</a>", 
+            "Stars": 345
+        }, 
+        {
+            "Description": "Extensions which helps to convert objc-style target/action to  swifty closures", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/takasek/ActionClosurable'target='_blank'>ActionClosurable</a>", 
+            "Stars": 57
+        }, 
+        {
+            "Description": "Drop-in replacement for system() in iOS programs", 
+            "Forks": 23, 
+            "Language": "C", 
+            "Repo": "<a href='https://github.com/holzschu/ios_system'target='_blank'>ios_system</a>", 
+            "Stars": 217
+        }, 
+        {
+            "Description": "Parse iOS mobile provisioning files into Swift models", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Sherlouk/SwiftProvisioningProfile'target='_blank'>SwiftProvisioningProfile</a>", 
+            "Stars": 47
+        }, 
+        {
+            "Description": "\ud83d\ude80 Minimalist library to manage one-off operations.", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jianstm/Once'target='_blank'>Once</a>", 
+            "Stars": 29
+        }, 
+        {
+            "Description": "A Swift framework for rapid development using a collection of small utility extensions for Foundation and UIKit classes and protocols. http://zamzam.io", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ZamzamInc/ZamzamKit'target='_blank'>ZamzamKit</a>", 
+            "Stars": 58
+        }
+    ]
+}

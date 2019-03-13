@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "Description": "Otafuku provides utility classes to use WKWebView in Swift.", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tasanobu/Otafuku'target='_blank'>Otafuku</a>", 
+            "Stars": 52
+        }, 
+        {
+            "Description": "A drop-in inline browser for your Swift iOS app.", 
+            "Forks": 75, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/meismyles/SwiftWebVC'target='_blank'>SwiftWebVC</a>", 
+            "Stars": 257
+        }, 
+        {
+            "Description": "A drop-in inline browser for your iOS app.", 
+            "Forks": 541, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/TransitApp/SVWebViewController'target='_blank'>SVWebViewController</a>", 
+            "Stars": 2618
+        }, 
+        {
+            "Description": "PTPopupWebView is a simple and useful WebView for iOS, which can be popup and has many of the customized item. ", 
+            "Forks": 28, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/pjocprac/PTPopupWebView'target='_blank'>PTPopupWebView</a>", 
+            "Stars": 99
+        }
+    ]
+}

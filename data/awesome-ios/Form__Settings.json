@@ -1,0 +1,123 @@
+{
+    "data": [
+        {
+            "Description": "The most flexible and powerful way to build a form on iOS", 
+            "Forks": 3, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/hyperoslo/Form'target='_blank'>Form</a>", 
+            "Stars": 8
+        }, 
+        {
+            "Description": "XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C. ", 
+            "Forks": 924, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/xmartlabs/XLForm'target='_blank'>XLForm</a>", 
+            "Stars": 5447
+        }, 
+        {
+            "Description": "Elegant iOS form builder in Swift", 
+            "Forks": 1082, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/xmartlabs/Eureka'target='_blank'>Eureka</a>", 
+            "Stars": 9577
+        }, 
+        {
+            "Description": "Custom Field component with validation for creating easier form-like UI from interface builder.", 
+            "Forks": 60, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Yalantis/YALField'target='_blank'>YALField</a>", 
+            "Stars": 477
+        }, 
+        {
+            "Description": "Former is a fully customizable Swift library for easy creating UITableView based form.", 
+            "Forks": 127, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ra1028/Former'target='_blank'>Former</a>", 
+            "Stars": 1128
+        }, 
+        {
+            "Description": "A small and lightweight library written in Swift that allows you to easily create forms.", 
+            "Forks": 197, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ortuman/SwiftForms'target='_blank'>SwiftForms</a>", 
+            "Stars": 1250
+        }, 
+        {
+            "Description": "Codeless solution for form validation in iOS!", 
+            "Forks": 19, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Alterplay/APValidators'target='_blank'>APValidators</a>", 
+            "Stars": 127
+        }, 
+        {
+            "Description": "Declarative form building framework for iOS", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/seedco/Formalist'target='_blank'>Formalist</a>", 
+            "Stars": 147
+        }, 
+        {
+            "Description": "iOS framework for creating forms", 
+            "Forks": 65, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/neoneye/SwiftyFORM'target='_blank'>SwiftyFORM</a>", 
+            "Stars": 795
+        }, 
+        {
+            "Description": "[DEPRECATED]", 
+            "Forks": 380, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/nicklockwood/FXForms'target='_blank'>FXForms</a>", 
+            "Stars": 3007
+        }, 
+        {
+            "Description": "A rule-based validation library for Swift", 
+            "Forks": 295, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SwiftValidatorCommunity/SwiftValidator'target='_blank'>SwiftValidator</a>", 
+            "Stars": 1186
+        }, 
+        {
+            "Description": "MZFormSheetPresentationController provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup UIPresentationController size and feel form sheet.", 
+            "Forks": 144, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/m1entus/MZFormSheetPresentationController'target='_blank'>MZFormSheetPresentationController</a>", 
+            "Stars": 953
+        }, 
+        {
+            "Description": "A row for Eureka to implement password validations.", 
+            "Forks": 30, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/EurekaCommunity/GenericPasswordRow'target='_blank'>GenericPasswordRow</a>", 
+            "Stars": 165
+        }, 
+        {
+            "Description": "SuggestionsBox helps you build better a product trough your user suggestions. Written in Swift. \ud83d\uddf3 ", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/manuelescrig/SuggestionsBox'target='_blank'>SuggestionsBox</a>", 
+            "Stars": 99
+        }, 
+        {
+            "Description": "A framework to validate inputs of text fields and text views in a convenient way.", 
+            "Forks": 29, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ustwo/formvalidator-swift'target='_blank'>formvalidator-swift</a>", 
+            "Stars": 484
+        }, 
+        {
+            "Description": "Simple interactive and customizable library to handle form input and validations.", 
+            "Forks": 2, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/farshidce/LightForm'target='_blank'>LightForm</a>", 
+            "Stars": 8
+        }, 
+        {
+            "Description": "Lightweight framework for input validation written in Swift", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nsagora/validation-toolkit'target='_blank'>validation-toolkit</a>", 
+            "Stars": 14
+        }
+    ]
+}

@@ -1,0 +1,312 @@
+{
+    "data": [
+        {
+            "Description": "Realm is a mobile database: a replacement for Core Data & SQLite", 
+            "Forks": 1666, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/realm/realm-cocoa'target='_blank'>realm-cocoa</a>", 
+            "Stars": 12971
+        }, 
+        {
+            "Description": "YapDatabase is an extensible database for iOS & Mac.", 
+            "Forks": 351, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/yapstudios/YapDatabase'target='_blank'>YapDatabase</a>", 
+            "Stars": 3194
+        }, 
+        {
+            "Description": "A Cocoa / Objective-C wrapper around SQLite", 
+            "Forks": 2765, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ccgus/fmdb'target='_blank'>fmdb</a>", 
+            "Stars": 12903
+        }, 
+        {
+            "Description": "An alternative to Core Data for people who like having direct SQL access.", 
+            "Forks": 177, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/marcoarment/FCModel'target='_blank'>FCModel</a>", 
+            "Stars": 1649
+        }, 
+        {
+            "Description": "Effortlessly synchronize UserDefaults over iCloud.", 
+            "Forks": 39, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ArtSabintsev/Zephyr'target='_blank'>Zephyr</a>", 
+            "Stars": 525
+        }, 
+        {
+            "Description": "Prephirences is a Swift library that provides useful protocols and convenience methods to manage application preferences, configurations and app-state. UserDefaults", 
+            "Forks": 28, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/phimage/Prephirences'target='_blank'>Prephirences</a>", 
+            "Stars": 474
+        }, 
+        {
+            "Description": "\ud83d\udcbe Safe, statically-typed, store-agnostic key-value storage written in Swift!", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SwiftKitz/Storez'target='_blank'>Storez</a>", 
+            "Stars": 56
+        }, 
+        {
+            "Description": "Modern Swift API for NSUserDefaults", 
+            "Forks": 242, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/radex/SwiftyUserDefaults'target='_blank'>SwiftyUserDefaults</a>", 
+            "Stars": 3651
+        }, 
+        {
+            "Description": "CoreData/Realm sweet wrapper written in Swift", 
+            "Forks": 213, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/modo-studio/SugarRecord'target='_blank'>SugarRecord</a>", 
+            "Stars": 2068
+        }, 
+        {
+            "Description": "A type-safe, Swift-language layer over SQLite3.", 
+            "Forks": 999, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/stephencelis/SQLite.swift'target='_blank'>SQLite.swift</a>", 
+            "Stars": 5875
+        }, 
+        {
+            "Description": "A toolkit for SQLite databases, with a focus on application development", 
+            "Forks": 163, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/groue/GRDB.swift'target='_blank'>GRDB.swift</a>", 
+            "Stars": 1758
+        }, 
+        {
+            "Description": "\ud83d\udd8b Swift ORM framework (queries, models, and relations) for building NoSQL and SQL database integrations.", 
+            "Forks": 127, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/vapor/fluent'target='_blank'>fluent</a>", 
+            "Stars": 921
+        }, 
+        {
+            "Description": "A collaborative list of Parse alternative backend service providers.", 
+            "Forks": 293, 
+            "Language": "None", 
+            "Repo": "<a href='https://github.com/relatedcode/ParseAlternatives'target='_blank'>ParseAlternatives</a>", 
+            "Stars": 2699
+        }, 
+        {
+            "Description": "TypedDefaults is a utility library to type-safely use NSUserDefaults.", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tasanobu/TypedDefaults'target='_blank'>TypedDefaults</a>", 
+            "Stars": 110
+        }, 
+        {
+            "Description": "A library that provides the ability to import/export Realm files from a variety of data container formats.", 
+            "Forks": 24, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/realm/realm-cocoa-converter'target='_blank'>realm-cocoa-converter</a>", 
+            "Stars": 172
+        }, 
+        {
+            "Description": "YapDatabase extensions for use with Swift", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/danthorpe/YapDatabaseExtensions'target='_blank'>YapDatabaseExtensions</a>", 
+            "Stars": 87
+        }, 
+        {
+            "Description": "Realm GeoQueries made easy", 
+            "Forks": 22, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mhergon/RealmGeoQueries'target='_blank'>RealmGeoQueries</a>", 
+            "Stars": 127
+        }, 
+        {
+            "Description": "A MongoDB interface for Swift [Not under active development]", 
+            "Forks": 29, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Danappelxx/SwiftMongoDB'target='_blank'>SwiftMongoDB</a>", 
+            "Stars": 272
+        }, 
+        {
+            "Description": "An Objective-C wrapper for RocksDB - A Persistent Key-Value Store for Flash and RAM Storage.", 
+            "Forks": 14, 
+            "Language": "Objective-C++", 
+            "Repo": "<a href='https://github.com/iabudiab/ObjectiveRocks'target='_blank'>ObjectiveRocks</a>", 
+            "Stars": 46
+        }, 
+        {
+            "Description": " Easy direct access to your database \ud83c\udfaf  http://oleghnidets.github.io/OHMySQL/", 
+            "Forks": 23, 
+            "Language": "C", 
+            "Repo": "<a href='https://github.com/oleghnidets/OHMySQL'target='_blank'>OHMySQL</a>", 
+            "Stars": 110
+        }, 
+        {
+            "Description": "Key-Value store for Swift backed by LevelDB", 
+            "Forks": 21, 
+            "Language": "C++", 
+            "Repo": "<a href='https://github.com/hemantasapkota/SwiftStore'target='_blank'>SwiftStore</a>", 
+            "Stars": 87
+        }, 
+        {
+            "Description": "\ud83d\udcd5A single value proxy for NSUserDefaults, with clean API.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/muukii/OneStore'target='_blank'>OneStore</a>", 
+            "Stars": 24
+        }, 
+        {
+            "Description": "A stand-alone Swift wrapper around the mongo-c client library, enabling access to MongoDB servers.", 
+            "Forks": 20, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PerfectlySoft/Perfect-MongoDB'target='_blank'>Perfect-MongoDB</a>", 
+            "Stars": 49
+        }, 
+        {
+            "Description": "A stand-alone Swift wrapper around the MySQL client library, enabling access to MySQL servers.", 
+            "Forks": 47, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PerfectlySoft/Perfect-MySQL'target='_blank'>Perfect-MySQL</a>", 
+            "Stars": 89
+        }, 
+        {
+            "Description": "A Swift client for Redis.", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PerfectlySoft/Perfect-Redis'target='_blank'>Perfect-Redis</a>", 
+            "Stars": 23
+        }, 
+        {
+            "Description": "A stand-alone Swift wrapper around the libpq client library, enabling access to PostgreSQL servers.", 
+            "Forks": 16, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PerfectlySoft/Perfect-PostgreSQL'target='_blank'>Perfect-PostgreSQL</a>", 
+            "Stars": 43
+        }, 
+        {
+            "Description": "A stand-alone Swift wrapper around the FileMaker XML Web publishing interface, enabling access to FileMaker servers.", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PerfectlySoft/Perfect-FileMaker'target='_blank'>Perfect-FileMaker</a>", 
+            "Stars": 27
+        }, 
+        {
+            "Description": "Nora is a Firebase abstraction layer for FirebaseDatabase and FirebaseStorage", 
+            "Forks": 22, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SD10/Nora'target='_blank'>Nora</a>", 
+            "Stars": 256
+        }, 
+        {
+            "Description": "Swift library that makes easier to serialize the user's preferences (app's settings) with system User Defaults or Property List file on disk.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/IvanRublev/PersistentStorageSerializable'target='_blank'>PersistentStorageSerializable</a>", 
+            "Stars": 164
+        }, 
+        {
+            "Description": "WCDB is a cross-platform database framework developed by WeChat.", 
+            "Forks": 943, 
+            "Language": "C", 
+            "Repo": "<a href='https://github.com/Tencent/wcdb'target='_blank'>wcdb</a>", 
+            "Stars": 7022
+        }, 
+        {
+            "Description": "Your Data Storage Troubleshooter \ud83d\udee0", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/StorageKit/StorageKit'target='_blank'>StorageKit</a>", 
+            "Stars": 201
+        }, 
+        {
+            "Description": "Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS", 
+            "Forks": 58, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nmdias/DefaultsKit'target='_blank'>DefaultsKit</a>", 
+            "Stars": 1173
+        }, 
+        {
+            "Description": "Modern interface to UserDefaults + Codable support", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Nirma/Default'target='_blank'>Default</a>", 
+            "Stars": 405
+        }, 
+        {
+            "Description": "Sync Realm Database with CloudKit", 
+            "Forks": 93, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/caiyue1993/IceCream'target='_blank'>IceCream</a>", 
+            "Stars": 1115
+        }, 
+        {
+            "Description": "Safe and easy wrappers for common Firebase Realtime Database functions.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/quanvo87/FirebaseHelper'target='_blank'>FirebaseHelper</a>", 
+            "Stars": 9
+        }, 
+        {
+            "Description": "\ud83d\udef6 Your lightweight persistence toolbox", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dreymonde/Shallows'target='_blank'>Shallows</a>", 
+            "Stars": 577
+        }, 
+        {
+            "Description": "Safe and easy way to use FileManager as Database", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/iAmrSalman/StorageManager'target='_blank'>StorageManager</a>", 
+            "Stars": 28
+        }, 
+        {
+            "Description": "Safe and easy wrappers for RealmSwift.", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/k-lpmg/RealmWrapper'target='_blank'>RealmWrapper</a>", 
+            "Stars": 16
+        }, 
+        {
+            "Description": "Why not use UserDefaults to store Codable objects \ud83d\ude09", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/omaralbeik/UserDefaultsStore'target='_blank'>UserDefaultsStore</a>", 
+            "Stars": 315
+        }, 
+        {
+            "Description": "A protocol-centric, type and queue safe key-value workflow.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/metasmile/PropertyKit'target='_blank'>PropertyKit</a>", 
+            "Stars": 12
+        }, 
+        {
+            "Description": "Store and retrieve Codable objects to various persistence layers, in a couple lines of code!", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Teknasyon-Teknoloji/PersistenceKit'target='_blank'>PersistenceKit</a>", 
+            "Stars": 89
+        }, 
+        {
+            "Description": "Elegant library to manage the interactions between view and model in Swift", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ssamadgh/ModelAssistant'target='_blank'>ModelAssistant</a>", 
+            "Stars": 17
+        }, 
+        {
+            "Description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS, Android, macOS and Windows.", 
+            "Forks": 631, 
+            "Language": "C++", 
+            "Repo": "<a href='https://github.com/Tencent/MMKV'target='_blank'>MMKV</a>", 
+            "Stars": 6605
+        }, 
+        {
+            "Description": "Swifty and modern UserDefaults", 
+            "Forks": 16, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/sindresorhus/Defaults'target='_blank'>Defaults</a>", 
+            "Stars": 310
+        }
+    ]
+}

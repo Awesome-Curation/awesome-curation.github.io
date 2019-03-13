@@ -1,0 +1,494 @@
+{
+    "data": [
+        {
+            "Description": "Swift Script that transforms the .xcassets folder into a type safe enum", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kaandedeoglu/Shark'target='_blank'>Shark</a>", 
+            "Stars": 316
+        }, 
+        {
+            "Description": "", 
+            "Forks": 26, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/paulsamuels/SBConstants'target='_blank'>SBConstants</a>", 
+            "Stars": 311
+        }, 
+        {
+            "Description": "Get strong typed, autocompleted resources like images, fonts and segues in Swift projects", 
+            "Forks": 390, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mac-cain13/R.swift'target='_blank'>R.swift</a>", 
+            "Stars": 6021
+        }, 
+        {
+            "Description": "The Swift code generator for your assets, storyboards, Localizable.strings, \u2026 \u2014 Get rid of all String-based APIs!", 
+            "Forks": 356, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SwiftGen/SwiftGen'target='_blank'>SwiftGen</a>", 
+            "Stars": 5338
+        }, 
+        {
+            "Description": "Better asset workflow for iOS developers. Generate Xcode image catalogs for iOS / OSX app icons, universal images, and more.", 
+            "Forks": 37, 
+            "Language": "Go", 
+            "Repo": "<a href='https://github.com/jondot/blade'target='_blank'>blade</a>", 
+            "Stars": 820
+        }, 
+        {
+            "Description": "A super simple retina (2x, 3x) image converter.", 
+            "Forks": 20, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/terwanerik/Retini'target='_blank'>Retini</a>", 
+            "Stars": 150
+        }, 
+        {
+            "Description": "Soulful docs for Swift & Objective-C", 
+            "Forks": 326, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/realm/jazzy'target='_blank'>jazzy</a>", 
+            "Stars": 5821
+        }, 
+        {
+            "Description": "Objective-c code Apple style documentation set generator.", 
+            "Forks": 606, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/tomaz/appledoc'target='_blank'>appledoc</a>", 
+            "Stars": 3975
+        }, 
+        {
+            "Description": "Laurine - Localization code generator written in Swift. Sweet!", 
+            "Forks": 82, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/JiriTrecak/Laurine'target='_blank'>Laurine</a>", 
+            "Stars": 1227
+        }, 
+        {
+            "Description": "Xcode storyboards diff and merge tool.", 
+            "Forks": 19, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/marcinolawski/StoryboardMerge'target='_blank'>StoryboardMerge</a>", 
+            "Stars": 225
+        }, 
+        {
+            "Description": "Xcode .appiconset generator for Adobe Illustrator.", 
+            "Forks": 7, 
+            "Language": "JavaScript", 
+            "Repo": "<a href='https://github.com/metasmile/ai2appiconset'target='_blank'>ai2appiconset</a>", 
+            "Stars": 74
+        }, 
+        {
+            "Description": "ViewMonitor can measure view positions with accuracy.", 
+            "Forks": 54, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/daisuke0131/ViewMonitor'target='_blank'>ViewMonitor</a>", 
+            "Stars": 725
+        }, 
+        {
+            "Description": "Command line program that detects unused resource strings in an iOS or OS X application.", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ijoshsmith/abandoned-strings'target='_blank'>abandoned-strings</a>", 
+            "Stars": 138
+        }, 
+        {
+            "Description": "Swift Version Manager", 
+            "Forks": 73, 
+            "Language": "Shell", 
+            "Repo": "<a href='https://github.com/kylef/swiftenv'target='_blank'>swiftenv</a>", 
+            "Stars": 1645
+        }, 
+        {
+            "Description": "Script to support easily using Xcode Asset Catalog in Swift.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tasanobu/Misen'target='_blank'>Misen</a>", 
+            "Stars": 124
+        }, 
+        {
+            "Description": "A git plugin for real-world xcode versioning workflow.", 
+            "Forks": 0, 
+            "Language": "Shell", 
+            "Repo": "<a href='https://github.com/metasmile/git-xcp'target='_blank'>git-xcp</a>", 
+            "Stars": 11
+        }, 
+        {
+            "Description": "Shows your current framerate (fps) in the status bar of your iOS app", 
+            "Forks": 15, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/tapwork/WatchdogInspector'target='_blank'>WatchdogInspector</a>", 
+            "Stars": 491
+        }, 
+        {
+            "Description": "automatically delete the current project's DerivedData directories", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dealforest/Cichlid'target='_blank'>Cichlid</a>", 
+            "Stars": 248
+        }, 
+        {
+            "Description": "Managing state is hard. Delta aims to make it simple.", 
+            "Forks": 24, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/thoughtbot/Delta'target='_blank'>Delta</a>", 
+            "Stars": 251
+        }, 
+        {
+            "Description": "An Xcode plug-in to format your code using SwiftLint.", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ypresto/SwiftLintXcode'target='_blank'>SwiftLintXcode</a>", 
+            "Stars": 285
+        }, 
+        {
+            "Description": "An Xcode Plugin to convert Objective-C to Swift", 
+            "Forks": 39, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/dzenbot/XCSwiftr'target='_blank'>XCSwiftr</a>", 
+            "Stars": 337
+        }, 
+        {
+            "Description": "Swift autocompleter for Sublime Text, via the adorable SourceKitten framework", 
+            "Forks": 17, 
+            "Language": "Python", 
+            "Repo": "<a href='https://github.com/johncsnyder/SwiftKitten'target='_blank'>SwiftKitten</a>", 
+            "Stars": 143
+        }, 
+        {
+            "Description": "Simple PBXProj Verifier", 
+            "Forks": 7, 
+            "Language": "Python", 
+            "Repo": "<a href='https://github.com/Karumi/Kin'target='_blank'>Kin</a>", 
+            "Stars": 352
+        }, 
+        {
+            "Description": "AVXCAssets Generator takes path for your assets images and creates appiconset and imageset for you in just one click", 
+            "Forks": 28, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/angelvasa/AVXCAssets-Generator'target='_blank'>AVXCAssets-Generator</a>", 
+            "Stars": 310
+        }, 
+        {
+            "Description": "All new design. Inspect your iOS application at runtime.", 
+            "Forks": 96, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/shaps80/Peek'target='_blank'>Peek</a>", 
+            "Stars": 2516
+        }, 
+        {
+            "Description": "An adorable little framework and command line tool for interacting with SourceKit.", 
+            "Forks": 155, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jpsim/SourceKitten'target='_blank'>SourceKitten</a>", 
+            "Stars": 1543
+        }, 
+        {
+            "Description": "macOS app that manages localizations of Xcode projects.", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/athiercelin/localizations'target='_blank'>Localizations</a>", 
+            "Stars": 117
+        }, 
+        {
+            "Description": "Xcode-compatible build tool.", 
+            "Forks": 135, 
+            "Language": "C++", 
+            "Repo": "<a href='https://github.com/facebook/xcbuild'target='_blank'>xcbuild</a>", 
+            "Stars": 1596
+        }, 
+        {
+            "Description": "An executable that can be called from a Run Script Build Phase that makes comments such as // TODO: or // SERIOUS: appear in Xcode's Issue Navigator giving them project-wide visibility.", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/doubleencore/XcodeIssueGenerator'target='_blank'>XcodeIssueGenerator</a>", 
+            "Stars": 145
+        }, 
+        {
+            "Description": "Generate automated reports for slow Swift compilation paths in specific targets", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tumblr/SwiftCompilationPerformanceReporter'target='_blank'>SwiftCompilationPerformanceReporter</a>", 
+            "Stars": 148
+        }, 
+        {
+            "Description": "Build Time Analyzer for Swift", 
+            "Forks": 163, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode'target='_blank'>BuildTimeAnalyzer-for-Xcode</a>", 
+            "Stars": 2915
+        }, 
+        {
+            "Description": "A simple Swift package for measuring and reporting the time taken for operations", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SwiftStudies/Duration'target='_blank'>Duration</a>", 
+            "Stars": 319
+        }, 
+        {
+            "Description": "The Benchmark\u23f2 module provides methods to measure and report the time used to execute Swift code.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/WorldDownTown/Benchmark'target='_blank'>Benchmark</a>", 
+            "Stars": 82
+        }, 
+        {
+            "Description": "Import assets from Pixabay or from your OS X file system with their metadata to your iOS simulator (Swift 3.0)<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f536.png?v8'> ", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MatiBot/MBAssetsImporter'target='_blank'>MBAssetsImporter</a>", 
+            "Stars": 70
+        }, 
+        {
+            "Description": "DEPRECATED - Realm Browser for Mac OS X has been replaced by realm-studio which is cross platform.", 
+            "Forks": 51, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/realm/realm-browser-osx'target='_blank'>realm-browser-osx</a>", 
+            "Stars": 498
+        }, 
+        {
+            "Description": "SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle", 
+            "Forks": 24, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/square/SuperDelegate'target='_blank'>SuperDelegate</a>", 
+            "Stars": 441
+        }, 
+        {
+            "Description": "Generate required icon sizes and iconset from a master application icon.", 
+            "Forks": 29, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/KrauseFx/fastlane-plugin-appicon'target='_blank'>fastlane-plugin-appicon</a>", 
+            "Stars": 234
+        }, 
+        {
+            "Description": "A static analyzer for Java, C, C++, and Objective-C", 
+            "Forks": 1286, 
+            "Language": "OCaml", 
+            "Repo": "<a href='https://github.com/facebook/infer'target='_blank'>infer</a>", 
+            "Stars": 9514
+        }, 
+        {
+            "Description": "Small app that creates empty Swift playground files and opens them with Xcode.", 
+            "Forks": 7, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/marcboquet/PlayNow'target='_blank'>PlayNow</a>", 
+            "Stars": 91
+        }, 
+        {
+            "Description": "Trace Objective-C method calls by class or instance", 
+            "Forks": 142, 
+            "Language": "Objective-C++", 
+            "Repo": "<a href='https://github.com/johnno1962/Xtrace'target='_blank'>Xtrace</a>", 
+            "Stars": 1783
+        }, 
+        {
+            "Description": "Groom your Xcode environment.", 
+            "Forks": 3, 
+            "Language": "Shell", 
+            "Repo": "<a href='https://github.com/xcenv/xcenv'target='_blank'>xcenv</a>", 
+            "Stars": 220
+        }, 
+        {
+            "Description": "Tool for Swift Playground books", 
+            "Forks": 22, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/playgroundbooks/playgroundbook'target='_blank'>playgroundbook</a>", 
+            "Stars": 251
+        }, 
+        {
+            "Description": "Ecno is a task state manager built on top of UserDefaults in pure Swift 4.", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/xmartlabs/Ecno'target='_blank'>Ecno</a>", 
+            "Stars": 80
+        }, 
+        {
+            "Description": "ipanema analyzes and prints useful information from *.ipa file.", 
+            "Forks": 0, 
+            "Language": "Go", 
+            "Repo": "<a href='https://github.com/toshi0383/ipanema'target='_blank'>ipanema</a>", 
+            "Stars": 7
+        }, 
+        {
+            "Description": "Execute tests in parallel on multiple iOS Simulators", 
+            "Forks": 58, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/plu/pxctest'target='_blank'>pxctest</a>", 
+            "Stars": 803
+        }, 
+        {
+            "Description": "A Mac OS X library for managing and manipulating iOS Simulators", 
+            "Forks": 249, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/facebook/FBSimulatorControl'target='_blank'>FBSimulatorControl</a>", 
+            "Stars": 2312
+        }, 
+        {
+            "Description": "A template for new Swift iOS / macOS / tvOS / watchOS Framework project ready with travis-ci, cocoapods, Carthage, SwiftPM and a Readme file ", 
+            "Forks": 32, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/RahulKatariya/SwiftFrameworkTemplate'target='_blank'>SwiftFrameworkTemplate</a>", 
+            "Stars": 493
+        }, 
+        {
+            "Description": "Meta-programming for Swift, stop writing boilerplate code.", 
+            "Forks": 294, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/krzysztofzablocki/Sourcery'target='_blank'>Sourcery</a>", 
+            "Stars": 4476
+        }, 
+        {
+            "Description": "\ud83d\udc6eSanitizes your Assets.xcassets files", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/freshOS/AssetChecker'target='_blank'>AssetChecker</a>", 
+            "Stars": 123
+        }, 
+        {
+            "Description": "Create Xcode playgrounds from your menu bar", 
+            "Forks": 25, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/insidegui/PlayAlways'target='_blank'>PlayAlways</a>", 
+            "Stars": 469
+        }, 
+        {
+            "Description": "Shows FPS, CPU and memory usage, device model, app and iOS versions above the status bar and report FPS, CPU and memory usage via delegate.", 
+            "Forks": 105, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dani-gavrilov/GDPerformanceView-Swift'target='_blank'>GDPerformanceView-Swift</a>", 
+            "Stars": 1836
+        }, 
+        {
+            "Description": "Modify your native iOS app in real time.", 
+            "Forks": 36, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/krzysztofzablocki/Traits'target='_blank'>Traits</a>", 
+            "Stars": 904
+        }, 
+        {
+            "Description": "Easier to apply code based style guide to storyboard.", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yukiasai/Nori'target='_blank'>Nori</a>", 
+            "Stars": 298
+        }, 
+        {
+            "Description": "Microbenchmarking app for Swift with nice log-log plots", 
+            "Forks": 28, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/attaswift/Attabench'target='_blank'>Attabench</a>", 
+            "Stars": 1034
+        }, 
+        {
+            "Description": "Micro library to unify XIB and its code.", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/wilbertliu/Gluten'target='_blank'>Gluten</a>", 
+            "Stars": 9
+        }, 
+        {
+            "Description": "A license list generator of all your dependencies for iOS applications", 
+            "Forks": 48, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mono0926/LicensePlist'target='_blank'>LicensePlist</a>", 
+            "Stars": 1379
+        }, 
+        {
+            "Description": "AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs.", 
+            "Forks": 143, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/yahoo/AppDevKit'target='_blank'>AppDevKit</a>", 
+            "Stars": 1401
+        }, 
+        {
+            "Description": "An easy way to fine-tune, and adjust parameters for iOS apps in development.", 
+            "Forks": 428, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/facebook/Tweaks'target='_blank'>Tweaks</a>", 
+            "Stars": 4718
+        }, 
+        {
+            "Description": "A command line tool for cleaning unused resources in Xcode.", 
+            "Forks": 100, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/onevcat/FengNiao'target='_blank'>FengNiao</a>", 
+            "Stars": 1875
+        }, 
+        {
+            "Description": "Find retain cycles / memory leaks sooner.", 
+            "Forks": 78, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/krzysztofzablocki/LifetimeTracker'target='_blank'>LifetimeTracker</a>", 
+            "Stars": 1927
+        }, 
+        {
+            "Description": "A tool for generating immutable model objects", 
+            "Forks": 31, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/pinterest/plank'target='_blank'>plank</a>", 
+            "Stars": 405
+        }, 
+        {
+            "Description": "A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.", 
+            "Forks": 184, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/airbnb/Lona'target='_blank'>Lona</a>", 
+            "Stars": 6279
+        }, 
+        {
+            "Description": "A Swift command line tool for generating your Xcode project", 
+            "Forks": 169, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yonaskolb/XcodeGen'target='_blank'>XcodeGen</a>", 
+            "Stars": 2041
+        }, 
+        {
+            "Description": "iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.", 
+            "Forks": 23, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/wigl/iSimulator'target='_blank'>iSimulator</a>", 
+            "Stars": 714
+        }, 
+        {
+            "Description": "Natalie - Storyboard Code Generator (for Swift)", 
+            "Forks": 74, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/krzyzanowskim/Natalie'target='_blank'>Natalie</a>", 
+            "Stars": 1171
+        }, 
+        {
+            "Description": "Easy Attributed String Creator", 
+            "Forks": 11, 
+            "Language": "JavaScript", 
+            "Repo": "<a href='https://github.com/andresinaka/transformer'target='_blank'>Transformer</a>", 
+            "Stars": 257
+        }, 
+        {
+            "Description": "Quick Look plugin for apps and provisioning profile files", 
+            "Forks": 83, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ealeksandrov/ProvisionQL'target='_blank'>ProvisionQL</a>", 
+            "Stars": 1312
+        }, 
+        {
+            "Description": "A tool to convert Xcode .xib to .storyboard files", 
+            "Forks": 8, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/novemberfiveco/xib2Storyboard'target='_blank'>xib2Storyboard</a>", 
+            "Stars": 97
+        }, 
+        {
+            "Description": "A programming language for generating code for multiple platforms", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Zolang/Zolang'target='_blank'>Zolang</a>", 
+            "Stars": 110
+        }, 
+        {
+            "Description": "Xplat Automating Version Tool", 
+            "Forks": 0, 
+            "Language": "Go", 
+            "Repo": "<a href='https://github.com/gabrielrobert/xavtool'target='_blank'>xavtool</a>", 
+            "Stars": 20
+        }
+    ]
+}

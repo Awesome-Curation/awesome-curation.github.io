@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "Description": "ScrollingFollowView is a simple view which follows UIScrollView scrolling.", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ktanaka117/ScrollingFollowView'target='_blank'>ScrollingFollowView</a>", 
+            "Stars": 166
+        }, 
+        {
+            "Description": "UIScrollView \u221e scroll category", 
+            "Forks": 124, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/pronebird/UIScrollView-InfiniteScroll'target='_blank'>UIScrollView-InfiniteScroll</a>", 
+            "Stars": 886
+        }, 
+        {
+            "Description": "GoAutoSlideView extends UIScrollView by featuring infinitely and automatically slide.", 
+            "Forks": 9, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/zjmdp/GoAutoSlideView'target='_blank'>GoAutoSlideView</a>", 
+            "Stars": 54
+        }, 
+        {
+            "Description": "App store style horizontal scroll view", 
+            "Forks": 74, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView'target='_blank'>AppStoreStyleHorizontalScrollView</a>", 
+            "Stars": 638
+        }, 
+        {
+            "Description": "You can dismiss modal viewcontroller like Facebook Messenger by pulling scrollview or navigationbar in Swift.", 
+            "Forks": 42, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/sgr-ksmt/PullToDismiss'target='_blank'>PullToDismiss</a>", 
+            "Stars": 341
+        }, 
+        {
+            "Description": "Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.", 
+            "Forks": 252, 
+            "Language": "HTML", 
+            "Repo": "<a href='https://github.com/kishikawakatsumi/SpreadsheetView'target='_blank'>SpreadsheetView</a>", 
+            "Stars": 2793
+        }, 
+        {
+            "Description": "CrownControl is a tiny accessory that makes scrolling through scrollable content possible without lifting your thumb.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/huri000/CrownControl'target='_blank'>CrownControl</a>", 
+            "Stars": 34
+        }, 
+        {
+            "Description": "Multi-tier UIScrollView nested scrolling solution. \ud83d\ude0b\ud83d\ude0b\ud83d\ude0b", 
+            "Forks": 22, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Jiar/SegementSlide'target='_blank'>SegementSlide</a>", 
+            "Stars": 438
+        }
+    ]
+}

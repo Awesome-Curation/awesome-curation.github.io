@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "Description": "Proxitee iOS SDK to enable iOS apps to use the Proxitee platform with iBeacon and GeoFencing", 
+            "Forks": 1, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Proxitee/iOS-SDK'target='_blank'>iOS-SDK</a>", 
+            "Stars": 15
+        }, 
+        {
+            "Description": "iBeacons + CoreBluetooth", 
+            "Forks": 59, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ohayon/OWUProximityManager'target='_blank'>OWUProximityManager</a>", 
+            "Stars": 360
+        }, 
+        {
+            "Description": "Replicates detecting and broadcasting iBeacons in the background ", 
+            "Forks": 68, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Instrument/Vicinity'target='_blank'>Vicinity</a>", 
+            "Stars": 375
+        }, 
+        {
+            "Description": "Turn your Mac as an iBeacon", 
+            "Forks": 90, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/lgaches/BeaconEmitter'target='_blank'>BeaconEmitter</a>", 
+            "Stars": 846
+        }, 
+        {
+            "Description": "iBeacon Manager", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/izotx/JMCBeaconManager'target='_blank'>JMCBeaconManager</a>", 
+            "Stars": 137
+        }
+    ]
+}

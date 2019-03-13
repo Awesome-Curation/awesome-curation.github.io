@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "Description": "Make permission request easier.", 
+            "Forks": 49, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nixzhu/Proposer'target='_blank'>Proposer</a>", 
+            "Stars": 804
+        }, 
+        {
+            "Description": "Simplifies iOS user permission requests (location, push notifications, camera, contacts, calendar, photos, etc).", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/wircho/ICanHas'target='_blank'>ICanHas</a>", 
+            "Stars": 89
+        }, 
+        {
+            "Description": "A visual permission manager for iOS", 
+            "Forks": 13, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/zakkhoyt/VWWPermissionKit'target='_blank'>VWWPermissionKit</a>", 
+            "Stars": 140
+        }, 
+        {
+            "Description": "A polite and unified way of asking for permission on iOS", 
+            "Forks": 49, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/iosphere/ISHPermissionKit'target='_blank'>ISHPermissionKit</a>", 
+            "Stars": 594
+        }, 
+        {
+            "Description": "An iOS pre-permissions utility that lets developers ask users on their own dialog for calendar, contacts, location, photos, reminders, twitter, push notifications and more, before making the system-based permission request.", 
+            "Forks": 54, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/jlaws/JLPermissions'target='_blank'>JLPermissions</a>", 
+            "Stars": 408
+        }, 
+        {
+            "Description": "Cluster's reusable pre-permissions utility that lets developers ask the users on their own dialog for photos or contacts access, before making the system-based request. This is based on the Medium post by Cluster describing the different ways to ask for iOS permissions (https://medium.com/p/96fa4eb54f2c).", 
+            "Forks": 117, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/rsattar/ClusterPrePermissions'target='_blank'>ClusterPrePermissions</a>", 
+            "Stars": 1223
+        }, 
+        {
+            "Description": "A unified API to ask for permissions on iOS", 
+            "Forks": 246, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/delba/Permission'target='_blank'>Permission</a>", 
+            "Stars": 2532
+        }, 
+        {
+            "Description": "Request the Location Services via a 3D 360\u00b0 flyover MKMapView \ud83d\uddfa", 
+            "Forks": 54, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SvenTiigi/STLocationRequest'target='_blank'>STLocationRequest</a>", 
+            "Stars": 608
+        }, 
+        {
+            "Description": "A unified API to ask for permissions on iOS", 
+            "Forks": 68, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/pascalbros/PAPermissions'target='_blank'>PAPermissions</a>", 
+            "Stars": 696
+        }, 
+        {
+            "Description": "AREK is a clean and easy way to request any kind of iOS permission (with some nifty features \ud83e\udd16)", 
+            "Forks": 55, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ennioma/arek'target='_blank'>arek</a>", 
+            "Stars": 912
+        }, 
+        {
+            "Description": "Simple request permission with native UI and interactive animation", 
+            "Forks": 181, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/IvanVorobei/SPPermission'target='_blank'>SPPermission</a>", 
+            "Stars": 2679
+        }
+    ]
+}

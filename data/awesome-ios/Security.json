@@ -1,0 +1,116 @@
+{
+    "data": [
+        {
+            "Description": "A key value store for storing per-developer environment and application keys", 
+            "Forks": 73, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/orta/cocoapods-keys'target='_blank'>cocoapods-keys</a>", 
+            "Stars": 1171
+        }, 
+        {
+            "Description": "Very simple swift wrapper for Biometric Authentication Services (Touch ID) on iOS.", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/simple-machines/simple-touch'target='_blank'>simple-touch</a>", 
+            "Stars": 102
+        }, 
+        {
+            "Description": "An iOS passcode lock with TouchID authentication written in Swift.", 
+            "Forks": 230, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yankodimitrov/SwiftPasscodeLock'target='_blank'>SwiftPasscodeLock</a>", 
+            "Stars": 625
+        }, 
+        {
+            "Description": "A library for make a beautiful Passcode Lock View", 
+            "Forks": 95, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/recruit-lifestyle/Smile-Lock'target='_blank'>Smile-Lock</a>", 
+            "Stars": 565
+        }, 
+        {
+            "Description": "A realistic password strength estimator.", 
+            "Forks": 45, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/dropbox/zxcvbn-ios'target='_blank'>zxcvbn-ios</a>", 
+            "Stars": 181
+        }, 
+        {
+            "Description": "Obfuscate your strings in Swift easily", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Techprimate/TPObfuscatedString'target='_blank'>TPObfuscatedString</a>", 
+            "Stars": 16
+        }, 
+        {
+            "Description": "iOS 7 style Passcode Lock", 
+            "Forks": 142, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/rolandleth/LTHPasscodeViewController'target='_blank'>LTHPasscodeViewController</a>", 
+            "Stars": 622
+        }, 
+        {
+            "Description": "Simple class to check if app has been cracked, being debugged or enriched with custom dylib", 
+            "Forks": 8, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/karek314/iOS-App-Security-Class'target='_blank'>iOS-App-Security-Class</a>", 
+            "Stars": 51
+        }, 
+        {
+            "Description": "Framework for biometric authentication (via TouchID) in your application", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/vasilenkoigor/BiometricAuth'target='_blank'>BiometricAuth</a>", 
+            "Stars": 20
+        }, 
+        {
+            "Description": "A Swifty iOS PIN Screen", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/siavashalipour/SAPinViewController'target='_blank'>SAPinViewController</a>", 
+            "Stars": 17
+        }, 
+        {
+            "Description": "A modal passcode input and validation view controller for iOS", 
+            "Forks": 63, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/timoliver/TOPasscodeViewController'target='_blank'>TOPasscodeViewController</a>", 
+            "Stars": 311
+        }, 
+        {
+            "Description": "Use Apple FaceID or TouchID authentication in your app using BiometricAuthentication.", 
+            "Forks": 55, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/rushisangani/BiometricAuthentication'target='_blank'>BiometricAuthentication</a>", 
+            "Stars": 586
+        }, 
+        {
+            "Description": "A customizable verification code textField. Can be used for phone verification codes, passwords etc", 
+            "Forks": 4, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/kolesa-team/ios_pinCodeTextField'target='_blank'>ios_pinCodeTextField</a>", 
+            "Stars": 36
+        }, 
+        {
+            "Description": "\ud83d\uddc4 Vault - Simple and Secure", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/umbri/Vault'target='_blank'>Vault</a>", 
+            "Stars": 16
+        }, 
+        {
+            "Description": "Virgil PFS SDK Objective-C/Swift", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/VirgilSecurity/virgil-sdk-pfs-x'target='_blank'>virgil-sdk-pfs-x</a>", 
+            "Stars": 4
+        }, 
+        {
+            "Description": "Virgil SDK allows developers to get up and running with Virgil API quickly and add full end-to-end (E2EE) security to their existing digital solutions to become HIPAA and GDPR compliant and more.", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/VirgilSecurity/virgil-sdk-x'target='_blank'>virgil-sdk-x</a>", 
+            "Stars": 21
+        }
+    ]
+}

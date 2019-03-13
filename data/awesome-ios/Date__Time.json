@@ -1,0 +1,151 @@
+{
+    "data": [
+        {
+            "Description": "Intuitive date handling in Swift", 
+            "Forks": 141, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/naoty/Timepiece'target='_blank'>Timepiece</a>", 
+            "Stars": 2583
+        }, 
+        {
+            "Description": "Parse, validate, manipulate, and display dates, time and timezones in Swift", 
+            "Forks": 469, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/malcommac/SwiftDate'target='_blank'>SwiftDate</a>", 
+            "Stars": 4661
+        }, 
+        {
+            "Description": "A time and calendar manipulation library for  iOS 9+, macOS 10.11+, tvOS 9+, watchOS 2+ written in Swift 4.", 
+            "Forks": 143, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/akosma/SwiftMoment'target='_blank'>SwiftMoment</a>", 
+            "Stars": 1636
+        }, 
+        {
+            "Description": "Dates and times made easy in iOS", 
+            "Forks": 830, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/MatthewYork/DateTools'target='_blank'>DateTools</a>", 
+            "Stars": 6658
+        }, 
+        {
+            "Description": "Swifty API for NSTimer", 
+            "Forks": 102, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/radex/SwiftyTimer'target='_blank'>SwiftyTimer</a>", 
+            "Stars": 1044
+        }, 
+        {
+            "Description": "A Swift Date extension helper", 
+            "Forks": 177, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/melvitax/DateHelper'target='_blank'>DateHelper</a>", 
+            "Stars": 1046
+        }, 
+        {
+            "Description": "A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings. Supports calendar, week, and ordinal formats.", 
+            "Forks": 141, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/boredzo/iso-8601-date-formatter'target='_blank'>iso-8601-date-formatter</a>", 
+            "Stars": 601
+        }, 
+        {
+            "Description": "\ud83d\udd50 Format your dates/times as emojis.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/thomaspaulmann/EmojiTimeFormatter'target='_blank'>EmojiTimeFormatter</a>", 
+            "Stars": 74
+        }, 
+        {
+            "Description": "Elegant NTP date library in Swift", 
+            "Forks": 34, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/lyft/Kronos'target='_blank'>Kronos</a>", 
+            "Stars": 310
+        }, 
+        {
+            "Description": "NTP library for Swift and Objective-C. Get the true time impervious to device clock changes.", 
+            "Forks": 41, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/instacart/TrueTime.swift'target='_blank'>TrueTime.swift</a>", 
+            "Stars": 338
+        }, 
+        {
+            "Description": "This Control is a beautiful time-of-day picker heavily inspired by the iOS 10 \"Bedtime\" timer.", 
+            "Forks": 74, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/joedaniels29/10Clock'target='_blank'>10Clock</a>", 
+            "Stars": 489
+        }, 
+        {
+            "Description": "A \"time ago\", \"time since\", \"relative date\", or \"fuzzy date\" category for NSDate and iOS, Objective-C, Cocoa Touch, iPhone, iPad", 
+            "Forks": 336, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/kevinlawler/NSDate-TimeAgo'target='_blank'>NSDate-TimeAgo</a>", 
+            "Stars": 1764
+        }, 
+        {
+            "Description": "Swifty Date & Time API inspired from Java 8 DateTime API.", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Kawoou/AnyDate'target='_blank'>AnyDate</a>", 
+            "Stars": 164
+        }, 
+        {
+            "Description": "A TimeZonePicker UIViewController similar to the iOS Settings app. Search and select from a range of cities and countries to find your most suitable time zone.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/gligorkot/TimeZonePicker'target='_blank'>TimeZonePicker</a>", 
+            "Stars": 101
+        }, 
+        {
+            "Description": "\ud83d\udd70 Type-safe time calculations in Swift, powered by generics", 
+            "Forks": 35, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dreymonde/Time'target='_blank'>Time</a>", 
+            "Stars": 937
+        }, 
+        {
+            "Description": "Building a better date/time library for Swift", 
+            "Forks": 28, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/davedelong/Chronology'target='_blank'>Chronology</a>", 
+            "Stars": 977
+        }, 
+        {
+            "Description": "A Swift micro library for generating Sunrise and Sunset times.", 
+            "Forks": 38, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ceeK/Solar'target='_blank'>Solar</a>", 
+            "Stars": 268
+        }, 
+        {
+            "Description": "Better time picker for iOS.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Endore8/TimePicker'target='_blank'>TimePicker</a>", 
+            "Stars": 10
+        }, 
+        {
+            "Description": "Custom Time Picker ViewController with Selection of start and end times in Swift <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f536.png?v8'> ", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/awesome-labs/LFTimePicker'target='_blank'>LFTimePicker</a>", 
+            "Stars": 60
+        }, 
+        {
+            "Description": "\ud83d\udcc5 Swift4 Date extension library", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/novalagung/nvdate'target='_blank'>nvdate</a>", 
+            "Stars": 175
+        }, 
+        {
+            "Description": "\u23f3 Lightweight timed task scheduler for Swift. (A modern alternative to Timer)", 
+            "Forks": 77, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jianstm/Schedule'target='_blank'>Schedule</a>", 
+            "Stars": 1431
+        }
+    ]
+}

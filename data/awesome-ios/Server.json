@@ -1,0 +1,179 @@
+{
+    "data": [
+        {
+            "Description": "Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more\u2026)", 
+            "Forks": 960, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PerfectlySoft/Perfect'target='_blank'>Perfect</a>", 
+            "Stars": 13330
+        }, 
+        {
+            "Description": "Tiny http server engine written in Swift programming language.", 
+            "Forks": 377, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/httpswift/swifter'target='_blank'>swifter</a>", 
+            "Stars": 2545
+        }, 
+        {
+            "Description": "A small, lightweight, embeddable HTTP server for Mac OS X or iOS applications", 
+            "Forks": 1192, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/robbiehanson/CocoaHTTPServer'target='_blank'>CocoaHTTPServer</a>", 
+            "Stars": 4872
+        }, 
+        {
+            "Description": "Swift HTTP server using the pre-fork worker model", 
+            "Forks": 34, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kylef-archive/Curassow'target='_blank'>Curassow</a>", 
+            "Stars": 401
+        }, 
+        {
+            "Description": "Lightweight library for web server applications in Swift on macOS and Linux powered by coroutines.", 
+            "Forks": 89, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Zewo/Zewo'target='_blank'>Zewo</a>", 
+            "Stars": 1818
+        }, 
+        {
+            "Description": "\ud83d\udca7 A server-side Swift web framework.", 
+            "Forks": 956, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/vapor/vapor'target='_blank'>vapor</a>", 
+            "Stars": 15962
+        }, 
+        {
+            "Description": "Sinatra-like DSL for developing web apps in Swift", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/takebayashi/swiftra'target='_blank'>swiftra</a>", 
+            "Stars": 270
+        }, 
+        {
+            "Description": "A minimal, fast and unopinionated web framework for Swift", 
+            "Forks": 49, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/elliottminns/blackfire'target='_blank'>blackfire</a>", 
+            "Stars": 936
+        }, 
+        {
+            "Description": "HTTP Implementation for Swift on Linux and Mac OS X", 
+            "Forks": 36, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/huytd/swift-http'target='_blank'>swift-http</a>", 
+            "Stars": 460
+        }, 
+        {
+            "Description": "libuv base Swift web HTTP server framework", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Yoseob/Trevi'target='_blank'>Trevi</a>", 
+            "Stars": 47
+        }, 
+        {
+            "Description": "Swift Express is a simple, yet unopinionated web application server written in Swift", 
+            "Forks": 47, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/crossroadlabs/Express'target='_blank'>Express</a>", 
+            "Stars": 857
+        }, 
+        {
+            "Description": "A lightweight library for writing HTTP web servers with Swift", 
+            "Forks": 81, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/izqui/Taylor'target='_blank'>Taylor</a>", 
+            "Stars": 935
+        }, 
+        {
+            "Description": "Frank is a DSL for quickly writing web applications in Swift", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kylef-archive/Frank'target='_blank'>Frank</a>", 
+            "Stars": 379
+        }, 
+        {
+            "Description": "A Swift web framework and HTTP server.", 
+            "Forks": 450, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/IBM-Swift/Kitura'target='_blank'>Kitura</a>", 
+            "Stars": 6883
+        }, 
+        {
+            "Description": "A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X", 
+            "Forks": 86, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/sauliusgrigaitis/Swifton'target='_blank'>Swifton</a>", 
+            "Stars": 2033
+        }, 
+        {
+            "Description": "High Performance (nearly)100% Swift Web server supporting dynamic content.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/johnno1962/Dynamo'target='_blank'>Dynamo</a>", 
+            "Stars": 65
+        }, 
+        {
+            "Description": "\u26a1\ufe0fNon-blocking, event-driven Redis client.", 
+            "Forks": 42, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/vapor/redis'target='_blank'>redis</a>", 
+            "Stars": 394
+        }, 
+        {
+            "Description": "Swift backend / server framework (Pure Swift, Supports Linux)", 
+            "Forks": 32, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/colemancda/NetworkObjects'target='_blank'>NetworkObjects</a>", 
+            "Stars": 266
+        }, 
+        {
+            "Description": "A Swift Multiplatform Single-threaded Non-blocking Web and Networking Framework", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/skylab-inc/Lightning'target='_blank'>Lightning</a>", 
+            "Stars": 313
+        }, 
+        {
+            "Description": "A simple Swift wrapper for libgd", 
+            "Forks": 25, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/twostraws/swiftgd'target='_blank'>SwiftGD</a>", 
+            "Stars": 243
+        }, 
+        {
+            "Description": "A job system for Swift backends.", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/BrettRToomey/Jobs'target='_blank'>Jobs</a>", 
+            "Stars": 255
+        }, 
+        {
+            "Description": "Reliable Server Side Swift \u272d Make Apache great again!", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ApacheExpress/ApacheExpress'target='_blank'>ApacheExpress</a>", 
+            "Stars": 167
+        }, 
+        {
+            "Description": "The #1 HTTP server for iOS, macOS & tvOS (also includes web based uploader & WebDAV server)", 
+            "Forks": 728, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/swisspol/GCDWebServer'target='_blank'>GCDWebServer</a>", 
+            "Stars": 4645
+        }, 
+        {
+            "Description": "Super lightweight async HTTP server library in pure Swift runs in iOS / MacOS / Linux", 
+            "Forks": 31, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/envoy/Embassy'target='_blank'>Embassy</a>", 
+            "Stars": 319
+        }, 
+        {
+            "Description": "A light-weight server-side service framework written in the Swift programming language.", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/amzn/smoke-framework'target='_blank'>smoke-framework</a>", 
+            "Stars": 778
+        }
+    ]
+}

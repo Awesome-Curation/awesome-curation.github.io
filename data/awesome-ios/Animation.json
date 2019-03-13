@@ -1,0 +1,550 @@
+{
+    "data": [
+        {
+            "Description": "An extensible iOS and OS X animation library, useful for physics-based interactions.", 
+            "Forks": 2895, 
+            "Language": "Objective-C++", 
+            "Repo": "<a href='https://github.com/facebook/pop'target='_blank'>pop</a>", 
+            "Stars": 19523
+        }, 
+        {
+            "Description": "Easily build advanced custom animations on iOS.", 
+            "Forks": 79, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/intuit/AnimationEngine'target='_blank'>AnimationEngine</a>", 
+            "Stars": 1055
+        }, 
+        {
+            "Description": "A library of custom iOS View Controller Animations and Interactions.", 
+            "Forks": 182, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Raizlabs/RZTransitions'target='_blank'>RZTransitions</a>", 
+            "Stars": 1817
+        }, 
+        {
+            "Description": "A collection of animations for iOS. Simple, just add water animations.", 
+            "Forks": 84, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/daltoniam/DCAnimationKit'target='_blank'>DCAnimationKit</a>", 
+            "Stars": 773
+        }, 
+        {
+            "Description": "A library to simplify iOS animations in Swift.", 
+            "Forks": 1505, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MengTo/Spring'target='_blank'>Spring</a>", 
+            "Stars": 12970
+        }, 
+        {
+            "Description": "Animate in Xcode without code", 
+            "Forks": 544, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/CanvasPod/Canvas'target='_blank'>Canvas</a>", 
+            "Stars": 5335
+        }, 
+        {
+            "Description": "Swift animation made easy", 
+            "Forks": 16, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/matthewcheok/Fluent'target='_blank'>Fluent</a>", 
+            "Stars": 303
+        }, 
+        {
+            "Description": "Easy animation library on iOS with Swift2", 
+            "Forks": 45, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/suguru/Cheetah'target='_blank'>Cheetah</a>", 
+            "Stars": 593
+        }, 
+        {
+            "Description": "Animation for clickable elements", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/soheil/RadialLayer'target='_blank'>RadialLayer</a>", 
+            "Stars": 56
+        }, 
+        {
+            "Description": "Facebook's Pop Framework, By Examples", 
+            "Forks": 32, 
+            "Language": "Objective-C++", 
+            "Repo": "<a href='https://github.com/hossamghareeb/Facebook-POP-Tutorial'target='_blank'>Facebook-POP-Tutorial</a>", 
+            "Stars": 183
+        }, 
+        {
+            "Description": "A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, springs, chain-able animations and mixing view and layer animations together!", 
+            "Forks": 190, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/icanzilb/EasyAnimation'target='_blank'>EasyAnimation</a>", 
+            "Stars": 2743
+        }, 
+        {
+            "Description": "Bring life to CALayers with SpriteKit-like animation builders", 
+            "Forks": 22, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/eure/Animo'target='_blank'>Animo</a>", 
+            "Stars": 237
+        }, 
+        {
+            "Description": "Fire for your iPhone", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/devinross/curry-fire'target='_blank'>curry-fire</a>", 
+            "Stars": 111
+        }, 
+        {
+            "Description": "Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.", 
+            "Forks": 730, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/IBAnimatable/IBAnimatable'target='_blank'>IBAnimatable</a>", 
+            "Stars": 7977
+        }, 
+        {
+            "Description": "Cool wave like transition between two or more UICollectionView", 
+            "Forks": 124, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/CezaryKopacz/CKWaveCollectionViewTransition'target='_blank'>CKWaveCollectionViewTransition</a>", 
+            "Stars": 1702
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f517.png?v8'>  Easy animation chaining", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/alikaragoz/DaisyChain'target='_blank'>DaisyChain</a>", 
+            "Stars": 29
+        }, 
+        {
+            "Description": "SYBlinkAnimationKit is a blink effect animation framework for iOS, written in Swift.", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/shoheiyokoyama/SYBlinkAnimationKit'target='_blank'>SYBlinkAnimationKit</a>", 
+            "Stars": 116
+        }, 
+        {
+            "Description": "iOS Component for creating a pulsing animation.", 
+            "Forks": 238, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/shu223/PulsingHalo'target='_blank'>PulsingHalo</a>", 
+            "Stars": 1731
+        }, 
+        {
+            "Description": "A DSL to make animation easy on iOS with Swift.", 
+            "Forks": 108, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Draveness/DKChainableAnimationKit'target='_blank'>DKChainableAnimationKit</a>", 
+            "Stars": 1878
+        }, 
+        {
+            "Description": "Animate easy and with less code with Swift", 
+            "Forks": 48, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/JellyDevelopment/JDAnimationKit'target='_blank'>JDAnimationKit</a>", 
+            "Stars": 612
+        }, 
+        {
+            "Description": "Physics-based animations for iOS, tvOS, and macOS.", 
+            "Forks": 238, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/timdonnelly/Advance'target='_blank'>Advance</a>", 
+            "Stars": 4256
+        }, 
+        {
+            "Description": "UIView category that adds shake animation", 
+            "Forks": 77, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/andreamazz/UIView-Shake'target='_blank'>UIView-Shake</a>", 
+            "Stars": 494
+        }, 
+        {
+            "Description": "Each step you take reveals a new horizon. You have taken the first step today.", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/RamonGilabert/Walker'target='_blank'>Walker</a>", 
+            "Stars": 151
+        }, 
+        {
+            "Description": "Not all those who wander are lost.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/RamonGilabert/Morgan'target='_blank'>Morgan</a>", 
+            "Stars": 97
+        }, 
+        {
+            "Description": "Keynote-style Magic Move transition animations", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/patrickreynolds/MagicMove'target='_blank'>MagicMove</a>", 
+            "Stars": 15
+        }, 
+        {
+            "Description": "An easy way to add a simple, shimmering effect to any view in an iOS app.", 
+            "Forks": 1070, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/facebook/Shimmer'target='_blank'>Shimmer</a>", 
+            "Stars": 8881
+        }, 
+        {
+            "Description": "Confetti! Who doesn't like confetti?", 
+            "Forks": 214, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/sudeepag/SAConfettiView'target='_blank'>SAConfettiView</a>", 
+            "Stars": 1266
+        }, 
+        {
+            "Description": "CCMRadarView uses the IBDesignable tools to make an easy customizable radar view with animation", 
+            "Forks": 28, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/cacmartinez/CCMRadarView'target='_blank'>CCMRadarView</a>", 
+            "Stars": 182
+        }, 
+        {
+            "Description": "Pulse animation for iOS", 
+            "Forks": 111, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/shu223/Pulsator'target='_blank'>Pulsator</a>", 
+            "Stars": 1028
+        }, 
+        {
+            "Description": "Swift interpolation for gesture-driven animations", 
+            "Forks": 62, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marmelroy/Interpolate'target='_blank'>Interpolate</a>", 
+            "Stars": 1655
+        }, 
+        {
+            "Description": "Inspired by Fabric - Answers animation. Allows to \"build\" given view with pieces. Allows to \"destroy\" given view into pieces", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Antondomashnev/ADPuzzleAnimation'target='_blank'>ADPuzzleAnimation</a>", 
+            "Stars": 121
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f30a.png?v8'>  Declarative chainable animations in Swift", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/onmyway133/Wave'target='_blank'>Wave</a>", 
+            "Stars": 88
+        }, 
+        {
+            "Description": "A fantastic Physical animation library for swift", 
+            "Forks": 196, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AugustRush/Stellar'target='_blank'>Stellar</a>", 
+            "Stars": 2724
+        }, 
+        {
+            "Description": "A powerful, elegant, and modular animation library for Swift.", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/poetmountain/MotionMachine'target='_blank'>MotionMachine</a>", 
+            "Stars": 355
+        }, 
+        {
+            "Description": "An Objective-C animation library used to create floating image views.", 
+            "Forks": 25, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/carleihar/JRMFloatingAnimation'target='_blank'>JRMFloatingAnimation</a>", 
+            "Stars": 200
+        }, 
+        {
+            "Description": "UIView subclass that bends its edges when its position changes.", 
+            "Forks": 31, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/fastred/AHKBendableView'target='_blank'>AHKBendableView</a>", 
+            "Stars": 600
+        }, 
+        {
+            "Description": "Advanced Natural Motion Animations, Simple Blocks Based Syntax", 
+            "Forks": 41, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AntonTheDev/FlightAnimator'target='_blank'>FlightAnimator</a>", 
+            "Stars": 584
+        }, 
+        {
+            "Description": "ZoomTransitioning provides a custom transition with image zooming animation and swiping the screen edge.", 
+            "Forks": 50, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/WorldDownTown/ZoomTransitioning'target='_blank'>ZoomTransitioning</a>", 
+            "Stars": 616
+        }, 
+        {
+            "Description": "Ubergang is a tweening engine for iOS written in Swift.", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/RobinFalko/Ubergang'target='_blank'>Ubergang</a>", 
+            "Stars": 50
+        }, 
+        {
+            "Description": "Easy to read and write chainable animations in Objective-C and Swift", 
+            "Forks": 323, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/jhurray/JHChainableAnimations'target='_blank'>JHChainableAnimations</a>", 
+            "Stars": 3179
+        }, 
+        {
+            "Description": "Simple, extensible interpolation framework", 
+            "Forks": 110, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/DavdRoman/Popsicle'target='_blank'>Popsicle</a>", 
+            "Stars": 1123
+        }, 
+        {
+            "Description": "Add smooth water waves to your views. ", 
+            "Forks": 57, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/WelkinXie/WXWaveView'target='_blank'>WXWaveView</a>", 
+            "Stars": 334
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/2728.png?v8'>  Twinkle iOS/tvOS app elements in Swift", 
+            "Forks": 54, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/piemonte/Twinkle'target='_blank'>Twinkle</a>", 
+            "Stars": 500
+        }, 
+        {
+            "Description": "MotionBlur allows you to add motion blur effect to iOS animations.", 
+            "Forks": 103, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/fastred/MotionBlur'target='_blank'>MotionBlur</a>", 
+            "Stars": 1517
+        }, 
+        {
+            "Description": "RippleEffectView - A Neat Rippling View Effect", 
+            "Forks": 23, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/alsedi/RippleEffectView'target='_blank'>RippleEffectView</a>", 
+            "Stars": 306
+        }, 
+        {
+            "Description": "A library for converting Adobe AE shape based animations to a data format and playing it back on Android and iOS devices.", 
+            "Forks": 314, 
+            "Language": "JavaScript", 
+            "Repo": "<a href='https://github.com/facebookincubator/Keyframes'target='_blank'>Keyframes</a>", 
+            "Stars": 5211
+        }, 
+        {
+            "Description": "Composable animations in Swift", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/rchatham/SwiftyAnimate'target='_blank'>SwiftyAnimate</a>", 
+            "Stars": 184
+        }, 
+        {
+            "Description": "SamuraiTransition is an open source Swift based library providing a collection of ViewController transitions featuring a number of neat \u201ccutting\u201d animations.", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hachinobu/SamuraiTransition'target='_blank'>SamuraiTransition</a>", 
+            "Stars": 240
+        }, 
+        {
+            "Description": "An iOS library to natively render After Effects vector animations", 
+            "Forks": 2224, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/airbnb/lottie-ios'target='_blank'>lottie-ios</a>", 
+            "Stars": 16366
+        }, 
+        {
+            "Description": "Tiny iOS library to achieve overlap visual effect", 
+            "Forks": 4, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ML-Works/Overlap'target='_blank'>Overlap</a>", 
+            "Stars": 127
+        }, 
+        {
+            "Description": "Swift animation library for iOS, tvOS and macOS.", 
+            "Forks": 24, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/onurersel/anim'target='_blank'>anim</a>", 
+            "Stars": 425
+        }, 
+        {
+            "Description": "A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.", 
+            "Forks": 253, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/KelvinJin/AnimatedCollectionViewLayout'target='_blank'>AnimatedCollectionViewLayout</a>", 
+            "Stars": 3439
+        }, 
+        {
+            "Description": "A radical & elegant animation library for iOS.", 
+            "Forks": 22, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/saoudrizwan/Dance'target='_blank'>Dance</a>", 
+            "Stars": 640
+        }, 
+        {
+            "Description": "UIImageView subclass which allows you to display a looped video and even dynamically switch it", 
+            "Forks": 47, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/numen31337/AKVideoImageView'target='_blank'>AKVideoImageView</a>", 
+            "Stars": 116
+        }, 
+        {
+            "Description": "Swift library for choreographing animations on the screen.", 
+            "Forks": 150, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/willowtreeapps/spruce-ios'target='_blank'>spruce-ios</a>", 
+            "Stars": 2749
+        }, 
+        {
+            "Description": "Circular reveal animations made easy", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/T-Pro/CircularRevealKit'target='_blank'>CircularRevealKit</a>", 
+            "Stars": 16
+        }, 
+        {
+            "Description": "Animation library for iOS in Swift", 
+            "Forks": 46, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SteveBarnegren/TweenKit'target='_blank'>TweenKit</a>", 
+            "Stars": 842
+        }, 
+        {
+            "Description": "Simple calculation to render cheap water effects.", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/KrisYu/Water'target='_blank'>Water</a>", 
+            "Stars": 354
+        }, 
+        {
+            "Description": "\ud83c\udfa8 Gradient animation effect like Instagram", 
+            "Forks": 166, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/cruisediary/Pastel'target='_blank'>Pastel</a>", 
+            "Stars": 2945
+        }, 
+        {
+            "Description": "Your fast and friendly physics-based animation system.", 
+            "Forks": 84, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yapstudios/YapAnimator'target='_blank'>YapAnimator</a>", 
+            "Stars": 1848
+        }, 
+        {
+            "Description": "Inspired by Fruit Animation", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/goldmoment/Bubble'target='_blank'>Bubble</a>", 
+            "Stars": 197
+        }, 
+        {
+            "Description": "Gemini is rich scroll based animation framework for iOS, written in Swift.", 
+            "Forks": 138, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/shoheiyokoyama/Gemini'target='_blank'>Gemini</a>", 
+            "Stars": 2624
+        }, 
+        {
+            "Description": "Simple water drops animation \ud83d\udca7", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/LeFal/WaterDrops'target='_blank'>WaterDrops</a>", 
+            "Stars": 253
+        }, 
+        {
+            "Description": "ViewAnimator brings your UI to life with just one line", 
+            "Forks": 323, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marcosgriselli/ViewAnimator'target='_blank'>ViewAnimator</a>", 
+            "Stars": 5053
+        }, 
+        {
+            "Description": "Animate everything with Ease", 
+            "Forks": 26, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/roberthein/Ease'target='_blank'>Ease</a>", 
+            "Stars": 1020
+        }, 
+        {
+            "Description": "A Fast Animation Engine with an Intuitive API", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mmick66/kinieta'target='_blank'>kinieta</a>", 
+            "Stars": 25
+        }, 
+        {
+            "Description": "\u26d3 Easy to Read and Write Multi-chain Animations Lib in Objective-C and Swift.", 
+            "Forks": 135, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Lision/LSAnimator'target='_blank'>LSAnimator</a>", 
+            "Stars": 1365
+        }, 
+        {
+            "Description": "Designed for gesture-driven animations. Fast, simple, & extensible!", 
+            "Forks": 20, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/lkzhao/YetAnotherAnimationLibrary'target='_blank'>YetAnotherAnimationLibrary</a>", 
+            "Stars": 434
+        }, 
+        {
+            "Description": "Anima is chainable Layer-Based Animation library for Swift4.", 
+            "Forks": 24, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/satoshin21/Anima'target='_blank'>Anima</a>", 
+            "Stars": 484
+        }, 
+        {
+            "Description": "Lightweight animation library for UIKit", 
+            "Forks": 23, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/lkzhao/MotionAnimation'target='_blank'>MotionAnimation</a>", 
+            "Stars": 133
+        }, 
+        {
+            "Description": "library performs interaction with UI interface", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/agilie/AGInterfaceInteraction'target='_blank'>AGInterfaceInteraction</a>", 
+            "Stars": 153
+        }, 
+        {
+            "Description": "An elegant and flexible tweening library for iOS and tvOS.", 
+            "Forks": 22, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/poetmountain/PMTween'target='_blank'>PMTween</a>", 
+            "Stars": 344
+        }, 
+        {
+            "Description": "Various view's effects for iOS, written in Swift. Allows you to animate views nicely with easy to use extensions. Currently supported animations: Glass Break, Explode, Snowflakes. Every animation is randomized.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/artrmz/VariousViewsEffects'target='_blank'>VariousViewsEffects</a>", 
+            "Stars": 10
+        }, 
+        {
+            "Description": "Type-safe CAAnimation wrapper. It makes preventing to set wrong type values.", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marty-suzuki/TheAnimation'target='_blank'>TheAnimation</a>", 
+            "Stars": 185
+        }, 
+        {
+            "Description": "", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/HideakiTouhara/Poi'target='_blank'>Poi</a>", 
+            "Stars": 29
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f98c.png?v8'>  Simple Interface Core Animation. Run type-safe animation sequencially or parallelly", 
+            "Forks": 30, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/cats-oss/Sica'target='_blank'>Sica</a>", 
+            "Stars": 743
+        }, 
+        {
+            "Description": "Fireworks for UIView", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tomkowz/fireworks'target='_blank'>fireworks</a>", 
+            "Stars": 153
+        }, 
+        {
+            "Description": "Disintegration animation inspired by THAT thing Thanos did at the end of Avengers: Infinity War.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dbukowski/Disintegrate'target='_blank'>Disintegrate</a>", 
+            "Stars": 43
+        }
+    ]
+}

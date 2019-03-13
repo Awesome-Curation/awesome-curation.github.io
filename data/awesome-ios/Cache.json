@@ -1,0 +1,116 @@
+{
+    "data": [
+        {
+            "Description": "Delightful on-disk cache (written in Swift)", 
+            "Forks": 138, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/aschuch/AwesomeCache'target='_blank'>AwesomeCache</a>", 
+            "Stars": 1155
+        }, 
+        {
+            "Description": "iOS Offline Caching for Web Content", 
+            "Forks": 41, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/buzzfeed/mattress'target='_blank'>mattress</a>", 
+            "Stars": 490
+        }, 
+        {
+            "Description": "A simple but flexible cache", 
+            "Forks": 32, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/spring-media/Carlos'target='_blank'>Carlos</a>", 
+            "Stars": 508
+        }, 
+        {
+            "Description": "A lightweight generic cache for iOS written in Swift with extra love for images.", 
+            "Forks": 573, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Haneke/HanekeSwift'target='_blank'>HanekeSwift</a>", 
+            "Stars": 4854
+        }, 
+        {
+            "Description": "High performance cache framework for iOS.", 
+            "Forks": 405, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ibireme/YYCache'target='_blank'>YYCache</a>", 
+            "Stars": 1980
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png?v8'>  Nothing but Cache.", 
+            "Forks": 142, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hyperoslo/Cache'target='_blank'>Cache</a>", 
+            "Stars": 1689
+        }, 
+        {
+            "Description": "A delightful iOS and OS X Networking Cache Managing Class", 
+            "Forks": 2, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Mortgy/MGCacheManager'target='_blank'>MGCacheManager</a>", 
+            "Stars": 9
+        }, 
+        {
+            "Description": "Everyone tries to implement a cache at some point in their iOS app\u2019s lifecycle, and this is ours.", 
+            "Forks": 70, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/spotify/SPTPersistentCache'target='_blank'>SPTPersistentCache</a>", 
+            "Stars": 1198
+        }, 
+        {
+            "Description": "Track is a thread safe cache write by Swift. Composed of DiskCache and MemoryCache which support LRU.", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/maquannene/Track'target='_blank'>Track</a>", 
+            "Stars": 210
+        }, 
+        {
+            "Description": "UITableView cell cache that cures scroll-lags on cell instantiating", 
+            "Forks": 12, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Kilograpp/UITableView-Cache'target='_blank'>UITableView-Cache</a>", 
+            "Stars": 71
+        }, 
+        {
+            "Description": "A caching and consistency solution for immutable models.", 
+            "Forks": 46, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/plivesey/RocketData'target='_blank'>RocketData</a>", 
+            "Stars": 588
+        }, 
+        {
+            "Description": "Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X", 
+            "Forks": 261, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/pinterest/PINCache'target='_blank'>PINCache</a>", 
+            "Stars": 2135
+        }, 
+        {
+            "Description": "Melodic Caching for Swift", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/zolomatok/Johnny'target='_blank'>Johnny</a>", 
+            "Stars": 32
+        }, 
+        {
+            "Description": "Delightful framework for iOS to easily persist structs, images, and data", 
+            "Forks": 89, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/saoudrizwan/Disk'target='_blank'>Disk</a>", 
+            "Stars": 2368
+        }, 
+        {
+            "Description": "A small key-value data cache for iOS, macOS and tvOS, written in Swift.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/YR/Cachyr'target='_blank'>Cachyr</a>", 
+            "Stars": 104
+        }, 
+        {
+            "Description": "Swift caching library", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/soffes/Cache'target='_blank'>Cache</a>", 
+            "Stars": 196
+        }
+    ]
+}

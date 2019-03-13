@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "Description": "GTrack is a lightweight Objective-C wrapper around the Google Analytics for iOS SDK with some extra goodies.", 
+            "Forks": 5, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/gemr/GTrack'target='_blank'>GTrack</a>", 
+            "Stars": 85
+        }, 
+        {
+            "Description": "Simplify your iOS/Mac analytics", 
+            "Forks": 209, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/orta/ARAnalytics'target='_blank'>ARAnalytics</a>", 
+            "Stars": 1785
+        }, 
+        {
+            "Description": "The hassle-free way to integrate analytics into any iOS application. ", 
+            "Forks": 207, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/segmentio/analytics-ios'target='_blank'>analytics-ios</a>", 
+            "Stars": 292
+        }, 
+        {
+            "Description": "Abbi iOS SDK", 
+            "Forks": 1, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/abbiio/iosdk'target='_blank'>iosdk</a>", 
+            "Stars": 2
+        }, 
+        {
+            "Description": "Matomo iOS, tvOS and macOS SDK: a Matomo tracker written in Swift", 
+            "Forks": 111, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/matomo-org/matomo-sdk-ios'target='_blank'>matomo-sdk-ios</a>", 
+            "Stars": 253
+        }
+    ]
+}

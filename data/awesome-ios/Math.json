@@ -1,0 +1,116 @@
+{
+    "data": [
+        {
+            "Description": "Swift Custom Operators for Mathematical Notation", 
+            "Forks": 61, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mattt/Euler'target='_blank'>Euler</a>", 
+            "Stars": 1076
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4d0.png?v8'>  A math framework for Swift. Includes: vectors, matrices, complex numbers, quaternions and polynomials.", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/madbat/SwiftMath'target='_blank'>SwiftMath</a>", 
+            "Stars": 160
+        }, 
+        {
+            "Description": "A set of protocols for Arithmetic, Statistics and Logical operations", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/phimage/Arithmosophi'target='_blank'>Arithmosophi</a>", 
+            "Stars": 64
+        }, 
+        {
+            "Description": "A Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation.", 
+            "Forks": 411, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mattt/Surge'target='_blank'>Surge</a>", 
+            "Stars": 4388
+        }, 
+        {
+            "Description": "Multi-dimensional Swift math", 
+            "Forks": 32, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/alejandro-isaza/Upsurge'target='_blank'>Upsurge</a>", 
+            "Stars": 155
+        }, 
+        {
+            "Description": "A general math framework to make using math easy. Currently supports function solving and optimisation, matrix and vector algebra, complex numbers, big int, big frac, big rational, graphs and general handy extensions and functions.", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/rugheid/Swift-MathEagle'target='_blank'>Swift-MathEagle</a>", 
+            "Stars": 35
+        }, 
+        {
+            "Description": "Beautiful math equation rendering on iOS and MacOS", 
+            "Forks": 144, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/kostub/iosMath'target='_blank'>iosMath</a>", 
+            "Stars": 916
+        }, 
+        {
+            "Description": "Protocol-Oriented Number System in Pure Swift", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dankogai/swift2-pons'target='_blank'>swift2-pons</a>", 
+            "Stars": 210
+        }, 
+        {
+            "Description": "Arbitrary-precision arithmetic in pure Swift", 
+            "Forks": 45, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/attaswift/BigInt'target='_blank'>BigInt</a>", 
+            "Stars": 486
+        }, 
+        {
+            "Description": "A collection of functions for statistical calculation written in Swift.", 
+            "Forks": 45, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/evgenyneu/SigmaSwiftStatistics'target='_blank'>SigmaSwiftStatistics</a>", 
+            "Stars": 549
+        }, 
+        {
+            "Description": "A Swift library for Mac and iOS that implements common 2D and 3D vector and matrix functions, useful for games or vector-based graphics", 
+            "Forks": 35, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nicklockwood/VectorMath'target='_blank'>VectorMath</a>", 
+            "Stars": 215
+        }, 
+        {
+            "Description": "A Mac and iOS library for evaluating mathematical expressions at runtime", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nicklockwood/Expression'target='_blank'>Expression</a>", 
+            "Stars": 440
+        }, 
+        {
+            "Description": "Geometry, simplified.", 
+            "Forks": 29, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/toineheuvelmans/Metron'target='_blank'>Metron</a>", 
+            "Stars": 972
+        }, 
+        {
+            "Description": "Numeric facilities for Swift", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/xwu/NumericAnnex'target='_blank'>NumericAnnex</a>", 
+            "Stars": 54
+        }, 
+        {
+            "Description": "Swift framework to simplify radicals.", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/aaronjsutton/EasyRoot'target='_blank'>EasyRoot</a>", 
+            "Stars": 0
+        }, 
+        {
+            "Description": "Tiny high-performance Swift Polyline Simplification Library", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/malcommac/SwiftSimplify'target='_blank'>SwiftSimplify</a>", 
+            "Stars": 178
+        }
+    ]
+}

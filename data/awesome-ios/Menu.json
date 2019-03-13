@@ -1,0 +1,410 @@
+{
+    "data": [
+        {
+            "Description": "A simple side menu for iOS written in Swift. ", 
+            "Forks": 282, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/evnaz/ENSwiftSideMenu'target='_blank'>ENSwiftSideMenu</a>", 
+            "Stars": 1726
+        }, 
+        {
+            "Description": "iOS 7/8 style side menu with parallax effect.", 
+            "Forks": 1426, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/romaonthego/RESideMenu'target='_blank'>RESideMenu</a>", 
+            "Stars": 7229
+        }, 
+        {
+            "Description": "A Swift implementation of RESideMenu", 
+            "Forks": 99, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SSA111/SSASideMenu'target='_blank'>SSASideMenu</a>", 
+            "Stars": 606
+        }, 
+        {
+            "Description": "Paging view controller with customizable menu in Swift", 
+            "Forks": 399, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kitasuke/PagingMenuController'target='_blank'>PagingMenuController</a>", 
+            "Stars": 2395
+        }, 
+        {
+            "Description": "RadialMenu is a custom control for providing a touch context menu (like iMessage recording in iOS 8) built with Swift & POP", 
+            "Forks": 29, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/bradjasper/radialmenu'target='_blank'>RadialMenu</a>", 
+            "Stars": 289
+        }, 
+        {
+            "Description": "The fastest zero-tap iOS menu.", 
+            "Forks": 56, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/arn00s/cariocamenu'target='_blank'>cariocamenu</a>", 
+            "Stars": 703
+        }, 
+        {
+            "Description": "Context menu similar to the one in the Pinterest iOS app", 
+            "Forks": 35, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/vangelov/VLDContextSheet'target='_blank'>VLDContextSheet</a>", 
+            "Stars": 171
+        }, 
+        {
+            "Description": "Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.", 
+            "Forks": 267, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Yalantis/GuillotineMenu'target='_blank'>GuillotineMenu</a>", 
+            "Stars": 2722
+        }, 
+        {
+            "Description": "A menu based on Medium iOS app.", 
+            "Forks": 43, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/pixyzehn/MediumMenu'target='_blank'>MediumMenu</a>", 
+            "Stars": 319
+        }, 
+        {
+            "Description": "SwiftySideMenu is a lightweight and easy to use side menu controller to add left menu and center view controllers with scale animation based on Pop framework.", 
+            "Forks": 14, 
+            "Language": "Objective-C++", 
+            "Repo": "<a href='https://github.com/hossamghareeb/SwiftySideMenu'target='_blank'>SwiftySideMenu</a>", 
+            "Stars": 84
+        }, 
+        {
+            "Description": "This is a spring slide menu for iOS apps - \u4e00\u4e2a\u5f39\u6027\u4fa7\u6ed1\u83dc\u5355 ", 
+            "Forks": 95, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/lilei644/LLSlideMenu'target='_blank'>LLSlideMenu</a>", 
+            "Stars": 578
+        }, 
+        {
+            "Description": "A Slide Menu, written in Swift, inspired by Slide Menu Material Design", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PhilippeBoisney/Swift-Slide-Menu'target='_blank'>Swift-Slide-Menu</a>", 
+            "Stars": 81
+        }, 
+        {
+            "Description": "UIMenuItem with image and closure(block) action", 
+            "Forks": 42, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/cxa/MenuItemKit'target='_blank'>MenuItemKit</a>", 
+            "Stars": 653
+        }, 
+        {
+            "Description": "The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title.", 
+            "Forks": 377, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PhamBaTho/BTNavigationDropdownMenu'target='_blank'>BTNavigationDropdownMenu</a>", 
+            "Stars": 2387
+        }, 
+        {
+            "Description": "A radial/circular menu featuring spring animations.", 
+            "Forks": 16, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AlexLittlejohn/ALRadialMenu'target='_blank'>ALRadialMenu</a>", 
+            "Stars": 41
+        }, 
+        {
+            "Description": "A simple dropdown menu component for iPhone", 
+            "Forks": 50, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Azuritul/AZDropdownMenu'target='_blank'>AZDropdownMenu</a>", 
+            "Stars": 194
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  \u2b55\ufe0f CircleMenu is a simple, elegant UI menu with a circular layout and material design animations. Swift UI library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries", 
+            "Forks": 341, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Ramotion/circle-menu'target='_blank'>circle-menu</a>", 
+            "Stars": 2942
+        }, 
+        {
+            "Description": "iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app.  It is written in pure swift.", 
+            "Forks": 636, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dekatotoro/SlideMenuControllerSwift'target='_blank'>SlideMenuControllerSwift</a>", 
+            "Stars": 3182
+        }, 
+        {
+            "Description": "Simple side/slide menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes or less.", 
+            "Forks": 434, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jonkykong/SideMenu'target='_blank'>SideMenu</a>", 
+            "Stars": 3439
+        }, 
+        {
+            "Description": "slider view for choosing categories. add any UIView type as category item view. Fully customisable", 
+            "Forks": 38, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/cemolcay/CategorySliderView'target='_blank'>CategorySliderView</a>", 
+            "Stars": 364
+        }, 
+        {
+            "Description": "\ud83d\udd3b Dropdown Menu for iOS with many customizable parameters to suit any needs", 
+            "Forks": 74, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/maxkonovalov/MKDropdownMenu'target='_blank'>MKDropdownMenu</a>", 
+            "Stars": 464
+        }, 
+        {
+            "Description": "ExpandingMenu is menu button for iOS written in Swift.", 
+            "Forks": 75, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/monoqlo/ExpandingMenu'target='_blank'>ExpandingMenu</a>", 
+            "Stars": 368
+        }, 
+        {
+            "Description": "A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram)", 
+            "Forks": 854, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PageMenu/PageMenu'target='_blank'>PageMenu</a>", 
+            "Stars": 4919
+        }, 
+        {
+            "Description": "A simple circle style menu.", 
+            "Forks": 65, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/zsy78191/XXXRoundMenuButton'target='_blank'>XXXRoundMenuButton</a>", 
+            "Stars": 341
+        }, 
+        {
+            "Description": "Grid and Circular Menu for iOS.", 
+            "Forks": 21, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/sunilsharma08/IGCMenu'target='_blank'>IGCMenu</a>", 
+            "Stars": 117
+        }, 
+        {
+            "Description": "Single selection menu with cool animations", 
+            "Forks": 7, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/eejahromi/EEJSelectMenu'target='_blank'>EEJSelectMenu</a>", 
+            "Stars": 21
+        }, 
+        {
+            "Description": "An iOS drop down menu with pretty animation and easy to customize.", 
+            "Forks": 165, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/bestwnh/IGLDropDownMenu'target='_blank'>IGLDropDownMenu</a>", 
+            "Stars": 1192
+        }, 
+        {
+            "Description": "Animated side menu with customizable UI", 
+            "Forks": 348, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Yalantis/Side-Menu.iOS'target='_blank'>Side-Menu.iOS</a>", 
+            "Stars": 2651
+        }, 
+        {
+            "Description": "PopMenu is pop animation menu inspired by Sina weibo / NetEase app.", 
+            "Forks": 213, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/xhzengAIB/PopMenu'target='_blank'>PopMenu</a>", 
+            "Stars": 876
+        }, 
+        {
+            "Description": "Interactive view transition to display menus with flowing and bouncing effects in Swift", 
+            "Forks": 113, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yannickl/FlowingMenu'target='_blank'>FlowingMenu</a>", 
+            "Stars": 849
+        }, 
+        {
+            "Description": "Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift", 
+            "Forks": 319, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Yalantis/Persei'target='_blank'>Persei</a>", 
+            "Stars": 3146
+        }, 
+        {
+            "Description": "A Material Design drop down for iOS", 
+            "Forks": 310, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AssistoLab/DropDown'target='_blank'>DropDown</a>", 
+            "Stars": 1480
+        }, 
+        {
+            "Description": "A not bad gooey effects menu.", 
+            "Forks": 269, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/KittenYang/KYGooeyMenu'target='_blank'>KYGooeyMenu</a>", 
+            "Stars": 1873
+        }, 
+        {
+            "Description": "A side menu controller written in Swift for iOS", 
+            "Forks": 250, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/teodorpatras/SideMenuController'target='_blank'>SideMenuController</a>", 
+            "Stars": 1064
+        }, 
+        {
+            "Description": "You can easily add awesome animated context menu to your app.", 
+            "Forks": 268, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Yalantis/Context-Menu.iOS'target='_blank'>Context-Menu.iOS</a>", 
+            "Stars": 1878
+        }, 
+        {
+            "Description": "An implementation of the sliding menu found in various iOS apps.", 
+            "Forks": 1015, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ViewDeck/ViewDeck'target='_blank'>ViewDeck</a>", 
+            "Stars": 5338
+        }, 
+        {
+            "Description": "Hamburger Menu using Swift and iOS 8 API's", 
+            "Forks": 60, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/edekhayser/FrostedSidebar'target='_blank'>FrostedSidebar</a>", 
+            "Stars": 438
+        }, 
+        {
+            "Description": "A menu which can ... BOOM! - iOS", 
+            "Forks": 108, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Nightonke/VHBoomMenuButton'target='_blank'>VHBoomMenuButton</a>", 
+            "Stars": 525
+        }, 
+        {
+            "Description": "UIKit drop down menu, simple yet flexible and written in Swift", 
+            "Forks": 28, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/qmathe/DropDownMenuKit'target='_blank'>DropDownMenuKit</a>", 
+            "Stars": 201
+        }, 
+        {
+            "Description": "Menu controller with expandable item groups, custom position and appearance animation written with Swift. Similar to ActionSheet style of UIAlertController.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/anatoliyv/RevealMenuController'target='_blank'>RevealMenuController</a>", 
+            "Stars": 15
+        }, 
+        {
+            "Description": "Library provides easy to implement variation of Android (Material Design) Floating Action Button for iOS. You can use it as your app small side menu. \ud83c\udf36", 
+            "Forks": 16, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/robertherdzik/RHSideButtons'target='_blank'>RHSideButtons</a>", 
+            "Stars": 106
+        }, 
+        {
+            "Description": "Rotating circle menu written in Swift 3", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Sufi-Al-Hussaini/Swift-CircleMenu'target='_blank'>Swift-CircleMenu</a>", 
+            "Stars": 119
+        }, 
+        {
+            "Description": "Beautiful iOS side menu library with parallax effect. Written in Swift", 
+            "Forks": 34, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dogo/AKSideMenu'target='_blank'>AKSideMenu</a>", 
+            "Stars": 161
+        }, 
+        {
+            "Description": "iOS Interactive Side Menu written in Swift.", 
+            "Forks": 108, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/handsomecode/InteractiveSideMenu'target='_blank'>InteractiveSideMenu</a>", 
+            "Stars": 562
+        }, 
+        {
+            "Description": "\u2728 Awesome Dropdown menu for iOS with Swift 4.2", 
+            "Forks": 103, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/younatics/YNDropDownMenu'target='_blank'>YNDropDownMenu</a>", 
+            "Stars": 1099
+        }, 
+        {
+            "Description": "Drawer view controller that easy to use! ", 
+            "Forks": 25, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Kawoou/KWDrawerController'target='_blank'>KWDrawerController</a>", 
+            "Stars": 122
+        }, 
+        {
+            "Description": "Swift version of https://github.com/dopcn/DOPDropDownMenu", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/javalnanda/JNDropDownMenu'target='_blank'>JNDropDownMenu</a>", 
+            "Stars": 59
+        }, 
+        {
+            "Description": "Menu with a circular layout based on Macaw", 
+            "Forks": 39, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/exyte/fan-menu'target='_blank'>fan-menu</a>", 
+            "Stars": 401
+        }, 
+        {
+            "Description": "iOS library - UIScrollView driven expandable menu. ", 
+            "Forks": 35, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/uptechteam/AirBar'target='_blank'>AirBar</a>", 
+            "Stars": 375
+        }, 
+        {
+            "Description": "FAPanels - Swift", 
+            "Forks": 81, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/fahidattique55/FAPanels'target='_blank'>FAPanels</a>", 
+            "Stars": 738
+        }, 
+        {
+            "Description": "Swipable tab and menu View and ViewController.", 
+            "Forks": 63, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yysskk/SwipeMenuViewController'target='_blank'>SwipeMenuViewController</a>", 
+            "Stars": 625
+        }, 
+        {
+            "Description": "A fully customizable container view controller to display a set of ViewControllers in a horizontal scroll view. Written in Swift.", 
+            "Forks": 22, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tungvoduc/DTPagerController'target='_blank'>DTPagerController</a>", 
+            "Stars": 115
+        }, 
+        {
+            "Description": "PagingKit provides customizable menu UI. It has more flexible layout and design than the other libraries. ", 
+            "Forks": 54, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kazuhiro4949/PagingKit'target='_blank'>PagingKit</a>", 
+            "Stars": 794
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4a7.png?v8'>  Dropdown in Swift", 
+            "Forks": 28, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/onmyway133/Dropdowns'target='_blank'>Dropdowns</a>", 
+            "Stars": 201
+        }, 
+        {
+            "Description": "A paging view controller with a highly customizable menu \u2728", 
+            "Forks": 125, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/rechsteiner/Parchment'target='_blank'>Parchment</a>", 
+            "Stars": 1347
+        }, 
+        {
+            "Description": "An iOS context menu UI inspired by Things 3.", 
+            "Forks": 34, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/GitHawkApp/ContextMenu'target='_blank'>ContextMenu</a>", 
+            "Stars": 767
+        }, 
+        {
+            "Description": "Panels is a framework to easily add sliding panels to your application", 
+            "Forks": 45, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/antoniocasero/Panels'target='_blank'>Panels</a>", 
+            "Stars": 981
+        }, 
+        {
+            "Description": "Creating the horizontal swiping navigation how on Facebook Messenger.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AlekseyPleshkov/UIMenuScroll'target='_blank'>UIMenuScroll</a>", 
+            "Stars": 2
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "Description": "Switchboard - easy and super light weight A/B testing for your mobile iPhone or android app. This mobile A/B testing framework allows you with minimal servers to run large amounts of mobile users.", 
+            "Forks": 50, 
+            "Language": "None", 
+            "Repo": "<a href='https://github.com/KeepSafe/Switchboard'target='_blank'>Switchboard</a>", 
+            "Stars": 281
+        }, 
+        {
+            "Description": "Multivariate & A/B Testing for iOS and Mac", 
+            "Forks": 29, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/mattt/SkyLab'target='_blank'>SkyLab</a>", 
+            "Stars": 685
+        }, 
+        {
+            "Description": "Remote configuration and A/B Testing framework for iOS", 
+            "Forks": 5, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/mindsnacks/MSActiveConfig'target='_blank'>MSActiveConfig</a>", 
+            "Stars": 77
+        }, 
+        {
+            "Description": "AB testing framework for iOS", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/recruit-mp/ABKit'target='_blank'>ABKit</a>", 
+            "Stars": 105
+        }
+    ]
+}

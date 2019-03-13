@@ -1,0 +1,249 @@
+{
+    "data": [
+        {
+            "Description": "An easy to use UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.", 
+            "Forks": 1037, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/MortimerGoro/MGSwipeTableCell'target='_blank'>MGSwipeTableCell</a>", 
+            "Stars": 6575
+        }, 
+        {
+            "Description": "A PageView, which supporting scrolling to transition between a UIView and a UITableView", 
+            "Forks": 9, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/hanton/YXTPageView'target='_blank'>YXTPageView</a>", 
+            "Stars": 67
+        }, 
+        {
+            "Description": "Typed, yet Flexible Table View Controller", 
+            "Forks": 23, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/fastred/ConfigurableTableViewController'target='_blank'>ConfigurableTableViewController</a>", 
+            "Stars": 261
+        }, 
+        {
+            "Description": "A declarative api for working with UITableView.", 
+            "Forks": 3, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/electrickangaroo/Lightning-Table'target='_blank'>Lightning-Table</a>", 
+            "Stars": 27
+        }, 
+        {
+            "Description": "Simple static table views for iOS in Swift.", 
+            "Forks": 73, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/venmo/Static'target='_blank'>Static</a>", 
+            "Stars": 1120
+        }, 
+        {
+            "Description": "Custom transition between viewcontrollers holding tableviews", 
+            "Forks": 314, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/andreamazz/AMWaveTransition'target='_blank'>AMWaveTransition</a>", 
+            "Stars": 2398
+        }, 
+        {
+            "Description": "An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)", 
+            "Forks": 1310, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/CEWendel/SWTableViewCell'target='_blank'>SWTableViewCell</a>", 
+            "Stars": 7186
+        }, 
+        {
+            "Description": "a TableView have thumbnail cell only, and you can use gesture let it expands other expansionView, all diy", 
+            "Forks": 112, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/liuzhiyi1992/ZYThumbnailTableView'target='_blank'>ZYThumbnailTableView</a>", 
+            "Stars": 934
+        }, 
+        {
+            "Description": "A Swift library for swipeable table cells", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/bitwit/BWSwipeRevealCell'target='_blank'>BWSwipeRevealCell</a>", 
+            "Stars": 48
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  PreviewTransition is a simple preview gallery UI controller with animated tranisitions. Swift UI library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries", 
+            "Forks": 199, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Ramotion/preview-transition'target='_blank'>preview-transition</a>", 
+            "Stars": 1926
+        }, 
+        {
+            "Description": "A simple way to create a UITableView for settings in Swift.", 
+            "Forks": 31, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/bcylin/QuickTableViewController'target='_blank'>QuickTableViewController</a>", 
+            "Stars": 235
+        }, 
+        {
+            "Description": "Type-safe declarative table views. Swift 4.2 compatible.", 
+            "Forks": 48, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/maxsokolov/TableKit'target='_blank'>TableKit</a>", 
+            "Stars": 417
+        }, 
+        {
+            "Description": "Simple and beautiful stacked UIView to use as a replacement for an UITableView, UIImageView or as a menu", 
+            "Forks": 20, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/v-braun/VBPiledView'target='_blank'>VBPiledView</a>", 
+            "Stars": 144
+        }, 
+        {
+            "Description": "VTMagic is a page container library for iOS.", 
+            "Forks": 323, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/tianzhuo112/VTMagic'target='_blank'>VTMagic</a>", 
+            "Stars": 1712
+        }, 
+        {
+            "Description": ":point_up_2: Convenient UITableViewCell subclass that implements a swippable content to trigger actions (similar to the Mailbox app).", 
+            "Forks": 433, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/alikaragoz/MCSwipeTableViewCell'target='_blank'>MCSwipeTableViewCell</a>", 
+            "Stars": 3040
+        }, 
+        {
+            "Description": "A pixel perfect replacement for UITableView section index, written in Swift", 
+            "Forks": 37, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mindz-eye/MYTableViewIndex'target='_blank'>MYTableViewIndex</a>", 
+            "Stars": 411
+        }, 
+        {
+            "Description": "Objective-C library for drag-n-drop of UITableViewCells in a navigation hierarchy of view controllers.", 
+            "Forks": 5, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/palmin/ios-dragable-table-cells'target='_blank'>ios-dragable-table-cells</a>", 
+            "Stars": 41
+        }, 
+        {
+            "Description": "Settings screen composing framework", 
+            "Forks": 96, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/DavdRoman/Bohr'target='_blank'>Bohr</a>", 
+            "Stars": 1310
+        }, 
+        {
+            "Description": "Easy UITableView drag-and-drop cell reordering", 
+            "Forks": 35, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/adamshin/SwiftReorder'target='_blank'>SwiftReorder</a>", 
+            "Stars": 205
+        }, 
+        {
+            "Description": "HoverConversion realized vertical paging with UITableView. UIViewController will be paged when reaching top or bottom of UITableView contentOffset.", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marty-suzuki/HoverConversion'target='_blank'>HoverConversion</a>", 
+            "Stars": 166
+        }, 
+        {
+            "Description": "A cells of UITableView can be rearranged by drag and drop.", 
+            "Forks": 32, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/KyoheiG3/TableViewDragger'target='_blank'>TableViewDragger</a>", 
+            "Stars": 405
+        }, 
+        {
+            "Description": "Generic table view controller with external data processing", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dimpiax/FlexibleTableViewController'target='_blank'>FlexibleTableViewController</a>", 
+            "Stars": 9
+        }, 
+        {
+            "Description": "A no-nonsense way to write cleaner UITableViewDelegate and UITableViewDataSource in Swift.", 
+            "Forks": 49, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/edopelawi/CascadingTableDelegate'target='_blank'>CascadingTableDelegate</a>", 
+            "Stars": 870
+        }, 
+        {
+            "Description": "Simple timeline view implemented by UITableViewCell", 
+            "Forks": 87, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kf99916/TimelineTableViewCell'target='_blank'>TimelineTableViewCell</a>", 
+            "Stars": 978
+        }, 
+        {
+            "Description": "I envied so much Spotify iOS app this great playlist preview cell \ud83d\ude0d, I decided to create my own one \ud83c\udf36. Now you can give your users ability to quick check \"what content is hidden under your UITableViewCell\". Great think is that this Library not requires 3D Touch support from user device\ud83d\udca5.", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/robertherdzik/RHPreviewCell'target='_blank'>RHPreviewCell</a>", 
+            "Stars": 372
+        }, 
+        {
+            "Description": "A subclass of UITableView that styles it like Settings.app on iPad", 
+            "Forks": 8, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/TimOliver/TORoundedTableView'target='_blank'>TORoundedTableView</a>", 
+            "Stars": 96
+        }, 
+        {
+            "Description": "A simpler way to do cool UITableView animations! (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b", 
+            "Forks": 38, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mergesort/TableFlip'target='_blank'>TableFlip</a>", 
+            "Stars": 458
+        }, 
+        {
+            "Description": "Protocol-oriented UITableView management, powered by generics and associated types.", 
+            "Forks": 42, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/DenTelezhkin/DTTableViewManager'target='_blank'>DTTableViewManager</a>", 
+            "Stars": 371
+        }, 
+        {
+            "Description": "Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.", 
+            "Forks": 444, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SwipeCellKit/SwipeCellKit'target='_blank'>SwipeCellKit</a>", 
+            "Stars": 4137
+        }, 
+        {
+            "Description": "A UITableView extension that enables cell insertion from the bottom of a table view.", 
+            "Forks": 85, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marty-suzuki/ReverseExtension'target='_blank'>ReverseExtension</a>", 
+            "Stars": 1415
+        }, 
+        {
+            "Description": "Simple single-selection or multiple-selection checklist, based on UITableView", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yonat/SelectionList'target='_blank'>SelectionList</a>", 
+            "Stars": 27
+        }, 
+        {
+            "Description": "Elegant and easy way to integrate pagination with dummy views ", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AfrozZaheer/AZTableViewController'target='_blank'>AZTableViewController</a>", 
+            "Stars": 65
+        }, 
+        {
+            "Description": "UIViewController subclass inspired by \"Inbox by google\" animated transitioning.", 
+            "Forks": 26, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marty-suzuki/SAInboxViewController'target='_blank'>SAInboxViewController</a>", 
+            "Stars": 293
+        }, 
+        {
+            "Description": "Dynamically  hide / show cells of static UITableViewController", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/muyexi/StaticTableViewController'target='_blank'>StaticTableViewController</a>", 
+            "Stars": 17
+        }, 
+        {
+            "Description": "Framework to help you better manage UITableViews", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/okcupid/OKTableViewLiaison'target='_blank'>OKTableViewLiaison</a>", 
+            "Stars": 63
+        }
+    ]
+}

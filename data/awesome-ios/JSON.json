@@ -1,0 +1,347 @@
+{
+    "data": [
+        {
+            "Description": "JSON (JavaScript Object Notation) is a light-weight data interchange format that's easy to read and write for humans and computers alike. This framework implements a strict JSON parser and generator in Objective-C. ", 
+            "Forks": 739, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/stig/json-framework'target='_blank'>json-framework</a>", 
+            "Stars": 3786
+        }, 
+        {
+            "Description": "Model framework for Cocoa and Cocoa Touch", 
+            "Forks": 1462, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Mantle/Mantle'target='_blank'>Mantle</a>", 
+            "Stars": 11166
+        }, 
+        {
+            "Description": "From JSON to Core Data and back.", 
+            "Forks": 56, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/gonzalezreal/Groot'target='_blank'>Groot</a>", 
+            "Stars": 510
+        }, 
+        {
+            "Description": "Property mapping for Objective-C iOS apps.", 
+            "Forks": 92, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/krzysztofzablocki/PropertyMapper'target='_blank'>PropertyMapper</a>", 
+            "Stars": 1144
+        }, 
+        {
+            "Description": "Magical Data Modeling Framework for JSON - allows rapid creation of smart data models. You can use it in your iOS, macOS, watchOS and tvOS apps.", 
+            "Forks": 1076, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/JSONModel/JSONModel'target='_blank'>jsonmodel</a>", 
+            "Stars": 6691
+        }, 
+        {
+            "Description": "The better way to deal with JSON data in Swift.", 
+            "Forks": 2948, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SwiftyJSON/SwiftyJSON'target='_blank'>SwiftyJSON</a>", 
+            "Stars": 18102
+        }, 
+        {
+            "Description": "A tool for fast serializing & deserializing of JSON", 
+            "Forks": 80, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Yalantis/FastEasyMapping'target='_blank'>FastEasyMapping</a>", 
+            "Stars": 548
+        }, 
+        {
+            "Description": "Simple JSON Object mapping written in Swift", 
+            "Forks": 871, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tristanhimmelman/ObjectMapper'target='_blank'>ObjectMapper</a>", 
+            "Stars": 7903
+        }, 
+        {
+            "Description": "Fast JSON parsing for Swift", 
+            "Forks": 65, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/delba/JASON'target='_blank'>JASON</a>", 
+            "Stars": 1010
+        }, 
+        {
+            "Description": "A shiny JSON parsing library in Swift <img src='https://github.githubassets.com/images/icons/emoji/unicode/2728.png?v8'> ", 
+            "Forks": 142, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hkellaway/Gloss'target='_blank'>Gloss</a>", 
+            "Stars": 1646
+        }, 
+        {
+            "Description": "Swift object serialization", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Weebly/Cereal'target='_blank'>Cereal</a>", 
+            "Stars": 380
+        }, 
+        {
+            "Description": "OSX app and CLI to generate Swift 3 code for models from JSON.", 
+            "Forks": 100, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/insanoid/SwiftyJSONAccelerator'target='_blank'>SwiftyJSONAccelerator</a>", 
+            "Stars": 728
+        }, 
+        {
+            "Description": "Hassle-free JSON encoding and decoding in Swift", 
+            "Forks": 59, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/matthewcheok/JSONCodable'target='_blank'>JSONCodable</a>", 
+            "Stars": 614
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f454.png?v8'> A super fast & convenient object mapper tailored for your needs", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/zenangst/Tailor'target='_blank'>Tailor</a>", 
+            "Stars": 251
+        }, 
+        {
+            "Description": "An extremely simple JSON helper written in Swift.", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hodinkee/alexander'target='_blank'>alexander</a>", 
+            "Stars": 34
+        }, 
+        {
+            "Description": "A reusable framework for parsing JSON in Swift.", 
+            "Forks": 95, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/bignerdranch/Freddy'target='_blank'>Freddy</a>", 
+            "Stars": 1121
+        }, 
+        {
+            "Description": "A JSON deserialization library for Swift", 
+            "Forks": 80, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/lyft/mapper'target='_blank'>mapper</a>", 
+            "Stars": 1108
+        }, 
+        {
+            "Description": "An Alamofire extension which converts JSON response data into swift objects using EVReflection", 
+            "Forks": 30, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/evermeer/AlamofireJsonToObjects'target='_blank'>AlamofireJsonToObjects</a>", 
+            "Stars": 156
+        }, 
+        {
+            "Description": "Pure-Swift JSON parser & formatter. Fully streamable input and output. Linux & OS X ready. Replacement for NSJSONSerialization.", 
+            "Forks": 22, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/DanToml/Jay'target='_blank'>Jay</a>", 
+            "Stars": 131
+        }, 
+        {
+            "Description": "High performance model framework for iOS/OSX.", 
+            "Forks": 784, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ibireme/YYModel'target='_blank'>YYModel</a>", 
+            "Stars": 3836
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/2697.png?v8'>  Functional JSON Parser - Linux Ready <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f427.png?v8'> ", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ra1028/Alembic'target='_blank'>Alembic</a>", 
+            "Stars": 114
+        }, 
+        {
+            "Description": "The easy to use Swift JSON encoder", 
+            "Forks": 48, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/JohnSundell/Wrap'target='_blank'>Wrap</a>", 
+            "Stars": 670
+        }, 
+        {
+            "Description": "\ud83c\udff9 JSON Parsing Library for Swift that infers type", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/freshOS/Arrow'target='_blank'>Arrow</a>", 
+            "Stars": 311
+        }, 
+        {
+            "Description": "[Probably deprecated] Swift 2/3 JSON unmarshalling done (more) right", 
+            "Forks": 55, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Anviking/Decodable'target='_blank'>Decodable</a>", 
+            "Stars": 1068
+        }, 
+        {
+            "Description": "A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 3.0 (Supports Linux)", 
+            "Forks": 62, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/LoganWright/Genome'target='_blank'>Genome</a>", 
+            "Stars": 787
+        }, 
+        {
+            "Description": "The easy to use Swift JSON decoder", 
+            "Forks": 149, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/JohnSundell/Unbox'target='_blank'>Unbox</a>", 
+            "Stars": 2032
+        }, 
+        {
+            "Description": "Convert JSON to Swift objects.", 
+            "Forks": 71, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/daltoniam/JSONJoy-Swift'target='_blank'>JSONJoy-Swift</a>", 
+            "Stars": 351
+        }, 
+        {
+            "Description": "Lazily deserialize JSON into strongly typed Swift objects", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/iwasrobbed/LazyObject'target='_blank'>LazyObject</a>", 
+            "Stars": 10
+        }, 
+        {
+            "Description": "JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.", 
+            "Forks": 632, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Ahmed-Ali/JSONExport'target='_blank'>JSONExport</a>", 
+            "Stars": 3758
+        }, 
+        {
+            "Description": "Elevate is a JSON parsing framework that leverages Swift to make parsing simple, reliable and composable.", 
+            "Forks": 43, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Nike-Inc/Elevate'target='_blank'>Elevate</a>", 
+            "Stars": 626
+        }, 
+        {
+            "Description": "A fast, convenient and nonintrusive conversion between JSON and model. Your model class don't need to extend another base class. You don't need to modify any model file.", 
+            "Forks": 2155, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/CoderMJLee/MJExtension'target='_blank'>MJExtension</a>", 
+            "Stars": 7949
+        }, 
+        {
+            "Description": "An Alamofire extension which converts JSON response data into swift objects using ObjectMapper", 
+            "Forks": 310, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tristanhimmelman/AlamofireObjectMapper'target='_blank'>AlamofireObjectMapper</a>", 
+            "Stars": 2427
+        }, 
+        {
+            "Description": "Swift guarded model initializers for SwiftyJSON", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/wiggzz/GuardedSwiftyJSON'target='_blank'>GuardedSwiftyJSON</a>", 
+            "Stars": 4
+        }, 
+        {
+            "Description": "\ud83e\uddf1 The best way of accessing to JSON with flexibility and safety.", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/muukii/JAYSON'target='_blank'>JAYSON</a>", 
+            "Stars": 232
+        }, 
+        {
+            "Description": "A handy swift json-object serialization/deserialization library", 
+            "Forks": 354, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/alibaba/handyjson'target='_blank'>HandyJSON</a>", 
+            "Stars": 2601
+        }, 
+        {
+            "Description": "Marshaling the typeless wild west of [String: Any]", 
+            "Forks": 52, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/utahiosmac/Marshal'target='_blank'>Marshal</a>", 
+            "Stars": 675
+        }, 
+        {
+            "Description": "Easy JSON to NSObject mapping using Cocoa's key value coding (KVC)", 
+            "Forks": 44, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/mobilejazz/Motis'target='_blank'>Motis</a>", 
+            "Stars": 249
+        }, 
+        {
+            "Description": "The better way to deal with JSON in Objective-C (inspired by SwiftyJSON)", 
+            "Forks": 1, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/bernikowich/NSTEasyJSON'target='_blank'>NSTEasyJSON</a>", 
+            "Stars": 9
+        }, 
+        {
+            "Description": "A protocol to serialize Swift structs and classes for encoding and decoding.", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nodes-ios/Serpent'target='_blank'>Serpent</a>", 
+            "Stars": 280
+        }, 
+        {
+            "Description": "\ud83c\udf1f Super light and easy automatic JSON to model mapper", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/adrianmateoaea24/magic-mapper-swift'target='_blank'>magic-mapper-swift</a>", 
+            "Stars": 27
+        }, 
+        {
+            "Description": "This project brings FlatBuffers (an efficient cross platform serialization library) to Swift.", 
+            "Forks": 42, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mzaks/FlatBuffersSwift'target='_blank'>FlatBuffersSwift</a>", 
+            "Stars": 527
+        }, 
+        {
+            "Description": "An extension for Alamofire that converts JSON data into Decodable objects.", 
+            "Forks": 47, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Otbivnoe/CodableAlamofire'target='_blank'>CodableAlamofire</a>", 
+            "Stars": 706
+        }, 
+        {
+            "Description": "A library to turn dictionary into object and vice versa for iOS. Designed for speed!", 
+            "Forks": 1, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Wasappli/WAMapping'target='_blank'>WAMapping</a>", 
+            "Stars": 9
+        }, 
+        {
+            "Description": "A basic library for working with JSON in Swift.", 
+            "Forks": 75, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/owensd/json-swift'target='_blank'>json-swift</a>", 
+            "Stars": 749
+        }, 
+        {
+            "Description": "A type-safe JSON decoding library purely written in Swift", 
+            "Forks": 44, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ikesyo/Himotoki'target='_blank'>Himotoki</a>", 
+            "Stars": 726
+        }, 
+        {
+            "Description": "Swift/Obj-C HTTP framework with a focus on REST and JSON", 
+            "Forks": 30, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/postmates/PMHTTP'target='_blank'>PMHTTP</a>", 
+            "Stars": 504
+        }, 
+        {
+            "Description": "Simple Swift 4 encoding & decoding.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/DimaMishchenko/NativeJSONMapper'target='_blank'>NativeJSONMapper</a>", 
+            "Stars": 2
+        }, 
+        {
+            "Description": "Pure Swift JSON encoding/decoding library", 
+            "Forks": 27, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/postmates/PMJSON'target='_blank'>PMJSON</a>", 
+            "Stars": 299
+        }, 
+        {
+            "Description": "flexible JSON to Model converter, specially optimized for immutable properties", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/leavez/Mappable'target='_blank'>Mappable</a>", 
+            "Stars": 13
+        }
+    ]
+}

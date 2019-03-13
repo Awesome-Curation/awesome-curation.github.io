@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "Description": "Release packages for iOS products from Layer", 
+            "Forks": 26, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/layerhq/releases-ios'target='_blank'>releases-ios</a>", 
+            "Stars": 142
+        }, 
+        {
+            "Description": "An XMPP Framework in Objective-C for Mac and iOS", 
+            "Forks": 2087, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/robbiehanson/XMPPFramework'target='_blank'>XMPPFramework</a>", 
+            "Stars": 5634
+        }, 
+        {
+            "Description": "A lightweight framework to build chat applications, made in Swift", 
+            "Forks": 495, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/badoo/Chatto'target='_blank'>Chatto</a>", 
+            "Stars": 3703
+        }, 
+        {
+            "Description": "\u26d4\ufe0f**DEPRECATED** \u26d4\ufe0f A drop-in UIViewController subclass with a growing text input view and other useful messaging features", 
+            "Forks": 1109, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/slackhq/SlackTextViewController'target='_blank'>SlackTextViewController</a>", 
+            "Stars": 8579
+        }, 
+        {
+            "Description": "A community-driven replacement for JSQMessagesViewController", 
+            "Forks": 448, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MessageKit/MessageKit'target='_blank'>MessageKit</a>", 
+            "Stars": 2710
+        }, 
+        {
+            "Description": "A lightweight chat UI framework for iOS.", 
+            "Forks": 68, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/little2s/NoChat'target='_blank'>NoChat</a>", 
+            "Stars": 589
+        }, 
+        {
+            "Description": "A fast, lightweight messenger component built on AsyncDisplaykit and written in Swift", 
+            "Forks": 271, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/eBay/NMessenger'target='_blank'>NMessenger</a>", 
+            "Stars": 2431
+        }, 
+        {
+            "Description": "Chat and Messaging UI components for iOS, built to work with Layer", 
+            "Forks": 566, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/layerhq/Atlas-iOS'target='_blank'>Atlas-iOS</a>", 
+            "Stars": 3924
+        }, 
+        {
+            "Description": "This is a native iOS Messenger app, with audio/video calls and realtime chat conversations (full offline support).", 
+            "Forks": 774, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/relatedcode/Messenger'target='_blank'>Messenger</a>", 
+            "Stars": 3257
+        }, 
+        {
+            "Description": "OpenTok Text Chat Accelerator Pack enables text messages between mobile or browser-based devices.", 
+            "Forks": 3, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/opentok/accelerator-textchat-ios'target='_blank'>accelerator-textchat-ios</a>", 
+            "Stars": 12
+        }, 
+        {
+            "Description": "Chat SDK iOS - Open Source Mobile Messenger", 
+            "Forks": 197, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/chat-sdk/chat-sdk-ios'target='_blank'>chat-sdk-ios</a>", 
+            "Stars": 662
+        }, 
+        {
+            "Description": "A smooth, responsive and flexible messages UI library for iOS.", 
+            "Forks": 29, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nguyenhuy/AsyncMessagesViewController'target='_blank'>AsyncMessagesViewController</a>", 
+            "Stars": 271
+        }, 
+        {
+            "Description": "A SlackTextViewController replacement written in Swift for the iPhone X.", 
+            "Forks": 70, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/GitHawkApp/MessageViewController'target='_blank'>MessageViewController</a>", 
+            "Stars": 1473
+        }, 
+        {
+            "Description": "Swift toolkit for passing messages between iOS apps and extensions.", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/abdullahselek/SwiftyMessenger'target='_blank'>SwiftyMessenger</a>", 
+            "Stars": 34
+        }, 
+        {
+            "Description": "Messenger - Real-time iOS Chat with Firebase Firestore written in Swift", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/instamobile/messenger-iOS-chat-swift-firestore'target='_blank'>messenger-iOS-chat-swift-firestore</a>", 
+            "Stars": 85
+        }
+    ]
+}

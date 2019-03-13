@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "Description": "Fast and simple OCR library written in Swift", 
+            "Forks": 374, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/garnele007/SwiftOCR'target='_blank'>SwiftOCR</a>", 
+            "Stars": 3715
+        }, 
+        {
+            "Description": "A QRCode generator written in Swift.", 
+            "Forks": 128, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/aschuch/QRCode'target='_blank'>QRCode</a>", 
+            "Stars": 624
+        }, 
+        {
+            "Description": "A better way to operate quick response code in Swift.", 
+            "Forks": 300, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/EFPrefix/EFQRCode'target='_blank'>EFQRCode</a>", 
+            "Stars": 3081
+        }, 
+        {
+            "Description": "A NSFW (aka porn) detector with CoreML", 
+            "Forks": 32, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/lovoo/NSFWDetector'target='_blank'>NSFWDetector</a>", 
+            "Stars": 1063
+        }
+    ]
+}

@@ -1,0 +1,242 @@
+{
+    "data": [
+        {
+            "Description": "A stable, mature and comprehensive Objective-C library for Twitter REST API 1.1", 
+            "Forks": 171, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/nst/STTwitter'target='_blank'>STTwitter</a>", 
+            "Stars": 1018
+        }, 
+        {
+            "Description": "Twitter API for Cocoa developers", 
+            "Forks": 80, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/natesymer/FHSTwitterEngine'target='_blank'>FHSTwitterEngine</a>", 
+            "Stars": 220
+        }, 
+        {
+            "Description": "Giphy API client for iOS in Objective-C", 
+            "Forks": 22, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/heyalexchoi/Giphy-iOS'target='_blank'>Giphy-iOS</a>", 
+            "Stars": 50
+        }, 
+        {
+            "Description": "An easy-to-use Objective-C wrapper for the Uber API (no longer supported)", 
+            "Forks": 25, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/sachinkesiraju/UberKit'target='_blank'>UberKit</a>", 
+            "Stars": 97
+        }, 
+        {
+            "Description": "The unofficial Instagram iOS SDK", 
+            "Forks": 251, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/shyambhat/InstagramKit'target='_blank'>InstagramKit</a>", 
+            "Stars": 943
+        }, 
+        {
+            "Description": "Unofficial Dribbble iOS wrapper allows you to integrate Dribble API into iOS application (Designer, Shot, Comment, User Story, Like, Follow)", 
+            "Forks": 9, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/agilie/dribbble-ios-sdk'target='_blank'>dribbble-ios-sdk</a>", 
+            "Stars": 76
+        }, 
+        {
+            "Description": "ObjectiveFlickr, a Flickr API framework for Objective-C", 
+            "Forks": 160, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/lukhnos/objectiveflickr'target='_blank'>objectiveflickr</a>", 
+            "Stars": 723
+        }, 
+        {
+            "Description": "The Easiest and Simplest iOS library for Twitter and Facebook. Just Drop in and Use!", 
+            "Forks": 14, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/pjebs/EasySocial'target='_blank'>EasySocial</a>", 
+            "Stars": 129
+        }, 
+        {
+            "Description": "A Swift wrapper for Foursquare API. iOS and OSX.", 
+            "Forks": 47, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Constantine-Fry/das-quadrat'target='_blank'>das-quadrat</a>", 
+            "Stars": 171
+        }, 
+        {
+            "Description": "SocialLib handles sharing message to multiple social media. ", 
+            "Forks": 4, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/darkcl/SocialLib'target='_blank'>SocialLib</a>", 
+            "Stars": 10
+        }, 
+        {
+            "Description": "Pokeapi wrapper, written in Swift", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ContinuousLearning/PokemonKit'target='_blank'>PokemonKit</a>", 
+            "Stars": 87
+        }, 
+        {
+            "Description": "A Dropbox v2 client library written in Objective-C", 
+            "Forks": 9, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/timonus/TJDropbox'target='_blank'>TJDropbox</a>", 
+            "Stars": 49
+        }, 
+        {
+            "Description": "Some pink mustache company forgot to build that SDK.", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/genadyo/Lyft'target='_blank'>Lyft</a>", 
+            "Stars": 63
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  Unofficial GitHub API client in Swift", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/onmyway133/github.swift'target='_blank'>Github.swift</a>", 
+            "Stars": 167
+        }, 
+        {
+            "Description": "Unified API Library for: Cloud Storage, Social Log-In, Social Interaction, Payment, Email, SMS, POIs, Video & Messaging. Included services are Dropbox, Google Drive, OneDrive, OneDrive for Business, Box, Egnyte, PayPal, Stripe,  Google Places, Foursquare, Yelp, YouTube, Vimeo, Twitch, Facebook Messenger, Telegram, Line, Viber, Facebook, GitHub, Google+, LinkedIn, Slack, Twitter, Windows Live, Yahoo, Mailjet, Sendgrid, Twilio, Nexmo, Twizo.", 
+            "Forks": 20, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/CloudRail/cloudrail-si-ios-sdk'target='_blank'>cloudrail-si-ios-sdk</a>", 
+            "Stars": 201
+        }, 
+        {
+            "Description": "A swift SDK for Medium's OAuth2 API https://medium.com", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/96-problems/medium-sdk-swift'target='_blank'>medium-sdk-swift</a>", 
+            "Stars": 9
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f426.png?v8'>  A Twitter framework for iOS & OS X written in Swift", 
+            "Forks": 306, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mattdonnelly/Swifter'target='_blank'>Swifter</a>", 
+            "Stars": 1976
+        }, 
+        {
+            "Description": "Build Slack apps, in Swift", 
+            "Forks": 92, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/pvzig/SlackKit'target='_blank'>SlackKit</a>", 
+            "Stars": 773
+        }, 
+        {
+            "Description": "\ud83d\udc64 Framework to Generate Random Users - An Unofficial Swift SDK for randomuser.me", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dingwilson/RandomUserSwift'target='_blank'>RandomUserSwift</a>", 
+            "Stars": 89
+        }, 
+        {
+            "Description": "Swift client for Unsplash", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/modo-studio/UnsplashKit'target='_blank'>UnsplashKit</a>", 
+            "Stars": 171
+        }, 
+        {
+            "Description": "The swiftest way to build iOS apps that connect to Salesforce", 
+            "Forks": 29, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mike4aday/SwiftlySalesforce'target='_blank'>SwiftlySalesforce</a>", 
+            "Stars": 91
+        }, 
+        {
+            "Description": "An Elegant Spotify Web API Library Written in Swift for iOS and macOS", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Daltron/Spartan'target='_blank'>Spartan</a>", 
+            "Stars": 74
+        }, 
+        {
+            "Description": "An Elegant Financial Markets Library Written in Swift", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Daltron/BigBoard'target='_blank'>BigBoard</a>", 
+            "Stars": 56
+        }, 
+        {
+            "Description": "Swift Wrapper For Bittrex API", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/saeid/BittrexApiKit'target='_blank'>BittrexApiKit</a>", 
+            "Stars": 9
+        }, 
+        {
+            "Description": "Easy and powerful way to interact with VK API for iOS and macOS", 
+            "Forks": 33, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SwiftyVK/SwiftyVK'target='_blank'>SwiftyVK</a>", 
+            "Stars": 204
+        }, 
+        {
+            "Description": "iOS/macOS Cross-platform Ark-Ecosystem Framework in Swift | Powered by \u0466rk.io |", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/sleepdefic1t/ARKKit'target='_blank'>ARKKit</a>", 
+            "Stars": 17
+        }, 
+        {
+            "Description": "Instagram API client written in Swift", 
+            "Forks": 64, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AnderGoig/SwiftInstagram'target='_blank'>SwiftInstagram</a>", 
+            "Stars": 522
+        }, 
+        {
+            "Description": "A Swift Framework build for the Ark Ecosystem", 
+            "Forks": 1, 
+            "Language": "JavaScript", 
+            "Repo": "<a href='https://github.com/Awalz/SwiftyArk'target='_blank'>SwiftyArk</a>", 
+            "Stars": 9
+        }, 
+        {
+            "Description": "A Slack API Client for the Perfect Server-Side Swift Framework", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/CaptainYukinoshitaHachiman/PerfectSlackAPIClient'target='_blank'>PerfectSlackAPIClient</a>", 
+            "Stars": 0
+        }, 
+        {
+            "Description": "iTunes Connect Library inspired by FastLane", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/thecb4/MotherShip'target='_blank'>MotherShip</a>", 
+            "Stars": 72
+        }, 
+        {
+            "Description": "An API wrapper for bitFlyer.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/rinov/SwiftFlyer'target='_blank'>SwiftFlyer</a>", 
+            "Stars": 37
+        }, 
+        {
+            "Description": "The Waterwheel Swift SDK provides classes to natively connect iOS, macOS, tvOS, and watchOS applications to Drupal 7 and 8.", 
+            "Forks": 103, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kylebrowning/waterwheel.swift'target='_blank'>waterwheel.swift</a>", 
+            "Stars": 418
+        }, 
+        {
+            "Description": "A Swift library for the Forecast.io Dark Sky API", 
+            "Forks": 22, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/sxg/ForecastIO'target='_blank'>ForecastIO</a>", 
+            "Stars": 153
+        }, 
+        {
+            "Description": "A Jamf Pro communication framework written in Swift", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ethenyl/JamfKit'target='_blank'>JamfKit</a>", 
+            "Stars": 21
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "Description": "Swiftline is a set of tools to help you create command line applications.", 
+            "Forks": 61, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nsomar/Swiftline'target='_blank'>Swiftline</a>", 
+            "Stars": 1095
+        }, 
+        {
+            "Description": "A pure Swift library for creating command-line interfaces", 
+            "Forks": 138, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jatoben/CommandLine'target='_blank'>CommandLine</a>", 
+            "Stars": 1094
+        }, 
+        {
+            "Description": "Compose beautiful command line interfaces in Swift", 
+            "Forks": 68, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kylef/Commander'target='_blank'>Commander</a>", 
+            "Stars": 1254
+        }, 
+        {
+            "Description": "Terminal string styling for Swift.", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mtynior/ColorizeSwift'target='_blank'>ColorizeSwift</a>", 
+            "Stars": 189
+        }, 
+        {
+            "Description": "The smartest and most beautiful (POSIX compliant) Command line framework for Swift \ud83e\udd16", 
+            "Forks": 28, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nsomar/Guaka'target='_blank'>Guaka</a>", 
+            "Stars": 1105
+        }, 
+        {
+            "Description": "Marathon makes it easy to write, run and manage your Swift scripts \ud83c\udfc3", 
+            "Forks": 79, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/JohnSundell/Marathon'target='_blank'>Marathon</a>", 
+            "Stars": 1824
+        }, 
+        {
+            "Description": "Simple & Elegant Command Line Interfaces in Swift", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/surfandneptune/CommandCougar'target='_blank'>CommandCougar</a>", 
+            "Stars": 32
+        }, 
+        {
+            "Description": "\ud83d\udd8d Expressive styling on terminal string. (chalk for swift)", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jianstm/Crayon'target='_blank'>Crayon</a>", 
+            "Stars": 33
+        }
+    ]
+}

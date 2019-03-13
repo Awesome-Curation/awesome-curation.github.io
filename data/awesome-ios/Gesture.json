@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "Description": "A better way to handle gestures on iOS", 
+            "Forks": 34, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/delba/Tactile'target='_blank'>Tactile</a>", 
+            "Stars": 663
+        }, 
+        {
+            "Description": "Aids with prototyping UIGestureRecognizers in Xcode Playgrounds", 
+            "Forks": 16, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/b3ll/SwiftyGestureRecognition'target='_blank'>SwiftyGestureRecognition</a>", 
+            "Stars": 147
+        }, 
+        {
+            "Description": "Gesture recognizer tool [Swift / iOS]", 
+            "Forks": 88, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/didierbrun/DBPathRecognizer'target='_blank'>DBPathRecognizer</a>", 
+            "Stars": 1136
+        }, 
+        {
+            "Description": "Special way to work with gestures in iOS", 
+            "Forks": 32, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/igormatyushkin014/Sensitive'target='_blank'>Sensitive</a>", 
+            "Stars": 522
+        }, 
+        {
+            "Description": "Drag and drop between your apps in split view mode on iOS 9", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MarioIannotta/SplitViewDragAndDrop'target='_blank'>SplitViewDragAndDrop</a>", 
+            "Stars": 305
+        }, 
+        {
+            "Description": "A UINavigationController's category to enable fullscreen pop gesture with iOS7+ system style.", 
+            "Forks": 1067, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/forkingdog/FDFullscreenPopGesture'target='_blank'>FDFullscreenPopGesture</a>", 
+            "Stars": 5340
+        }
+    ]
+}

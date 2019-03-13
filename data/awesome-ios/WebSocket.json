@@ -1,0 +1,67 @@
+{
+    "data": [
+        {
+            "Description": "A conforming Objective-C WebSocket client library.", 
+            "Forks": 1703, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/facebook/SocketRocket'target='_blank'>SocketRocket</a>", 
+            "Stars": 8392
+        }, 
+        {
+            "Description": "", 
+            "Forks": 534, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/socketio/socket.io-client-swift'target='_blank'>socket.io-client-swift</a>", 
+            "Stars": 3552
+        }, 
+        {
+            "Description": "Fast Websockets in Swift for iOS and OSX", 
+            "Forks": 140, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tidwall/SwiftWebSocket'target='_blank'>SwiftWebSocket</a>", 
+            "Stars": 1175
+        }, 
+        {
+            "Description": "Websockets in swift for iOS and OSX", 
+            "Forks": 580, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/daltoniam/Starscream'target='_blank'>Starscream</a>", 
+            "Stars": 4683
+        }, 
+        {
+            "Description": "The easy way to use sockets on Apple platforms", 
+            "Forks": 245, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/swiftsocket/SwiftSocket'target='_blank'>SwiftSocket</a>", 
+            "Stars": 1030
+        }, 
+        {
+            "Description": "\ud83d\udd0c  Non-blocking TCP socket layer, with event-driven server and client.", 
+            "Forks": 51, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/vapor-community/sockets'target='_blank'>sockets</a>", 
+            "Stars": 541
+        }, 
+        {
+            "Description": "A collection of socket utilities in Swift for OS-X and iOS", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Balancingrock/SwifterSockets'target='_blank'>SwifterSockets</a>", 
+            "Stars": 55
+        }, 
+        {
+            "Description": "ActionCable is a new WebSocket server being released with Rails 5 which makes it easy to add real-time features to your app. This Swift client makes it dead-simple to connect with that server, abstracting away everything except what you need to get going.", 
+            "Forks": 66, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/danielrhodes/Swift-ActionCableClient'target='_blank'>Swift-ActionCableClient</a>", 
+            "Stars": 141
+        }, 
+        {
+            "Description": "WebSocket(RFC-6455) library written using Swift", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/GlebRadchenko/DNWebSocket'target='_blank'>DNWebSocket</a>", 
+            "Stars": 24
+        }
+    ]
+}

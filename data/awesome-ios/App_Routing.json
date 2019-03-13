@@ -1,0 +1,144 @@
+{
+    "data": [
+        {
+            "Description": "iOS routing done right. Handles both URL recognition and controller displaying with parsed parameters. All in one line, controller stack preserved automatically!", 
+            "Forks": 30, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Wasappli/WAAppRouting'target='_blank'>WAAppRouting</a>", 
+            "Stars": 580
+        }, 
+        {
+            "Description": "A splendid route-matching, block-based way to handle your deep links.", 
+            "Forks": 237, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/button/DeepLinkKit'target='_blank'>DeepLinkKit</a>", 
+            "Stars": 3205
+        }, 
+        {
+            "Description": "An easier way to handle third-party URL schemes in iOS apps.", 
+            "Forks": 125, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/intentkit/IntentKit'target='_blank'>IntentKit</a>", 
+            "Stars": 1823
+        }, 
+        {
+            "Description": "URL routing library for iOS with a simple block-based API", 
+            "Forks": 580, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/joeldev/JLRoutes'target='_blank'>JLRoutes</a>", 
+            "Stars": 4922
+        }, 
+        {
+            "Description": "URLScheme router than supports auto creation of UIViewControllers for associated url parameters to allow creation of navigation stacks", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/IanKeen/IKRouter'target='_blank'>IKRouter</a>", 
+            "Stars": 97
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png?v8'>  Compass helps you setup a central navigation system for your application", 
+            "Forks": 32, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hyperoslo/Compass'target='_blank'>Compass</a>", 
+            "Stars": 796
+        }, 
+        {
+            "Description": "\ud83d\udcf1 Launch external apps, and deeplink, with ease using Swift!", 
+            "Forks": 62, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SwiftKitz/Appz'target='_blank'>Appz</a>", 
+            "Stars": 989
+        }, 
+        {
+            "Description": "\u26f5\ufe0f Elegant URL Routing for Swift", 
+            "Forks": 144, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/devxoul/URLNavigator'target='_blank'>URLNavigator</a>", 
+            "Stars": 1918
+        }, 
+        {
+            "Description": "Marshroute is an iOS Library for making your Routers simple but extremely powerful", 
+            "Forks": 30, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/avito-tech/Marshroute'target='_blank'>Marshroute</a>", 
+            "Stars": 187
+        }, 
+        {
+            "Description": "A URL Router for iOS, written in Swift", 
+            "Forks": 23, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/skyline75489/SwiftRouter'target='_blank'>SwiftRouter</a>", 
+            "Stars": 216
+        }, 
+        {
+            "Description": "\ud83d\udee3 Simple Navigation for iOS", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/freshOS/Router'target='_blank'>Router</a>", 
+            "Stars": 283
+        }, 
+        {
+            "Description": "Coordinators Essential tutorial", 
+            "Forks": 38, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AndreyPanov/ApplicationCoordinator'target='_blank'>ApplicationCoordinator</a>", 
+            "Stars": 464
+        }, 
+        {
+            "Description": "RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern", 
+            "Forks": 54, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/RxSwiftCommunity/RxFlow'target='_blank'>RxFlow</a>", 
+            "Stars": 1019
+        }, 
+        {
+            "Description": "\ud83c\udfaf Your easiest way to handle all URLs.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MaksimKurpa/Linker'target='_blank'>Linker</a>", 
+            "Stars": 129
+        }, 
+        {
+            "Description": "\ud83d\udcf1\ud83d\udcf2 Navigate between view controllers with ease. \ud83d\udcab", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/aronbalog/CoreNavigation'target='_blank'>CoreNavigation</a>", 
+            "Stars": 62
+        }, 
+        {
+            "Description": "DZURLRoute\u662f\u652f\u6301\u57fa\u4e8e\u6807\u51c6URL\u8fdb\u884cNative\u9875\u9762\u95f4\u8df3\u8f6c\u7684Objective-C\u5b9e\u73b0\u3002\u65b9\u4fbf\u60a8\u67b6\u6784\u9875\u9762\u4e4b\u95f4\u9ad8\u5185\u805a\u4f4e\u8026\u5408\u7684\u5f00\u53d1\u6a21\u5f0f\u3002\u4ed6\u7684\u6838\u5fc3\u601d\u60f3\u662f\u628a\u6bcf\u4e00\u4e2a\u9875\u9762\u5f53\u6210\u4e00\u4e2a\u8d44\u6e90\uff0c\u901a\u8fc7\u6807\u51c6\u7684URL\u534f\u8bae\uff08\u7edf\u4e00\u8d44\u6e90\u5b9a\u4f4d\u7b26\uff09\u6765\u5b9a\u4f4d\u5230\u6bcf\u4e00\u4e2a\u53ef\u89e6\u8fbe\u7684\u9875\u9762\uff08\u8d44\u6e90\uff09\u3002", 
+            "Forks": 24, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/yishuiliunian/DZURLRoute'target='_blank'>DZURLRoute</a>", 
+            "Stars": 69
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f68d.png?v8'>  Route URL schemes easily", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/giginet/Crossroad'target='_blank'>Crossroad</a>", 
+            "Stars": 268
+        }, 
+        {
+            "Description": "Interface-oriented router for discovering modules, and injecting dependencies with protocol in Objective-C and Swift.", 
+            "Forks": 38, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Zuikyo/ZIKRouter'target='_blank'>ZIKRouter</a>", 
+            "Stars": 190
+        }, 
+        {
+            "Description": "Protocol oriented, Cocoa UI abstractions based library that helps to handle view controllers composition, routing and deep linking tasks in the iOS application.", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/saksdirect/route-composer'target='_blank'>route-composer</a>", 
+            "Stars": 121
+        }, 
+        {
+            "Description": "LightRoute is easy transition for your app. Written on Swift 4", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SpectralDragon/LightRoute'target='_blank'>LightRoute</a>", 
+            "Stars": 71
+        }
+    ]
+}

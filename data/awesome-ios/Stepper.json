@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "Description": "May be the most elegant stepper you have ever had!", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PerfectFreeze/PFStepper'target='_blank'>PFStepper</a>", 
+            "Stars": 25
+        }, 
+        {
+            "Description": "A Stepper object that displays its value.", 
+            "Forks": 34, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/BalestraPatrick/ValueStepper'target='_blank'>ValueStepper</a>", 
+            "Stars": 276
+        }, 
+        {
+            "Description": "A stepper with a sliding label in the middle.", 
+            "Forks": 85, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/gmertk/GMStepper'target='_blank'>GMStepper</a>", 
+            "Stars": 683
+        }, 
+        {
+            "Description": "The right way to increment/decrement values with a simple gesture on iOS.", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/arn00s/barceloneta'target='_blank'>barceloneta</a>", 
+            "Stars": 51
+        }, 
+        {
+            "Description": "An elegant alternative to the UIStepper written in Swift", 
+            "Forks": 29, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yannickl/SnappingStepper'target='_blank'>SnappingStepper</a>", 
+            "Stars": 370
+        }, 
+        {
+            "Description": "SMNumberWheel is a subclass of UIControl written in Swift, which is ideal for picking numbers using a rotating wheel.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SinaMoetakef/SMNumberWheel'target='_blank'>SMNumberWheel</a>", 
+            "Stars": 20
+        }
+    ]
+}

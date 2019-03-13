@@ -1,0 +1,186 @@
+{
+    "data": [
+        {
+            "Description": "Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS", 
+            "Forks": 987, 
+            "Language": "C++", 
+            "Repo": "<a href='https://github.com/audiokit/AudioKit'target='_blank'>AudioKit</a>", 
+            "Stars": 6371
+        }, 
+        {
+            "Description": "An iOS and macOS audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.", 
+            "Forks": 749, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/syedhali/EZAudio'target='_blank'>EZAudio</a>", 
+            "Stars": 4516
+        }, 
+        {
+            "Description": "Painless high-performance audio on iOS and Mac OS X", 
+            "Forks": 289, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/alexbw/novocaine'target='_blank'>novocaine</a>", 
+            "Stars": 2145
+        }, 
+        {
+            "Description": "Queue management system for AVSpeechSynthesizer", 
+            "Forks": 5, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/quentinhayot/QHSpeechSynthesizerQueue'target='_blank'>QHSpeechSynthesizerQueue</a>", 
+            "Stars": 34
+        }, 
+        {
+            "Description": "A sound fader for AVAudioPlayer written in Swift for iOS, tvOS and macOS.", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/evgenyneu/Cephalopod'target='_blank'>Cephalopod</a>", 
+            "Stars": 87
+        }, 
+        {
+            "Description": "The easiest way to prepare, play, and remove sounds in your Swift app!", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/trifl/Chirp'target='_blank'>Chirp</a>", 
+            "Stars": 309
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f3b8.png?v8'>  A maestro of pitch detection.", 
+            "Forks": 71, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/vadymmarkov/Beethoven'target='_blank'>Beethoven</a>", 
+            "Stars": 425
+        }, 
+        {
+            "Description": "AudioPlayer is syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).", 
+            "Forks": 106, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/delannoyk/AudioPlayer'target='_blank'>AudioPlayer</a>", 
+            "Stars": 450
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f3b9.png?v8'>  Simple Tuner for iOS", 
+            "Forks": 28, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/comyar/TuningFork'target='_blank'>TuningFork</a>", 
+            "Stars": 382
+        }, 
+        {
+            "Description": "A framework for composing and transforming music in Swift", 
+            "Forks": 35, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/benzguo/MusicKit'target='_blank'>MusicKit</a>", 
+            "Stars": 531
+        }, 
+        {
+            "Description": "Replace the system volume popup with a more subtle indicator.", 
+            "Forks": 59, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/andreamazz/SubtleVolume'target='_blank'>SubtleVolume</a>", 
+            "Stars": 1090
+        }, 
+        {
+            "Description": "iOS/OSX DSP for audio (with Novocaine)", 
+            "Forks": 68, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/bartolsthoorn/NVDSP'target='_blank'>NVDSP</a>", 
+            "Stars": 370
+        }, 
+        {
+            "Description": "The SRG Media Player library for iOS provides a simple way to add a universal audio / video player to any iOS application.", 
+            "Forks": 29, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/SRGSSR/SRGMediaPlayer-iOS'target='_blank'>SRGMediaPlayer-iOS</a>", 
+            "Stars": 95
+        }, 
+        {
+            "Description": "A drop-in universal library allows to record audio within the app with a nice User Interface.", 
+            "Forks": 123, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/hackiftekhar/IQAudioRecorderController'target='_blank'>IQAudioRecorderController</a>", 
+            "Stars": 545
+        }, 
+        {
+            "Description": "The Amazing Audio Engine is a sophisticated framework for iOS audio applications, built so you don't have to.", 
+            "Forks": 73, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine2'target='_blank'>TheAmazingAudioEngine2</a>", 
+            "Stars": 413
+        }, 
+        {
+            "Description": "Custom iOS music player view", 
+            "Forks": 46, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AhmettKeskin/InteractivePlayerView'target='_blank'>InteractivePlayerView</a>", 
+            "Stars": 263
+        }, 
+        {
+            "Description": "Cool Animated music indicator view written in Swift", 
+            "Forks": 53, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Aufree/ESTMusicIndicator'target='_blank'>ESTMusicIndicator</a>", 
+            "Stars": 399
+        }, 
+        {
+            "Description": "iOS framework for the Quiet Modem (data over sound)", 
+            "Forks": 33, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/quiet/QuietModemKit'target='_blank'>QuietModemKit</a>", 
+            "Stars": 388
+        }, 
+        {
+            "Description": "SwiftySound is a simple library that lets you play sounds with a single line of code.", 
+            "Forks": 54, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/adamcichy/SwiftySound'target='_blank'>SwiftySound</a>", 
+            "Stars": 721
+        }, 
+        {
+            "Description": "Analyser BPM in Swift for your music/sounds/records, whatever..", 
+            "Forks": 7, 
+            "Language": "C", 
+            "Repo": "<a href='https://github.com/Luccifer/BPM-Analyser'target='_blank'>BPM-Analyser</a>", 
+            "Stars": 32
+        }, 
+        {
+            "Description": "\ud83c\udd7f\ufe0f PandoraPlayer is a lightweight music player for iOS, based on AudioKit and completely written in Swift.", 
+            "Forks": 111, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AppliKeySolutions/PandoraPlayer'target='_blank'>PandoraPlayer</a>", 
+            "Stars": 848
+        }, 
+        {
+            "Description": "Audio visualisation of song", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Luccifer/SonogramView'target='_blank'>SonogramView</a>", 
+            "Stars": 38
+        }, 
+        {
+            "Description": "AIB indicates for your app users which audio is playing. Just like the Podcasts app.", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/LeonardoCardoso/AudioIndicatorBars'target='_blank'>AudioIndicatorBars</a>", 
+            "Stars": 230
+        }, 
+        {
+            "Description": "On-device wake word detection powered by deep learning.", 
+            "Forks": 151, 
+            "Language": "C", 
+            "Repo": "<a href='https://github.com/Picovoice/Porcupine'target='_blank'>Porcupine</a>", 
+            "Stars": 1544
+        }, 
+        {
+            "Description": "\ud83d\udde3 An overlay that  gets your user\u2019s voice permission and input as text in a customizable UI", 
+            "Forks": 16, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/algolia/voice-overlay-ios'target='_blank'>voice-overlay-ios</a>", 
+            "Stars": 300
+        }, 
+        {
+            "Description": "ModernAVPlayer is an audio persistence AVPlayer wrapper", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/noreasonprojects/ModernAVPlayer'target='_blank'>ModernAVPlayer</a>", 
+            "Stars": 23
+        }
+    ]
+}

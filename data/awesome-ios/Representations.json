@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "Description": "\ud83d\udcf1 A strongly-typed, caching GraphQL client for iOS, written in Swift", 
+            "Forks": 241, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/apollographql/apollo-ios'target='_blank'>apollo-ios</a>", 
+            "Stars": 1647
+        }, 
+        {
+            "Description": "A type-safe JSON-RPC 2.0 library purely written in Swift", 
+            "Forks": 29, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/bricklife/JSONRPCKit'target='_blank'>JSONRPCKit</a>", 
+            "Stars": 158
+        }, 
+        {
+            "Description": "Google ProtocolBuffers for Apple Swift", 
+            "Forks": 143, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/alexeyxo/protobuf-swift'target='_blank'>protobuf-swift</a>", 
+            "Stars": 887
+        }, 
+        {
+            "Description": "Plugin and runtime library for using protobuf with Swift", 
+            "Forks": 193, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/apple/swift-protobuf'target='_blank'>swift-protobuf</a>", 
+            "Stars": 2428
+        }
+    ]
+}

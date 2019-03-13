@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "Description": "A pure swift Ethereum Web3 library", 
+            "Forks": 29, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Boilertalk/Web3.swift'target='_blank'>Web3.swift</a>", 
+            "Stars": 201
+        }, 
+        {
+            "Description": "Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions on Ethereum network.", 
+            "Forks": 105, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/BANKEX/web3swift'target='_blank'>web3swift</a>", 
+            "Stars": 417
+        }, 
+        {
+            "Description": "EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.", 
+            "Forks": 58, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/D-Technologies/EthereumKit'target='_blank'>EthereumKit</a>", 
+            "Stars": 360
+        }, 
+        {
+            "Description": "Bitcoin protocol toolkit for Swift", 
+            "Forks": 110, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yenom/BitcoinKit'target='_blank'>BitcoinKit</a>", 
+            "Stars": 621
+        }, 
+        {
+            "Description": "Ethereum Wallet Toolkit for iOS - You can implement an Ethereum wallet without a server and blockchain knowledge.", 
+            "Forks": 16, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SteadyAction/EtherWalletKit'target='_blank'>EtherWalletKit</a>", 
+            "Stars": 76
+        }, 
+        {
+            "Description": "This library provides convenient way to use Coinpaprika.com API in Swift.", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/coinpaprika/coinpaprika-api-swift-client'target='_blank'>coinpaprika-api-swift-client</a>", 
+            "Stars": 12
+        }
+    ]
+}

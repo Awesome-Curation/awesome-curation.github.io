@@ -1,0 +1,158 @@
+{
+    "data": [
+        {
+            "Description": "Light-weight, operator-overloading-free complements to CoreGraphics!", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SwiftKitz/Graphicz'target='_blank'>Graphicz</a>", 
+            "Stars": 39
+        }, 
+        {
+            "Description": "The code for my CoreGraphics+CoreAnimation talk, held during the 2012 iOS Game Design Seminar at the Technical University Munich.", 
+            "Forks": 23, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/pkluz/PKCoreTechniques'target='_blank'>PKCoreTechniques</a>", 
+            "Stars": 143
+        }, 
+        {
+            "Description": "An Objective-C wrapper for CoreGraphics CGContext", 
+            "Forks": 9, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/mpw/MPWDrawingContext'target='_blank'>MPWDrawingContext</a>", 
+            "Stars": 94
+        }, 
+        {
+            "Description": "A simple, declarative, functional drawing framework, in Swift!", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/davidcairns/DePict'target='_blank'>DePict</a>", 
+            "Stars": 32
+        }, 
+        {
+            "Description": "A simple, performant, and lightweight SVG parser", 
+            "Forks": 136, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mchoe/SwiftSVG'target='_blank'>SwiftSVG</a>", 
+            "Stars": 1213
+        }, 
+        {
+            "Description": "Drawing and Geometry made easy on iOS - now in Swift 3.0", 
+            "Forks": 25, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/shaps80/InkKit'target='_blank'>InkKit</a>", 
+            "Stars": 372
+        }, 
+        {
+            "Description": "iOS utility classes for asynchronous rendering and display.", 
+            "Forks": 86, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ibireme/YYAsyncLayer'target='_blank'>YYAsyncLayer</a>", 
+            "Stars": 547
+        }, 
+        {
+            "Description": "NXDrawKit is a simple and easy but useful drawing kit for iPhone", 
+            "Forks": 86, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Nicejinux/NXDrawKit'target='_blank'>NXDrawKit</a>", 
+            "Stars": 1152
+        }, 
+        {
+            "Description": "An iOS framework for easily adding drawings and text to images.", 
+            "Forks": 164, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/IFTTT/jot'target='_blank'>jot</a>", 
+            "Stars": 1760
+        }, 
+        {
+            "Description": "Display and interact with SVG Images on iOS / OS X, using native rendering (CoreAnimation)", 
+            "Forks": 724, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/SVGKit/SVGKit'target='_blank'>SVGKit</a>", 
+            "Stars": 3414
+        }, 
+        {
+            "Description": "\u2744\ufe0f  SVG in Swift", 
+            "Forks": 48, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/onmyway133/Snowflake'target='_blank'>Snowflake</a>", 
+            "Stars": 864
+        }, 
+        {
+            "Description": "Basic STL loader for SceneKit", 
+            "Forks": 2, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/victorgama/HxSTLParser'target='_blank'>HxSTLParser</a>", 
+            "Stars": 16
+        }, 
+        {
+            "Description": "Visual designing library for iOS & OSX", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/natmark/ProcessingKit'target='_blank'>ProcessingKit</a>", 
+            "Stars": 284
+        }, 
+        {
+            "Description": "Create gradients and blur gradients without a single line of code", 
+            "Forks": 37, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/shashankpali/EZYGradientView'target='_blank'>EZYGradientView</a>", 
+            "Stars": 356
+        }, 
+        {
+            "Description": "Conical (angular) gradient for iOS written in Swift", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tadija/AEConicalGradient'target='_blank'>AEConicalGradient</a>", 
+            "Stars": 61
+        }, 
+        {
+            "Description": "\ud83c\udf08 Highly customizable Core Graphics based gradient view for iOS", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/maxkonovalov/MKGradientView'target='_blank'>MKGradientView</a>", 
+            "Stars": 122
+        }, 
+        {
+            "Description": "Design shapes in Interface Builder", 
+            "Forks": 32, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ipraba/EPShapes'target='_blank'>EPShapes</a>", 
+            "Stars": 393
+        }, 
+        {
+            "Description": "Powerful and easy-to-use vector graphics Swift library with SVG support", 
+            "Forks": 324, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/exyte/macaw'target='_blank'>Macaw</a>", 
+            "Stars": 4279
+        }, 
+        {
+            "Description": "Unique blocky identicons generator for Swift", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Boilertalk/BlockiesSwift'target='_blank'>BlockiesSwift</a>", 
+            "Stars": 36
+        }, 
+        {
+            "Description": "Rough lets you draw in a sketchy, hand-drawn-like, style.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/bakhtiyork/Rough'target='_blank'>Rough</a>", 
+            "Stars": 63
+        }, 
+        {
+            "Description": "GraphLayout - iOS UI controls to visualize graphs. Powered by Graphviz", 
+            "Forks": 3, 
+            "Language": "C", 
+            "Repo": "<a href='https://github.com/bakhtiyork/GraphLayout'target='_blank'>GraphLayout</a>", 
+            "Stars": 75
+        }, 
+        {
+            "Description": "An open source library that lets your users draw on things - mark up images with text, shapes, etc.", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Asana/Drawsana'target='_blank'>Drawsana</a>", 
+            "Stars": 288
+        }
+    ]
+}

@@ -1,0 +1,662 @@
+{
+    "data": [
+        {
+            "Description": "An open source iOS framework for GPU-based image and video processing", 
+            "Forks": 4388, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/BradLarson/GPUImage'target='_blank'>GPUImage</a>", 
+            "Stars": 18381
+        }, 
+        {
+            "Description": "IOS UIImage processing functions using the vDSP/Accellerate framework for speed. ", 
+            "Forks": 42, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/gdawg/uiimage-dsp'target='_blank'>uiimage-dsp</a>", 
+            "Stars": 378
+        }, 
+        {
+            "Description": "[DEPRECATED]", 
+            "Forks": 205, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/nicklockwood/AsyncImageView'target='_blank'>AsyncImageView</a>", 
+            "Stars": 930
+        }, 
+        {
+            "Description": "Asynchronous image downloader with cache support as a UIImageView category", 
+            "Forks": 5345, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/SDWebImage/SDWebImage'target='_blank'>SDWebImage</a>", 
+            "Stars": 21135
+        }, 
+        {
+            "Description": "Image loading, processing, caching and preheating", 
+            "Forks": 97, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/kean/DFImageManager'target='_blank'>DFImageManager</a>", 
+            "Stars": 1203
+        }, 
+        {
+            "Description": "Lightweight and fast Swift library for image downloading, caching and transformations", 
+            "Forks": 32, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/JanGorman/MapleBacon'target='_blank'>MapleBacon</a>", 
+            "Stars": 231
+        }, 
+        {
+            "Description": "A modern photo viewing experience for iOS.", 
+            "Forks": 322, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/NYTimes/NYTPhotoViewer'target='_blank'>NYTPhotoViewer</a>", 
+            "Stars": 2531
+        }, 
+        {
+            "Description": "Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more", 
+            "Forks": 622, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/thiagoperes/IDMPhotoBrowser'target='_blank'>IDMPhotoBrowser</a>", 
+            "Stars": 2674
+        }, 
+        {
+            "Description": "A view controller that allows users to crop UIImage objects.", 
+            "Forks": 537, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/TimOliver/TOCropViewController'target='_blank'>TOCropViewController</a>", 
+            "Stars": 2849
+        }, 
+        {
+            "Description": "A custom image view that implements device motion scrolling", 
+            "Forks": 13, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/hanton/YXTMotionView'target='_blank'>YXTMotionView</a>", 
+            "Stars": 78
+        }, 
+        {
+            "Description": "A thread safe, performant, feature rich image fetcher", 
+            "Forks": 384, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/pinterest/PINRemoteImage'target='_blank'>PINRemoteImage</a>", 
+            "Stars": 3610
+        }, 
+        {
+            "Description": "You can use blur effect and it's animation easily to call only two methods.", 
+            "Forks": 45, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marty-suzuki/SABlurImageView'target='_blank'>SABlurImageView</a>", 
+            "Stars": 519
+        }, 
+        {
+            "Description": "iOS library for quickly displaying images while scrolling", 
+            "Forks": 963, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/path/FastImageCache'target='_blank'>FastImageCache</a>", 
+            "Stars": 8015
+        }, 
+        {
+            "Description": "Convert UIImage to ASCII art", 
+            "Forks": 30, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/bkoc/BKAsciiImage'target='_blank'>BKAsciiImage</a>", 
+            "Stars": 416
+        }, 
+        {
+            "Description": "AlamofireImage is an image component library for Alamofire", 
+            "Forks": 387, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Alamofire/AlamofireImage'target='_blank'>AlamofireImage</a>", 
+            "Stars": 3182
+        }, 
+        {
+            "Description": "Powerful image loading and caching system", 
+            "Forks": 202, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kean/Nuke'target='_blank'>Nuke</a>", 
+            "Stars": 3496
+        }, 
+        {
+            "Description": "Beautiful flag icons for usage in apps and on the web.", 
+            "Forks": 172, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/madebybowtie/FlagKit'target='_blank'>FlagKit</a>", 
+            "Stars": 2236
+        }, 
+        {
+            "Description": "Asynchronous image loading framework.", 
+            "Forks": 567, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ibireme/YYWebImage'target='_blank'>YYWebImage</a>", 
+            "Stars": 3341
+        }, 
+        {
+            "Description": "An image cropper / photo cropper for iOS like in the Contacts app with support for landscape orientation.", 
+            "Forks": 424, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ruslanskorb/RSKImageCropper'target='_blank'>RSKImageCropper</a>", 
+            "Stars": 2175
+        }, 
+        {
+            "Description": "Very easy to use image loader for swift", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/josejuanqm/Silo'target='_blank'>Silo</a>", 
+            "Stars": 14
+        }, 
+        {
+            "Description": "Random image generator built with Swift", 
+            "Forks": 2, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/josejuanqm/Ody'target='_blank'>Ody</a>", 
+            "Stars": 47
+        }, 
+        {
+            "Description": "Swift Image Slider library for iOS", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/gauravkatoch007/banana'target='_blank'>banana</a>", 
+            "Stars": 15
+        }, 
+        {
+            "Description": "Easy customizable avatar image asynchronously with progress bar animated", 
+            "Forks": 16, 
+            "Language": "Shell", 
+            "Repo": "<a href='https://github.com/JellyDevelopment/JDSwiftAvatarProgress'target='_blank'>JDSwiftAvatarProgress</a>", 
+            "Stars": 87
+        }, 
+        {
+            "Description": "A lightweight, pure-Swift library for downloading and caching images from the web.", 
+            "Forks": 1484, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/onevcat/Kingfisher'target='_blank'>Kingfisher</a>", 
+            "Stars": 13709
+        }, 
+        {
+            "Description": "A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.", 
+            "Forks": 203, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/EddyBorja/EBPhotoPages'target='_blank'>EBPhotoPages</a>", 
+            "Stars": 1660
+        }, 
+        {
+            "Description": "The Swift version of https://github.com/croath/UIImageView-BetterFace", 
+            "Forks": 44, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/croath/UIImageView-BetterFace-Swift'target='_blank'>UIImageView-BetterFace-Swift</a>", 
+            "Stars": 466
+        }, 
+        {
+            "Description": "An extremely high-performance, lightweight, and energy-efficient pure Swift async web image loader with memory and disk caching for iOS and \uf8ff Watch.", 
+            "Forks": 38, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kiavashfaisali/KFSwiftImageLoader'target='_blank'>KFSwiftImageLoader</a>", 
+            "Stars": 343
+        }, 
+        {
+            "Description": "Fabulous Image Processing in Swift", 
+            "Forks": 206, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/gavinbunney/Toucan'target='_blank'>Toucan</a>", 
+            "Stars": 2287
+        }, 
+        {
+            "Description": "A lightweight and fast image loader for iOS written in Swift.", 
+            "Forks": 37, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hirohisa/ImageLoaderSwift'target='_blank'>ImageLoaderSwift</a>", 
+            "Stars": 279
+        }, 
+        {
+            "Description": "A Swift implementation of fastimage. Supports PNG, GIF, and JPEG.", 
+            "Forks": 72, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kaishin/ImageScout'target='_blank'>ImageScout</a>", 
+            "Stars": 906
+        }, 
+        {
+            "Description": "add text(multiple line support) to imageView, edit, rotate or resize them as you want, then render the text on image", 
+            "Forks": 50, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Textcat/JLStickerTextView'target='_blank'>JLStickerTextView</a>", 
+            "Stars": 400
+        }, 
+        {
+            "Description": "A lemony fresh iOS image viewer written in Swift.", 
+            "Forks": 72, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/JanGorman/Agrume'target='_blank'>Agrume</a>", 
+            "Stars": 306
+        }, 
+        {
+            "Description": "Rounded async imageview downloader lightly cached and written in Swift", 
+            "Forks": 30, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/abiaad/PASImageView'target='_blank'>PASImageView</a>", 
+            "Stars": 166
+        }, 
+        {
+            "Description": "Focus on avatar caching.", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nixzhu/Navi'target='_blank'>Navi</a>", 
+            "Stars": 117
+        }, 
+        {
+            "Description": "iOS photo gallery written in Swift", 
+            "Forks": 36, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Inspirato/SwiftPhotoGallery'target='_blank'>SwiftPhotoGallery</a>", 
+            "Stars": 160
+        }, 
+        {
+            "Description": "GPU-based media processing library using Metal written in Swift", 
+            "Forks": 20, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/wangjwchn/MetalAcc'target='_blank'>MetalAcc</a>", 
+            "Stars": 232
+        }, 
+        {
+            "Description": "A simple iOS photo and video browser with grid view, captions and selections.", 
+            "Forks": 2675, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/mwaterfall/MWPhotoBrowser'target='_blank'>MWPhotoBrowser</a>", 
+            "Stars": 8487
+        }, 
+        {
+            "Description": "Fetches the most dominant and prominent colors from an image.", 
+            "Forks": 144, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jathu/UIImageColors'target='_blank'>UIImageColors</a>", 
+            "Stars": 2255
+        }, 
+        {
+            "Description": "A view that takes a set of images, make transition from one to another by using flipping effects.", 
+            "Forks": 7, 
+            "Language": "Shell", 
+            "Repo": "<a href='https://github.com/jibeex/CDFlipView'target='_blank'>CDFlipView</a>", 
+            "Stars": 98
+        }, 
+        {
+            "Description": "GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.", 
+            "Forks": 443, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/BradLarson/GPUImage2'target='_blank'>GPUImage2</a>", 
+            "Stars": 4021
+        }, 
+        {
+            "Description": "A lightweight 3D Linear Carousel with parallax effect", 
+            "Forks": 61, 
+            "Language": "Shell", 
+            "Repo": "<a href='https://github.com/taglia3/TGLParallaxCarousel'target='_blank'>TGLParallaxCarousel</a>", 
+            "Stars": 420
+        }, 
+        {
+            "Description": "Makes dealing with images buttery smooth.", 
+            "Forks": 18, 
+            "Language": "C", 
+            "Repo": "<a href='https://github.com/dollarshaveclub/ImageButter'target='_blank'>ImageButter</a>", 
+            "Stars": 387
+        }, 
+        {
+            "Description": "Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift", 
+            "Forks": 351, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/suzuki-0000/SKPhotoBrowser'target='_blank'>SKPhotoBrowser</a>", 
+            "Stars": 1793
+        }, 
+        {
+            "Description": "An implementation of High Pass Skin Smoothing using Apple's Core Image Framework", 
+            "Forks": 167, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/YuAo/YUCIHighPassSkinSmoothing'target='_blank'>YUCIHighPassSkinSmoothing</a>", 
+            "Stars": 972
+        }, 
+        {
+            "Description": "Ken Burns effect with face recognition!", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Alterplay/APKenBurnsView'target='_blank'>APKenBurnsView</a>", 
+            "Stars": 68
+        }, 
+        {
+            "Description": "An image download extension of the image view written in Swift for iOS, tvOS and macOS. ", 
+            "Forks": 32, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/evgenyneu/moa'target='_blank'>moa</a>", 
+            "Stars": 296
+        }, 
+        {
+            "Description": "Example of adding marching ants selection to the edges of the image. ", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/izotx/JMCMarchingAnts'target='_blank'>JMCMarchingAnts</a>", 
+            "Stars": 133
+        }, 
+        {
+            "Description": "An image viewer \u00e0 la Twitter", 
+            "Forks": 259, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Krisiacik/ImageViewer'target='_blank'>ImageViewer</a>", 
+            "Stars": 2018
+        }, 
+        {
+            "Description": "An extension that gives UIImageView the ability to focus on faces within an image.", 
+            "Forks": 199, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/BeauNouvelle/FaceAware'target='_blank'>FaceAware</a>", 
+            "Stars": 2665
+        }, 
+        {
+            "Description": "iOS Swift class to create circular or rounded avatar images", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dkalaitzidis/SwiftyAvatar'target='_blank'>SwiftyAvatar</a>", 
+            "Stars": 184
+        }, 
+        {
+            "Description": "Syntactic Sugar for Accelerate/vImage and Core Image Filters", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/FlexMonkey/ShinpuruImage'target='_blank'>ShinpuruImage</a>", 
+            "Stars": 77
+        }, 
+        {
+            "Description": "ImagePickerSheetController replicates the custom photo action sheet in iMessage.", 
+            "Forks": 209, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/lbrndnr/ImagePickerSheetController'target='_blank'>ImagePickerSheetController</a>", 
+            "Stars": 1430
+        }, 
+        {
+            "Description": "Create complementary gradients generated from dominant and prominent colors in supplied image. Inspired by Grade.js", 
+            "Forks": 34, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/gkye/ComplimentaryGradientView'target='_blank'>ComplimentaryGradientView</a>", 
+            "Stars": 642
+        }, 
+        {
+            "Description": "Swift image slideshow with circular scrolling, timer and full screen viewer", 
+            "Forks": 258, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/zvonicek/ImageSlideshow'target='_blank'>ImageSlideshow</a>", 
+            "Stars": 1091
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f984.png?v8'>  Remote images, as easy as one, two, three.", 
+            "Forks": 34, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hyperoslo/Imaginary'target='_blank'>Imaginary</a>", 
+            "Stars": 505
+        }, 
+        {
+            "Description": "Highly customizable Action Sheet Controller with Assets Preview written in Swift", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/pantuspavel/PPAssetsActionController'target='_blank'>PPAssetsActionController</a>", 
+            "Stars": 63
+        }, 
+        {
+            "Description": "Multi image downloader with priority in Swift", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jinSasaki/Vulcan'target='_blank'>Vulcan</a>", 
+            "Stars": 280
+        }, 
+        {
+            "Description": "FacebookImagePicker is Facebook album photo picker written in Swift.", 
+            "Forks": 32, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/floriangbh/FacebookImagePicker'target='_blank'>FacebookImagePicker</a>", 
+            "Stars": 152
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f30c.png?v8'>  A convenient and easy to use image viewer for your iOS app", 
+            "Forks": 150, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hyperoslo/Lightbox'target='_blank'>Lightbox</a>", 
+            "Stars": 975
+        }, 
+        {
+            "Description": "AvatarImageView is a UIImageView subclass designed to show a user's profile picture, falling back to their initials when a picture is unavailable", 
+            "Forks": 29, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ayushn21/AvatarImageView'target='_blank'>AvatarImageView</a>", 
+            "Stars": 259
+        }, 
+        {
+            "Description": "iOS SDK to share JPEG images with an expiration date                   ", 
+            "Forks": 1, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ebbapp/ebblinkSDK'target='_blank'>ebblinkSDK</a>", 
+            "Stars": 4
+        }, 
+        {
+            "Description": "\uff08Not maintained\uff09Image filtering UI library like Instagram.", 
+            "Forks": 143, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/makomori/Sharaku'target='_blank'>Sharaku</a>", 
+            "Stars": 1419
+        }, 
+        {
+            "Description": "A library that displays spherical or cylindrical panoramas with touch or motion based controls.", 
+            "Forks": 59, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/scihant/CTPanoramaView'target='_blank'>CTPanoramaView</a>", 
+            "Stars": 871
+        }, 
+        {
+            "Description": "Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients", 
+            "Forks": 79, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/twitter/ios-twitter-image-pipeline'target='_blank'>ios-twitter-image-pipeline</a>", 
+            "Stars": 1666
+        }, 
+        {
+            "Description": "A smart and easy-to-use image masking and cutout SDK for mobile apps.", 
+            "Forks": 126, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/TinyCrayon/TinyCrayon-iOS-SDK'target='_blank'>TinyCrayon-iOS-SDK</a>", 
+            "Stars": 1620
+        }, 
+        {
+            "Description": "A simple way to play with the image!", 
+            "Forks": 38, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kawoou/FlexibleImage'target='_blank'>FlexibleImage</a>", 
+            "Stars": 761
+        }, 
+        {
+            "Description": "\ud83d\udcf7 multiple phassets picker for iOS lib. like a facebook", 
+            "Forks": 157, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tilltue/TLPhotoPicker'target='_blank'>TLPhotoPicker</a>", 
+            "Stars": 1394
+        }, 
+        {
+            "Description": "A high-performance image library for downloading, caching, and processing images in Swift.", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yapstudios/YapImageManager'target='_blank'>YapImageManager</a>", 
+            "Stars": 67
+        }, 
+        {
+            "Description": "A snappy image viewer with zoom and interactive dismissal transition.", 
+            "Forks": 73, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/aFrogleap/SimpleImageViewer'target='_blank'>SimpleImageViewer</a>", 
+            "Stars": 375
+        }, 
+        {
+            "Description": "iOS Framework that makes it easy to preview images on any UIImageView.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Minitour/AZImagePreview'target='_blank'>AZImagePreview</a>", 
+            "Stars": 20
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/2702.png?v8'>  Crop faces, inside of your image, with iOS 11 Vision api.", 
+            "Forks": 29, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/KimDarren/FaceCropper'target='_blank'>FaceCropper</a>", 
+            "Stars": 457
+        }, 
+        {
+            "Description": "Custom iOS camera and photo picker with editing capabilities", 
+            "Forks": 60, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/avito-tech/Paparazzo'target='_blank'>Paparazzo</a>", 
+            "Stars": 635
+        }, 
+        {
+            "Description": "A Swift 4.2 repo to crop image in any shape.", 
+            "Forks": 16, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ZaidPathan/ZImageCropper'target='_blank'>ZImageCropper</a>", 
+            "Stars": 87
+        }, 
+        {
+            "Description": "A simple UIImageView extension for using initials as a profile image, written in swift", 
+            "Forks": 31, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/bachonk/InitialsImageView'target='_blank'>InitialsImageView</a>", 
+            "Stars": 147
+        }, 
+        {
+            "Description": "A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tungvoduc/DTPhotoViewerController'target='_blank'>DTPhotoViewerController</a>", 
+            "Stars": 112
+        }, 
+        {
+            "Description": "An extension that generates letter-based avatars", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/vpeschenkov/LetterAvatarKit'target='_blank'>LetterAvatarKit</a>", 
+            "Stars": 109
+        }, 
+        {
+            "Description": "An iOS/tvOS photo gallery viewer, useful for viewing a large (or small!) number of photos.", 
+            "Forks": 47, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/alexhillc/AXPhotoViewer'target='_blank'>AXPhotoViewer</a>", 
+            "Stars": 395
+        }, 
+        {
+            "Description": "Live rendering of UIImageView properties in Interface Builder", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tejas-ardeshna/TJProfileImage'target='_blank'>TJProfileImage</a>", 
+            "Stars": 33
+        }, 
+        {
+            "Description": "Image viewer (or Lightbox) with support for local and remote videos and images", 
+            "Forks": 30, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/3lvis/Viewer'target='_blank'>Viewer</a>", 
+            "Stars": 404
+        }, 
+        {
+            "Description": "An asynchronous, multithreaded, image compositing framework written in Swift.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/aaronjsutton/OverlayComposite'target='_blank'>OverlayComposite</a>", 
+            "Stars": 11
+        }, 
+        {
+            "Description": "A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below.", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Minecodecraft/MCScratchImageView'target='_blank'>MCScratchImageView</a>", 
+            "Stars": 328
+        }, 
+        {
+            "Description": "A GPU-accelerated image and video processing framework based on Metal.", 
+            "Forks": 47, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/MetalPetal/MetalPetal'target='_blank'>MetalPetal</a>", 
+            "Stars": 371
+        }, 
+        {
+            "Description": "A apple music cover picture shadow style image library", 
+            "Forks": 37, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/olddonkey/ShadowImageView'target='_blank'>ShadowImageView</a>", 
+            "Stars": 733
+        }, 
+        {
+            "Description": "Generate random user Avatars for apps. ", 
+            "Forks": 1, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/wvabrinskas/Avatar'target='_blank'>Avatar</a>", 
+            "Stars": 21
+        }, 
+        {
+            "Description": "Slide image viewer library similar to Twitter and LINE.", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/horitaku46/Serrata'target='_blank'>Serrata</a>", 
+            "Stars": 301
+        }, 
+        {
+            "Description": "Style Art library process images using COREML with a set of pre trained machine learning models and convert them to Art style.", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ileafsolutions/StyleArt'target='_blank'>StyleArt</a>", 
+            "Stars": 182
+        }, 
+        {
+            "Description": "Full aspect ratio grid layout for iOS", 
+            "Forks": 54, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/500px/greedo-layout-for-ios'target='_blank'>greedo-layout-for-ios</a>", 
+            "Stars": 839
+        }, 
+        {
+            "Description": "\u2702\ufe0f Detect and crop faces, barcodes and texts in image with iOS 11 Vision api.", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Feghal/ImageDetect'target='_blank'>ImageDetect</a>", 
+            "Stars": 256
+        }, 
+        {
+            "Description": "High Quality Image ScrollView using cropped tiled images.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/TileImageTeamiOS/THTiledImageView'target='_blank'>THTiledImageView</a>", 
+            "Stars": 17
+        }, 
+        {
+            "Description": "GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.", 
+            "Forks": 73, 
+            "Language": "Metal", 
+            "Repo": "<a href='https://github.com/BradLarson/GPUImage3'target='_blank'>GPUImage3</a>", 
+            "Stars": 1411
+        }, 
+        {
+            "Description": "\ud83d\udcf9 Your next favorite image and video picker", 
+            "Forks": 174, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hyperoslo/Gallery'target='_blank'>Gallery</a>", 
+            "Stars": 1029
+        }, 
+        {
+            "Description": "Image slide-show viewer with multiple predefined transition styles, with ability to create new transitions with ease.", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/altayer-digital/ATGMediaBrowser'target='_blank'>ATGMediaBrowser</a>", 
+            "Stars": 135
+        }, 
+        {
+            "Description": "\ud83c\udfa8\ud83d\uddbc An image editor and engine using CoreImage", 
+            "Forks": 87, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/muukii/Pixel'target='_blank'>Pixel</a>", 
+            "Stars": 1572
+        }, 
+        {
+            "Description": "A simple and flexible way to add source of overlapping circular pictures, currently supports horizontal overlapping or distant pictures with great layout flexibility.", 
+            "Forks": 58, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/KiranJasvanee/OnlyPictures'target='_blank'>OnlyPictures</a>", 
+            "Stars": 605
+        }
+    ]
+}

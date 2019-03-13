@@ -1,0 +1,11 @@
+{
+    "data": [
+        {
+            "Description": "Swift library to develop custom Alexa Skills", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/choefele/AlexaSkillsKit'target='_blank'>AlexaSkillsKit</a>", 
+            "Stars": 155
+        }
+    ]
+}

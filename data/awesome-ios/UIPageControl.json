@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "Description": "\u25cf \u25cb \u25cb \u25cb A nice, animated UIPageControl alternative.", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kasper-lahti/PageControl'target='_blank'>PageControl</a>", 
+            "Stars": 105
+        }, 
+        {
+            "Description": "This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here: https://dribbble.com/shots/2578447-Page-Control-Indicator-Transitions-Collection", 
+            "Forks": 56, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/popwarsweet/PageControls'target='_blank'>PageControls</a>", 
+            "Stars": 722
+        }, 
+        {
+            "Description": "A set of cool animated page controls written in Swift to replace boring UIPageControl.", 
+            "Forks": 147, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ChiliLabs/CHIPageControl'target='_blank'>CHIPageControl</a>", 
+            "Stars": 2161
+        }, 
+        {
+            "Description": "\ud83d\udca5 Beautiful, animated and highly customizable UIPageControl alternative for iOS.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/sevruk-dev/page-control'target='_blank'>page-control</a>", 
+            "Stars": 8
+        }
+    ]
+}

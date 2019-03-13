@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "Description": "The most power-efficient and lightweight iOS location manager for Swift and ObjC", 
+            "Forks": 6, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/IngeoSDK/ingeo-ios-sdk'target='_blank'>ingeo-ios-sdk</a>", 
+            "Stars": 97
+        }, 
+        {
+            "Description": "Easily get the device's current location on iOS.", 
+            "Forks": 357, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/intuit/LocationManager'target='_blank'>LocationManager</a>", 
+            "Stars": 2347
+        }, 
+        {
+            "Description": "Easy & Efficient Location Tracker for iOS", 
+            "Forks": 286, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/malcommac/SwiftLocation'target='_blank'>SwiftLocation</a>", 
+            "Stars": 2082
+        }, 
+        {
+            "Description": "Simple library to detect motion type (walking, running, automotive) and count users steps. This library will make motion detection much more easily.", 
+            "Forks": 151, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/arturdev/SOMotionDetector'target='_blank'>SOMotionDetector</a>", 
+            "Stars": 1060
+        }, 
+        {
+            "Description": "A ready for use and fully customizable location picker for your app", 
+            "Forks": 55, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/JeromeTan1997/LocationPicker'target='_blank'>LocationPicker</a>", 
+            "Stars": 339
+        }, 
+        {
+            "Description": "A Location Manager for easily implementing location services & geofencing in iOS. Ready for iOS 11.", 
+            "Forks": 15, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/benzamin/BBLocationManager'target='_blank'>BBLocationManager</a>", 
+            "Stars": 97
+        }, 
+        {
+            "Description": "CLI for setting location in the iOS simulator", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/lyft/set-simulator-location'target='_blank'>set-simulator-location</a>", 
+            "Stars": 391
+        }, 
+        {
+            "Description": "A Swift wrapper for forward and reverse geocoding of OpenStreetMap data", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/caloon/NominatimKit'target='_blank'>NominatimKit</a>", 
+            "Stars": 43
+        }
+    ]
+}

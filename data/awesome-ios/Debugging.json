@@ -1,0 +1,116 @@
+{
+    "data": [
+        {
+            "Description": "A swift network profiler built on top of URLSession.", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/xmartlabs/Xniffer'target='_blank'>Xniffer</a>", 
+            "Stars": 462
+        }, 
+        {
+            "Description": "A lightweight, one line setup, iOS / OSX network debugging library! \ud83e\udd8a", 
+            "Forks": 190, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kasketis/netfox'target='_blank'>netfox</a>", 
+            "Stars": 2630
+        }, 
+        {
+            "Description": "Remote network and data debugging for your native iOS app using Chrome Developer Tools", 
+            "Forks": 593, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/square/PonyDebugger'target='_blank'>PonyDebugger</a>", 
+            "Stars": 5689
+        }, 
+        {
+            "Description": "Set of easy to use debugging tools for iOS developers & QA engineers.", 
+            "Forks": 60, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/dbukowski/DBDebugToolkit'target='_blank'>DBDebugToolkit</a>", 
+            "Stars": 1030
+        }, 
+        {
+            "Description": "An in-app debugging and exploration tool for iOS", 
+            "Forks": 1148, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Flipboard/FLEX'target='_blank'>FLEX</a>", 
+            "Stars": 10182
+        }, 
+        {
+            "Description": "Chisel is a collection of LLDB commands to assist debugging iOS apps.", 
+            "Forks": 649, 
+            "Language": "Python", 
+            "Repo": "<a href='https://github.com/facebook/chisel'target='_blank'>chisel</a>", 
+            "Stars": 7405
+        }, 
+        {
+            "Description": "Next generation debugging framework for iOS", 
+            "Forks": 43, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Legoless/Alpha'target='_blank'>Alpha</a>", 
+            "Stars": 709
+        }, 
+        {
+            "Description": "Customizable Console UI overlay with debug log on top of your iOS App", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tadija/AEConsole'target='_blank'>AEConsole</a>", 
+            "Stars": 109
+        }, 
+        {
+            "Description": "Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes", 
+            "Forks": 247, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/zixun/GodEye'target='_blank'>GodEye</a>", 
+            "Stars": 3254
+        }, 
+        {
+            "Description": "a iOS network debug library ,It can monitor HTTP requests within the App and displays information related to the request.", 
+            "Forks": 215, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/coderyi/NetworkEye'target='_blank'>NetworkEye</a>", 
+            "Stars": 1193
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png?v8'> <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f440.png?v8'>  In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.", 
+            "Forks": 139, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/remirobert/Dotzu'target='_blank'>Dotzu</a>", 
+            "Stars": 1756
+        }, 
+        {
+            "Description": "In-app design review tool to inspect measurements, attributes, and animations.", 
+            "Forks": 58, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/willowtreeapps/Hyperion-iOS'target='_blank'>Hyperion-iOS</a>", 
+            "Stars": 1653
+        }, 
+        {
+            "Description": "App for developers to test REST API.", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MuShare/Httper-iOS'target='_blank'>Httper-iOS</a>", 
+            "Stars": 334
+        }, 
+        {
+            "Description": "Droar is a modular, single-line installation debugging window", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/myriadmobile/Droar'target='_blank'>Droar</a>", 
+            "Stars": 35
+        }, 
+        {
+            "Description": "iOS network debugging, like a wizard \ud83e\uddd9\u200d\u2642\ufe0f", 
+            "Forks": 63, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/pmusolino/Wormholy'target='_blank'>Wormholy</a>", 
+            "Stars": 1562
+        }, 
+        {
+            "Description": "Tool to debug layouts directly on iOS devices: inspect layers in 3D and debug each visible view attributes", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/isavynskyi/LayoutInspector'target='_blank'>LayoutInspector</a>", 
+            "Stars": 337
+        }
+    ]
+}

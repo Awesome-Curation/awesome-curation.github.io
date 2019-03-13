@@ -1,0 +1,473 @@
+{
+    "data": [
+        {
+            "Description": "Live animated Alert View for iOS written in Swift", 
+            "Forks": 283, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/codestergit/SweetAlert-iOS'target='_blank'>SweetAlert-iOS</a>", 
+            "Stars": 1916
+        }, 
+        {
+            "Description": "Highly configurable iOS Alert Views with custom content views", 
+            "Forks": 97, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/nealyoung/NYAlertViewController'target='_blank'>NYAlertViewController</a>", 
+            "Stars": 567
+        }, 
+        {
+            "Description": "Beautiful animated Alert View. Written in Swift", 
+            "Forks": 686, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/vikmeup/SCLAlertView-Swift'target='_blank'>SCLAlertView-Swift</a>", 
+            "Stars": 4742
+        }, 
+        {
+            "Description": "TTGSnackbar shows simple message and action button on the bottom or top of the screen with multi kinds of animation, which is written in Swift3 and inspired by Snackbar in Android. It also support showing custom view, icon image or multi action button.", 
+            "Forks": 72, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/zekunyan/TTGSnackbar'target='_blank'>TTGSnackbar</a>", 
+            "Stars": 441
+        }, 
+        {
+            "Description": "A Swift library to design custom prompts with a great scope of options to choose from. ", 
+            "Forks": 60, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/GabrielAlva/Swift-Prompts'target='_blank'>Swift-Prompts</a>", 
+            "Stars": 743
+        }, 
+        {
+            "Description": "A lightweight dropdown notification for iOS 7+, in Swift.", 
+            "Forks": 128, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/bryx-inc/BRYXBanner'target='_blank'>BRYXBanner</a>", 
+            "Stars": 934
+        }, 
+        {
+            "Description": "Simple Swift in-app notifications", 
+            "Forks": 31, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/LISNR/LNRSimpleNotifications'target='_blank'>LNRSimpleNotifications</a>", 
+            "Stars": 195
+        }, 
+        {
+            "Description": "Emulates the native Remote Notification View.", 
+            "Forks": 45, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nhdang103/HDNotificationView'target='_blank'>HDNotificationView</a>", 
+            "Stars": 286
+        }, 
+        {
+            "Description": "[iOS] Easy, customizable notifications displayed on top of the statusbar. With progress and activity. iPhone X ready.", 
+            "Forks": 523, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/calimarkus/JDStatusBarNotification'target='_blank'>JDStatusBarNotification</a>", 
+            "Stars": 3659
+        }, 
+        {
+            "Description": "In-app notification in Swift, with customizable buttons and input text field.", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/thii/Notie'target='_blank'>Notie</a>", 
+            "Stars": 86
+        }, 
+        {
+            "Description": "Easy Swift UIAlertController", 
+            "Forks": 45, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/thellimist/EZAlertController'target='_blank'>EZAlertController</a>", 
+            "Stars": 313
+        }, 
+        {
+            "Description": "A simple style messages/notifications, in Swift.", 
+            "Forks": 49, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/wxxsw/GSMessages'target='_blank'>GSMessages</a>", 
+            "Stars": 406
+        }, 
+        {
+            "Description": "OEANotification is a customizable notification view framework", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/OEA/OEANotification'target='_blank'>OEANotification</a>", 
+            "Stars": 18
+        }, 
+        {
+            "Description": "iOS / Objective C: an extremely simple UIAlertView alternative", 
+            "Forks": 146, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/cwRichardKim/RKDropdownAlert'target='_blank'>RKDropdownAlert</a>", 
+            "Stars": 1537
+        }, 
+        {
+            "Description": "Animated alert library like Swarm app.", 
+            "Forks": 58, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/entotsu/TKSwarmAlert'target='_blank'>TKSwarmAlert</a>", 
+            "Stars": 513
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4e3.png?v8'>  Whisper is a component that will make the task of display messages and in-app notifications simple. It has three different views inside", 
+            "Forks": 360, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hyperoslo/Whisper'target='_blank'>Whisper</a>", 
+            "Stars": 3579
+        }, 
+        {
+            "Description": "Customizable simple Alert and simple ActionSheet for Swift", 
+            "Forks": 40, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/KyoheiG3/SimpleAlert'target='_blank'>SimpleAlert</a>", 
+            "Stars": 323
+        }, 
+        {
+            "Description": "A Swift library to provide a bouncy action sheet", 
+            "Forks": 31, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ytakzk/Hokusai'target='_blank'>Hokusai</a>", 
+            "Stars": 411
+        }, 
+        {
+            "Description": " GUI library for displaying various popups (HUD), written in pure Swift.", 
+            "Forks": 135, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/johnlui/SwiftNotice'target='_blank'>SwiftNotice</a>", 
+            "Stars": 767
+        }, 
+        {
+            "Description": "SwiftOverlays is a Swift GUI library for displaying various popups and notifications", 
+            "Forks": 76, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/peterprokop/SwiftOverlays'target='_blank'>SwiftOverlays</a>", 
+            "Stars": 576
+        }, 
+        {
+            "Description": "Lightweight dropdown message bar in Swift. It's simple and beautiful.", 
+            "Forks": 73, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/morizotter/SwiftyDrop'target='_blank'>SwiftyDrop</a>", 
+            "Stars": 631
+        }, 
+        {
+            "Description": "An easy to use UIAlertController builder for swift", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Lightningkite/LKAlertController'target='_blank'>LKAlertController</a>", 
+            "Stars": 73
+        }, 
+        {
+            "Description": "Simple Alert View written in Swift, which can be used as a UIAlertController. (AlertController/AlertView/ActionSheet)", 
+            "Forks": 60, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/okmr-d/DOAlertController'target='_blank'>DOAlertController</a>", 
+            "Stars": 357
+        }, 
+        {
+            "Description": "Action sheet allows including your custom views and buttons.", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/beryu/CustomizableActionSheet'target='_blank'>CustomizableActionSheet</a>", 
+            "Stars": 157
+        }, 
+        {
+            "Description": "A Swift extension that adds toast notifications to the UIView object class.", 
+            "Forks": 278, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/scalessec/Toast-Swift'target='_blank'>Toast-Swift</a>", 
+            "Stars": 1715
+        }, 
+        {
+            "Description": "PMAlertController is a great and customizable alert that can substitute to UIAlertController", 
+            "Forks": 152, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/pmusolino/PMAlertController'target='_blank'>PMAlertController</a>", 
+            "Stars": 1962
+        }, 
+        {
+            "Description": "UIViewController drop in replacement with much more customisation", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dimillian/PopupViewController'target='_blank'>PopupViewController</a>", 
+            "Stars": 16
+        }, 
+        {
+            "Description": "A simple and attractive AlertView to ask permission to your users for Push Notification.", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PhilippeBoisney/AlertViewLoveNotification'target='_blank'>AlertViewLoveNotification</a>", 
+            "Stars": 35
+        }, 
+        {
+            "Description": "A modern iOS toast view that can fit your notification needs", 
+            "Forks": 480, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/cruffenach/CRToast'target='_blank'>CRToast</a>", 
+            "Stars": 4187
+        }, 
+        {
+            "Description": "\ud83c\udf5e Toast for Swift", 
+            "Forks": 135, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/devxoul/Toaster'target='_blank'>Toaster</a>", 
+            "Stars": 1114
+        }, 
+        {
+            "Description": "UIAlertController with continuity.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/rollmind/CuckooAlert'target='_blank'>CuckooAlert</a>", 
+            "Stars": 5
+        }, 
+        {
+            "Description": "A colored alert view for your iOS.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/krimpedance/KRAlertController'target='_blank'>KRAlertController</a>", 
+            "Stars": 49
+        }, 
+        {
+            "Description": "A message bar for iOS written in Swift.", 
+            "Forks": 57, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/evgenyneu/Dodo'target='_blank'>Dodo</a>", 
+            "Stars": 828
+        }, 
+        {
+            "Description": "A Google like action sheet for iOS written in Swift.", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ntnhon/MaterialActionSheetController'target='_blank'>MaterialActionSheetController</a>", 
+            "Stars": 92
+        }, 
+        {
+            "Description": "A very flexible message bar for iOS written in Swift.", 
+            "Forks": 378, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SwiftKickMobile/SwiftMessages'target='_blank'>SwiftMessages</a>", 
+            "Stars": 4482
+        }, 
+        {
+            "Description": "FCAlertView is a Flat Customizable AlertView for iOS (Swift)", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/krispenney/FCAlertView'target='_blank'>FCAlertView</a>", 
+            "Stars": 96
+        }, 
+        {
+            "Description": "FCAlertView is a Flat Customizable AlertView for iOS (Written in Objective C)", 
+            "Forks": 130, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/nimati/FCAlertView'target='_blank'>FCAlertView</a>", 
+            "Stars": 750
+        }, 
+        {
+            "Description": "Highly customizable alertview and alert/notification/success/error/alarm popup written in Swift", 
+            "Forks": 77, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/candostdagdeviren/CDAlertView'target='_blank'>CDAlertView</a>", 
+            "Stars": 879
+        }, 
+        {
+            "Description": "This is an iOS control for presenting any UIView in an UIAlertController like manner", 
+            "Forks": 54, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/CooperRS/RMActionController'target='_blank'>RMActionController</a>", 
+            "Stars": 457
+        }, 
+        {
+            "Description": "This is an iOS control for selecting a date using UIDatePicker in an UIAlertController like manner", 
+            "Forks": 157, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/CooperRS/RMDateSelectionViewController'target='_blank'>RMDateSelectionViewController</a>", 
+            "Stars": 1121
+        }, 
+        {
+            "Description": "This is an iOS control for selecting something using UIPickerView in an UIAlertController like manner", 
+            "Forks": 50, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/CooperRS/RMPickerViewController'target='_blank'>RMPickerViewController</a>", 
+            "Stars": 365
+        }, 
+        {
+            "Description": "\ud83c\udf0a - Jelly is a library for animated, non-interactive & interactive viewcontroller  transitions and presentations with the focus on a simple and yet flexible API.", 
+            "Forks": 92, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SebastianBoldt/Jelly'target='_blank'>Jelly</a>", 
+            "Stars": 1900
+        }, 
+        {
+            "Description": "Custom alert View to iOS applications", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/vitormesquita/Malert'target='_blank'>Malert</a>", 
+            "Stars": 227
+        }, 
+        {
+            "Description": "AlertView, Ios popup window, A pop-up framework, Can be simple and convenient to join your project. IOS \u63d0\u793a\u6846\uff0cIOS\u5f39\u6846\uff0cIOS\u5f39\u7a97", 
+            "Forks": 6, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/roycms/AlertView'target='_blank'>AlertView</a>", 
+            "Stars": 56
+        }, 
+        {
+            "Description": "\ud83d\ude0dA simple NoticeBar written by Swift 3, similar with QQ notice view.", 
+            "Forks": 29, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/qiuncheng/NoticeBar'target='_blank'>NoticeBar</a>", 
+            "Stars": 241
+        }, 
+        {
+            "Description": "Advance animated alerts for iOS written in Swift", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Lasithih/LIHAlert'target='_blank'>LIHAlert</a>", 
+            "Stars": 32
+        }, 
+        {
+            "Description": "BPStatusBarAlert is a library that allows you to easily make text-based alert that appear on the status bar and below navigation bar. ", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ppth0608/BPStatusBarAlert'target='_blank'>BPStatusBarAlert</a>", 
+            "Stars": 108
+        }, 
+        {
+            "Description": "It is a highly configurable iOS library which allows easy styling with built in styles as well as extra header and footer views so that you can make extremely unique alerts and action sheets.", 
+            "Forks": 58, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Codigami/CFAlertViewController'target='_blank'>CFAlertViewController</a>", 
+            "Stars": 950
+        }, 
+        {
+            "Description": "The easiest way to display highly customizable in app notification banners in iOS", 
+            "Forks": 281, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Daltron/NotificationBanner'target='_blank'>NotificationBanner</a>", 
+            "Stars": 2643
+        }, 
+        {
+            "Description": "Swifty, modern UIAlertController wrapper.", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/sgr-ksmt/Alertift'target='_blank'>Alertift</a>", 
+            "Stars": 130
+        }, 
+        {
+            "Description": "Swift AlertController with UIVisualeffectview", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hryk224/PCLBlurEffectAlert'target='_blank'>PCLBlurEffectAlert</a>", 
+            "Stars": 145
+        }, 
+        {
+            "Description": "Simple DropDown Alert View For Any iOS Projects.", 
+            "Forks": 20, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/trilliwon/JDropDownAlert'target='_blank'>JDropDownAlert</a>", 
+            "Stars": 50
+        }, 
+        {
+            "Description": "General-purpose contextual cards for iOS", 
+            "Forks": 206, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/alexaubry/BulletinBoard'target='_blank'>BulletinBoard</a>", 
+            "Stars": 4127
+        }, 
+        {
+            "Description": "A customizable framework to create draggable views", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hallelujahbaby/CFNotify'target='_blank'>CFNotify</a>", 
+            "Stars": 452
+        }, 
+        {
+            "Description": "Display Apple system-like self-hiding status alerts. It is well suited for notifying user without interrupting user flow in iOS-like way.", 
+            "Forks": 37, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/LowKostKustomz/StatusAlert'target='_blank'>StatusAlert</a>", 
+            "Stars": 610
+        }, 
+        {
+            "Description": "Advanced usage of UIAlertController and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date...", 
+            "Forks": 385, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dillidon/alerts-and-pickers'target='_blank'>alerts-and-pickers</a>", 
+            "Stars": 3641
+        }, 
+        {
+            "Description": "A crisp in-app notification/message banner built in Swift.", 
+            "Forks": 58, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/donileo/RMessage'target='_blank'>RMessage</a>", 
+            "Stars": 331
+        }, 
+        {
+            "Description": "Swift library to manage in app notification in swift language, like WhatsApp, Telegram, Frind, ecc.", 
+            "Forks": 31, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/lucabecchetti/InAppNotify'target='_blank'>InAppNotify</a>", 
+            "Stars": 423
+        }, 
+        {
+            "Description": "FloatingActionSheetController is a cool design ActionSheetController library written in Swift2.", 
+            "Forks": 20, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ra1028/FloatingActionSheetController'target='_blank'>FloatingActionSheetController</a>", 
+            "Stars": 136
+        }, 
+        {
+            "Description": "A custom-designed reimplementation of the UIActionSheet control for iOS", 
+            "Forks": 19, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/TimOliver/TOActionSheet'target='_blank'>TOActionSheet</a>", 
+            "Stars": 164
+        }, 
+        {
+            "Description": "Fully customizable and extensible action sheet controller written in Swift", 
+            "Forks": 292, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/xmartlabs/XLActionController'target='_blank'>XLActionController</a>", 
+            "Stars": 2887
+        }, 
+        {
+            "Description": "A fully customizable popup style menu for iOS \ud83d\ude0e", 
+            "Forks": 48, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/CaliCastle/PopMenu'target='_blank'>PopMenu</a>", 
+            "Stars": 629
+        }, 
+        {
+            "Description": "\ud83d\udea8Use the iPhone X Notch to display alerts. \ud83d\udea8", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/TheAbstractDev/NotchyAlert'target='_blank'>NotchyAlert</a>", 
+            "Stars": 17
+        }, 
+        {
+            "Description": "Show a workflow of view controllers as an action sheet", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/rob-nash/Sheet'target='_blank'>Sheet</a>", 
+            "Stars": 42
+        }, 
+        {
+            "Description": "\ud83d\udcd1 Actionsheet with navigation features such as the Flipboard App", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ParkGwangBeom/Sheet'target='_blank'>Sheet</a>", 
+            "Stars": 118
+        }, 
+        {
+            "Description": "An easier constructor for UIAlertController. Present an alert from anywhere.", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mshrwtnb/alrt'target='_blank'>ALRT</a>", 
+            "Stars": 39
+        }, 
+        {
+            "Description": "Use UIAlertController like a boss.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ImKcat/CatAlertController'target='_blank'>CatAlertController</a>", 
+            "Stars": 5
+        }
+    ]
+}

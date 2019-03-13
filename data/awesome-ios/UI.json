@@ -1,0 +1,781 @@
+{
+    "data": [
+        {
+            "Description": "A collection of awesome flat UI components for iOS.", 
+            "Forks": 1009, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Grouper/FlatUIKit'target='_blank'>FlatUIKit</a>", 
+            "Stars": 7850
+        }, 
+        {
+            "Description": "Lightweight and customizable stylesheets for iOS", 
+            "Forks": 61, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/erichoracek/Motif'target='_blank'>Motif</a>", 
+            "Stars": 875
+        }, 
+        {
+            "Description": "Smooth asynchronous user interfaces for iOS apps.", 
+            "Forks": 701, 
+            "Language": "Objective-C++", 
+            "Repo": "<a href='https://github.com/TextureGroup/Texture'target='_blank'>Texture</a>", 
+            "Stars": 5226
+        }, 
+        {
+            "Description": "Kit for building custom gauges + easy reproducible Apple's style ring gauges.", 
+            "Forks": 83, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/skywinder/GaugeKit'target='_blank'>GaugeKit</a>", 
+            "Stars": 953
+        }, 
+        {
+            "Description": "SAHistoryNavigationViewController realizes iOS task manager like UI in UINavigationContoller. Support 3D Touch!", 
+            "Forks": 98, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marty-suzuki/SAHistoryNavigationViewController'target='_blank'>SAHistoryNavigationViewController</a>", 
+            "Stars": 1558
+        }, 
+        {
+            "Description": "A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS", 
+            "Forks": 2500, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/nicklockwood/iCarousel'target='_blank'>iCarousel</a>", 
+            "Stars": 11147
+        }, 
+        {
+            "Description": "tap + haiku = tapku, a well crafted open source iOS framework", 
+            "Forks": 706, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/devinross/tapkulibrary'target='_blank'>tapkulibrary</a>", 
+            "Stars": 3990
+        }, 
+        {
+            "Description": "A horizontal scroll dial like Instagram.", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kciter/HorizontalDial'target='_blank'>HorizontalDial</a>", 
+            "Stars": 155
+        }, 
+        {
+            "Description": "Make any UIView a full fledged notification center", 
+            "Forks": 342, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/cwRichardKim/RKNotificationHub'target='_blank'>RKNotificationHub</a>", 
+            "Stars": 3006
+        }, 
+        {
+            "Description": "A simple and easy to use view controller enabling you to enter a phone number with a country code similar to WhatsApp written in Swift", 
+            "Forks": 24, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hughbe/phone-number-picker'target='_blank'>phone-number-picker</a>", 
+            "Stars": 132
+        }, 
+        {
+            "Description": "Extended UIView for Interface Builder by using IB_DESIGNABLE and IBInspectable.", 
+            "Forks": 18, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/recruit-mtl/EXTView'target='_blank'>EXTView</a>", 
+            "Stars": 156
+        }, 
+        {
+            "Description": "Tasteful Checkbox for iOS. (Check box)", 
+            "Forks": 234, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Boris-Em/BEMCheckBox#sample-app'target='_blank'>BEMCheckBox</a>", 
+            "Stars": 2273
+        }, 
+        {
+            "Description": "Apple TV Parallax effect in Swift.", 
+            "Forks": 94, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/DroidsOnRoids/MPParallaxView'target='_blank'>MPParallaxView</a>", 
+            "Stars": 1602
+        }, 
+        {
+            "Description": "A simple split-flap display for your Swift applications", 
+            "Forks": 68, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yannickl/Splitflap'target='_blank'>Splitflap</a>", 
+            "Stars": 924
+        }, 
+        {
+            "Description": ":point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages", 
+            "Forks": 70, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/goktugyil/EZSwipeController'target='_blank'>EZSwipeController</a>", 
+            "Stars": 781
+        }, 
+        {
+            "Description": "curry is a framework built to enhance and compliment Foundation and UIKit.", 
+            "Forks": 6, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/devinross/curry'target='_blank'>curry</a>", 
+            "Stars": 41
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png?v8'>  UIPageViewController made simple", 
+            "Forks": 42, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hyperoslo/Pages'target='_blank'>Pages</a>", 
+            "Stars": 453
+        }, 
+        {
+            "Description": "Model View Presenter Framework written in Swift.", 
+            "Forks": 43, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Karumi/BothamUI'target='_blank'>BothamUI</a>", 
+            "Stars": 353
+        }, 
+        {
+            "Description": "A subclass of UIVisualEffectView with customizable blur radius.", 
+            "Forks": 16, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/collinhundley/APCustomBlurView'target='_blank'>APCustomBlurView</a>", 
+            "Stars": 170
+        }, 
+        {
+            "Description": "UIView that simulates a 2D view of a fluid in motion", 
+            "Forks": 113, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/antiguab/BAFluidView'target='_blank'>BAFluidView</a>", 
+            "Stars": 1338
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  Show status for transition across viewControllers.", 
+            "Forks": 45, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/wongzigii/WZDraggableSwitchHeaderView'target='_blank'>WZDraggableSwitchHeaderView</a>", 
+            "Stars": 550
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png?v8'>  An iOS native implementation of a Trello Animated Navagation. See more at https://dribbble.com/shots/2114816-Trello-Navigation. iOS\u4e0a\u7c7b\u4f3ctrello\u7684\u5bfc\u822a\u52a8\u6548\u6846\u67b6\u5b9e\u73b0\u3002", 
+            "Forks": 105, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/SergioChan/SCTrelloNavigation'target='_blank'>SCTrelloNavigation</a>", 
+            "Stars": 804
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f38d.png?v8'>  Spots is a cross-platform view controller framework for building component-based UIs", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hyperoslo/Spots'target='_blank'>Spots</a>", 
+            "Stars": 6
+        }, 
+        {
+            "Description": "Easy access to iOS address book", 
+            "Forks": 208, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Alterplay/APAddressBook'target='_blank'>APAddressBook</a>", 
+            "Stars": 1423
+        }, 
+        {
+            "Description": "An expandable/collapsible view component written in Swift.", 
+            "Forks": 31, 
+            "Language": "Shell", 
+            "Repo": "<a href='https://github.com/Azuritul/AZExpandableIconListView'target='_blank'>AZExpandableIconListView</a>", 
+            "Stars": 218
+        }, 
+        {
+            "Description": "A highly configurable and out-of-the-box-pretty UI library", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/thinkclay/FlourishUI'target='_blank'>FlourishUI</a>", 
+            "Stars": 217
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  NavigationStack is a stack-modeled UI navigation controller. Swift UI library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries", 
+            "Forks": 172, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Ramotion/navigation-stack'target='_blank'>navigation-stack</a>", 
+            "Stars": 2186
+        }, 
+        {
+            "Description": "UIView category that adds dragging capabilities", 
+            "Forks": 69, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/andreamazz/UIView-draggable'target='_blank'>UIView-draggable</a>", 
+            "Stars": 414
+        }, 
+        {
+            "Description": "Peek and Pop with backwards-compatibility ", 
+            "Forks": 123, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marmelroy/PeekPop'target='_blank'>PeekPop</a>", 
+            "Stars": 1963
+        }, 
+        {
+            "Description": "Signature component for iOS in Swift", 
+            "Forks": 143, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ipraba/EPSignature'target='_blank'>EPSignature</a>", 
+            "Stars": 739
+        }, 
+        {
+            "Description": "[iOS/deprecated!] Stop using context menus. Drag and drop instead, even between apps!", 
+            "Forks": 27, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/nevyn/CoreDragon'target='_blank'>CoreDragon</a>", 
+            "Stars": 711
+        }, 
+        {
+            "Description": "Calculate the distance and angle of your device with regards to your face", 
+            "Forks": 37, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/evermeer/EVFaceTracker'target='_blank'>EVFaceTracker</a>", 
+            "Stars": 237
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f485.png?v8'>  Fashion accessories and beauty tools to share and reuse UI styles in a Swifty way", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/vadymmarkov/Fashion'target='_blank'>Fashion</a>", 
+            "Stars": 89
+        }, 
+        {
+            "Description": "Declarative, configurable & highly reusable UI development as making Lego bricks.", 
+            "Forks": 48, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/wangshengjia/LeeGo'target='_blank'>LeeGo</a>", 
+            "Stars": 952
+        }, 
+        {
+            "Description": "An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.", 
+            "Forks": 41, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/manuelescrig/MEVHorizontalContacts'target='_blank'>MEVHorizontalContacts</a>", 
+            "Stars": 346
+        }, 
+        {
+            "Description": "Remember there's no such thing as a small act of kindness. Every act creates a ripple with no logical end.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/RamonGilabert/Ripple'target='_blank'>Ripple</a>", 
+            "Stars": 79
+        }, 
+        {
+            "Description": "Generic scale and a handy float-value picker for any iOS app.", 
+            "Forks": 24, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/kronik/ScalePicker'target='_blank'>ScalePicker</a>", 
+            "Stars": 159
+        }, 
+        {
+            "Description": "Dynamic blur background view with tint color (UIVisualEffectView subclass) \ud83d\udcf1", 
+            "Forks": 35, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/efremidze/VisualEffectView'target='_blank'>VisualEffectView</a>", 
+            "Stars": 591
+        }, 
+        {
+            "Description": "Pure Swift Cross-platform UIKit (Cocoa Touch) implementation (Supports Linux)", 
+            "Forks": 35, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PureSwift/Cacao'target='_blank'>Cacao</a>", 
+            "Stars": 949
+        }, 
+        {
+            "Description": "UIViews that update themselves when your data changes, like React.", 
+            "Forks": 16, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/sahandnayebaziz/StateView'target='_blank'>StateView</a>", 
+            "Stars": 501
+        }, 
+        {
+            "Description": "[iOS] Representing analog flip numbers like airport/trainstation displays", 
+            "Forks": 141, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/calimarkus/JDFlipNumberView'target='_blank'>JDFlipNumberView</a>", 
+            "Stars": 736
+        }, 
+        {
+            "Description": "Simple timeline view written in Swift 3", 
+            "Forks": 82, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/instant-solutions/ISTimeline'target='_blank'>ISTimeline</a>", 
+            "Stars": 968
+        }, 
+        {
+            "Description": "A fancy collection style view controller", 
+            "Forks": 53, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/atljeremy/JFCardSelectionViewController'target='_blank'>JFCardSelectionViewController</a>", 
+            "Stars": 421
+        }, 
+        {
+            "Description": "Set of iOS controls with useful IBInspectable properties. Written on Swift.", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/agordeev/DCKit'target='_blank'>DCKit</a>", 
+            "Stars": 129
+        }, 
+        {
+            "Description": "A swift and objective-C object that lets you add a background video to iOS views", 
+            "Forks": 50, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Guzlan/BackgroundVideoiOS'target='_blank'>BackgroundVideoiOS</a>", 
+            "Stars": 546
+        }, 
+        {
+            "Description": "Elegant way to integrate night mode to swift projects", 
+            "Forks": 51, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Draveness/NightNight'target='_blank'>NightNight</a>", 
+            "Stars": 706
+        }, 
+        {
+            "Description": "\ud83c\udfa8 Powerful theme/skin manager for iOS 8+ \u4e3b\u9898/\u6362\u80a4, \u591c\u95f4\u6a21\u5f0f", 
+            "Forks": 185, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jiecao-fm/SwiftTheme'target='_blank'>SwiftTheme</a>", 
+            "Stars": 1549
+        }, 
+        {
+            "Description": "Use UIStackView directly in iOS6+", 
+            "Forks": 332, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/forkingdog/FDStackView'target='_blank'>FDStackView</a>", 
+            "Stars": 2484
+        }, 
+        {
+            "Description": "YangMingShan is a collection of iOS UI components that we created while building Yahoo apps.", 
+            "Forks": 102, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/yahoo/YangMingShan'target='_blank'>YangMingShan</a>", 
+            "Stars": 649
+        }, 
+        {
+            "Description": "Style iOS apps with a stylesheet, similar to CSS", 
+            "Forks": 462, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/tombenner/nui'target='_blank'>nui</a>", 
+            "Stars": 3796
+        }, 
+        {
+            "Description": "A UI/UX framework for creating beautiful applications.", 
+            "Forks": 1157, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/CosmicMind/Material'target='_blank'>Material</a>", 
+            "Stars": 10774
+        }, 
+        {
+            "Description": "Custom UIKit control to select a distance with a pan gesture, written in Swift", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/qmathe/DistancePicker'target='_blank'>DistancePicker</a>", 
+            "Stars": 102
+        }, 
+        {
+            "Description": "Porting UIStackView to iOS 7+", 
+            "Forks": 215, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/nsomar/OAStackView'target='_blank'>OAStackView</a>", 
+            "Stars": 2197
+        }, 
+        {
+            "Description": "A powerful & easy to use styling framework written in Swift", 
+            "Forks": 46, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/146BC/StyleKit'target='_blank'>StyleKit</a>", 
+            "Stars": 1156
+        }, 
+        {
+            "Description": "Infinite paging controller, scrolling through contents and title bar scrolls with a delay", 
+            "Forks": 32, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hirohisa/PageController'target='_blank'>PageController</a>", 
+            "Stars": 256
+        }, 
+        {
+            "Description": "Protocol to handle initial Loadings, Empty Views and Error Handling in a ViewController & views", 
+            "Forks": 46, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mariohahn/StatusProvider'target='_blank'>StatusProvider</a>", 
+            "Stars": 863
+        }, 
+        {
+            "Description": "round icon drag control (made in swift) dock style", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/scamps88/ASBubbleDrag'target='_blank'>ASBubbleDrag</a>", 
+            "Stars": 44
+        }, 
+        {
+            "Description": "An alternative to UIStackView for common Auto Layout patterns.", 
+            "Forks": 4, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/bridger/StackLayout'target='_blank'>StackLayout</a>", 
+            "Stars": 76
+        }, 
+        {
+            "Description": "Dazzling Nights on iOS. ", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Boris-Em/NightView'target='_blank'>NightView</a>", 
+            "Stars": 164
+        }, 
+        {
+            "Description": "\ud83d\udcf9 Framework to Play a Video in the Background of any UIView", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dingwilson/SwiftVideoBackground'target='_blank'>SwiftVideoBackground</a>", 
+            "Stars": 199
+        }, 
+        {
+            "Description": "Easily create UIViewControllers for news articles similar to those in the News app.", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mrigdon/MRArticleViewController'target='_blank'>MRArticleViewController</a>", 
+            "Stars": 107
+        }, 
+        {
+            "Description": "Confetti View lets you create a magnificent confetti view in your app", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/OrRon/ConfettiView'target='_blank'>ConfettiView</a>", 
+            "Stars": 222
+        }, 
+        {
+            "Description": "Page view controller with bounce effect", 
+            "Forks": 51, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/BohdanOrlov/BouncyPageViewController'target='_blank'>BouncyPageViewController</a>", 
+            "Stars": 773
+        }, 
+        {
+            "Description": "A radio button with a pretty animation", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/rolandleth/LTHRadioButton'target='_blank'>LTHRadioButton</a>", 
+            "Stars": 239
+        }, 
+        {
+            "Description": "Various usages of the Macaw library", 
+            "Forks": 38, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/exyte/Macaw-Examples'target='_blank'>Macaw-Examples</a>", 
+            "Stars": 238
+        }, 
+        {
+            "Description": "Fully customizable Facebook reactions like control", 
+            "Forks": 52, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yannickl/Reactions'target='_blank'>Reactions</a>", 
+            "Stars": 498
+        }, 
+        {
+            "Description": "Newly is a drop in solution to add Twitter/Facebook/Linkedin style, new updates/tweets/posts available button. It can be used to notify user about new content availability and can other actions can be triggers using its delegate method.", 
+            "Forks": 24, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/dhirajjadhao/Newly'target='_blank'>Newly</a>", 
+            "Stars": 190
+        }, 
+        {
+            "Description": "iOS custom controller used in Jobandtalent app to present new view controllers as cards", 
+            "Forks": 35, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jobandtalent/CardStackController'target='_blank'>CardStackController</a>", 
+            "Stars": 470
+        }, 
+        {
+            "Description": "Modular and customizable Material Design UI components for iOS", 
+            "Forks": 525, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/material-components/material-components-ios'target='_blank'>material-components-ios</a>", 
+            "Stars": 3235
+        }, 
+        {
+            "Description": "An easy to use FAQ view for iOS written in Swift", 
+            "Forks": 27, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mukeshthawani/FAQView'target='_blank'>FAQView</a>", 
+            "Stars": 433
+        }, 
+        {
+            "Description": "An iOS pattern lock like Android authentication written in Swift.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/oxozle/OXPatternLock'target='_blank'>OXPatternLock</a>", 
+            "Stars": 23
+        }, 
+        {
+            "Description": "UIViewController subclass to beautifully present news articles and blog posts.", 
+            "Forks": 0, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/lucamozza/LMArticleViewController'target='_blank'>LMArticleViewController</a>", 
+            "Stars": 5
+        }, 
+        {
+            "Description": "FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View\u3001Product Show\u3001Welcome/Guide Pages\u3001Screen/ViewController Sliders.", 
+            "Forks": 454, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/WenchaoD/FSPagerView'target='_blank'>FSPagerView</a>", 
+            "Stars": 4029
+        }, 
+        {
+            "Description": "A UI framework that enables panels on iOS.", 
+            "Forks": 136, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/louisdh/panelkit'target='_blank'>panelkit</a>", 
+            "Stars": 3666
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  ElongationPreview is an elegant UI push-pop style view controller. iOS library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries", 
+            "Forks": 81, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Ramotion/elongation-preview'target='_blank'>elongation-preview</a>", 
+            "Stars": 799
+        }, 
+        {
+            "Description": "\ud83d\udcd6 A simple, highly informative page view controller", 
+            "Forks": 72, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/uias/Pageboy'target='_blank'>Pageboy</a>", 
+            "Stars": 1268
+        }, 
+        {
+            "Description": "A customizable color picker for iOS in Swift", 
+            "Forks": 40, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/iGenius-Srl/IGColorPicker'target='_blank'>IGColorPicker</a>", 
+            "Stars": 148
+        }, 
+        {
+            "Description": "A replacement of default action sheet, but has very simple usage", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/khuong291/KPActionSheet'target='_blank'>KPActionSheet</a>", 
+            "Stars": 6
+        }, 
+        {
+            "Description": "Snapchat / Instagram Stories like progress indicator", 
+            "Forks": 35, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/D-32/SegmentedProgressBar'target='_blank'>SegmentedProgressBar</a>", 
+            "Stars": 265
+        }, 
+        {
+            "Description": "SpriteKit Floating Bubble Picker (inspired by Apple Music) \ud83e\uddf2", 
+            "Forks": 63, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/efremidze/Magnetic'target='_blank'>Magnetic</a>", 
+            "Stars": 946
+        }, 
+        {
+            "Description": "Bubble pickers, inspired by Apple", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/GlebRadchenko/AmazingBubbles'target='_blank'>AmazingBubbles</a>", 
+            "Stars": 49
+        }, 
+        {
+            "Description": "Easy Haptic Feedback Generator \ud83d\udcf3", 
+            "Forks": 24, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/efremidze/Haptica'target='_blank'>Haptica</a>", 
+            "Stars": 381
+        }, 
+        {
+            "Description": "Simple checkbox/radio box component for iOS", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/saeid/GDCheckbox'target='_blank'>GDCheckbox</a>", 
+            "Stars": 14
+        }, 
+        {
+            "Description": "A simple and elegant UIKit for iOS.", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Howardw3/HamsterUIKit'target='_blank'>HamsterUIKit</a>", 
+            "Stars": 23
+        }, 
+        {
+            "Description": "A UIControl subclass that makes it easy to create empty states.", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Minitour/AZEmptyState'target='_blank'>AZEmptyState</a>", 
+            "Stars": 81
+        }, 
+        {
+            "Description": "Show the weather effects onto view written in Swift4.2", 
+            "Forks": 32, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jegumhon/URWeatherView'target='_blank'>URWeatherView</a>", 
+            "Stars": 410
+        }, 
+        {
+            "Description": "It provides UI components such as popover, popup, dialog supporting iOS apps", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/linhcn/LCUIComponents'target='_blank'>LCUIComponents</a>", 
+            "Stars": 6
+        }, 
+        {
+            "Description": "Compose views using enums swiftly: `let label: UILabel = [.text(\"Hello\"), .textColor(.red)]`", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Sajjon/ViewComposer'target='_blank'>ViewComposer</a>", 
+            "Stars": 22
+        }, 
+        {
+            "Description": "Simple battery shaped UIView", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yonat/BatteryView'target='_blank'>BatteryView</a>", 
+            "Stars": 18
+        }, 
+        {
+            "Description": "An iOS Library that makes shadows management easy on UIView.", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PierrePerrin/ShadowView'target='_blank'>ShadowView</a>", 
+            "Stars": 311
+        }, 
+        {
+            "Description": "A library to imitate the iOS 10 Maps UI.", 
+            "Forks": 189, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/52inc/Pulley'target='_blank'>Pulley</a>", 
+            "Stars": 1520
+        }, 
+        {
+            "Description": "A set of frameworks making iOS development more fun", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/n8iveapps/N8iveKit'target='_blank'>N8iveKit</a>", 
+            "Stars": 18
+        }, 
+        {
+            "Description": "Create view hierarchies declaratively.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/wordlessj/Panda'target='_blank'>Panda</a>", 
+            "Stars": 27
+        }, 
+        {
+            "Description": "A simple way to hide the notch on the iPhone X", 
+            "Forks": 66, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/HarshilShah/NotchKit'target='_blank'>NotchKit</a>", 
+            "Stars": 1837
+        }, 
+        {
+            "Description": "Flexible UI Framework Designed for Swift", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/TintPoint/Overlay'target='_blank'>Overlay</a>", 
+            "Stars": 48
+        }, 
+        {
+            "Description": "High performance and lightweight UIView,  UIImage, UIImageView, UIlabel, UIButton, Promise and more.", 
+            "Forks": 27, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/haoking/SwiftyUI'target='_blank'>SwiftyUI</a>", 
+            "Stars": 391
+        }, 
+        {
+            "Description": "Use the iPhone X notch in creative ways \ud83d\udc69\u200d\ud83c\udfa8\ud83d\udc68\u200d\ud83c\udfa8.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AFathi/NotchToolkit'target='_blank'>NotchToolkit</a>", 
+            "Stars": 48
+        }, 
+        {
+            "Description": "Pull up controller with multiple sticky points like in iOS Maps", 
+            "Forks": 73, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MarioIannotta/PullUpController'target='_blank'>PullUpController</a>", 
+            "Stars": 771
+        }, 
+        {
+            "Description": "DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.", 
+            "Forks": 33, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Babylonpartners/DrawerKit'target='_blank'>DrawerKit</a>", 
+            "Stars": 642
+        }, 
+        {
+            "Description": "Easily add drop shadows, borders, and round corners to a UIView.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/aaronjsutton/Shades'target='_blank'>Shades</a>", 
+            "Stars": 10
+        }, 
+        {
+            "Description": "A page control similar to that used in Instagram", 
+            "Forks": 23, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Interactive-Studio/ISPageControl'target='_blank'>ISPageControl</a>", 
+            "Stars": 207
+        }, 
+        {
+            "Description": "React.js like Mixin. More powerful Protocol-Oriented Programming.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/oney/Mixin'target='_blank'>Mixin</a>", 
+            "Stars": 41
+        }, 
+        {
+            "Description": "Iridescent Effect View (inspired by Apple Pay Cash) \u2728", 
+            "Forks": 27, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/efremidze/Shiny'target='_blank'>Shiny</a>", 
+            "Stars": 603
+        }, 
+        {
+            "Description": "A controller that uses a UIStackView and view controller composition to display content in a list", 
+            "Forks": 49, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/seedco/StackViewController'target='_blank'>StackViewController</a>", 
+            "Stars": 728
+        }, 
+        {
+            "Description": "Provides an iOS view controller allowing a user to draw their signature with their finger in a realistic style.", 
+            "Forks": 90, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/uber/UberSignature'target='_blank'>UberSignature</a>", 
+            "Stars": 926
+        }, 
+        {
+            "Description": "A nice iOS View Capture Swift Library which can capture all content.", 
+            "Forks": 64, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/startry/SwViewCapture'target='_blank'>SwViewCapture</a>", 
+            "Stars": 502
+        }, 
+        {
+            "Description": "A beautiful radar view to show nearby items (users, restaurants, ...) with ripple animation, fully customizable ", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/HamzaGhazouani/HGRippleRadarView'target='_blank'>HGRippleRadarView</a>", 
+            "Stars": 203
+        }, 
+        {
+            "Description": "Full Customizable, Beautiful, Easy to use gauge view", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/saeid/GDGauge'target='_blank'>GDGauge</a>", 
+            "Stars": 39
+        }, 
+        {
+            "Description": "Handy UIControl subclasses. (Think Three20/NimbusKit of UIControls.)", 
+            "Forks": 6, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Stunner/STAControls'target='_blank'>STAControls</a>", 
+            "Stars": 9
+        }, 
+        {
+            "Description": "Elegant Apply Style by Swift Method\u00a0Chain.\ud83c\udf19", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/shindyu/ApplyStyleKit'target='_blank'>ApplyStyleKit</a>", 
+            "Stars": 131
+        }, 
+        {
+            "Description": "iOS UI library to implement overlay based interfaces", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/applidium/ADOverlayContainer'target='_blank'>ADOverlayContainer</a>", 
+            "Stars": 227
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "data": [
+        {
+            "Description": "The Objective-C Style Guide used by The New York Times", 
+            "Forks": 1338, 
+            "Language": "None", 
+            "Repo": "<a href='https://github.com/NYTimes/objective-c-style-guide'target='_blank'>objective-c-style-guide</a>", 
+            "Stars": 5418
+        }, 
+        {
+            "Description": "A style guide that outlines the coding conventions for raywenderlich.com", 
+            "Forks": 646, 
+            "Language": "None", 
+            "Repo": "<a href='https://github.com/raywenderlich/objective-c-style-guide'target='_blank'>objective-c-style-guide</a>", 
+            "Stars": 2930
+        }, 
+        {
+            "Description": "**Archived** Style guide & coding conventions for Objective-C projects", 
+            "Forks": 263, 
+            "Language": "None", 
+            "Repo": "<a href='https://github.com/github/objective-c-style-guide'target='_blank'>objective-c-style-guide</a>", 
+            "Stars": 1688
+        }, 
+        {
+            "Description": "The official Swift style guide for raywenderlich.com.", 
+            "Forks": 1556, 
+            "Language": "None", 
+            "Repo": "<a href='https://github.com/raywenderlich/swift-style-guide'target='_blank'>swift-style-guide</a>", 
+            "Stars": 9645
+        }, 
+        {
+            "Description": "Guidelines for iOS development in use at Spotify", 
+            "Forks": 29, 
+            "Language": "None", 
+            "Repo": "<a href='https://github.com/spotify/ios-style'target='_blank'>ios-style</a>", 
+            "Stars": 208
+        }, 
+        {
+            "Description": "**Archived** Style guide & coding conventions for Swift projects", 
+            "Forks": 522, 
+            "Language": "None", 
+            "Repo": "<a href='https://github.com/github/swift-style-guide'target='_blank'>swift-style-guide</a>", 
+            "Stars": 4567
+        }, 
+        {
+            "Description": "Good ideas for iOS development, by Futurice developers.", 
+            "Forks": 1040, 
+            "Language": "None", 
+            "Repo": "<a href='https://github.com/futurice/ios-good-practices'target='_blank'>ios-good-practices</a>", 
+            "Stars": 8804
+        }, 
+        {
+            "Description": "A style guide for Swift.", 
+            "Forks": 13, 
+            "Language": "None", 
+            "Repo": "<a href='https://github.com/prolificinteractive/swift-style-guide'target='_blank'>swift-style-guide</a>", 
+            "Stars": 160
+        }, 
+        {
+            "Description": "LinkedIn's Official Swift Style Guide", 
+            "Forks": 171, 
+            "Language": "None", 
+            "Repo": "<a href='https://github.com/linkedin/swift-style-guide'target='_blank'>swift-style-guide</a>", 
+            "Stars": 1005
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "Description": "Swift Interaction with VIPER Architecture", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/codytwinton/SwiftyVIPER'target='_blank'>SwiftyVIPER</a>", 
+            "Stars": 90
+        }, 
+        {
+            "Description": "Example of Clean Architecture of iOS app using RxSwift", 
+            "Forks": 227, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/sergdort/CleanArchitectureRxSwift'target='_blank'>CleanArchitectureRxSwift</a>", 
+            "Stars": 1990
+        }, 
+        {
+            "Description": "Viper Framework for iOS using Swift v4", 
+            "Forks": 51, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ferranabello/Viperit'target='_blank'>Viperit</a>", 
+            "Stars": 316
+        }, 
+        {
+            "Description": "Reactant is a reactive architecture for iOS", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Brightify/Reactant'target='_blank'>Reactant</a>", 
+            "Stars": 367
+        }, 
+        {
+            "Description": "YARCH iOS Architecture", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/alfa-laboratory/YARCH'target='_blank'>YARCH</a>", 
+            "Stars": 101
+        }, 
+        {
+            "Description": "This repository contains a detailed sample app that implements VIPER architecture in iOS using libraries and frameworks like Alamofire, AlamofireImage, PKHUD, CoreData etc.", 
+            "Forks": 113, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MindorksOpenSource/iOS-Viper-Architecture'target='_blank'>iOS-Viper-Architecture</a>", 
+            "Stars": 425
+        }, 
+        {
+            "Description": "A holistic approach to iOS development, inspired by Redux and MVVM", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/BendingSpoons/tempura-swift'target='_blank'>tempura-swift</a>", 
+            "Stars": 450
+        }, 
+        {
+            "Description": "A Swift 4.2 VIPER Module Boilerplate Generator with predefined functions and a BaseViewProtocol.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Kaakati/VIPER-Module-Generator'target='_blank'>VIPER-Module-Generator</a>", 
+            "Stars": 31
+        }, 
+        {
+            "Description": "MMVMi: A Validation Model for MVC and MVVM Design Patterns in iOS Applications", 
+            "Forks": 1, 
+            "Language": "Python", 
+            "Repo": "<a href='https://github.com/Maryom/MMVMi'target='_blank'>MMVMi</a>", 
+            "Stars": 4
+        }, 
+        {
+            "Description": "A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others", 
+            "Forks": 24, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tailec/ios-architecture'target='_blank'>ios-architecture</a>", 
+            "Stars": 330
+        }
+    ]
+}

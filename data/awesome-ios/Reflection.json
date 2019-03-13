@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "Description": "Advanced Swift reflection including dynamic construction of types.", 
+            "Forks": 42, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Zewo/Reflection'target='_blank'>Reflection</a>", 
+            "Stars": 511
+        }, 
+        {
+            "Description": "Reflection, Dict2Model, Model2Dict, Archive", 
+            "Forks": 67, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/CharlinFeng/Reflect'target='_blank'>Reflect</a>", 
+            "Stars": 312
+        }, 
+        {
+            "Description": "Reflection based (Dictionary, CKRecord, NSManagedObject, Realm, JSON and XML) object mapping with extensions for Alamofire and Moya with RxSwift or ReactiveSwift", 
+            "Forks": 113, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/evermeer/EVReflection'target='_blank'>EVReflection</a>", 
+            "Stars": 889
+        }, 
+        {
+            "Description": "Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die", 
+            "Forks": 47, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/johnlui/JSONNeverDie'target='_blank'>JSONNeverDie</a>", 
+            "Stars": 475
+        }, 
+        {
+            "Description": "Key-Value Coding (KVC) for native Swift classes and structs", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/bradhilton/SwiftKVC'target='_blank'>SwiftKVC</a>", 
+            "Stars": 121
+        }, 
+        {
+            "Description": "A Swift Runtime library for viewing type info, and the dynamic getting and setting of properties.", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/wickwirew/Runtime'target='_blank'>Runtime</a>", 
+            "Stars": 380
+        }
+    ]
+}

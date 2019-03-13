@@ -1,0 +1,67 @@
+{
+    "data": [
+        {
+            "Description": "PDF Reader Core for iOS", 
+            "Forks": 1176, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/vfr/Reader'target='_blank'>Reader</a>", 
+            "Stars": 4171
+        }, 
+        {
+            "Description": "PDF generator using UIViews or UIViews with an associated XIB", 
+            "Forks": 4, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/RobertAPhillips/UIView_2_PDF'target='_blank'>UIView_2_PDF</a>", 
+            "Stars": 30
+        }, 
+        {
+            "Description": "\ud83d\udcda A Swift ePub reader and parser framework for iOS.", 
+            "Forks": 426, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/FolioReader/FolioReaderKit'target='_blank'>FolioReaderKit</a>", 
+            "Stars": 1928
+        }, 
+        {
+            "Description": "A simple generator of PDF written in Swift. ", 
+            "Forks": 79, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/sgr-ksmt/PDFGenerator'target='_blank'>PDFGenerator</a>", 
+            "Stars": 464
+        }, 
+        {
+            "Description": "Create a simple PDF effortlessly. <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8'> ", 
+            "Forks": 31, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nRewik/SimplePDF'target='_blank'>SimplePDF</a>", 
+            "Stars": 163
+        }, 
+        {
+            "Description": "Generate beautiful .pdf Files from xib", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kayoslab/SwiftPDFGenerator'target='_blank'>SwiftPDFGenerator</a>", 
+            "Stars": 12
+        }, 
+        {
+            "Description": "TPPDF is a simple-to-use PDF builder for iOS", 
+            "Forks": 54, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Techprimate/TPPDF'target='_blank'>TPPDF</a>", 
+            "Stars": 270
+        }, 
+        {
+            "Description": "A Static Library to be embedded on iOS applications to display pdf documents derived from Fast PDF", 
+            "Forks": 341, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/mobfarm/FastPdfKit'target='_blank'>FastPdfKit</a>", 
+            "Stars": 1209
+        }, 
+        {
+            "Description": "UIImage PDF extensions.", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/DimaMishchenko/UIImagePlusPDF'target='_blank'>UIImagePlusPDF</a>", 
+            "Stars": 30
+        }
+    ]
+}
