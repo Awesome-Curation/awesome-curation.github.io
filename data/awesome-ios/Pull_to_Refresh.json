@@ -1,0 +1,151 @@
+{
+    "data": [
+        {
+            "Description": "Elastic pull to refresh for iOS developed in Swift", 
+            "Forks": 415, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/gontovnik/DGElasticPullToRefresh'target='_blank'>DGElasticPullToRefresh</a>", 
+            "Stars": 3346
+        }, 
+        {
+            "Description": "Animated \"Pull To Refresh\" Library for UIScrollView.  Inspired by https://dribbble.com/shots/1797373-Pull-Down-To-Refresh", 
+            "Forks": 174, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/entotsu/PullToBounce'target='_blank'>PullToBounce</a>", 
+            "Stars": 1793
+        }, 
+        {
+            "Description": "Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code. ", 
+            "Forks": 1169, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/samvermette/SVPullToRefresh'target='_blank'>SVPullToRefresh</a>", 
+            "Stars": 4903
+        }, 
+        {
+            "Description": "Add PullToRefresh using animated GIF to any scrollView with just simple code", 
+            "Forks": 158, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/uzysjung/UzysAnimatedGifPullToRefresh'target='_blank'>UzysAnimatedGifPullToRefresh</a>", 
+            "Stars": 1430
+        }, 
+        {
+            "Description": "PullToRefresh extension for all UIScrollView type classes with animated text drawing style", 
+            "Forks": 45, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/cemolcay/PullToRefreshCoreText'target='_blank'>PullToRefreshCoreText</a>", 
+            "Stars": 318
+        }, 
+        {
+            "Description": "A pull-down-to-refresh control for iOS that plays pong, originally created for the MHacks III iOS app", 
+            "Forks": 72, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/boztalay/BOZPongRefreshControl'target='_blank'>BOZPongRefreshControl</a>", 
+            "Stars": 905
+        }, 
+        {
+            "Description": "Fully customizable pull-to-refresh control inspired by Storehouse iOS app", 
+            "Forks": 534, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/coolbeet/CBStoreHouseRefreshControl'target='_blank'>CBStoreHouseRefreshControl</a>", 
+            "Stars": 4015
+        }, 
+        {
+            "Description": "Customizable pull-to-refresh control,written in pure Swift.", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/peiweichen/SurfingRefreshControl'target='_blank'>SurfingRefreshControl</a>", 
+            "Stars": 55
+        }, 
+        {
+            "Description": "One gesture, many actions. An evolution of Pull to Refresh.", 
+            "Forks": 73, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/mentionapp/mntpulltoreact'target='_blank'>mntpulltoreact</a>", 
+            "Stars": 789
+        }, 
+        {
+            "Description": "ADChromePullToRefresh", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Antondomashnev/ADChromePullToRefresh'target='_blank'>ADChromePullToRefresh</a>", 
+            "Stars": 255
+        }, 
+        {
+            "Description": "Play BreakOut while loading - A playable pull to refresh view using SpriteKit", 
+            "Forks": 137, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dasdom/BreakOutToRefresh'target='_blank'>BreakOutToRefresh</a>", 
+            "Stars": 2345
+        }, 
+        {
+            "Description": "An easy way to use pull-to-refresh.", 
+            "Forks": 3436, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/CoderMJLee/MJRefresh'target='_blank'>MJRefresh</a>", 
+            "Stars": 12570
+        }, 
+        {
+            "Description": "Easily add vertical and horizontal pull to refresh to any UIScrollView. Can also add multiple pull-to-refesh views at once.", 
+            "Forks": 14, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/hoang-tran/HTPullToRefresh'target='_blank'>HTPullToRefresh</a>", 
+            "Stars": 37
+        }, 
+        {
+            "Description": "iOS Simple Cool PullToRefresh Library. It is written in pure swift.", 
+            "Forks": 103, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dekatotoro/PullToRefreshSwift'target='_blank'>PullToRefreshSwift</a>", 
+            "Stars": 516
+        }, 
+        {
+            "Description": "GIFRefreshControl is a pull to refresh that supports GIF images as track animations.", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/delannoyk/GIFRefreshControl'target='_blank'>GIFRefreshControl</a>", 
+            "Stars": 143
+        }, 
+        {
+            "Description": "Pull-to-refresh animation in UICollectionView with a sticky header flow layout, written in Swift <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f536.png?v8'> ", 
+            "Forks": 89, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/fruitcoder/ReplaceAnimation'target='_blank'>ReplaceAnimation</a>", 
+            "Stars": 882
+        }, 
+        {
+            "Description": "Custom animated pull-to-refresh that can be easily added to UIScrollView", 
+            "Forks": 226, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Yalantis/PullToMakeSoup'target='_blank'>PullToMakeSoup</a>", 
+            "Stars": 1873
+        }, 
+        {
+            "Description": "Simple refresh control for iOS based on SpriteKit and Core Graphics", 
+            "Forks": 48, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Onix-Systems/RainyRefreshControl'target='_blank'>RainyRefreshControl</a>", 
+            "Stars": 652
+        }, 
+        {
+            "Description": "#Busy Re-Building....# An easy way to use pull to refresh and infinite scrolling in Swift. Pod 'ESPullToRefresh' ", 
+            "Forks": 177, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/eggswift/pull-to-refresh'target='_blank'>pull-to-refresh</a>", 
+            "Stars": 1088
+        }, 
+        {
+            "Description": "An easy way to use pull-to-refresh", 
+            "Forks": 68, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/CRAnimation/CRRefresh'target='_blank'>CRRefresh</a>", 
+            "Stars": 624
+        }, 
+        {
+            "Description": "Animated, customizable, and flexible pull-to-refresh framework for faster and easier iOS development. ", 
+            "Forks": 106, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/OpenFeyn/KafkaRefresh'target='_blank'>KafkaRefresh</a>", 
+            "Stars": 822
+        }
+    ]
+}

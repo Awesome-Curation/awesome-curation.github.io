@@ -1,0 +1,137 @@
+{
+    "data": [
+        {
+            "Description": "A Payment Card UI & Validator for iOS", 
+            "Forks": 83, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/prolificinteractive/Caishen'target='_blank'>Caishen</a>", 
+            "Stars": 713
+        }, 
+        {
+            "Description": "Make and accept payments in your iOS app via Venmo", 
+            "Forks": 50, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/venmo/venmo-ios-sdk'target='_blank'>venmo-ios-sdk</a>", 
+            "Stars": 149
+        }, 
+        {
+            "Description": "A framework to add patronage to your apps.", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MosheBerman/PatronKit'target='_blank'>PatronKit</a>", 
+            "Stars": 364
+        }, 
+        {
+            "Description": "Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ \u26fa", 
+            "Forks": 379, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/bizz84/SwiftyStoreKit'target='_blank'>SwiftyStoreKit</a>", 
+            "Stars": 3757
+        }, 
+        {
+            "Description": "In App Purchase Manager framework for iOS", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/sandorgyulai/InAppFramework'target='_blank'>InAppFramework</a>", 
+            "Stars": 38
+        }, 
+        {
+            "Description": "", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/rpzzzzzz/SwiftInAppPurchase'target='_blank'>SwiftInAppPurchase</a>", 
+            "Stars": 17
+        }, 
+        {
+            "Description": "Ruby Gem for Rails - Easy iTunes In-App Purchase Receipt validation, including auto-renewable subscriptions", 
+            "Forks": 20, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/gabrielgarza/monza'target='_blank'>monza</a>", 
+            "Stars": 112
+        }, 
+        {
+            "Description": "Accept credit cards and PayPal in your iOS app", 
+            "Forks": 377, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/paypal/PayPal-iOS-SDK'target='_blank'>PayPal-iOS-SDK</a>", 
+            "Stars": 951
+        }, 
+        {
+            "Description": "card.io provides fast, easy credit card scanning in mobile apps", 
+            "Forks": 498, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/card-io/card.io-iOS-SDK'target='_blank'>card.io-iOS-SDK</a>", 
+            "Stars": 2173
+        }, 
+        {
+            "Description": "Debit/Credit card validation port of the Luhn Algorithm in Swift", 
+            "Forks": 22, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MaxKramer/SwiftLuhn'target='_blank'>SwiftLuhn</a>", 
+            "Stars": 128
+        }, 
+        {
+            "Description": "Luhn Credit Card Validation Algorithm", 
+            "Forks": 22, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/MaxKramer/ObjectiveLuhn'target='_blank'>ObjectiveLuhn</a>", 
+            "Stars": 123
+        }, 
+        {
+            "Description": "A lightweight iOS library for In-App Purchases", 
+            "Forks": 400, 
+            "Language": "C", 
+            "Repo": "<a href='https://github.com/robotmedia/RMStore'target='_blank'>RMStore</a>", 
+            "Stars": 2216
+        }, 
+        {
+            "Description": "Easily integrate Credit Card payments module in iOS App. Swift 4.0 ", 
+            "Forks": 39, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MobileFirstInc/MFCard'target='_blank'>MFCard</a>", 
+            "Stars": 323
+        }, 
+        {
+            "Description": "Reading and Validating In App Store Receipt ", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tikhop/TPInAppReceipt'target='_blank'>TPInAppReceipt</a>", 
+            "Stars": 50
+        }, 
+        {
+            "Description": "Bank Card Generator with Swift using SnapKit DSL \ud83d\udcb3", 
+            "Forks": 31, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/eliakorkmaz/iCard'target='_blank'>iCard</a>", 
+            "Stars": 286
+        }, 
+        {
+            "Description": "CreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card.", 
+            "Forks": 129, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/orazz/CreditCardForm-iOS'target='_blank'>CreditCardForm-iOS</a>", 
+            "Stars": 1276
+        }, 
+        {
+            "Description": "A modern In-App Purchases management framework for iOS.", 
+            "Forks": 30, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/benjaminmayo/merchantkit'target='_blank'>merchantkit</a>", 
+            "Stars": 736
+        }, 
+        {
+            "Description": "Easy, drop-in tip jar for iOS apps.", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/lionheart/TipJarViewController'target='_blank'>TipJarViewController</a>", 
+            "Stars": 39
+        }, 
+        {
+            "Description": "Checkout API Client, Payment Form UI and Utilities in Swift", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/checkout/frames-ios'target='_blank'>frames-ios</a>", 
+            "Stars": 6
+        }
+    ]
+}

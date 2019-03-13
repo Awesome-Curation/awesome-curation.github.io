@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "Description": "Combines the high accuracy of AR with the scale of GPS data.", 
+            "Forks": 559, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ProjectDent/ARKit-CoreLocation'target='_blank'>ARKit-CoreLocation</a>", 
+            "Stars": 4362
+        }, 
+        {
+            "Description": "ARKit Base Project. Place virtual objects based on WWDC example project", 
+            "Forks": 59, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ignacio-chiazzo/ARKit'target='_blank'>ARKit</a>", 
+            "Stars": 219
+        }, 
+        {
+            "Description": "Capture & record ARKit videos \ud83d\udcf9, photos \ud83c\udf04, Live Photos \ud83c\udf87, and GIFs \ud83c\udf86.", 
+            "Forks": 90, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AFathi/ARVideoKit'target='_blank'>ARVideoKit</a>", 
+            "Stars": 904
+        }, 
+        {
+            "Description": " A library that allows you to generate and update environment maps in real-time using the camera feed and ARKit's tracking capabilities.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/svtek/ARKitEnvironmentMapper'target='_blank'>ARKitEnvironmentMapper</a>", 
+            "Stars": 63
+        }, 
+        {
+            "Description": "This library uses ARKit Face Tracking in order to catch a user's smile.", 
+            "Forks": 29, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/rsrbk/SmileToUnlock'target='_blank'>SmileToUnlock</a>", 
+            "Stars": 569
+        }, 
+        {
+            "Description": "PlacenoteSDK Sample app in native iOS using ARKit, written primarily in Swift", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Placenote/PlacenoteSDK-iOS'target='_blank'>PlacenoteSDK-iOS</a>", 
+            "Stars": 57
+        }, 
+        {
+            "Description": "\ud83e\udd95 Unofficial Google Poly SDK in Swift \u2013\u00a0search & display 3D models", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/piemonte/Poly'target='_blank'>Poly</a>", 
+            "Stars": 34
+        }, 
+        {
+            "Description": "Power! Unlimited power for ARKit 2.0!", 
+            "Forks": 26, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kboy-silvergym/ARKit-Emperor'target='_blank'>ARKit-Emperor</a>", 
+            "Stars": 304
+        }
+    ]
+}

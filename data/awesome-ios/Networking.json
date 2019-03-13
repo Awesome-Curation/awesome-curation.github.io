@@ -1,0 +1,508 @@
+{
+    "data": [
+        {
+            "Description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.", 
+            "Forks": 9718, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/AFNetworking/AFNetworking'target='_blank'>AFNetworking</a>", 
+            "Stars": 31951
+        }, 
+        {
+            "Description": "RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X", 
+            "Forks": 2231, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/RestKit/RestKit'target='_blank'>RestKit</a>", 
+            "Stars": 10319
+        }, 
+        {
+            "Description": "foursquare iOS networking library", 
+            "Forks": 61, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/foursquare/FSNetworking'target='_blank'>FSNetworking</a>", 
+            "Stars": 396
+        }, 
+        {
+            "Description": "Easy to use CFNetwork wrapper for HTTP requests, Objective-C,  Mac OS X and iPhone", 
+            "Forks": 1467, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/pokeb/asi-http-request'target='_blank'>asi-http-request</a>", 
+            "Stars": 5802
+        }, 
+        {
+            "Description": "The perfect accessory for Mantle and AFNetworking.", 
+            "Forks": 111, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Overcoat/Overcoat'target='_blank'>Overcoat</a>", 
+            "Stars": 1125
+        }, 
+        {
+            "Description": "ROAD \u2013 Rapid Objective-C Applications Development", 
+            "Forks": 18, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/epam/road-ios-framework'target='_blank'>road-ios-framework</a>", 
+            "Stars": 51
+        }, 
+        {
+            "Description": "Elegant HTTP Networking in Swift", 
+            "Forks": 5395, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Alamofire/Alamofire'target='_blank'>Alamofire</a>", 
+            "Stars": 30335
+        }, 
+        {
+            "Description": "A tiny library makes uploading and downloading easier", 
+            "Forks": 45, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nghialv/Transporter'target='_blank'>Transporter</a>", 
+            "Stars": 441
+        }, 
+        {
+            "Description": "Easy-to-use ICMP Ping for iOS (and maybe OSX)", 
+            "Forks": 12, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/cdzombak/CDZPinger'target='_blank'>CDZPinger</a>", 
+            "Stars": 52
+        }, 
+        {
+            "Description": "iOS/Mac OS framework for Rails", 
+            "Forks": 38, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/dingbat/nsrails'target='_blank'>nsrails</a>", 
+            "Stars": 523
+        }, 
+        {
+            "Description": "MOVED, please see: https://github.com/RxSwiftCommunity/RxMultipeer", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nathankot/NKMultipeer'target='_blank'>NKMultipeer</a>", 
+            "Stars": 14
+        }, 
+        {
+            "Description": "Asynchronous socket networking library for Mac and iOS", 
+            "Forks": 2676, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/robbiehanson/CocoaAsyncSocket'target='_blank'>CocoaAsyncSocket</a>", 
+            "Stars": 10798
+        }, 
+        {
+            "Description": "Replacement for Apple's Reachability re-written in Swift with closures", 
+            "Forks": 660, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ashleymills/Reachability.swift'target='_blank'>Reachability.swift</a>", 
+            "Stars": 5831
+        }, 
+        {
+            "Description": "OctopusKit is a simplicity but graceful solution for invoke RESTful web service APIs", 
+            "Forks": 3, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/icoco/OctopusKit'target='_blank'>OctopusKit</a>", 
+            "Stars": 1
+        }, 
+        {
+            "Description": "Network abstraction layer written in Swift.", 
+            "Forks": 1194, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Moya/Moya'target='_blank'>Moya</a>", 
+            "Stars": 10299
+        }, 
+        {
+            "Description": "A modern download manager based on NSURLSession to deal with asynchronous downloading, management and persistence of multiple files.", 
+            "Forks": 100, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/chasseurmic/TWRDownloadManager'target='_blank'>TWRDownloadManager</a>", 
+            "Stars": 378
+        }, 
+        {
+            "Description": "dns library for objective c", 
+            "Forks": 60, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/qiniu/happy-dns-objc'target='_blank'>happy-dns-objc</a>", 
+            "Stars": 385
+        }, 
+        {
+            "Description": "Extensible HTTP Networking for iOS", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/BridgeNetworking/Bridge'target='_blank'>Bridge</a>", 
+            "Stars": 92
+        }, 
+        {
+            "Description": "Lightweight network abstraction layer, written on top of Alamofire", 
+            "Forks": 41, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MLSDev/TRON'target='_blank'>TRON</a>", 
+            "Stars": 475
+        }, 
+        {
+            "Description": "Simplified access to Apple's CloudKit", 
+            "Forks": 62, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/evermeer/EVCloudKitDao'target='_blank'>EVCloudKitDao</a>", 
+            "Stars": 568
+        }, 
+        {
+            "Description": "a NSURLCache subclass for handling all web requests that use NSURLRequest", 
+            "Forks": 52, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/evermeer/EVURLCache'target='_blank'>EVURLCache</a>", 
+            "Stars": 276
+        }, 
+        {
+            "Description": "Sherlock Holmes of the networking layer. <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f575.png?v8'> ", 
+            "Forks": 80, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/netguru/ResponseDetective'target='_blank'>ResponseDetective</a>", 
+            "Stars": 1827
+        }, 
+        {
+            "Description": "\ud83c\udfc7 A Swift HTTP / HTTPS networking library just incidentally execute on machines", 
+            "Forks": 98, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/johnlui/Pitaya'target='_blank'>Pitaya</a>", 
+            "Stars": 859
+        }, 
+        {
+            "Description": "Swift HTTP for Humans", 
+            "Forks": 117, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/JustHTTP/Just'target='_blank'>Just</a>", 
+            "Stars": 1186
+        }, 
+        {
+            "Description": "Minimalistic Swift HTTP request agent for iOS and OS X", 
+            "Forks": 47, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hallas/agent'target='_blank'>agent</a>", 
+            "Stars": 602
+        }, 
+        {
+            "Description": "A simple class to check for internet connection availability in Swift.", 
+            "Forks": 118, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Isuru-Nanayakkara/Reach'target='_blank'>Reach</a>", 
+            "Stars": 433
+        }, 
+        {
+            "Description": "Thin wrapper around NSURLSession in swift. Simplifies HTTP requests.", 
+            "Forks": 327, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/daltoniam/SwiftHTTP'target='_blank'>SwiftHTTP</a>", 
+            "Stars": 1789
+        }, 
+        {
+            "Description": "Network Diagnosis for iOS", 
+            "Forks": 24, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/qiniu/iOS-netdiag'target='_blank'>iOS-netdiag</a>", 
+            "Stars": 97
+        }, 
+        {
+            "Description": "A custom wrapper over AFNetworking library that we use inside RC extensively", 
+            "Forks": 2, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/betacraft/AFNetworkingHelper'target='_blank'>AFNetworkingHelper</a>", 
+            "Stars": 18
+        }, 
+        {
+            "Description": "A Concise HTTP Framework in Swift", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/azizuysal/NetKit'target='_blank'>NetKit</a>", 
+            "Stars": 4
+        }, 
+        {
+            "Description": "We need to observe the REAL reachability of network. That's what RealReachability do.", 
+            "Forks": 436, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/dustturtle/RealReachability'target='_blank'>RealReachability</a>", 
+            "Stars": 2753
+        }, 
+        {
+            "Description": "MonkeyKing helps you to post messages to Chinese Social Networks.", 
+            "Forks": 194, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nixzhu/MonkeyKing'target='_blank'>MonkeyKing</a>", 
+            "Stars": 2282
+        }, 
+        {
+            "Description": "Lightweight Networking and Parsing framework made for iOS, Mac, WatchOS and tvOS.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/imex94/NetworkKit'target='_blank'>NetworkKit</a>", 
+            "Stars": 29
+        }, 
+        {
+            "Description": "Type-safe networking abstraction layer that associates request type with response type.", 
+            "Forks": 149, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ishkawa/APIKit'target='_blank'>APIKit</a>", 
+            "Stars": 1534
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/2601.png?v8'>  Alamofire + Promises + JSON Parsing = Delightful Networking for Swift", 
+            "Forks": 26, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/freshOS/ws'target='_blank'>ws</a>", 
+            "Stars": 316
+        }, 
+        {
+            "Description": "The HTTP library used by the Spotify iOS client", 
+            "Forks": 61, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/spotify/SPTDataLoader'target='_blank'>SPTDataLoader</a>", 
+            "Stars": 598
+        }, 
+        {
+            "Description": "", 
+            "Forks": 12, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/skywite/SWNetworking'target='_blank'>SWNetworking</a>", 
+            "Stars": 21
+        }, 
+        {
+            "Description": "Easy HTTP Networking in Swift a NSURLSession wrapper with image caching support", 
+            "Forks": 90, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/3lvis/Networking'target='_blank'>Networking</a>", 
+            "Stars": 1160
+        }, 
+        {
+            "Description": "This generic SOAP client allows you to access web services using a your iOS app, Mac OS X app and AppleTV app.", 
+            "Forks": 78, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/priore/SOAPEngine'target='_blank'>SOAPEngine</a>", 
+            "Stars": 451
+        }, 
+        {
+            "Description": "Nothing but Net(working)", 
+            "Forks": 38, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/thoughtbot/Swish'target='_blank'>Swish</a>", 
+            "Stars": 368
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f3c4.png?v8'>  Malibu is a networking library built on promises", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hyperoslo/Malibu'target='_blank'>Malibu</a>", 
+            "Stars": 2
+        }, 
+        {
+            "Description": "YTKNetwork is a high level request util based on AFNetworking.", 
+            "Forks": 1531, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/yuantiku/YTKNetwork'target='_blank'>YTKNetwork</a>", 
+            "Stars": 5757
+        }, 
+        {
+            "Description": "Alamofire + Unbox: the easiest way to download and decode JSON into swift objects.", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/serejahh/UnboxedAlamofire'target='_blank'>UnboxedAlamofire</a>", 
+            "Stars": 67
+        }, 
+        {
+            "Description": "An iOS LAN  Network Scanner library", 
+            "Forks": 76, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/mavris/MMLanScan'target='_blank'>MMLanScan</a>", 
+            "Stars": 316
+        }, 
+        {
+            "Description": "Manage multi-domain url auto mapping ip address table.", 
+            "Forks": 0, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/FelixLinBH/Domainer'target='_blank'>Domainer</a>", 
+            "Stars": 7
+        }, 
+        {
+            "Description": "Restofire is a protocol oriented networking client for Alamofire", 
+            "Forks": 26, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Restofire/Restofire'target='_blank'>Restofire</a>", 
+            "Stars": 368
+        }, 
+        {
+            "Description": "Nice category that adds the ability to set the retry interval, retry count and progressive", 
+            "Forks": 25, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/kubatruhlar/AFNetworking-RetryPolicy'target='_blank'>AFNetworking-RetryPolicy</a>", 
+            "Stars": 180
+        }, 
+        {
+            "Description": "ZeroMQ Swift Bindings for iOS, macOS, tvOS and watchOS", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/azawawi/SwiftyZeroMQ'target='_blank'>SwiftyZeroMQ</a>", 
+            "Stars": 32
+        }, 
+        {
+            "Description": "A networking library for Swift", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/stremsdoerfer/Nikka'target='_blank'>Nikka</a>", 
+            "Stars": 18
+        }, 
+        {
+            "Description": "A lightweight but powerful network library with simplified and expressive syntax based on AFNetworking.", 
+            "Forks": 140, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/kangzubin/XMNetworking'target='_blank'>XMNetworking</a>", 
+            "Stars": 904
+        }, 
+        {
+            "Description": "Bonjour networking for discovery and connection between iOS, macOS and tvOS devices.", 
+            "Forks": 5, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/abdullahselek/Merhaba'target='_blank'>Merhaba</a>", 
+            "Stars": 41
+        }, 
+        {
+            "Description": "DBNetworkStack is a network abstraction for fetching request and mapping them to model objects", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dbsystel/DBNetworkStack'target='_blank'>DBNetworkStack</a>", 
+            "Stars": 31
+        }, 
+        {
+            "Description": "\u274c\ud83d\udcf1 A little swift Internet error status indicator using ReachabilitySwift", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ezefranca/EFInternetIndicator'target='_blank'>EFInternetIndicator</a>", 
+            "Stars": 124
+        }, 
+        {
+            "Description": "Synchronous requests for AFNetworking 1.x, 2.x, and 3.x", 
+            "Forks": 27, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/paulmelnikow/AFNetworking-Synchronous'target='_blank'>AFNetworking-Synchronous</a>", 
+            "Stars": 157
+        }, 
+        {
+            "Description": "a robust, yet lightweight and simple to use HTTP networking library for iOS, tvOS and watchOS", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/logansease/QwikHttp'target='_blank'>QwikHttp</a>", 
+            "Stars": 1
+        }, 
+        {
+            "Description": "Versatile HTTP Networking in Swift", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/intelygenz/NetClient-iOS'target='_blank'>NetClient-iOS</a>", 
+            "Stars": 107
+        }, 
+        {
+            "Description": "An iOS library to route API paths to objects on client side with request, mapping, routing and auth layers", 
+            "Forks": 2, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Wasappli/WANetworkRouting'target='_blank'>WANetworkRouting</a>", 
+            "Stars": 10
+        }, 
+        {
+            "Description": "Powering your RAC architecture ", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/RuiAAPeres/Reactor'target='_blank'>Reactor</a>", 
+            "Stars": 188
+        }, 
+        {
+            "Description": "This is swift version for swnetworking", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/isamankumara/skywite'target='_blank'>skywite</a>", 
+            "Stars": 6
+        }, 
+        {
+            "Description": "Digger is a lightweight download framework that requires only one line of code to complete the file download task", 
+            "Forks": 44, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/cornerAnt/Digger'target='_blank'>Digger</a>", 
+            "Stars": 451
+        }, 
+        {
+            "Description": "Publish and discover services using mDNS(Bonjour, Zeroconf)", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AlTavares/Ciao'target='_blank'>Ciao</a>", 
+            "Stars": 24
+        }, 
+        {
+            "Description": "An API Client based on a network abstraction layer for the Perfect Server-Side Swift Framework", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jorik041/PerfectAPIClient'target='_blank'>PerfectAPIClient</a>", 
+            "Stars": 0
+        }, 
+        {
+            "Description": "Bamboots - Extension 4 Alamofire", 
+            "Forks": 36, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mmoaay/Bamboots'target='_blank'>Bamboots</a>", 
+            "Stars": 423
+        }, 
+        {
+            "Description": "Elegant network abstraction layer in Swift.", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ThreeGayHub/SolarNetwork'target='_blank'>SolarNetwork</a>", 
+            "Stars": 74
+        }, 
+        {
+            "Description": "Get your device ip address, router ip or wifi ssid", 
+            "Forks": 7, 
+            "Language": "C", 
+            "Repo": "<a href='https://github.com/Feghal/FGRoute'target='_blank'>FGRoute</a>", 
+            "Stars": 63
+        }, 
+        {
+            "Description": "Simple REST Client based on RxSwift and Alamofire.", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/stdevteam/RxRestClient'target='_blank'>RxRestClient</a>", 
+            "Stars": 7
+        }, 
+        {
+            "Description": "A networking library written in Swift 4", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/billp/TermiNetwork'target='_blank'>TermiNetwork</a>", 
+            "Stars": 8
+        }, 
+        {
+            "Description": "Lightweight Concurrent Networking Framework", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/iAmrSalman/Dots'target='_blank'>Dots</a>", 
+            "Stars": 32
+        }, 
+        {
+            "Description": "A light weight network library with automated model parser for rapid development", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Albinzr/Gem'target='_blank'>Gem</a>", 
+            "Stars": 9
+        }, 
+        {
+            "Description": "Lightweight REST library for iOS and watchOS. Available on cococapods", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/rogermolas/RMHttp'target='_blank'>RMHttp</a>", 
+            "Stars": 4
+        }, 
+        {
+            "Description": "An elegant yet powerful iOS networking layer inspired by ActiveRecord.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tunespeak/AlamoRecord'target='_blank'>AlamoRecord</a>", 
+            "Stars": 17
+        }, 
+        {
+            "Description": "Say goodbye to the Fat ugly singleton Network Manager with this Network Layer", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/emadhegab/MHNetwork'target='_blank'>MHNetwork</a>", 
+            "Stars": 15
+        }
+    ]
+}

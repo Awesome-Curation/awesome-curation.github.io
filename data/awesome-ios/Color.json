@@ -1,0 +1,137 @@
+{
+    "data": [
+        {
+            "Description": "Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more).", 
+            "Forks": 1151, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ViccAlexander/Chameleon'target='_blank'>Chameleon</a>", 
+            "Stars": 11910
+        }, 
+        {
+            "Description": "Yet another extension to manipulate colors easily in Swift", 
+            "Forks": 90, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yannickl/DynamicColor'target='_blank'>DynamicColor</a>", 
+            "Stars": 1975
+        }, 
+        {
+            "Description": "HEX color handling as an extension for UIColor.", 
+            "Forks": 90, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/thii/SwiftHEXColors'target='_blank'>SwiftHEXColors</a>", 
+            "Stars": 572
+        }, 
+        {
+            "Description": "A beautiful set of predefined colors and a set of color methods to make your iOS/OSX development life easier.", 
+            "Forks": 333, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/bennyguitar/Colours'target='_blank'>Colours</a>", 
+            "Stars": 3055
+        }, 
+        {
+            "Description": "Convenience methods for creating color using RGBA hex string.", 
+            "Forks": 128, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yeahdongcn/UIColor-Hex-Swift'target='_blank'>UIColor-Hex-Swift</a>", 
+            "Stars": 948
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png?v8'>  Hue is the all-in-one coloring utility that you'll ever need.", 
+            "Forks": 181, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/zenangst/Hue'target='_blank'>Hue</a>", 
+            "Stars": 2804
+        }, 
+        {
+            "Description": "Flat UI color palette helpers written in Swift.", 
+            "Forks": 24, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/brynbellomy/FlatUIColors'target='_blank'>FlatUIColors</a>", 
+            "Stars": 161
+        }, 
+        {
+            "Description": "An attractive color generator for Swift. Ported from randomColor.js.", 
+            "Forks": 42, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/onevcat/RandomColorSwift'target='_blank'>RandomColorSwift</a>", 
+            "Stars": 472
+        }, 
+        {
+            "Description": "Generate color based on the given string.", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PerfectFreeze/PFColorHash'target='_blank'>PFColorHash</a>", 
+            "Stars": 20
+        }, 
+        {
+            "Description": "A Lightweight But Powerful Color Kit (Swift)", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/boycechang/BCColor'target='_blank'>BCColor</a>", 
+            "Stars": 422
+        }, 
+        {
+            "Description": "Manage Colors, Integrate Night/Multiple Themes", 
+            "Forks": 482, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Draveness/DKNightVersion'target='_blank'>DKNightVersion</a>", 
+            "Stars": 3272
+        }, 
+        {
+            "Description": "Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jdhealy/PrettyColors'target='_blank'>PrettyColors</a>", 
+            "Stars": 154
+        }, 
+        {
+            "Description": "A simple UIColor category to get color with hex code.", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/burhanuddin353/TFTColor'target='_blank'>TFTColor</a>", 
+            "Stars": 17
+        }, 
+        {
+            "Description": "Base types for theming an app.", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jakemarsh/CostumeKit'target='_blank'>CostumeKit</a>", 
+            "Stars": 305
+        }, 
+        {
+            "Description": "A UIColor extension with CSS3 Color names.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/WorldDownTown/CSS3ColorsSwift'target='_blank'>CSS3ColorsSwift</a>", 
+            "Stars": 59
+        }, 
+        {
+            "Description": "Colorify - simple, yet powerful color library.", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/czater/Colorify'target='_blank'>Colorify</a>", 
+            "Stars": 102
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png?v8'>  An intuitive iOS color picker built in Swift.", 
+            "Forks": 49, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/joncardasis/ChromaColorPicker'target='_blank'>ChromaColorPicker</a>", 
+            "Stars": 233
+        }, 
+        {
+            "Description": "Aesthetic color-scheme generation written in Swift", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/valdirunars/Lorikeet'target='_blank'>Lorikeet</a>", 
+            "Stars": 23
+        }, 
+        {
+            "Description": "An unintrusive & light-weight iOS app-theming library with support for animated theme switching.", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/regexident/Gestalt'target='_blank'>Gestalt</a>", 
+            "Stars": 263
+        }
+    ]
+}

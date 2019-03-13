@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "Description": "Showing / dismissing keyboard animation in simple UIViewController category.", 
+            "Forks": 5, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ruslanskorb/RSKKeyboardAnimationObserver'target='_blank'>RSKKeyboardAnimationObserver</a>", 
+            "Stars": 41
+        }, 
+        {
+            "Description": "[iOS] Add customized buttons and toolbars to your UITextInputs.", 
+            "Forks": 42, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ruddfawcett/RFKeyboardToolbar'target='_blank'>RFKeyboardToolbar</a>", 
+            "Stars": 418
+        }, 
+        {
+            "Description": "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.", 
+            "Forks": 2022, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/hackiftekhar/IQKeyboardManager'target='_blank'>IQKeyboardManager</a>", 
+            "Stars": 12775
+        }, 
+        {
+            "Description": "Objective-C library for tracking keyboard in iOS apps.", 
+            "Forks": 83, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/meiwin/NgKeyboardTracker'target='_blank'>NgKeyboardTracker</a>", 
+            "Stars": 804
+        }, 
+        {
+            "Description": "A simple keyboard to use with numbers and, optionally, a decimal point.", 
+            "Forks": 100, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/matmartinez/MMNumberKeyboard'target='_blank'>MMNumberKeyboard</a>", 
+            "Stars": 932
+        }, 
+        {
+            "Description": "For less complicated keyboard event handling.", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/morizotter/KeyboardObserver'target='_blank'>KeyboardObserver</a>", 
+            "Stars": 141
+        }, 
+        {
+            "Description": "A drop-in universal solution for moving text fields out of the way of the keyboard in iOS", 
+            "Forks": 936, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/michaeltyson/TPKeyboardAvoiding'target='_blank'>TPKeyboardAvoiding</a>", 
+            "Stars": 5668
+        }, 
+        {
+            "Description": "iOS utility class allows you to access keyboard view and track keyboard animation.", 
+            "Forks": 70, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ibireme/YYKeyboardManager'target='_blank'>YYKeyboardManager</a>", 
+            "Stars": 448
+        }, 
+        {
+            "Description": "KeyboardMan helps you to make keyboard animation.", 
+            "Forks": 27, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nixzhu/KeyboardMan'target='_blank'>KeyboardMan</a>", 
+            "Stars": 347
+        }, 
+        {
+            "Description": "Emoji Keyboard SDK (iOS)", 
+            "Forks": 43, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/makemoji/MakemojiSDK'target='_blank'>MakemojiSDK</a>", 
+            "Stars": 95
+        }, 
+        {
+            "Description": "Swift UIKit keyboard manager for iOS apps.", 
+            "Forks": 45, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/totocaster/Typist'target='_blank'>Typist</a>", 
+            "Stars": 915
+        }, 
+        {
+            "Description": "Codeless manager to hide keyboard by tapping on views for iOS written in Swift", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/bonyadmitr/KeyboardHideManager'target='_blank'>KeyboardHideManager</a>", 
+            "Stars": 54
+        }, 
+        {
+            "Description": "Awesome autolayout Toolbar. Toolbar is a library for iOS. You can easily create chat InputBar.", 
+            "Forks": 32, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/1amageek/Toolbar'target='_blank'>Toolbar</a>", 
+            "Stars": 428
+        }, 
+        {
+            "Description": "IHKeyboardAvoiding is an elegant solution for keeping any UIView visible when the keyboard is being shown - no UIScrollView required!", 
+            "Forks": 124, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/IdleHandsApps/IHKeyboardAvoiding'target='_blank'>IHKeyboardAvoiding</a>", 
+            "Stars": 1299
+        }, 
+        {
+            "Description": "Number Pad (inspired by Square)", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/efremidze/NumPad'target='_blank'>NumPad</a>", 
+            "Stars": 63
+        }
+    ]
+}

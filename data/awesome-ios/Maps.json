@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "Description": "Open source map library for iOS", 
+            "Forks": 743, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/route-me/route-me'target='_blank'>route-me</a>", 
+            "Stars": 1319
+        }, 
+        {
+            "Description": "Allows you to use custom maps in iphone applications and attempts to mimics some of the behaviour of the MapKit framework", 
+            "Forks": 55, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/neilang/NAMapKit'target='_blank'>NAMapKit</a>", 
+            "Stars": 260
+        }, 
+        {
+            "Description": "Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL", 
+            "Forks": 1000, 
+            "Language": "C++", 
+            "Repo": "<a href='https://github.com/mapbox/mapbox-gl-native'target='_blank'>mapbox-gl-native</a>", 
+            "Stars": 3172
+        }, 
+        {
+            "Description": "CMMapLauncher is a mini-library for iOS that makes it quick and easy to show directions in various mapping applications.", 
+            "Forks": 30, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/citymapper/CMMapLauncher'target='_blank'>CMMapLauncher</a>", 
+            "Stars": 197
+        }, 
+        {
+            "Description": "The Swift Geographic Engine.", 
+            "Forks": 118, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/GEOSwift/GEOSwift'target='_blank'>GEOSwift</a>", 
+            "Stars": 1018
+        }, 
+        {
+            "Description": "Google Directions API helper for iOS, written in Swift", 
+            "Forks": 50, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/poulpix/PXGoogleDirections'target='_blank'>PXGoogleDirections</a>", 
+            "Stars": 248
+        }, 
+        {
+            "Description": "Easy Map Annotation Clustering \ud83d\udccd", 
+            "Forks": 94, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/efremidze/Cluster'target='_blank'>Cluster</a>", 
+            "Stars": 962
+        }, 
+        {
+            "Description": "JDSwiftMap is an IOS Native MapKit Library.  You can easily make a highly customized HeatMap.", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jamesdouble/JDSwiftHeatMap'target='_blank'>JDSwiftHeatMap</a>", 
+            "Stars": 88
+        }, 
+        {
+            "Description": "An iOS map clustering framework targeting MapKit, Google Maps and Mapbox.", 
+            "Forks": 58, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/hulab/ClusterKit'target='_blank'>ClusterKit</a>", 
+            "Stars": 374
+        }, 
+        {
+            "Description": "360\u00b0 flyover on an MKMapView \ud83d\ude81", 
+            "Forks": 37, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SvenTiigi/FlyoverKit'target='_blank'>FlyoverKit</a>", 
+            "Stars": 581
+        }, 
+        {
+            "Description": "Use any custom view as custom callout view for MKMapView with cool animations. Use any image as annotation view.", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/okhanokbay/MapViewPlus'target='_blank'>MapViewPlus</a>", 
+            "Stars": 111
+        }, 
+        {
+            "Description": "MSFlightMapView allows you to easily add and animate geodesic flights to Google map", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mabdulsubhan/MSFlightMapView'target='_blank'>MSFlightMapView</a>", 
+            "Stars": 26
+        }
+    ]
+}

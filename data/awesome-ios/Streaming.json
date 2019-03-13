@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "Description": "Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.", 
+            "Forks": 234, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/shogo4405/HaishinKit.swift'target='_blank'>HaishinKit.swift</a>", 
+            "Stars": 1276
+        }, 
+        {
+            "Description": "A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS (iPhone, iPad)", 
+            "Forks": 467, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/tumtumtum/StreamingKit'target='_blank'>StreamingKit</a>", 
+            "Stars": 1971
+        }, 
+        {
+            "Description": "Player for streaming local and remote audio files. Written in Swift.", 
+            "Forks": 103, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/teodorpatras/Jukebox'target='_blank'>Jukebox</a>", 
+            "Stars": 494
+        }, 
+        {
+            "Description": "LaiFeng IOS Live Kit,H264 and AAC Hard coding\uff0csupport GPUImage Beauty\uff0c rtmp transmission\uff0cweak network lost frame\uff0cDynamic switching rate", 
+            "Forks": 835, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/LaiFengiOS/LFLiveKit'target='_blank'>LFLiveKit</a>", 
+            "Stars": 3455
+        }, 
+        {
+            "Description": "A framework for streaming audio between Apple devices using AirPlay.", 
+            "Forks": 30, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/qasim/Airstream'target='_blank'>Airstream</a>", 
+            "Stars": 340
+        }, 
+        {
+            "Description": "Syntax sugar of OpenTok iOS SDK with Audio/Video communication including screen sharing", 
+            "Forks": 14, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/opentok/accelerator-core-ios'target='_blank'>accelerator-core-ios</a>", 
+            "Stars": 20
+        }
+    ]
+}

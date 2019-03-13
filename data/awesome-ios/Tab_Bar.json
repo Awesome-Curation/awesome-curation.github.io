@@ -1,0 +1,186 @@
+{
+    "data": [
+        {
+            "Description": "A custom tab bar controller for iOS.", 
+            "Forks": 21, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ezescaruli/ESTabBarController'target='_blank'>ESTabBarController</a>", 
+            "Stars": 113
+        }, 
+        {
+            "Description": "A gooey effect tabbar", 
+            "Forks": 79, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/KittenYang/GooeyTabbar'target='_blank'>GooeyTabbar</a>", 
+            "Stars": 823
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries", 
+            "Forks": 1249, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Ramotion/animated-tab-bar'target='_blank'>animated-tab-bar</a>", 
+            "Stars": 9830
+        }, 
+        {
+            "Description": "Folding Tab Bar and Tab Bar Controller", 
+            "Forks": 478, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Yalantis/FoldingTabBar.iOS'target='_blank'>FoldingTabBar.iOS</a>", 
+            "Stars": 3668
+        }, 
+        {
+            "Description": "Another UITabBar & UITabBarController (iOS Tab Bar) replacement, but uses Auto Layout for arranging it's views hierarchy.", 
+            "Forks": 26, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Goles/GGTabBar'target='_blank'>GGTabBar</a>", 
+            "Stars": 154
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  AdaptiveController is a 'Progressive Reduction' Swift UI module for adding custom states to Native or Custom iOS UI elements. Swift UI component by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries", 
+            "Forks": 146, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Ramotion/adaptive-tab-bar'target='_blank'>adaptive-tab-bar</a>", 
+            "Stars": 1920
+        }, 
+        {
+            "Description": "Pager is the simplest and best way to implement sliding view controllers in Swift", 
+            "Forks": 42, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/lucoceano/Pager'target='_blank'>Pager</a>", 
+            "Stars": 217
+        }, 
+        {
+            "Description": "Android PagerTabStrip for iOS.", 
+            "Forks": 997, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/xmartlabs/XLPagerTabStrip'target='_blank'>XLPagerTabStrip</a>", 
+            "Stars": 5755
+        }, 
+        {
+            "Description": "Paging view controller and scroll tab view", 
+            "Forks": 159, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/EndouMari/TabPageViewController'target='_blank'>TabPageViewController</a>", 
+            "Stars": 942
+        }, 
+        {
+            "Description": "", 
+            "Forks": 35, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/winslowdibona/TabDrawer'target='_blank'>TabDrawer</a>", 
+            "Stars": 501
+        }, 
+        {
+            "Description": "SwipeViewController is a Swift modification of RKSwipeBetweenViewControllers - navigate between pages / ViewControllers", 
+            "Forks": 37, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/fortmarek/SwipeViewController'target='_blank'>SwipeViewController</a>", 
+            "Stars": 540
+        }, 
+        {
+            "Description": "This is a Review posting app that let user find interesting places near them", 
+            "Forks": 141, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Yalantis/ColorMatchTabs'target='_blank'>ColorMatchTabs</a>", 
+            "Stars": 1154
+        }, 
+        {
+            "Description": "A TabBarController with a unique animation for selection", 
+            "Forks": 115, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/antiguab/BATabBarController'target='_blank'>BATabBarController</a>", 
+            "Stars": 790
+        }, 
+        {
+            "Description": "A scroll pager that displays a list of tabs (segments) and manages paging between given views", 
+            "Forks": 67, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/aryaxt/ScrollPager'target='_blank'>ScrollPager</a>", 
+            "Stars": 460
+        }, 
+        {
+            "Description": "Animated top/bottom segmented control written in Swift.", 
+            "Forks": 221, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Yalantis/Segmentio'target='_blank'>Segmentio</a>", 
+            "Stars": 1873
+        }, 
+        {
+            "Description": "KYWheelTabController is a subclass of UITabBarController.It displays the circular menu instead of UITabBar.", 
+            "Forks": 16, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ykyouhei/KYWheelTabController'target='_blank'>KYWheelTabController</a>", 
+            "Stars": 105
+        }, 
+        {
+            "Description": "Emoji Tab Bar button badges \u2728", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/odedharth/SuperBadges'target='_blank'>SuperBadges</a>", 
+            "Stars": 32
+        }, 
+        {
+            "Description": "A custom tab bar controller for iOS written in Swift 4.2", 
+            "Forks": 43, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Minitour/AZTabBarController'target='_blank'>AZTabBarController</a>", 
+            "Stars": 189
+        }, 
+        {
+            "Description": "\ud83d\udcf1 A minimal tab bar alternative", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/D-32/MiniTabBar'target='_blank'>MiniTabBar</a>", 
+            "Stars": 97
+        }, 
+        {
+            "Description": "UITabBarController with swipe interaction between its tabs.", 
+            "Forks": 46, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marcosgriselli/SwipeableTabBarController'target='_blank'>SwipeableTabBarController</a>", 
+            "Stars": 522
+        }, 
+        {
+            "Description": "Swipeable Views with Tabs (Like Android SwipeView With Tabs Layout)", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/smahajan28/SMSwipeableTabView'target='_blank'>SMSwipeableTabView</a>", 
+            "Stars": 40
+        }, 
+        {
+            "Description": "\u2122\ufe0f A powerful paging view controller with interactive indicator bars", 
+            "Forks": 119, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/uias/Tabman'target='_blank'>Tabman</a>", 
+            "Stars": 1439
+        }, 
+        {
+            "Description": "\ud83d\udc1bWormTabStrip ViewPager for iOS written in Swift, which gives continuous feedback to the user when scrolling", 
+            "Forks": 20, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/EzimetYusup/WormTabStrip'target='_blank'>WormTabStrip</a>", 
+            "Stars": 105
+        }, 
+        {
+            "Description": "Customisable iOS bottom menu works like Tabbar", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/simformsolutions/SSCustomTabMenu'target='_blank'>SSCustomTabMenu</a>", 
+            "Stars": 56
+        }, 
+        {
+            "Description": "Smooth customizable tabs for iOS apps.", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yervandsar/SmoothTab'target='_blank'>SmoothTab</a>", 
+            "Stars": 47
+        }, 
+        {
+            "Description": "ExpandedTabBar is a very creative designed solution for \"more\" items in UITabBarController", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yervandsar/ExpandedTabBar'target='_blank'>ExpandedTabBar</a>", 
+            "Stars": 56
+        }
+    ]
+}

@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "Description": "A collection of awesome loading animations", 
+            "Forks": 874, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ninjaprox/NVActivityIndicatorView'target='_blank'>NVActivityIndicatorView</a>", 
+            "Stars": 8094
+        }, 
+        {
+            "Description": "A rubber animation pagecontrol", 
+            "Forks": 160, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/TBXark/TKRubberIndicator'target='_blank'>TKRubberIndicator</a>", 
+            "Stars": 1167
+        }, 
+        {
+            "Description": "Loading animations <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f300.png?v8'>  by using Swift CALayer", 
+            "Forks": 30, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/naoyashiga/RPLoadingAnimation'target='_blank'>RPLoadingAnimation</a>", 
+            "Stars": 188
+        }, 
+        {
+            "Description": "Spinner loader components with liquid animation", 
+            "Forks": 172, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yoavlt/LiquidLoader'target='_blank'>LiquidLoader</a>", 
+            "Stars": 1136
+        }, 
+        {
+            "Description": "CircleProgressView", 
+            "Forks": 81, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/CardinalNow/iOS-CircleProgressView'target='_blank'>iOS-CircleProgressView</a>", 
+            "Stars": 436
+        }, 
+        {
+            "Description": "iOS Circle Progress Bar", 
+            "Forks": 64, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Eclair/CircleProgressBar'target='_blank'>CircleProgressBar</a>", 
+            "Stars": 394
+        }, 
+        {
+            "Description": "A simple Linear Progress Bar for IOS (Swift 3.0), inspired by Material Design", 
+            "Forks": 39, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PhilippeBoisney/LinearProgressBar'target='_blank'>LinearProgressBar</a>", 
+            "Stars": 118
+        }, 
+        {
+            "Description": "loading views", 
+            "Forks": 39, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/saitjr/STLoadingGroup'target='_blank'>STLoadingGroup</a>", 
+            "Stars": 396
+        }, 
+        {
+            "Description": "A pulsing spinner view written in swift", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AlexLittlejohn/ALThreeCircleSpinner'target='_blank'>ALThreeCircleSpinner</a>", 
+            "Stars": 40
+        }, 
+        {
+            "Description": "iOS 7 radial animated progress view.", 
+            "Forks": 11, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/mehfuzh/MHRadialProgressView'target='_blank'>MHRadialProgressView</a>", 
+            "Stars": 79
+        }, 
+        {
+            "Description": "Amazing animated switch activity indicator written in swift", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Ekhoo/Loader'target='_blank'>Loader</a>", 
+            "Stars": 99
+        }, 
+        {
+            "Description": "MBProgressHUD + Customizations", 
+            "Forks": 3428, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/jdg/MBProgressHUD'target='_blank'>MBProgressHUD</a>", 
+            "Stars": 15098
+        }, 
+        {
+            "Description": "A clean and lightweight progress HUD for your iOS and tvOS app.", 
+            "Forks": 2288, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/SVProgressHUD/SVProgressHUD'target='_blank'>SVProgressHUD</a>", 
+            "Stars": 11514
+        }, 
+        {
+            "Description": "ProgressHUD is a lightweight and easy-to-use HUD for iOS. (Objective-C)", 
+            "Forks": 251, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/relatedcode/ProgressHUD'target='_blank'>ProgressHUD</a>", 
+            "Stars": 1326
+        }, 
+        {
+            "Description": "A suite containing many tools to display progress information on iOS.", 
+            "Forks": 493, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Marxon13/M13ProgressSuite'target='_blank'>M13ProgressSuite</a>", 
+            "Stars": 3845
+        }, 
+        {
+            "Description": "A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,\u2026) for iOS 8.", 
+            "Forks": 414, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/pkluz/PKHUD'target='_blank'>PKHUD</a>", 
+            "Stars": 3115
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f423.png?v8'>  Lightweight Swift loading activity for iOS7+", 
+            "Forks": 75, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/goktugyil/EZLoadingActivity'target='_blank'>EZLoadingActivity</a>", 
+            "Stars": 551
+        }, 
+        {
+            "Description": "FFCircularProgressView - An iOS 7-inspired blue circular progress view", 
+            "Forks": 116, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/elbryan/FFCircularProgressView'target='_blank'>FFCircularProgressView</a>", 
+            "Stars": 1017
+        }, 
+        {
+            "Description": "Collection of iOS drop-in components to visualize progress", 
+            "Forks": 306, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/mrackwitz/MRProgress'target='_blank'>MRProgress</a>", 
+            "Stars": 2600
+        }, 
+        {
+            "Description": "Automatically sets the network activity indicator for any performed request.", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marcelofabri/BigBrother'target='_blank'>BigBrother</a>", 
+            "Stars": 453
+        }, 
+        {
+            "Description": "Controls the visibility of the network activity indicator on iOS using Alamofire.", 
+            "Forks": 44, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Alamofire/AlamofireNetworkActivityIndicator'target='_blank'>AlamofireNetworkActivityIndicator</a>", 
+            "Stars": 551
+        }, 
+        {
+            "Description": "A circular progress view with gradients written in Swift", 
+            "Forks": 184, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kaandedeoglu/KDCircularProgress'target='_blank'>KDCircularProgress</a>", 
+            "Stars": 784
+        }, 
+        {
+            "Description": "DACircularProgress is a UIView subclass with circular UIProgressView properties.", 
+            "Forks": 339, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/danielamitay/DACircularProgress'target='_blank'>DACircularProgress</a>", 
+            "Stars": 2348
+        }, 
+        {
+            "Description": "Simple extension of UINavigationController to display progress on the UINavigationBar.", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ykyouhei/KYNavigationProgress'target='_blank'>KYNavigationProgress</a>", 
+            "Stars": 230
+        }, 
+        {
+            "Description": "A custom animation for the UIRefreshControl", 
+            "Forks": 53, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/andreamazz/GearRefreshControl'target='_blank'>GearRefreshControl</a>", 
+            "Stars": 608
+        }, 
+        {
+            "Description": "UIWebView progress interface", 
+            "Forks": 624, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ninjinkun/NJKWebViewProgress'target='_blank'>NJKWebViewProgress</a>", 
+            "Stars": 3954
+        }, 
+        {
+            "Description": "\u2b55\ufe0f Ring progress view similar to Activity app on Apple Watch", 
+            "Forks": 70, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/maxkonovalov/MKRingProgressView'target='_blank'>MKRingProgressView</a>", 
+            "Stars": 875
+        }, 
+        {
+            "Description": "A fancy hexagonal layout for displaying data like your Apple Watch", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/gautier-gdx/Hexacon'target='_blank'>Hexacon</a>", 
+            "Stars": 305
+        }, 
+        {
+            "Description": "A customizable SpriteKit particles animation on the border of a view.", 
+            "Forks": 38, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/BalestraPatrick/ParticlesLoadingView'target='_blank'>ParticlesLoadingView</a>", 
+            "Stars": 892
+        }, 
+        {
+            "Description": "(Swift) Circular progress UIView subclass with UIProgressView properties", 
+            "Forks": 41, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/iwasrobbed/RPCircularProgress'target='_blank'>RPCircularProgress</a>", 
+            "Stars": 179
+        }, 
+        {
+            "Description": "A circular, animatable & highly customizable progress bar from the Interface Builder (Objective-C)", 
+            "Forks": 149, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/MatiBot/MBCircularProgressBar'target='_blank'>MBCircularProgressBar</a>", 
+            "Stars": 846
+        }, 
+        {
+            "Description": "This is a beauful hud view for iPhone & iPad", 
+            "Forks": 80, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/devSC/WSProgressHUD'target='_blank'>WSProgressHUD</a>", 
+            "Stars": 567
+        }, 
+        {
+            "Description": "A metaball loading written in Swift.", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dabing1022/DBMetaballLoading'target='_blank'>DBMetaballLoading</a>", 
+            "Stars": 70
+        }, 
+        {
+            "Description": "Completely customizable progress based loaders drawn using custom CGPaths written in Swift", 
+            "Forks": 157, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/polqf/FillableLoaders'target='_blank'>FillableLoaders</a>", 
+            "Stars": 1935
+        }, 
+        {
+            "Description": "Simple HUD.", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/xxxAIRINxxx/VHUD'target='_blank'>VHUD</a>", 
+            "Stars": 139
+        }, 
+        {
+            "Description": "A beautiful activity indicator and modal alert written in Swift (originally developed for my app DoodleDoodle) Using blur effects, translucency, flat and bold design - all iOS 8 latest and greatest", 
+            "Forks": 246, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/icanzilb/SwiftSpinner'target='_blank'>SwiftSpinner</a>", 
+            "Stars": 1816
+        }, 
+        {
+            "Description": "Implementation of Snapchat's stories timer. ", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/andresinaka/SnapTimer'target='_blank'>SnapTimer</a>", 
+            "Stars": 266
+        }, 
+        {
+            "Description": "The easiest way to handle a simple full screen activity indicator in iOS. Written in Swift.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/alaphao/LLSpinner'target='_blank'>LLSpinner</a>", 
+            "Stars": 21
+        }, 
+        {
+            "Description": "A view class for iOS that makes uploading easy and beautiful.", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kirankunigiri/SVUploader'target='_blank'>SVUploader</a>", 
+            "Stars": 70
+        }, 
+        {
+            "Description": "UIProgressView replacement with an highly and fully customizable animated progress bar in pure Core Graphics", 
+            "Forks": 187, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/yannickl/YLProgressBar'target='_blank'>YLProgressBar</a>", 
+            "Stars": 1168
+        }, 
+        {
+            "Description": "Flexible Stepped Progress Bar for IOS", 
+            "Forks": 58, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/amratab/FlexibleSteppedProgressBar'target='_blank'>FlexibleSteppedProgressBar</a>", 
+            "Stars": 221
+        }, 
+        {
+            "Description": "A customizable animated gradient loading bar.", 
+            "Forks": 26, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/fxm90/GradientLoadingBar'target='_blank'>GradientLoadingBar</a>", 
+            "Stars": 238
+        }, 
+        {
+            "Description": "A simple animated progress bar in Swift", 
+            "Forks": 28, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/DholStudio/DSGradientProgressView'target='_blank'>DSGradientProgressView</a>", 
+            "Stars": 307
+        }, 
+        {
+            "Description": "A customizable gradient progress bar (UIProgressView).", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/fxm90/GradientProgressBar'target='_blank'>GradientProgressBar</a>", 
+            "Stars": 112
+        }, 
+        {
+            "Description": " A lightweight and awesome loading Activity Indicator for your iOS app.", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ppth0608/BPCircleActivityIndicator'target='_blank'>BPCircleActivityIndicator</a>", 
+            "Stars": 42
+        }, 
+        {
+            "Description": "Simple and powerful animated progress bar with dots", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nikola9core/DottedProgressBar'target='_blank'>DottedProgressBar</a>", 
+            "Stars": 31
+        }, 
+        {
+            "Description": "Awesome loading animations using 3D engine written with Swift", 
+            "Forks": 47, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/roytornado/RSLoadingView'target='_blank'>RSLoadingView</a>", 
+            "Stars": 323
+        }, 
+        {
+            "Description": "Yet another task indicator", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/LeonardoCardoso/SendIndicator'target='_blank'>SendIndicator</a>", 
+            "Stars": 51
+        }, 
+        {
+            "Description": "Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yonat/StepProgressView'target='_blank'>StepProgressView</a>", 
+            "Stars": 129
+        }, 
+        {
+            "Description": "A simple and awesome loading Activity Indicator(with block moving animation) for your iOS app.", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ppth0608/BPBlockActivityIndicator'target='_blank'>BPBlockActivityIndicator</a>", 
+            "Stars": 35
+        }, 
+        {
+            "Description": "You can easily start up a little breaking game by one line.", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jamesdouble/JDBreaksLoading'target='_blank'>JDBreaksLoading</a>", 
+            "Stars": 141
+        }, 
+        {
+            "Description": "An elegant way to show users that something is happening and also prepare them to which contents he is waiting", 
+            "Forks": 448, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Juanpe/SkeletonView'target='_blank'>SkeletonView</a>", 
+            "Stars": 6892
+        }, 
+        {
+            "Description": "Windless makes it easy to implement invisible layout loading view.", 
+            "Forks": 52, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Interactive-Studio/Windless'target='_blank'>Windless</a>", 
+            "Stars": 773
+        }, 
+        {
+            "Description": "\ud83d\udc80 An easy way to create sliding CAGradientLayer animations! Works great for creating skeleton screens for loading content.", 
+            "Forks": 56, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/gonzalonunez/Skeleton'target='_blank'>Skeleton</a>", 
+            "Stars": 490
+        }, 
+        {
+            "Description": "StatusBarOverlay will automatically show a \"No Internet Connection\" bar when your app loses connection, and hide it again. It supports apps which hide the status bar and The Notch", 
+            "Forks": 16, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/IdleHandsApps/StatusBarOverlay'target='_blank'>StatusBarOverlay</a>", 
+            "Stars": 108
+        }, 
+        {
+            "Description": "\ud83d\udc88 Retro looking progress bar straight from the 90s", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hyperoslo/RetroProgress'target='_blank'>RetroProgress</a>", 
+            "Stars": 5
+        }, 
+        {
+            "Description": "Material Linear Progress Bar for your iOS apps", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Recouse/LinearProgressBar'target='_blank'>LinearProgressBar</a>", 
+            "Stars": 54
+        }, 
+        {
+            "Description": "Simple Swift Progress HUD ", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kamirana4/MKProgress'target='_blank'>MKProgress</a>", 
+            "Stars": 33
+        }, 
+        {
+            "Description": "Show pleasant loading view for your users \ud83d\ude0d", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/robertherdzik/RHPlaceholder'target='_blank'>RHPlaceholder</a>", 
+            "Stars": 166
+        }, 
+        {
+            "Description": "A clean and lightweight progress HUD based on SVProgressHUD, converted to Swift with the help of Swiftify.", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Swiftify-Corp/IHProgressHUD'target='_blank'>IHProgressHUD</a>", 
+            "Stars": 48
+        }
+    ]
+}

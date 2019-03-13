@@ -1,0 +1,165 @@
+{
+    "data": [
+        {
+            "Description": "A publish/subscribe EventBus optimized for iOS", 
+            "Forks": 67, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/cesarferreira/SwiftEventBus'target='_blank'>SwiftEventBus</a>", 
+            "Stars": 760
+        }, 
+        {
+            "Description": "Promises for Swift & ObjC.", 
+            "Forks": 1038, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mxcl/PromiseKit'target='_blank'>PromiseKit</a>", 
+            "Stars": 11054
+        }, 
+        {
+            "Description": "Bolts is a collection of low-level libraries designed to make developing mobile apps easier.", 
+            "Forks": 562, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/BoltsFramework/Bolts-ObjC'target='_blank'>Bolts-ObjC</a>", 
+            "Stars": 5500
+        }, 
+        {
+            "Description": "Promise + progress + pause + cancel + retry for Swift.", 
+            "Forks": 162, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ReactKit/SwiftTask'target='_blank'>SwiftTask</a>", 
+            "Stars": 1835
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/23f0.png?v8'>  A lightweight implementation of Promises in Swift", 
+            "Forks": 27, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/vadymmarkov/When'target='_blank'>When</a>", 
+            "Stars": 190
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f3ac.png?v8'>  Promises Library for Swift with Async/Await", 
+            "Forks": 45, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/freshOS/then'target='_blank'>then</a>", 
+            "Stars": 764
+        }, 
+        {
+            "Description": "Bolts is a collection of low-level libraries designed to make developing mobile apps easier.", 
+            "Forks": 106, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/BoltsFramework/Bolts-Swift'target='_blank'>Bolts-Swift</a>", 
+            "Stars": 1192
+        }, 
+        {
+            "Description": "A light-weighted Promise library for Objective-C", 
+            "Forks": 8, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/deput/RWPromiseKit'target='_blank'>RWPromiseKit</a>", 
+            "Stars": 110
+        }, 
+        {
+            "Description": "FutureLib is a pure Swift 2 library implementing Futures & Promises inspired by Scala.", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/couchdeveloper/FutureLib'target='_blank'>FutureLib</a>", 
+            "Stars": 37
+        }, 
+        {
+            "Description": "A Protocol-Oriented NotificationCenter which is type safe, thread safe and with memory safety", 
+            "Forks": 37, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/100mango/SwiftNotificationCenter'target='_blank'>SwiftNotificationCenter</a>", 
+            "Stars": 554
+        }, 
+        {
+            "Description": "A Swift based Future/Promises Library for IOS and OS X.", 
+            "Forks": 61, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/FutureKit/FutureKit'target='_blank'>FutureKit</a>", 
+            "Stars": 738
+        }, 
+        {
+            "Description": "Typeful eventing", 
+            "Forks": 54, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/uber/signals-ios'target='_blank'>signals-ios</a>", 
+            "Stars": 516
+        }, 
+        {
+            "Description": "Write great asynchronous code in Swift using futures and promises", 
+            "Forks": 168, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Thomvis/BrightFutures'target='_blank'>BrightFutures</a>", 
+            "Stars": 1753
+        }, 
+        {
+            "Description": "NoticeObserveKit is type-safe NotificationCenter wrapper.", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marty-suzuki/NoticeObserveKit'target='_blank'>NoticeObserveKit</a>", 
+            "Stars": 135
+        }, 
+        {
+            "Description": "Lightweight full-featured Promises, Async & Await Library in Swift", 
+            "Forks": 79, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/malcommac/Hydra'target='_blank'>Hydra</a>", 
+            "Stars": 1673
+        }, 
+        {
+            "Description": "The easiest Future and Promises framework in Swift. No magic. No boilerplate.", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/albertodebortoli/Promis'target='_blank'>Promis</a>", 
+            "Stars": 85
+        }, 
+        {
+            "Description": "Promise/A+, Bluebird inspired, implementation in Swift 4.2", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AndrewBarba/Bluebird.swift'target='_blank'>Bluebird.swift</a>", 
+            "Stars": 34
+        }, 
+        {
+            "Description": "A Promise library for Swift, based partially on Javascript's A+ spec", 
+            "Forks": 50, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/khanlou/Promise'target='_blank'>Promise</a>", 
+            "Stars": 526
+        }, 
+        {
+            "Description": "Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.", 
+            "Forks": 139, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/google/promises'target='_blank'>promises</a>", 
+            "Stars": 2610
+        }, 
+        {
+            "Description": "NotificationCenter based Lightweight UI / AnyObject binder.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marty-suzuki/Continuum'target='_blank'>Continuum</a>", 
+            "Stars": 86
+        }, 
+        {
+            "Description": "Lightweight promises for iOS, macOS, tvOS, watchOS, and server-side Swift", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/formbound/Futures'target='_blank'>Futures</a>", 
+            "Stars": 52
+        }, 
+        {
+            "Description": "Easy Swift Futures & Promises.", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/DimaMishchenko/EasyFutures'target='_blank'>EasyFutures</a>", 
+            "Stars": 37
+        }, 
+        {
+            "Description": "Publish\u2013subscribe design pattern implementation framework, with an ability to publish events by topic.", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mcmatan/topicEventBus'target='_blank'>TopicEventBus</a>", 
+            "Stars": 51
+        }
+    ]
+}

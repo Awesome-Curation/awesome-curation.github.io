@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "Description": "MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP. The API has been redesigned from ground up.", 
+            "Forks": 487, 
+            "Language": "C++", 
+            "Repo": "<a href='https://github.com/MailCore/mailcore2'target='_blank'>mailcore2</a>", 
+            "Stars": 1987
+        }, 
+        {
+            "Description": "A Swift framework for working with emails", 
+            "Forks": 41, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/snipsco/Postal'target='_blank'>Postal</a>", 
+            "Stars": 519
+        }
+    ]
+}

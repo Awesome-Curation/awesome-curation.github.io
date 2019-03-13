@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "Description": "A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display", 
+            "Forks": 1619, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/dzenbot/DZNEmptyDataSet'target='_blank'>DZNEmptyDataSet</a>", 
+            "Stars": 11152
+        }, 
+        {
+            "Description": "Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project", 
+            "Forks": 107, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/HamzaGhazouani/HGPlaceholders'target='_blank'>HGPlaceholders</a>", 
+            "Stars": 1674
+        }, 
+        {
+            "Description": "ListPlaceholder is a swift library allows you to easily add facebook style animated loading placeholder to your tableviews or collection views.", 
+            "Forks": 38, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/malkouz/ListPlaceholder'target='_blank'>ListPlaceholder</a>", 
+            "Stars": 403
+        }
+    ]
+}

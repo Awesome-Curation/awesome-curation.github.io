@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "Description": "UICKeyChainStore is a simple wrapper for Keychain on iOS, watchOS, tvOS and macOS. Makes using Keychain APIs as easy as NSUserDefaults.", 
+            "Forks": 329, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/kishikawakatsumi/UICKeyChainStore'target='_blank'>UICKeyChainStore</a>", 
+            "Stars": 2783
+        }, 
+        {
+            "Description": "Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It\u2019s easy. We promise.", 
+            "Forks": 167, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/square/Valet'target='_blank'>Valet</a>", 
+            "Stars": 3171
+        }, 
+        {
+            "Description": "A powerful, protocol-oriented library for working with the keychain in Swift.", 
+            "Forks": 217, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/matthewpalmer/Locksmith'target='_blank'>Locksmith</a>", 
+            "Stars": 2744
+        }, 
+        {
+            "Description": "Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.", 
+            "Forks": 457, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kishikawakatsumi/KeychainAccess'target='_blank'>KeychainAccess</a>", 
+            "Stars": 4558
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f511.png?v8'>  A keychain wrapper that is so easy to use that your cat could use it.", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hyperoslo/Keychains'target='_blank'>Keychains</a>", 
+            "Stars": 68
+        }, 
+        {
+            "Description": "Objective-C utility class for storing data securely in the key chain.", 
+            "Forks": 87, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/granoff/Lockbox'target='_blank'>Lockbox</a>", 
+            "Stars": 860
+        }, 
+        {
+            "Description": "Simple Objective-C wrapper for the keychain that works on Mac and iOS", 
+            "Forks": 887, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/soffes/SAMKeychain'target='_blank'>SAMKeychain</a>", 
+            "Stars": 5082
+        }, 
+        {
+            "Description": "A simple wrapper for the iOS Keychain to allow you to use it in a similar fashion to User Defaults. Written in Swift.", 
+            "Forks": 200, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jrendel/SwiftKeychainWrapper'target='_blank'>SwiftKeychainWrapper</a>", 
+            "Stars": 872
+        }
+    ]
+}

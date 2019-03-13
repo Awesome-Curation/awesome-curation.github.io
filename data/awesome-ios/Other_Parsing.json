@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "Description": "WKZombie is a Swift framework for iOS/OSX to navigate within websites and collect data without the need of User Interface or API, also known as Headless browser. It can be used to run automated tests / snapshots and manipulate websites using Javascript.", 
+            "Forks": 71, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mkoehnke/WKZombie'target='_blank'>WKZombie</a>", 
+            "Stars": 1001
+        }, 
+        {
+            "Description": "An NSURL extension for showing preview info of webpages", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/itsmeichigo/URLPreview'target='_blank'>URLPreview</a>", 
+            "Stars": 190
+        }, 
+        {
+            "Description": "An RSS, Atom and JSON Feed parser written in Swift", 
+            "Forks": 59, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nmdias/FeedKit'target='_blank'>FeedKit</a>", 
+            "Stars": 581
+        }, 
+        {
+            "Description": "Erik is an headless browser based on WebKit. An headless browser allow to run functional tests, to access and manipulate webpages using javascript.", 
+            "Forks": 29, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/phimage/Erik'target='_blank'>Erik</a>", 
+            "Stars": 322
+        }, 
+        {
+            "Description": "URLEmbeddedView automatically caches the object that is confirmed the Open Graph Protocol.", 
+            "Forks": 56, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marty-suzuki/URLEmbeddedView'target='_blank'>URLEmbeddedView</a>", 
+            "Stars": 513
+        }, 
+        {
+            "Description": "Modern Swift API for Plist. ", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ykyouhei/SwiftyConfiguration'target='_blank'>SwiftyConfiguration</a>", 
+            "Stars": 113
+        }, 
+        {
+            "Description": "Swift parser for JSON Feed \u2014 a new format similar to RSS and Atom but in JSON.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/totocaster/JSONFeed'target='_blank'>JSONFeed</a>", 
+            "Stars": 29
+        }, 
+        {
+            "Description": "A Powerful , Extensible CSS Parser written in pure Swift.", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/100mango/SwiftCssParser'target='_blank'>SwiftCssParser</a>", 
+            "Stars": 252
+        }, 
+        {
+            "Description": "Recursive Length Prefix encoding written in Swift", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/bitfwdcommunity/RLPSwift'target='_blank'>RLPSwift</a>", 
+            "Stars": 19
+        }, 
+        {
+            "Description": "AcknowledgementsPlist manages the licenses of libraries that depend on your iOS app.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/cats-oss/AcknowledgementsPlist'target='_blank'>AcknowledgementsPlist</a>", 
+            "Stars": 60
+        }, 
+        {
+            "Description": "Excel spreadsheet (XLSX) format support in pure Swift", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MaxDesiatov/CoreXLSX'target='_blank'>CoreXLSX</a>", 
+            "Stars": 197
+        }
+    ]
+}

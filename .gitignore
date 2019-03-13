@@ -2,10 +2,11 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+.vscode*
 
 # Testing
 Pip*
-sandbox
+sandbox*
 
 # GitHub API auth token
 token

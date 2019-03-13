@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "Description": "A curated list of useful xcode scripts \ud83d\udcdd .", 
+            "Forks": 8, 
+            "Language": "Shell", 
+            "Repo": "<a href='https://github.com/aashishtamsya/awesome-xcode-scripts'target='_blank'>awesome-xcode-scripts</a>", 
+            "Stars": 77
+        }, 
+        {
+            "Description": "A command-line tool that reorganizes your Xcode project folder to match your Xcode groups", 
+            "Forks": 285, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/venmo/synx'target='_blank'>synx</a>", 
+            "Stars": 5900
+        }, 
+        {
+            "Description": "", 
+            "Forks": 2, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Tintenklecks/IBDelegateCodesippets'target='_blank'>IBDelegateCodesippets</a>", 
+            "Stars": 13
+        }, 
+        {
+            "Description": "3D Touch shortcuts in the Simulator", 
+            "Forks": 181, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/DeskConnect/SBShortcutMenuSimulator'target='_blank'>SBShortcutMenuSimulator</a>", 
+            "Stars": 1797
+        }, 
+        {
+            "Description": "A curated collection of useful gitignore templates for different programming languages while pushing your code to git. \ud83d\ude0a  \ud83d\udcdd", 
+            "Forks": 3, 
+            "Language": "None", 
+            "Repo": "<a href='https://github.com/aashishtamsya/awesome-gitignore-templates'target='_blank'>awesome-gitignore-templates</a>", 
+            "Stars": 14
+        }, 
+        {
+            "Description": "\ud83c\udf6a Easily generate Swift projects with Cookiecutter", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/artemnovichkov/swift-project-template'target='_blank'>swift-project-template</a>", 
+            "Stars": 75
+        }, 
+        {
+            "Description": "Xcode template for VIPER Architecture written in Swift 4", 
+            "Forks": 78, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Juanpe/Swift-VIPER-Module'target='_blank'>Swift-VIPER-Module</a>", 
+            "Stars": 413
+        }, 
+        {
+            "Description": "Xcode template for VIPER Architecture for both Objective-C and Swift.", 
+            "Forks": 17, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/abdullahselek/ViperC'target='_blank'>ViperC</a>", 
+            "Stars": 67
+        }, 
+        {
+            "Description": "Code snippets for Xcode.", 
+            "Forks": 3, 
+            "Language": "Shell", 
+            "Repo": "<a href='https://github.com/ismetanin/XcodeCodeSnippets'target='_blank'>XcodeCodeSnippets</a>", 
+            "Stars": 18
+        }, 
+        {
+            "Description": "Xcode Template Manager is a Swift command line tool that helps you manage your Xcode project templates.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Camji55/xtm'target='_blank'>xtm</a>", 
+            "Stars": 19
+        }, 
+        {
+            "Description": "Template of VIPER Module for Xcode", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/EvsenevDev/VIPERModuleTemplate'target='_blank'>VIPERModuleTemplate</a>", 
+            "Stars": 15
+        }
+    ]
+}

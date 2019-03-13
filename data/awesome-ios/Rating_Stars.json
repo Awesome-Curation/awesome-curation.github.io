@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "Description": "Whole, half or floating point ratings control written in Swift", 
+            "Forks": 84, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/glenyi/FloatRatingView'target='_blank'>FloatRatingView</a>", 
+            "Stars": 452
+        }, 
+        {
+            "Description": "An emoji-liked rating view for iOS, implemented in Swift3.", 
+            "Forks": 26, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/zekunyan/TTGEmojiRate'target='_blank'>TTGEmojiRate</a>", 
+            "Stars": 264
+        }, 
+        {
+            "Description": "StarryStars is iOS GUI library for displaying and editing ratings", 
+            "Forks": 20, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/peterprokop/StarryStars'target='_blank'>StarryStars</a>", 
+            "Stars": 152
+        }, 
+        {
+            "Description": "A star rating control for iOS/tvOS written in Swift", 
+            "Forks": 228, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/evgenyneu/Cosmos'target='_blank'>Cosmos</a>", 
+            "Stars": 1326
+        }, 
+        {
+            "Description": "Simple star rating view for iOS written in Objective-C", 
+            "Forks": 166, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/hsousa/HCSStarRatingView'target='_blank'>HCSStarRatingView</a>", 
+            "Stars": 1198
+        }, 
+        {
+            "Description": "[DEPRECATED] A groovy app rate stars screen for iOS written in Swift<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f536.png?v8'> ", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MatiBot/MBRateApp'target='_blank'>MBRateApp</a>", 
+            "Stars": 55
+        }, 
+        {
+            "Description": "Review page interaction - handy and pretty way to ask for review.", 
+            "Forks": 1, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/nbolatov/RPInteraction'target='_blank'>RPInteraction</a>", 
+            "Stars": 19
+        }
+    ]
+}

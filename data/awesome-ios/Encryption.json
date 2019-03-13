@@ -1,0 +1,158 @@
+{
+    "data": [
+        {
+            "Description": "A simple and opinionated AES encrypt / decrypt Objective-C class that just works.", 
+            "Forks": 219, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Gurpartap/AESCrypt-ObjC'target='_blank'>AESCrypt-ObjC</a>", 
+            "Stars": 752
+        }, 
+        {
+            "Description": "A wrapper for Apple's Common Crypto library written in Swift.", 
+            "Forks": 66, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/iosdevzone/IDZSwiftCommonCrypto'target='_blank'>IDZSwiftCommonCrypto</a>", 
+            "Stars": 407
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f531.png?v8'>  CommonCrypto in Swift, and more", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/onmyway133/Arcane'target='_blank'>Arcane</a>", 
+            "Stars": 254
+        }, 
+        {
+            "Description": "A pure Swift implementation of MD5", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mpurland/SwiftMD5'target='_blank'>SwiftMD5</a>", 
+            "Stars": 10
+        }, 
+        {
+            "Description": "\ud83c\udf55 MD5 in pure Swift", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/onmyway133/SwiftHash'target='_blank'>SwiftHash</a>", 
+            "Stars": 142
+        }, 
+        {
+            "Description": "A tiny and easy to use Swift class to encrypt strings using HMAC algorithms.", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jancassio/SweetHMAC'target='_blank'>SweetHMAC</a>", 
+            "Stars": 38
+        }, 
+        {
+            "Description": "RSA public/private key generation, RSA, AES encryption/decryption, RSA sign/verify in Swift with CommonCrypto in iOS and OS X", 
+            "Forks": 74, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/soyersoyer/SwCrypt'target='_blank'>SwCrypt</a>", 
+            "Stars": 499
+        }, 
+        {
+            "Description": "An Elegant crypto toolkit in Swift.", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SwiftP2P/SwiftSSL'target='_blank'>SwiftSSL</a>", 
+            "Stars": 184
+        }, 
+        {
+            "Description": "RSA public/private key encryption in Swift", 
+            "Forks": 143, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/TakeScoop/SwiftyRSA'target='_blank'>SwiftyRSA</a>", 
+            "Stars": 627
+        }, 
+        {
+            "Description": "Enigma encryption in Swift", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mikaoj/EnigmaKit'target='_blank'>EnigmaKit</a>", 
+            "Stars": 105
+        }, 
+        {
+            "Description": "Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across ten platforms.", 
+            "Forks": 58, 
+            "Language": "C", 
+            "Repo": "<a href='https://github.com/cossacklabs/themis'target='_blank'>themis</a>", 
+            "Stars": 675
+        }, 
+        {
+            "Description": "Secure your app by obfuscating all the hard-coded security-sensitive strings.", 
+            "Forks": 89, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/pjebs/Obfuscator-iOS'target='_blank'>Obfuscator-iOS</a>", 
+            "Stars": 499
+        }, 
+        {
+            "Description": "Safe and easy to use crypto for iOS and macOS", 
+            "Forks": 88, 
+            "Language": "C", 
+            "Repo": "<a href='https://github.com/jedisct1/swift-sodium'target='_blank'>swift-sodium</a>", 
+            "Stars": 288
+        }, 
+        {
+            "Description": "CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift", 
+            "Forks": 741, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/krzyzanowskim/CryptoSwift'target='_blank'>CryptoSwift</a>", 
+            "Stars": 6509
+        }, 
+        {
+            "Description": "Elegant  Swift interface to access the CommonCrypto routines", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/sgl0v/SCrypto'target='_blank'>SCrypto</a>", 
+            "Stars": 23
+        }, 
+        {
+            "Description": "Simple and secure hashing in Swift with the SipHash algorithm", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/attaswift/SipHash'target='_blank'>SipHash</a>", 
+            "Stars": 227
+        }, 
+        {
+            "Description": "CCCryptor (AES encryption) wrappers for iOS and Mac in Swift. -- For ObjC, see RNCryptor/RNCryptor-objc", 
+            "Forks": 478, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/RNCryptor/RNCryptor'target='_blank'>RNCryptor</a>", 
+            "Stars": 3024
+        }, 
+        {
+            "Description": "An easy way for hashing and encryption.", 
+            "Forks": 4, 
+            "Language": "C", 
+            "Repo": "<a href='https://github.com/ImKcat/CatCrypto'target='_blank'>CatCrypto</a>", 
+            "Stars": 37
+        }, 
+        {
+            "Description": "Demonstration library for using the Secure Enclave on iOS", 
+            "Forks": 23, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/trailofbits/SecureEnclaveCrypto'target='_blank'>SecureEnclaveCrypto</a>", 
+            "Stars": 209
+        }, 
+        {
+            "Description": "Util for generation RSA keys on your client and save to keychain or convert into Data \ud83d\udd11 \ud83d\udd10", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/4taras4/RSASwiftGenerator'target='_blank'>RSASwiftGenerator</a>", 
+            "Stars": 14
+        }, 
+        {
+            "Description": "Virgil Crypto stack Objective-C/Swift", 
+            "Forks": 3, 
+            "Language": "C++", 
+            "Repo": "<a href='https://github.com/VirgilSecurity/virgil-crypto-x'target='_blank'>virgil-crypto-x</a>", 
+            "Stars": 23
+        }, 
+        {
+            "Description": "A framework for the JOSE standards JWS, JWE, and JWK written in Swift.", 
+            "Forks": 23, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/airsidemobile/JOSESwift'target='_blank'>JOSESwift</a>", 
+            "Stars": 53
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "data": [
+        {
+            "Description": "A very simple library to discover and retrieve data from nearby devices (even if the peer app works at background).", 
+            "Forks": 33, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/omergul/Discovery'target='_blank'>Discovery</a>", 
+            "Stars": 399
+        }, 
+        {
+            "Description": "Simple, block-based, lightweight library over CoreBluetooth. Will clean up your Core Bluetooth related code.", 
+            "Forks": 53, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/LGBluetooth/LGBluetooth'target='_blank'>LGBluetooth</a>", 
+            "Stars": 159
+        }, 
+        {
+            "Description": "An open-source Swift framework for building event-driven, zero-config Multipeer Connectivity apps", 
+            "Forks": 69, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jpsim/PeerKit'target='_blank'>PeerKit</a>", 
+            "Stars": 788
+        }, 
+        {
+            "Description": "Easily communicate between iOS/OSX devices using BLE", 
+            "Forks": 183, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/rhummelmose/BluetoothKit'target='_blank'>BluetoothKit</a>", 
+            "Stars": 1753
+        }, 
+        {
+            "Description": "Bluetooth mapping in Swift", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/e-sites/Bluetonium'target='_blank'>Bluetonium</a>", 
+            "Stars": 151
+        }, 
+        {
+            "Description": "iOS Bluetooth LE framework", 
+            "Forks": 94, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/troystribling/BlueCap'target='_blank'>BlueCap</a>", 
+            "Stars": 572
+        }, 
+        {
+            "Description": "A simple framework that brings Apple devices together - like a family", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kirankunigiri/Apple-Family'target='_blank'>Apple-Family</a>", 
+            "Stars": 46
+        }, 
+        {
+            "Description": "BLE (Bluetooth LE) for U\ud83c\udf81 Bleu is the best in the Bluetooth library.", 
+            "Forks": 28, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/1amageek/Bleu'target='_blank'>Bleu</a>", 
+            "Stars": 463
+        }, 
+        {
+            "Description": "A simple Swift framework for building reliable Bluetooth LE apps.", 
+            "Forks": 37, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/steamclock/bluejay'target='_blank'>bluejay</a>", 
+            "Stars": 740
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f476.png?v8'>  The easiest way to use Bluetooth (BLE )in ios/os ,even bady can use . \u4e00\u4e2a\u975e\u5e38\u5bb9\u6613\u4f7f\u7528\u7684\u84dd\u7259\u5e93,\u9002\u7528\u4e8eios\u548cos", 
+            "Forks": 860, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/coolnameismy/BabyBluetooth'target='_blank'>BabyBluetooth</a>", 
+            "Stars": 3950
+        }, 
+        {
+            "Description": "Blocks Based Bluetooth LE Connectivity framework for iOS/watchOS/tvOS/OSX. Quickly configure centrals & peripherals, perform read/write operations, and respond characteristic updates.", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AntonTheDev/ExtendaBLE'target='_blank'>ExtendaBLE</a>", 
+            "Stars": 83
+        }, 
+        {
+            "Description": "Functional wrapper for Apple's MultipeerConnectivity framework.", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/rchatham/PeerConnectivity'target='_blank'>PeerConnectivity</a>", 
+            "Stars": 43
+        }, 
+        {
+            "Description": "AZPeerToPeerConnectivity is a wrapper on top of Apple iOS Multipeer Connectivity framework. It provides an easier way to create and manage sessions. Easy to integrate", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AfrozZaheer/AZPeerToPeerConnection'target='_blank'>AZPeerToPeerConnection</a>", 
+            "Stars": 53
+        }, 
+        {
+            "Description": "\ud83d\udcf1\ud83d\udcf2 A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dingwilson/MultiPeer'target='_blank'>MultiPeer</a>", 
+            "Stars": 80
+        }
+    ]
+}

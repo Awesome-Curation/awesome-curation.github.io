@@ -1,0 +1,445 @@
+{
+    "data": [
+        {
+            "Description": "Twitter Text Libraries", 
+            "Forks": 332, 
+            "Language": "JavaScript", 
+            "Repo": "<a href='https://github.com/twitter/twitter-text'target='_blank'>twitter-text</a>", 
+            "Stars": 2116
+        }, 
+        {
+            "Description": "The iOS framework that grows only as fast as its documentation", 
+            "Forks": 1356, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/jverkoey/nimbus'target='_blank'>nimbus</a>", 
+            "Stars": 6424
+        }, 
+        {
+            "Description": "A category on NSString to convert Emoji Cheat Sheet codes to their equivalent Unicode characters", 
+            "Forks": 82, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/diy/nsstringemojize'target='_blank'>NSStringEmojize</a>", 
+            "Stars": 641
+        }, 
+        {
+            "Description": "An Objective-C framework for converting Markdown to HTML.", 
+            "Forks": 162, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/mdiep/MMMarkdown'target='_blank'>MMMarkdown</a>", 
+            "Stars": 1214
+        }, 
+        {
+            "Description": "Methods to allow using HTML code with CoreText", 
+            "Forks": 1084, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Cocoanetics/DTCoreText'target='_blank'>DTCoreText</a>", 
+            "Stars": 5682
+        }, 
+        {
+            "Description": "A rich-text editor for iOS", 
+            "Forks": 45, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Cocoanetics/DTRichTextEditor'target='_blank'>DTRichTextEditor</a>", 
+            "Stars": 319
+        }, 
+        {
+            "Description": "A searchable emoji dropdown view.", 
+            "Forks": 6, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/neerajbaid/NBEmojiSearchView'target='_blank'>NBEmojiSearchView</a>", 
+            "Stars": 85
+        }, 
+        {
+            "Description": "Great Swift String Pluralize Extension", 
+            "Forks": 33, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/joshualat/Pluralize.swift'target='_blank'>Pluralize.swift</a>", 
+            "Stars": 159
+        }, 
+        {
+            "Description": "RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.", 
+            "Forks": 283, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/cjwirth/RichEditorView'target='_blank'>RichEditorView</a>", 
+            "Stars": 1352
+        }, 
+        {
+            "Description": "Swift value types for working with money & currency", 
+            "Forks": 79, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/danthorpe/Money'target='_blank'>Money</a>", 
+            "Stars": 907
+        }, 
+        {
+            "Description": "A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.", 
+            "Forks": 307, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marmelroy/PhoneNumberKit'target='_blank'>PhoneNumberKit</a>", 
+            "Stars": 2772
+        }, 
+        {
+            "Description": "Powerful text framework for iOS to display and edit rich text.", 
+            "Forks": 1216, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ibireme/YYText'target='_blank'>YYText</a>", 
+            "Stars": 7806
+        }, 
+        {
+            "Description": "A Swift Formatter Kit", 
+            "Forks": 44, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marmelroy/Format'target='_blank'>Format</a>", 
+            "Stars": 1186
+        }, 
+        {
+            "Description": "Programmatic creation of NSAttributedString doesn't have to be a pain", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/zats/Tribute'target='_blank'>Tribute</a>", 
+            "Stars": 60
+        }, 
+        {
+            "Description": "Effortless emoji-querying in Swift", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dasmer/EmojiKit'target='_blank'>EmojiKit</a>", 
+            "Stars": 85
+        }, 
+        {
+            "Description": "Seamless Roman numeral conversion in Swift", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nvzqz/Roman'target='_blank'>Roman</a>", 
+            "Stars": 35
+        }, 
+        {
+            "Description": "A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view", 
+            "Forks": 472, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/nnhubbard/ZSSRichTextEditor'target='_blank'>ZSSRichTextEditor</a>", 
+            "Stars": 3134
+        }, 
+        {
+            "Description": "Paranoid text spacing in Objective-C", 
+            "Forks": 10, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Cee/pangu.objective-c'target='_blank'>pangu.objective-c</a>", 
+            "Stars": 111
+        }, 
+        {
+            "Description": "A comprehensive, lightweight string extension for Swift", 
+            "Forks": 134, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/amayne/SwiftString'target='_blank'>SwiftString</a>", 
+            "Stars": 1480
+        }, 
+        {
+            "Description": "Markdown syntax highlighter for iOS", 
+            "Forks": 36, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/macteo/Marklight'target='_blank'>Marklight</a>", 
+            "Stars": 437
+        }, 
+        {
+            "Description": "Rich Markdown editing control for iOS", 
+            "Forks": 56, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/indragiek/MarkdownTextView'target='_blank'>MarkdownTextView</a>", 
+            "Stars": 617
+        }, 
+        {
+            "Description": "An easier way to compose attributed strings", 
+            "Forks": 104, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/delba/TextAttributes'target='_blank'>TextAttributes</a>", 
+            "Stars": 2049
+        }, 
+        {
+            "Description": "Automatic summarizer text in Swift", 
+            "Forks": 20, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/fdzsergio/Reductio'target='_blank'>Reductio</a>", 
+            "Stars": 363
+        }, 
+        {
+            "Description": "A Pure Swift implementation of the markdown mark-up language", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SwiftStudies/SmarkDown'target='_blank'>SmarkDown</a>", 
+            "Stars": 64
+        }, 
+        {
+            "Description": "Converts Markdown files and strings into NSAttributedString", 
+            "Forks": 128, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SimonFairbairn/SwiftyMarkdown'target='_blank'>SwiftyMarkdown</a>", 
+            "Stars": 1013
+        }, 
+        {
+            "Description": "Library to help handle mentions", 
+            "Forks": 1, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/szweier/SZMentions'target='_blank'>SZMentions</a>", 
+            "Stars": 9
+        }, 
+        {
+            "Description": "Library to help handle mentions", 
+            "Forks": 23, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/szweier/SZMentionsSwift'target='_blank'>SZMentionsSwift</a>", 
+            "Stars": 57
+        }, 
+        {
+            "Description": "Heimdall is a wrapper around the Security framework for simple encryption/decryption operations.", 
+            "Forks": 63, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/henrinormak/Heimdall'target='_blank'>Heimdall</a>", 
+            "Stars": 342
+        }, 
+        {
+            "Description": "\u270d\ufe0f No \"Optional(...)\" in string interpolation + Easy pluralization", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/T-Pham/NoOptionalInterpolation'target='_blank'>NoOptionalInterpolation</a>", 
+            "Stars": 46
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8'>  Emoji in Swift", 
+            "Forks": 22, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/onmyway133/Smile'target='_blank'>Smile</a>", 
+            "Stars": 313
+        }, 
+        {
+            "Description": "\ud83c\udf97 Super lightweight ISO8601 Date Formatter in Swift", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/onmyway133/iso8601'target='_blank'>ISO8601</a>", 
+            "Stars": 16
+        }, 
+        {
+            "Description": "Lightweight library to set an Image as text background. Written in swift.", 
+            "Forks": 31, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Ekhoo/Translucid'target='_blank'>Translucid</a>", 
+            "Stars": 539
+        }, 
+        {
+            "Description": "`stringWithFormat:` for the sophisticated hacker set", 
+            "Forks": 465, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/mattt/FormatterKit'target='_blank'>FormatterKit</a>", 
+            "Stars": 4161
+        }, 
+        {
+            "Description": "Beautiful, easy attributed strings in Swift", 
+            "Forks": 130, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Raizlabs/BonMot'target='_blank'>BonMot</a>", 
+            "Stars": 2328
+        }, 
+        {
+            "Description": "String (and more) validation for iOS", 
+            "Forks": 23, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/gkaimakas/SwiftValidators'target='_blank'>SwiftValidators</a>", 
+            "Stars": 167
+        }, 
+        {
+            "Description": "Type strict builder class for NSAttributedString.", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kazuhiro4949/StringStylizer'target='_blank'>StringStylizer</a>", 
+            "Stars": 55
+        }, 
+        {
+            "Description": "A Swifty API for attributed strings", 
+            "Forks": 49, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/eddiekaiger/SwiftyAttributes'target='_blank'>SwiftyAttributes</a>", 
+            "Stars": 1057
+        }, 
+        {
+            "Description": "A simple and customizable Markdown Parser for Swift", 
+            "Forks": 48, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/bmoliveira/MarkdownKit'target='_blank'>MarkdownKit</a>", 
+            "Stars": 362
+        }, 
+        {
+            "Description": "Markdown parsing and rendering for iOS and OS X", 
+            "Forks": 126, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/indragiek/CocoaMarkdown'target='_blank'>CocoaMarkdown</a>", 
+            "Stars": 1020
+        }, 
+        {
+            "Description": "Fast, flexible markdown parser written in Swift", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/loiclec/Apodimark'target='_blank'>Apodimark</a>", 
+            "Stars": 441
+        }, 
+        {
+            "Description": "[iOS] A fully themeable markdown editor with live syntax highlighting.", 
+            "Forks": 46, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ruddfawcett/Notepad'target='_blank'>Notepad</a>", 
+            "Stars": 466
+        }, 
+        {
+            "Description": "Swift String Validator. Simple lib for ios to validate string and UITextFields text for some criterias", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/krizhanovskii/KKStringValidator'target='_blank'>KKStringValidator</a>", 
+            "Stars": 15
+        }, 
+        {
+            "Description": "\ud83d\udcc4\u2699 Convert ISO8859 1-16 Encoded Text to String in Swift. Supports iOS, tvOS, watchOS and macOS.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Cosmo/ISO8859'target='_blank'>ISO8859</a>", 
+            "Stars": 11
+        }, 
+        {
+            "Description": "A Swift framework for using custom emoji in strings.", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/xoudini/emojica'target='_blank'>emojica</a>", 
+            "Stars": 84
+        }, 
+        {
+            "Description": "Elegant & painless Attributed Strings in Swift", 
+            "Forks": 121, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/malcommac/SwiftRichString'target='_blank'>SwiftRichString</a>", 
+            "Stars": 1993
+        }, 
+        {
+            "Description": "iOS port from libphonenumber (Google's phone number handling library)", 
+            "Forks": 302, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/iziz/libPhoneNumber-iOS'target='_blank'>libPhoneNumber-iOS</a>", 
+            "Stars": 1981
+        }, 
+        {
+            "Description": "Easiest way to create an attributed UITextView (with support for multiple links and from html)", 
+            "Forks": 33, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/evermeer/AttributedTextView'target='_blank'>AttributedTextView</a>", 
+            "Stars": 322
+        }, 
+        {
+            "Description": "Design string simply by linking attributes to needed parts", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dimpiax/StyleDecorator'target='_blank'>StyleDecorator</a>", 
+            "Stars": 16
+        }, 
+        {
+            "Description": "\ud83c\udf2d Mustard is a Swift library for tokenizing strings when splitting by whitespace doesn't cut it.", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mathewsanders/Mustard'target='_blank'>Mustard</a>", 
+            "Stars": 684
+        }, 
+        {
+            "Description": "User input masking library repo.", 
+            "Forks": 52, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/RedMadRobot/input-mask-ios'target='_blank'>input-mask-ios</a>", 
+            "Stars": 319
+        }, 
+        {
+            "Description": "\u00b5framework for Attributed strings.", 
+            "Forks": 30, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Nirma/Attributed'target='_blank'>Attributed</a>", 
+            "Stars": 670
+        }, 
+        {
+            "Description": "Convert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement.", 
+            "Forks": 55, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/psharanda/Atributika'target='_blank'>Atributika</a>", 
+            "Stars": 480
+        }, 
+        {
+            "Description": "A Cross-Platform String and Regular Expression Library written in Swift.", 
+            "Forks": 31, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ArtSabintsev/Guitar'target='_blank'>Guitar</a>", 
+            "Stars": 604
+        }, 
+        {
+            "Description": "UITextField realtime currency formatter - format while typing", 
+            "Forks": 3, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/kaiomedau/realtime-currency-formatter-objc'target='_blank'>realtime-currency-formatter-objc</a>", 
+            "Stars": 13
+        }, 
+        {
+            "Description": "Blazing fast Markdown / CommonMark rendering in Swift, built upon cmark.", 
+            "Forks": 104, 
+            "Language": "C", 
+            "Repo": "<a href='https://github.com/iwasrobbed/Down'target='_blank'>Down</a>", 
+            "Stars": 1019
+        }, 
+        {
+            "Description": "Markdown parser for iOS", 
+            "Forks": 36, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/m2mobi/Marky-Mark'target='_blank'>Marky-Mark</a>", 
+            "Stars": 159
+        }, 
+        {
+            "Description": "Markdown View for iOS.", 
+            "Forks": 88, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/keitaoouchi/MarkdownView'target='_blank'>MarkdownView</a>", 
+            "Stars": 1308
+        }, 
+        {
+            "Description": "\ud83d\udd8d Highlight whatever you want! ", 
+            "Forks": 47, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/younatics/Highlighter'target='_blank'>Highlighter</a>", 
+            "Stars": 842
+        }, 
+        {
+            "Description": "A library for formatting strings on iOS and macOS", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nicklockwood/Sprinter'target='_blank'>Sprinter</a>", 
+            "Stars": 164
+        }, 
+        {
+            "Description": "iOS & OSX Syntax Highlighter. ", 
+            "Forks": 91, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/raspu/Highlightr'target='_blank'>Highlightr</a>", 
+            "Stars": 720
+        }, 
+        {
+            "Description": "A lightweight fuzzy-search library, with zero dependencies", 
+            "Forks": 39, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/krisk/fuse-swift'target='_blank'>fuse-swift</a>", 
+            "Stars": 536
+        }, 
+        {
+            "Description": "A lightweight Markdown library for iOS.", 
+            "Forks": 23, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/EFPrefix/EFMarkdown'target='_blank'>EFMarkdown</a>", 
+            "Stars": 349
+        }, 
+        {
+            "Description": "Swift emoji string parsing library", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jkalash/croc'target='_blank'>Croc</a>", 
+            "Stars": 113
+        }
+    ]
+}

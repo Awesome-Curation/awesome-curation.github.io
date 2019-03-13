@@ -1,0 +1,102 @@
+{
+    "data": [
+        {
+            "Description": "Coroutines, structured concurrency and CSP for Swift on macOS and Linux.", 
+            "Forks": 57, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Zewo/Venice'target='_blank'>Venice</a>", 
+            "Stars": 1417
+        }, 
+        {
+            "Description": "Functional Concurrency Primitives", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/typelift/Concurrent'target='_blank'>Concurrent</a>", 
+            "Stars": 170
+        }, 
+        {
+            "Description": "Operation Oriented Programming in Swift", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/JohnSundell/Flow'target='_blank'>Flow</a>", 
+            "Stars": 207
+        }, 
+        {
+            "Description": "A Swift DSL that allows concise and effective concurrency manipulation", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jmfieldman/Brisk'target='_blank'>Brisk</a>", 
+            "Stars": 26
+        }, 
+        {
+            "Description": "An actor model library for swift.", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/aojet/Aojet'target='_blank'>Aojet</a>", 
+            "Stars": 29
+        }, 
+        {
+            "Description": "\u26a1\ufe0f Fast async task based Swift framework with focus on type safety, concurrency and multi threading", 
+            "Forks": 32, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/arikis/Overdrive'target='_blank'>Overdrive</a>", 
+            "Stars": 833
+        }, 
+        {
+            "Description": "A complete set of primitives for concurrency and reactive programming on Swift", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AsyncNinja/AsyncNinja'target='_blank'>AsyncNinja</a>", 
+            "Stars": 116
+        }, 
+        {
+            "Description": "A lightweight, pure-Swift library for manage the task execution in different threads. Through the definition a simple but powerful concept, Kommand.", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/intelygenz/Kommander-iOS'target='_blank'>Kommander-iOS</a>", 
+            "Stars": 150
+        }, 
+        {
+            "Description": "Type-safe thread-local storage in Swift", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nvzqz/Threadly'target='_blank'>Threadly</a>", 
+            "Stars": 55
+        }, 
+        {
+            "Description": "Make your logic flow and data flow clean and human readable", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/roytornado/Flow-iOS'target='_blank'>Flow-iOS</a>", 
+            "Stars": 12
+        }, 
+        {
+            "Description": "Queuer is a queue manager, built on top of OperationQueue and Dispatch (aka GCD).", 
+            "Forks": 32, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/FabrizioBrancati/Queuer'target='_blank'>Queuer</a>", 
+            "Stars": 820
+        }, 
+        {
+            "Description": "Job Scheduler for IOS with Concurrent run, failure/retry, persistence, repeat, delay and more", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/lucas34/SwiftQueue'target='_blank'>SwiftQueue</a>", 
+            "Stars": 114
+        }, 
+        {
+            "Description": "Easy, concurrent, asynchronous tasks in Swift.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/quanvo87/GroupWork'target='_blank'>GroupWork</a>", 
+            "Stars": 36
+        }, 
+        {
+            "Description": "A general purpose embedded hierarchical lock manager used to build highly concurrent applications of all types.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/stickytools/sticky-locking'target='_blank'>sticky-locking</a>", 
+            "Stars": 2
+        }
+    ]
+}

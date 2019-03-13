@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "Description": "Measuring the progress with annotations \ud83d\udd31", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/khawajafarooq/ProgressMeter'target='_blank'>ProgressMeter</a>", 
+            "Stars": 97
+        }, 
+        {
+            "Description": "Customizable progress indicator library in Swift", 
+            "Forks": 59, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/keygx/GradientCircularProgress'target='_blank'>GradientCircularProgress</a>", 
+            "Stars": 303
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "Description": "A delightful and expressive regular expression type for Swift.", 
+            "Forks": 30, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/sharplet/Regex'target='_blank'>Regex</a>", 
+            "Stars": 497
+        }, 
+        {
+            "Description": "Perl-like regex =~ operator for Swift", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kasei/SwiftRegex'target='_blank'>SwiftRegex</a>", 
+            "Stars": 117
+        }, 
+        {
+            "Description": "Easily deal with Regex in Swift in a Pythonic way", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/cezheng/PySwiftyRegex'target='_blank'>PySwiftyRegex</a>", 
+            "Stars": 215
+        }, 
+        {
+            "Description": "Regular expressions for swift", 
+            "Forks": 29, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/crossroadlabs/Regex'target='_blank'>Regex</a>", 
+            "Stars": 256
+        }, 
+        {
+            "Description": "Regex class for Swift.  Wraps NSRegularExpression.", 
+            "Forks": 16, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/brynbellomy/Regex'target='_blank'>Regex</a>", 
+            "Stars": 67
+        }
+    ]
+}

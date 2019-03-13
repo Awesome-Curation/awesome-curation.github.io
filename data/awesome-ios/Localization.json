@@ -1,0 +1,95 @@
+{
+    "data": [
+        {
+            "Description": "Simple solution to localize your iOS App.", 
+            "Forks": 61, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Aufree/Hodor'target='_blank'>Hodor</a>", 
+            "Stars": 532
+        }, 
+        {
+            "Description": "Localize iOS apps in a smarter way using JSON files. Swift framework.", 
+            "Forks": 45, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tomkowz/Swifternalization'target='_blank'>Swifternalization</a>", 
+            "Stars": 567
+        }, 
+        {
+            "Description": "Check Localizable.strings files of iOS Apps", 
+            "Forks": 13, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/dcordero/Rubustrings'target='_blank'>Rubustrings</a>", 
+            "Stars": 80
+        }, 
+        {
+            "Description": "Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files.", 
+            "Forks": 51, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Flinesoft/BartyCrouch'target='_blank'>BartyCrouch</a>", 
+            "Stars": 604
+        }, 
+        {
+            "Description": "Realtime Dynamic localization translation delivery system for iOS and Mac OSX in Swift. Create and update texts from localization.com without needing to recompile or redeploy. Cocapod for iOS devices (iPad, iPhone, iPod Touch and Mac)", 
+            "Forks": 71, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/willpowell8/LocalizationKit_iOS'target='_blank'>LocalizationKit_iOS</a>", 
+            "Stars": 1108
+        }, 
+        {
+            "Description": "Swift friendly localization and i18n with in-app language switching", 
+            "Forks": 209, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marmelroy/Localize-Swift'target='_blank'>Localize-Swift</a>", 
+            "Stars": 2081
+        }, 
+        {
+            "Description": "Setting up application specific localized string within xib file.", 
+            "Forks": 3, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/darkcl/LocalizedView'target='_blank'>LocalizedView</a>", 
+            "Stars": 8
+        }, 
+        {
+            "Description": "transai is a localization tool on Android and iOS.", 
+            "Forks": 2, 
+            "Language": "JavaScript", 
+            "Repo": "<a href='https://github.com/Jintin/transai'target='_blank'>transai</a>", 
+            "Stars": 54
+        }, 
+        {
+            "Description": "NLP/ML-based Xcode localization resource manager built with Google Translator ", 
+            "Forks": 16, 
+            "Language": "Python", 
+            "Repo": "<a href='https://github.com/metasmile/strsync'target='_blank'>strsync</a>", 
+            "Stars": 140
+        }, 
+        {
+            "Description": "Localize your views directly in Interface Builder with IBLocalizable", 
+            "Forks": 44, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PiXeL16/IBLocalizable'target='_blank'>IBLocalizable</a>", 
+            "Stars": 458
+        }, 
+        {
+            "Description": "A tool for finding missing and unused NSLocalizedStrings", 
+            "Forks": 7, 
+            "Language": "Python", 
+            "Repo": "<a href='https://github.com/samdmarshall/nslocalizer'target='_blank'>nslocalizer</a>", 
+            "Stars": 134
+        }, 
+        {
+            "Description": "Localization of the application with ability to change language \"on the fly\" and support for plural form in any language.", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Decybel07/L10n-swift'target='_blank'>L10n-swift</a>", 
+            "Stars": 102
+        }, 
+        {
+            "Description": "Localize is a framework writed in swift to localize your projects easier improves i18n, including storyboards and strings.", 
+            "Forks": 25, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/andresilvagomez/Localize'target='_blank'>Localize</a>", 
+            "Stars": 159
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "Description": "Crafter - Xcode project configuration CLI made easy.", 
+            "Forks": 34, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/krzysztofzablocki/crafter'target='_blank'>crafter</a>", 
+            "Stars": 547
+        }, 
+        {
+            "Description": "CLI for creating and configuring new Xcode projects", 
+            "Forks": 111, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/liftoffcli/liftoff'target='_blank'>liftoff</a>", 
+            "Stars": 1641
+        }, 
+        {
+            "Description": "Featureful iOS Boilerplate", 
+            "Forks": 40, 
+            "Language": "Python", 
+            "Repo": "<a href='https://github.com/crushlovely/Amaro'target='_blank'>Amaro</a>", 
+            "Stars": 395
+        }, 
+        {
+            "Description": "Swap around your iOS Simulator Documents", 
+            "Forks": 6, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/orta/chairs'target='_blank'>chairs</a>", 
+            "Stars": 234
+        }, 
+        {
+            "Description": "Easily generate cross platform Swift framework projects from the command line", 
+            "Forks": 78, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/JohnSundell/SwiftPlate'target='_blank'>SwiftPlate</a>", 
+            "Stars": 1606
+        }, 
+        {
+            "Description": " \ud83d\udcdd Read, update and write your Xcode projects", 
+            "Forks": 93, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tuist/xcodeproj'target='_blank'>xcodeproj</a>", 
+            "Stars": 903
+        }, 
+        {
+            "Description": "\ud83d\ude80 Create, maintain, and interact with Xcode projects at scale", 
+            "Forks": 23, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tuist/tuist'target='_blank'>tuist</a>", 
+            "Stars": 543
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "data": [
+        {
+            "Description": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device.", 
+            "Forks": 28, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Palleas/NaughtyKeyboard'target='_blank'>NaughtyKeyboard</a>", 
+            "Stars": 585
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png?v8'>  Swift fake data generator", 
+            "Forks": 110, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/vadymmarkov/Fakery'target='_blank'>Fakery</a>", 
+            "Stars": 1056
+        }, 
+        {
+            "Description": "Network testing for Swift", 
+            "Forks": 69, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/venmo/DVR'target='_blank'>DVR</a>", 
+            "Stars": 576
+        }, 
+        {
+            "Description": "Boilerplate-free mocking framework for Swift!", 
+            "Forks": 82, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Brightify/Cuckoo'target='_blank'>Cuckoo</a>", 
+            "Stars": 961
+        }, 
+        {
+            "Description": "Network testing \u00e0 la VCR in Swift ", 
+            "Forks": 20, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Velhotes/Vinyl'target='_blank'>Vinyl</a>", 
+            "Stars": 234
+        }, 
+        {
+            "Description": "A simple mocking framework for Swift, inspired by the famous http://mockito.org/", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/sabirvirtuoso/Mockit'target='_blank'>Mockit</a>", 
+            "Stars": 88
+        }, 
+        {
+            "Description": "Swifty tool for visual testing iPhone and iPad apps. Every pixel counts.", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/maxsokolov/Cribble'target='_blank'>Cribble</a>", 
+            "Stars": 280
+        }, 
+        {
+            "Description": "Upload failing iOS snapshot tests cases to S3", 
+            "Forks": 8, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ashfurrow/second_curtain'target='_blank'>second_curtain</a>", 
+            "Stars": 125
+        }, 
+        {
+            "Description": "Convert xcodebuild plist files to JUnit reports", 
+            "Forks": 25, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/xcpretty/trainer'target='_blank'>trainer</a>", 
+            "Stars": 159
+        }, 
+        {
+            "Description": "Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server. Keep your team productive and safe. Get up and running in minutes. @buildasaur", 
+            "Forks": 75, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/buildasaurs/Buildasaur'target='_blank'>Buildasaur</a>", 
+            "Stars": 759
+        }, 
+        {
+            "Description": "\ud83d\udc24Dynamically Mock server behaviors and responses in Swift", 
+            "Forks": 35, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/devlucky/Kakapo'target='_blank'>Kakapo</a>", 
+            "Stars": 768
+        }, 
+        {
+            "Description": "Tool for generating Acceptance Tests in Xcode, inspired by Fitnesse", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/bizz84/AcceptanceMark'target='_blank'>AcceptanceMark</a>", 
+            "Stars": 61
+        }, 
+        {
+            "Description": "A collection of useful test helpers designed to ease the burden of writing tests for iOS applications.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/metova/MetovaTestKit'target='_blank'>MetovaTestKit</a>", 
+            "Stars": 21
+        }, 
+        {
+            "Description": "Graduation from messy XCTAssertEqual messages.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Kuniwak/MirrorDiffKit'target='_blank'>MirrorDiffKit</a>", 
+            "Stars": 152
+        }, 
+        {
+            "Description": "iOS Simulator type agnostic snapshot testing, built on top of the FBSnapshotTestCase.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tooploox/SnappyTestCase'target='_blank'>SnappyTestCase</a>", 
+            "Stars": 14
+        }, 
+        {
+            "Description": "XCTestExtensions is a Swift extension that provides convenient assertions for writing Unit Test. ", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/shindyu/XCTestExtensions'target='_blank'>XCTestExtensions</a>", 
+            "Stars": 9
+        }, 
+        {
+            "Description": "An elegant library for stubbing HTTP requests with ease in Swift", 
+            "Forks": 126, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kylef/Mockingjay'target='_blank'>Mockingjay</a>", 
+            "Stars": 1224
+        }, 
+        {
+            "Description": "Send better feedback", 
+            "Forks": 64, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Lickability/PinpointKit'target='_blank'>PinpointKit</a>", 
+            "Stars": 1066
+        }, 
+        {
+            "Description": "Snapshot view unit tests for iOS", 
+            "Forks": 74, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/uber/ios-snapshot-test-case'target='_blank'>ios-snapshot-test-case</a>", 
+            "Stars": 800
+        }
+    ]
+}

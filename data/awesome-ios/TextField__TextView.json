@@ -1,0 +1,333 @@
+{
+    "data": [
+        {
+            "Description": "UITextField subclass with floating labels - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users", 
+            "Forks": 729, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/jverdi/JVFloatLabeledTextField'target='_blank'>JVFloatLabeledTextField</a>", 
+            "Stars": 6932
+        }, 
+        {
+            "Description": "ARAutocompleteTextView is a subclass of UITextView that automatically displays text suggestions in real-time.  This is perfect for automatically suggesting the domain as a user types an email address, #hashtag or @alexruperez.", 
+            "Forks": 26, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/alexruperez/ARAutocompleteTextView'target='_blank'>ARAutocompleteTextView</a>", 
+            "Stars": 260
+        }, 
+        {
+            "Description": "TextField with DropDown support using UIPickerView", 
+            "Forks": 75, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/hackiftekhar/IQDropDownTextField'target='_blank'>IQDropDownTextField</a>", 
+            "Stars": 270
+        }, 
+        {
+            "Description": "UITextField category that adds shake animation", 
+            "Forks": 95, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/andreamazz/UITextField-Shake'target='_blank'>UITextField-Shake</a>", 
+            "Stars": 736
+        }, 
+        {
+            "Description": "A UITextField with bouncy placeholder. ", 
+            "Forks": 24, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hanton/HTYTextField'target='_blank'>HTYTextField</a>", 
+            "Stars": 257
+        }, 
+        {
+            "Description": "iOS - Subclass of UITextField to achieve autocompletion for Place Search like Google Places, Uber and Much more apps having maps.", 
+            "Forks": 25, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/TheMrugraj/MVAutocompletePlaceSearchTextField'target='_blank'>MVAutocompletePlaceSearchTextField</a>", 
+            "Stars": 70
+        }, 
+        {
+            "Description": "Add word completion to your UITextFields.", 
+            "Forks": 41, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/filipstefansson/AutocompleteField'target='_blank'>AutocompleteField</a>", 
+            "Stars": 651
+        }, 
+        {
+            "Description": "A light-weight UITextView subclass that automatically grows and shrinks.", 
+            "Forks": 54, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ruslanskorb/RSKGrowingTextView'target='_blank'>RSKGrowingTextView</a>", 
+            "Stars": 601
+        }, 
+        {
+            "Description": "A light-weight UITextView subclass that adds support for placeholder.", 
+            "Forks": 27, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ruslanskorb/RSKPlaceholderTextView'target='_blank'>RSKPlaceholderTextView</a>", 
+            "Stars": 103
+        }, 
+        {
+            "Description": "Placeholder views based on content, loading, error or empty states", 
+            "Forks": 133, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/aschuch/StatefulViewController'target='_blank'>StatefulViewController</a>", 
+            "Stars": 2019
+        }, 
+        {
+            "Description": "An auto-layout base UITextView subclass which automatically grows with user input and can be constrained by maximal and minimal height - all without a single line of code", 
+            "Forks": 30, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/MatejBalantic/MBAutoGrowingTextView'target='_blank'>MBAutoGrowingTextView</a>", 
+            "Stars": 124
+        }, 
+        {
+            "Description": "Custom UITextFields effects inspired by Codrops, built using Swift", 
+            "Forks": 543, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/raulriera/TextFieldEffects'target='_blank'>TextFieldEffects</a>", 
+            "Stars": 5019
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  \ud83d\udd0d RAMReel is a UI controller that allows you to choose options from a list. Swift UI library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries", 
+            "Forks": 173, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Ramotion/reel-search'target='_blank'>reel-search</a>", 
+            "Stars": 2302
+        }, 
+        {
+            "Description": "UITextfield subclass with autocomplete menu. For iOS.", 
+            "Forks": 228, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/EddyBorja/MLPAutoCompleteTextField'target='_blank'>MLPAutoCompleteTextField</a>", 
+            "Stars": 1202
+        }, 
+        {
+            "Description": "A beautiful and flexible text field control implementation of  \"Float Label Pattern\". Written in Swift.", 
+            "Forks": 356, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Skyscanner/SkyFloatingLabelTextField'target='_blank'>SkyFloatingLabelTextField</a>", 
+            "Stars": 3198
+        }, 
+        {
+            "Description": "VMaskTextField is a library which create an input mask for iOS.", 
+            "Forks": 62, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/viniciusmo/VMaskTextField'target='_blank'>VMaskTextField</a>", 
+            "Stars": 378
+        }, 
+        {
+            "Description": "UITextField with underline and left image", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tejas-ardeshna/TJTextField'target='_blank'>TJTextField</a>", 
+            "Stars": 44
+        }, 
+        {
+            "Description": "\ud83d\udcdd The next in the generations of 'growing textviews' optimized for iOS 8 and above.", 
+            "Forks": 107, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/muukii/NextGrowingTextView'target='_blank'>NextGrowingTextView</a>", 
+            "Stars": 1147
+        }, 
+        {
+            "Description": "UITextField and UITextView subclasses with placeholders that change into floating labels when the fields are populated with text.", 
+            "Forks": 127, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/iwasrobbed/RPFloatingPlaceholders'target='_blank'>RPFloatingPlaceholders</a>", 
+            "Stars": 1125
+        }, 
+        {
+            "Description": "UITextField that automatically formats text to display in the currency format", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/richa008/CurrencyTextField'target='_blank'>CurrencyTextField</a>", 
+            "Stars": 30
+        }, 
+        {
+            "Description": "\ud83c\udfc4\u200d\u2642\ufe0f UITextField-Navigation makes it easier to navigate between UITextFields and UITextViews", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/T-Pham/UITextField-Navigation'target='_blank'>UITextField-Navigation</a>", 
+            "Stars": 394
+        }, 
+        {
+            "Description": "TextField with smart suggestion", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nferocious76/AutoCompleteTextField'target='_blank'>AutoCompleteTextField</a>", 
+            "Stars": 37
+        }, 
+        {
+            "Description": "Tap to swap out words with emojis. Inspired by Messages.app on iOS 10.", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/fastred/EmojiTextView'target='_blank'>EmojiTextView</a>", 
+            "Stars": 352
+        }, 
+        {
+            "Description": "UITextField that support currency in the right way.", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nonameplum/PLCurrencyTextField'target='_blank'>PLCurrencyTextField</a>", 
+            "Stars": 89
+        }, 
+        {
+            "Description": "A custom TextField with a switchable icon which shows or hides the password and enforce good password policies", 
+            "Forks": 33, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PiXeL16/PasswordTextField'target='_blank'>PasswordTextField</a>", 
+            "Stars": 231
+        }, 
+        {
+            "Description": "Animated UITextField and UITextView replacement for iOS", 
+            "Forks": 104, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jobandtalent/AnimatedTextInput'target='_blank'>AnimatedTextInput</a>", 
+            "Stars": 630
+        }, 
+        {
+            "Description": "A UITextView subclass that adds support for multiline placeholder written in Swift.", 
+            "Forks": 111, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MoZhouqi/KMPlaceholderTextView'target='_blank'>KMPlaceholderTextView</a>", 
+            "Stars": 575
+        }, 
+        {
+            "Description": "Library that allows you binding `enabled` property of button with textable elements (TextView, TextField)", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Otbivnoe/NxEnabled'target='_blank'>NxEnabled</a>", 
+            "Stars": 31
+        }, 
+        {
+            "Description": "Awesome TextField is a nice and simple libriary for iOS and Mac OSX. It's highly customisable and easy-to-use tool. Works perfectly for any registration or login forms in your app.", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/aleksandrshoshiashvili/AwesomeTextFieldSwift'target='_blank'>AwesomeTextFieldSwift</a>", 
+            "Stars": 167
+        }, 
+        {
+            "Description": "The famous iOS search bar with auto completion feature implemented.", 
+            "Forks": 24, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PhilippeBoisney/ModernSearchBar'target='_blank'>ModernSearchBar</a>", 
+            "Stars": 125
+        }, 
+        {
+            "Description": "A text view that supports selection and expansion", 
+            "Forks": 26, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jhurray/SelectableTextView'target='_blank'>SelectableTextView</a>", 
+            "Stars": 598
+        }, 
+        {
+            "Description": "A customisable view for entering arbitrary length pins, codes or passwords in iOS. Supports iOS 12 one time codes.", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Fawxy/CBPinEntryView'target='_blank'>CBPinEntryView</a>", 
+            "Stars": 102
+        }, 
+        {
+            "Description": "An UITextView in Swift3, Swift4 and Swift2.3. Support auto growing, placeholder and length limit.", 
+            "Forks": 62, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/KennethTsang/GrowingTextView'target='_blank'>GrowingTextView</a>", 
+            "Stars": 472
+        }, 
+        {
+            "Description": "DTTextField is a custom textfield with floating placeholder and error label", 
+            "Forks": 23, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/iDhaval/DTTextField'target='_blank'>DTTextField</a>", 
+            "Stars": 110
+        }, 
+        {
+            "Description": "UITextField character counter with lovable UX \ud83d\udc96. No math skills required \ud83d\ude43.", 
+            "Forks": 25, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/serralvo/TextFieldCounter'target='_blank'>TextFieldCounter</a>", 
+            "Stars": 360
+        }, 
+        {
+            "Description": "A Float Input View with smooth animation and supporting icon and seperator written with Swift", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/roytornado/RSFloatInputView'target='_blank'>RSFloatInputView</a>", 
+            "Stars": 84
+        }, 
+        {
+            "Description": "My first cocoapod framework", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/iceman201/TaniwhaTextField'target='_blank'>TaniwhaTextField</a>", 
+            "Stars": 24
+        }, 
+        {
+            "Description": "\u26a1\ufe0f A library of widgets and helpers to build instant-search applications on iOS.", 
+            "Forks": 20, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/algolia/instantsearch-ios'target='_blank'>instantsearch-ios</a>", 
+            "Stars": 457
+        }, 
+        {
+            "Description": "UITextField subclass with autocompletion suggestions list", 
+            "Forks": 154, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/apasccon/SearchTextField'target='_blank'>SearchTextField</a>", 
+            "Stars": 750
+        }, 
+        {
+            "Description": "\ud83d\udd0d An elegant search controller which replaces the UISearchController for iOS (iPhone & iPad) .", 
+            "Forks": 686, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ko1o/PYSearch'target='_blank'>PYSearch</a>", 
+            "Stars": 3349
+        }, 
+        {
+            "Description": "Declarative text styles and streamlined Dynamic Type support for iOS", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/blueapron/styled-text'target='_blank'>styled-text</a>", 
+            "Stars": 228
+        }, 
+        {
+            "Description": "Lightweight set of text fields with nice animation and functionality. \ud83d\ude80 Inspired by https://uimovement.com/ui/2524/input-field-help/", 
+            "Forks": 40, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/oleghnidets/TweeTextField'target='_blank'>TweeTextField</a>", 
+            "Stars": 306
+        }, 
+        {
+            "Description": "UITextField-based control for (NS)Measurement values input.", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SiarheiFedartsou/MeasurementTextField'target='_blank'>MeasurementTextField</a>", 
+            "Stars": 11
+        }, 
+        {
+            "Description": "Easy-to-use token field that is used in the Venmo app.", 
+            "Forks": 186, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/venmo/VENTokenField'target='_blank'>VENTokenField</a>", 
+            "Stars": 774
+        }, 
+        {
+            "Description": "An auto growing text input bar for messaging apps.", 
+            "Forks": 50, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AlexLittlejohn/ALTextInputBar'target='_blank'>ALTextInputBar</a>", 
+            "Stars": 247
+        }, 
+        {
+            "Description": "TextView that provides easy to use tagging feature for Mention or Hashtag.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/k-lpmg/Tagging'target='_blank'>Tagging</a>", 
+            "Stars": 21
+        }, 
+        {
+            "Description": "A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments", 
+            "Forks": 33, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nathantannar4/InputBarAccessoryView'target='_blank'>InputBarAccessoryView</a>", 
+            "Stars": 451
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "data": [
+        {
+            "Description": "Deprecated: Please use [PlayerKit]( https://github.com/vimeo/PlayerKit) instead.", 
+            "Forks": 60, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/vimeo/VIMVideoPlayer'target='_blank'>VIMVideoPlayer</a>", 
+            "Stars": 275
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png?v8'>  <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png?v8'>  A powerful and completely customizable media player for iOS", 
+            "Forks": 298, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mobileplayer/mobileplayer-ios'target='_blank'>mobileplayer-ios</a>", 
+            "Stars": 2582
+        }, 
+        {
+            "Description": "YouTube video player for iOS, tvOS and macOS", 
+            "Forks": 430, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/0xced/XCDYouTubeKit'target='_blank'>XCDYouTubeKit</a>", 
+            "Stars": 2464
+        }, 
+        {
+            "Description": "Video view controller with Periscope fast rewind control", 
+            "Forks": 37, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/gontovnik/Periscope-VideoViewController'target='_blank'>Periscope-VideoViewController</a>", 
+            "Stars": 489
+        }, 
+        {
+            "Description": "A Photo and Video Gallery ", 
+            "Forks": 380, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/mariohahn/MHVideoPhotoGallery'target='_blank'>MHVideoPhotoGallery</a>", 
+            "Stars": 1992
+        }, 
+        {
+            "Description": "Player View is a delegated view using AVPlayer of Swift", 
+            "Forks": 36, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/davidlondono/PlayerView'target='_blank'>PlayerView</a>", 
+            "Stars": 112
+        }, 
+        {
+            "Description": "The SRG Media Player library for iOS provides a simple way to add a universal audio / video player to any iOS application.", 
+            "Forks": 29, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/SRGSSR/SRGMediaPlayer-iOS'target='_blank'>SRGMediaPlayer-iOS</a>", 
+            "Stars": 95
+        }, 
+        {
+            "Description": "Easy way to show SRT files on AVPlayerViewController", 
+            "Forks": 31, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mhergon/AVPlayerViewController-Subtitles'target='_blank'>AVPlayerViewController-Subtitles</a>", 
+            "Stars": 133
+        }, 
+        {
+            "Description": "Easy way to show SRT files on MPMoviePlayerController", 
+            "Forks": 25, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mhergon/MPMoviePlayerController-Subtitles'target='_blank'>MPMoviePlayerController-Subtitles</a>", 
+            "Stars": 184
+        }, 
+        {
+            "Description": "Support customization of any player SDK and control layer(\u652f\u6301\u5b9a\u5236\u4efb\u4f55\u64ad\u653e\u5668SDK\u548c\u63a7\u5236\u5c42)", 
+            "Forks": 1243, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/renzifeng/ZFPlayer'target='_blank'>ZFPlayer</a>", 
+            "Stars": 5245
+        }, 
+        {
+            "Description": "\u25b6\ufe0f video player in Swift, simple way to play and stream media on iOS/tvOS", 
+            "Forks": 236, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/piemonte/Player'target='_blank'>Player</a>", 
+            "Stars": 1321
+        }, 
+        {
+            "Description": "A video player for iOS, based on AVPlayer, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, support subtitles. ", 
+            "Forks": 252, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/BrikerMan/BMPlayer'target='_blank'>BMPlayer</a>", 
+            "Stars": 1257
+        }, 
+        {
+            "Description": "Paging Video UI, and some control components is available.", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/entotsu/VideoPager'target='_blank'>VideoPager</a>", 
+            "Stars": 45
+        }, 
+        {
+            "Description": "NYT360Video plays 360-degree video streamed from an AVPlayer on iOS.", 
+            "Forks": 37, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/NYTimes/ios-360-videos'target='_blank'>ios-360-videos</a>", 
+            "Stars": 244
+        }, 
+        {
+            "Description": "360 video player for iOS written in swift - a subset of SceneKit that works", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/gsabran/DDDKit'target='_blank'>DDDKit</a>", 
+            "Stars": 105
+        }, 
+        {
+            "Description": "Media view which subclasses UIImageView, and can display & load images, videos, GIFs, and audio and from the web, and has functionality to minimize from fullscreen, as well as show GIF previews for videos.", 
+            "Forks": 8, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/andrewboryk/ABMediaView'target='_blank'>ABMediaView</a>", 
+            "Stars": 70
+        }, 
+        {
+            "Description": "A set of tools to trim, crop and select frames inside a video", 
+            "Forks": 49, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/HHK1/PryntTrimmerView'target='_blank'>PryntTrimmerView</a>", 
+            "Stars": 277
+        }, 
+        {
+            "Description": "\ud83d\udcfa  A simple iOS video player by Vein.", 
+            "Forks": 66, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/VeinGuo/VGPlayer'target='_blank'>VGPlayer</a>", 
+            "Stars": 317
+        }, 
+        {
+            "Description": "YoutubeKit is a video player that fully supports Youtube IFrame API and YoutubeDataAPI for easily create a Youtube app. [Support Xcode10 and Swift4.2]", 
+            "Forks": 54, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/rinov/YoutubeKit'target='_blank'>YoutubeKit</a>", 
+            "Stars": 322
+        }, 
+        {
+            "Description": "Swift library for embedding and controlling YouTube videos in your iOS applications!", 
+            "Forks": 189, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/gilesvangruisen/Swift-YouTube-Player'target='_blank'>Swift-YouTube-Player</a>", 
+            "Stars": 610
+        }, 
+        {
+            "Description": "", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jamesdouble/JDVideoKit'target='_blank'>JDVideoKit</a>", 
+            "Stars": 23
+        }, 
+        {
+            "Description": "Versatile Video Player implementation for iOS, macOS, and tvOS", 
+            "Forks": 26, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/josejuanqm/VersaPlayer'target='_blank'>VersaPlayer</a>", 
+            "Stars": 361
+        }
+    ]
+}

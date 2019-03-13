@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "Description": "Notify users when a new version of your app is available and prompt them to upgrade.", 
+            "Forks": 324, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ArtSabintsev/Harpy'target='_blank'>Harpy</a>", 
+            "Stars": 2597
+        }, 
+        {
+            "Description": "[DEPRECATED]", 
+            "Forks": 754, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/nicklockwood/iRate'target='_blank'>iRate</a>", 
+            "Stars": 4284
+        }, 
+        {
+            "Description": "A utility that reminds your iPhone app's users to review the app.", 
+            "Forks": 917, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/arashpayan/appirater'target='_blank'>appirater</a>", 
+            "Stars": 4644
+        }, 
+        {
+            "Description": "Notify users when a new version of your app is available and prompt them to upgrade.", 
+            "Forks": 270, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ArtSabintsev/Siren'target='_blank'>Siren</a>", 
+            "Stars": 2884
+        }, 
+        {
+            "Description": "A curated list of guideline which has to be taken care before submitting your application to Appstore.", 
+            "Forks": 2, 
+            "Language": "None", 
+            "Repo": "<a href='https://github.com/aashishtamsya/Appstore-Review-Guidelines'target='_blank'>Appstore-Review-Guidelines</a>", 
+            "Stars": 8
+        }, 
+        {
+            "Description": "Keep users on the up-to date version of your App.", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/amebalabs/AppVersion'target='_blank'>AppVersion</a>", 
+            "Stars": 4
+        }
+    ]
+}

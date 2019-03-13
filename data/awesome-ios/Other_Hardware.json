@@ -1,0 +1,102 @@
+{
+    "data": [
+        {
+            "Description": "Get the data from Accelerometer, Gyroscope and Magnetometer in only Two or a few lines of code. CoreMotion now made insanely simple  <img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>    <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4e1.png?v8'>     ", 
+            "Forks": 135, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MHaroonBaig/MotionKit'target='_blank'>MotionKit</a>", 
+            "Stars": 1017
+        }, 
+        {
+            "Description": "Simply the fastest way to transmit data between iOS/tvOS and OSX", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jensmeder/DarkLightning'target='_blank'>DarkLightning</a>", 
+            "Stars": 229
+        }, 
+        {
+            "Description": "Swift library to check the device on which the app is running", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/andrealufino/Deviice'target='_blank'>Deviice</a>", 
+            "Stars": 27
+        }, 
+        {
+            "Description": "DeviceKit is a value-type replacement of UIDevice.", 
+            "Forks": 235, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dennisweissmann/DeviceKit'target='_blank'>DeviceKit</a>", 
+            "Stars": 2521
+        }, 
+        {
+            "Description": "Luminous gives you all the system information you need!", 
+            "Forks": 28, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/andrealufino/Luminous'target='_blank'>Luminous</a>", 
+            "Stars": 251
+        }, 
+        {
+            "Description": "Light weight tool for detecting the current device and screen size written in swift.", 
+            "Forks": 105, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Ekhoo/Device'target='_blank'>Device</a>", 
+            "Stars": 1210
+        }, 
+        {
+            "Description": "Simple motion detector for \u231a\ufe0f (watchOS) shake gesture.", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ezefranca/WatchShaker'target='_blank'>WatchShaker</a>", 
+            "Stars": 169
+        }, 
+        {
+            "Description": "WatchCon is a tool which enables creating easy connectivity between iOS and WatchOS.", 
+            "Forks": 2, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/abdullahselek/WatchCon'target='_blank'>WatchCon</a>", 
+            "Stars": 27
+        }, 
+        {
+            "Description": "TapticEngine generates haptic feedback vibrations on iOS device.", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/WorldDownTown/TapticEngine'target='_blank'>TapticEngine</a>", 
+            "Stars": 221
+        }, 
+        {
+            "Description": "UIDevice extensions that fill in the missing pieces.", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Nirma/UIDeviceComplete'target='_blank'>UIDeviceComplete</a>", 
+            "Stars": 264
+        }, 
+        {
+            "Description": "NFC Forum Well Known Type Data Parser for iOS11 and Core NFC", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jvk75/NFCNDEFParse'target='_blank'>NFCNDEFParse</a>", 
+            "Stars": 10
+        }, 
+        {
+            "Description": "Super-lightweight library to detect used device", 
+            "Forks": 55, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/schickling/Device.swift'target='_blank'>Device.swift</a>", 
+            "Stars": 185
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png?v8'>  Lightweight Cocoa library for detecting the running device's model and screen size.", 
+            "Forks": 197, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/sebyddd/SDVersion'target='_blank'>SDVersion</a>", 
+            "Stars": 1329
+        }, 
+        {
+            "Description": "Haptico \ud83d\udcf3 - easy to use haptic feedback generator with pattern-play support", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/iSapozhnik/Haptico'target='_blank'>Haptico</a>", 
+            "Stars": 241
+        }
+    ]
+}

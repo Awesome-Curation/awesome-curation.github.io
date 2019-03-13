@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "Description": "Swift minion for simple and lightweight XML parsing", 
+            "Forks": 161, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tadija/AEXML'target='_blank'>AEXML</a>", 
+            "Stars": 811
+        }, 
+        {
+            "Description": "Ji (\u621f) is an XML/HTML parser for Swift", 
+            "Forks": 52, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/honghaoz/Ji'target='_blank'>Ji</a>", 
+            "Stars": 789
+        }, 
+        {
+            "Description": "A sensible way to deal with XML & HTML for iOS & macOS", 
+            "Forks": 196, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/mattt/Ono'target='_blank'>Ono</a>", 
+            "Stars": 2451
+        }, 
+        {
+            "Description": "Fetch a XML feed and parse it into objects", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/evermeer/AlamofireXmlToObjects'target='_blank'>AlamofireXmlToObjects</a>", 
+            "Stars": 66
+        }, 
+        {
+            "Description": "A fast & lightweight XML & HTML parser in Swift with XPath & CSS support", 
+            "Forks": 104, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/cezheng/Fuzi'target='_blank'>Fuzi</a>", 
+            "Stars": 741
+        }, 
+        {
+            "Description": "Kanna(\u924b) is an XML/HTML parser for Swift.", 
+            "Forks": 166, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tid-kijyun/Kanna'target='_blank'>Kanna</a>", 
+            "Stars": 1762
+        }, 
+        {
+            "Description": "Simple XML Parser implemented in Swift", 
+            "Forks": 40, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yahoojapan/SwiftyXMLParser'target='_blank'>SwiftyXMLParser</a>", 
+            "Stars": 250
+        }, 
+        {
+            "Description": "An Objective-C framework for your everyday HTML needs.", 
+            "Forks": 18, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/iabudiab/HTMLKit'target='_blank'>HTMLKit</a>", 
+            "Stars": 164
+        }, 
+        {
+            "Description": "Simple XML parsing in Swift", 
+            "Forks": 161, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/drmohundro/SWXMLHash'target='_blank'>SWXMLHash</a>", 
+            "Stars": 1073
+        }, 
+        {
+            "Description": "The most swifty way to deal with XML data in swift 4.", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/chenyunguiMilook/SwiftyXML'target='_blank'>SwiftyXML</a>", 
+            "Stars": 44
+        }, 
+        {
+            "Description": "XMLEncoder & XMLDecoder using Codable protocol in Swift 4", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/MaxDesiatov/XMLCoder'target='_blank'>XMLCoder</a>", 
+            "Stars": 74
+        }
+    ]
+}

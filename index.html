@@ -3,18 +3,20 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>GitHub Formatted Curation</title>
+  <title>Awesome Curation Filtering</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#157878">
+  <link rel="icon" href="assets/images/github.svg">
 
   <!-- Style CDN-->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.css">
-  <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.2/css/bootstrap-select.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/css/dataTables.bootstrap4.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.6/css/bootstrap-select.min.css" />
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
 
   <!-- Style Local -->
   <link rel="stylesheet" href="assets/css/text.css">
+  <link rel="stylesheet" href="assets/css/table.css">
   <link rel="stylesheet" href="assets/css/normalize.css">
   <link rel="stylesheet" href="assets/css/cayman.css">
 </head>
@@ -30,169 +32,171 @@
 
     <div class="container">
       <div class="row">
-        <div class="col"></div>
-        <div class="col">
+        <div class="col-sm-3"></div>
+        <div class="col-lg-6">
           <select class="selectpicker show-tick" 
+                  data-width="100%" 
                   data-style="btn-info" 
                   data-live-search="true" 
-                  data-size="7">
-            <option >All</option>
+                  data-size="7"
+                  autocomplete="off">
+            <option id='__all__.json'>All</option>
             <option data-divider="true"></option>
 <!-- Begin Dropdown Insertion -->
-<option>Data Structures / Algorithms</option>
-<option>Code Injection</option>
-<option>Authentication</option>
-<option>Local Notifications</option>
-<option>Form & Settings</option>
-<option>Math</option>
-<option>Files</option>
-<option>Segmented Control</option>
-<option>Walkthrough / Intro / Tutorial</option>
-<option>Other Xcode</option>
-<option>Other Awesome Lists</option>
-<option>Splash View</option>
-<option>GIF</option>
-<option>Products</option>
-<option>Cards</option>
-<option>XML & HTML</option>
-<option>TDD / BDD</option>
-<option>Expandable Cell</option>
-<option>Reference</option>
-<option>App Store</option>
-<option>Newsletters</option>
-<option>Accessibility</option>
-<option>Bluetooth</option>
-<option>Unofficial</option>
-<option>Streaming</option>
-<option>Tag</option>
-<option>Keyboard</option>
-<option>Collection View Layout</option>
-<option>Font</option>
-<option>Networking</option>
-<option>Encryption</option>
-<option>Blockchain</option>
-<option>Charts</option>
-<option>Label</option>
-<option>Camera</option>
-<option>Location</option>
-<option>Other Hardware</option>
-<option>WebSocket</option>
-<option>Badge</option>
-<option>Email</option>
-<option>GCD</option>
-<option>Tab Bar</option>
-<option>Reactive Programming</option>
-<option>Popup</option>
-<option>Header</option>
-<option>News, Blogs and more</option>
-<option>ARKit</option>
-<option>Books</option>
-<option>Rapid Development</option>
-<option>Getting Started</option>
-<option>PickerView</option>
-<option>Logging</option>
-<option>Media Processing</option>
-<option>Themes</option>
-<option>Official</option>
-<option>ScrollView</option>
-<option>Server</option>
-<option>iBeacon</option>
-<option>Optimization</option>
-<option>Security</option>
-<option>CSV</option>
-<option>A/B Testing</option>
-<option>Activity Indicator</option>
-<option>Bridging</option>
-<option>Functional Programming</option>
-<option>UI</option>
-<option>Podcasts</option>
-<option>Calendar</option>
-<option>Passbook</option>
-<option>Regex</option>
-<option>TextField & TextView</option>
-<option>Cache</option>
-<option>Maps</option>
-<option>Push Notifications</option>
-<option>Deployment / Distribution</option>
-<option>Keychain</option>
-<option>EventBus</option>
-<option>Navigation Bar</option>
-<option>Pull to Refresh</option>
-<option>Apple TV</option>
-<option>Alexa</option>
-<option>Localization</option>
-<option>Table View</option>
-<option>JSON</option>
-<option>UIKit references</option>
-<option>Gesture</option>
-<option>iOS UI Template</option>
-<option>Permissions</option>
-<option>Reflection</option>
-<option>Database</option>
-<option>Linter</option>
-<option>Transition</option>
-<option>Style Guides</option>
-<option>Tutorials and Keynotes</option>
-<option>Switch</option>
-<option>PDF</option>
-<option>UIPageControl</option>
-<option>Forums and discuss lists</option>
-<option>Debugging</option>
-<option>Text</option>
-<option>Twitter</option>
-<option>Prototyping</option>
-<option>Analytics</option>
-<option>Facebook Groups</option>
-<option>Video</option>
-<option>Image</option>
-<option>Web View</option>
-<option>Other Parsing</option>
-<option>Layout</option>
-<option>Core Data</option>
-<option>Push Notification Providers</option>
-<option>Menu</option>
-<option>Stepper</option>
-<option>Dependency / Package Manager</option>
-<option>Objective-C Runtime</option>
-<option>Animation</option>
-<option>Rating Stars</option>
-<option>ProgressView</option>
-<option>Command Line</option>
-<option>Dependency Injection</option>
-<option>Architecture Patterns</option>
-<option>Slider</option>
-<option>Graphics</option>
-<option>Representations</option>
-<option>Placeholder</option>
-<option>Project setup</option>
-<option>Button</option>
-<option>Other Testing</option>
-<option>Status Bar</option>
-<option>Code Quality</option>
-<option>VR</option>
-<option>Medium</option>
-<option>Games</option>
-<option>Payments</option>
-<option>Messaging</option>
-<option>Login</option>
-<option>Audio</option>
-<option>Alert & Action Sheet</option>
-<option>Color</option>
-<option>App Routing</option>
-<option>UI Testing</option>
-<option>Machine Learning</option>
-<option>Collection View</option>
-<option>Date & Time</option>
-<option>React-Like</option>
-<option>Concurrency</option>
-<option>Extensions (Xcode 8+)</option>
-<option>Utility</option>
-<option>Tools</option>
-<option>Force Touch</option>
+<option id='Data_Structures__Algorithms.json'>Data Structures / Algorithms</option>
+<option id='Code_Injection.json'>Code Injection</option>
+<option id='Authentication.json'>Authentication</option>
+<option id='Local_Notifications.json'>Local Notifications</option>
+<option id='Form__Settings.json'>Form & Settings</option>
+<option id='Math.json'>Math</option>
+<option id='Files.json'>Files</option>
+<option id='Segmented_Control.json'>Segmented Control</option>
+<option id='Walkthrough__Intro__Tutorial.json'>Walkthrough / Intro / Tutorial</option>
+<option id='Other_Xcode.json'>Other Xcode</option>
+<option id='Other_Awesome_Lists.json'>Other Awesome Lists</option>
+<option id='Splash_View.json'>Splash View</option>
+<option id='GIF.json'>GIF</option>
+<option id='Products.json'>Products</option>
+<option id='Cards.json'>Cards</option>
+<option id='XML__HTML.json'>XML & HTML</option>
+<option id='TDD__BDD.json'>TDD / BDD</option>
+<option id='Expandable_Cell.json'>Expandable Cell</option>
+<option id='Reference.json'>Reference</option>
+<option id='App_Store.json'>App Store</option>
+<option id='Newsletters.json'>Newsletters</option>
+<option id='Accessibility.json'>Accessibility</option>
+<option id='Bluetooth.json'>Bluetooth</option>
+<option id='Unofficial.json'>Unofficial</option>
+<option id='Streaming.json'>Streaming</option>
+<option id='Tag.json'>Tag</option>
+<option id='Keyboard.json'>Keyboard</option>
+<option id='Collection_View_Layout.json'>Collection View Layout</option>
+<option id='Font.json'>Font</option>
+<option id='Networking.json'>Networking</option>
+<option id='Encryption.json'>Encryption</option>
+<option id='Blockchain.json'>Blockchain</option>
+<option id='Charts.json'>Charts</option>
+<option id='Label.json'>Label</option>
+<option id='Camera.json'>Camera</option>
+<option id='Location.json'>Location</option>
+<option id='Other_Hardware.json'>Other Hardware</option>
+<option id='WebSocket.json'>WebSocket</option>
+<option id='Badge.json'>Badge</option>
+<option id='Email.json'>Email</option>
+<option id='GCD.json'>GCD</option>
+<option id='Tab_Bar.json'>Tab Bar</option>
+<option id='Reactive_Programming.json'>Reactive Programming</option>
+<option id='Popup.json'>Popup</option>
+<option id='Header.json'>Header</option>
+<option id='News_Blogs_and_more.json'>News, Blogs and more</option>
+<option id='ARKit.json'>ARKit</option>
+<option id='Books.json'>Books</option>
+<option id='Rapid_Development.json'>Rapid Development</option>
+<option id='Getting_Started.json'>Getting Started</option>
+<option id='PickerView.json'>PickerView</option>
+<option id='Logging.json'>Logging</option>
+<option id='Media_Processing.json'>Media Processing</option>
+<option id='Themes.json'>Themes</option>
+<option id='Official.json'>Official</option>
+<option id='ScrollView.json'>ScrollView</option>
+<option id='Server.json'>Server</option>
+<option id='iBeacon.json'>iBeacon</option>
+<option id='Optimization.json'>Optimization</option>
+<option id='Security.json'>Security</option>
+<option id='CSV.json'>CSV</option>
+<option id='AB_Testing.json'>A/B Testing</option>
+<option id='Activity_Indicator.json'>Activity Indicator</option>
+<option id='Bridging.json'>Bridging</option>
+<option id='Functional_Programming.json'>Functional Programming</option>
+<option id='UI.json'>UI</option>
+<option id='Podcasts.json'>Podcasts</option>
+<option id='Calendar.json'>Calendar</option>
+<option id='Passbook.json'>Passbook</option>
+<option id='Regex.json'>Regex</option>
+<option id='TextField__TextView.json'>TextField & TextView</option>
+<option id='Cache.json'>Cache</option>
+<option id='Maps.json'>Maps</option>
+<option id='Push_Notifications.json'>Push Notifications</option>
+<option id='Deployment__Distribution.json'>Deployment / Distribution</option>
+<option id='Keychain.json'>Keychain</option>
+<option id='EventBus.json'>EventBus</option>
+<option id='Navigation_Bar.json'>Navigation Bar</option>
+<option id='Pull_to_Refresh.json'>Pull to Refresh</option>
+<option id='Apple_TV.json'>Apple TV</option>
+<option id='Alexa.json'>Alexa</option>
+<option id='Localization.json'>Localization</option>
+<option id='Table_View.json'>Table View</option>
+<option id='JSON.json'>JSON</option>
+<option id='UIKit_references.json'>UIKit references</option>
+<option id='Gesture.json'>Gesture</option>
+<option id='iOS_UI_Template.json'>iOS UI Template</option>
+<option id='Permissions.json'>Permissions</option>
+<option id='Reflection.json'>Reflection</option>
+<option id='Database.json'>Database</option>
+<option id='Linter.json'>Linter</option>
+<option id='Transition.json'>Transition</option>
+<option id='Style_Guides.json'>Style Guides</option>
+<option id='Tutorials_and_Keynotes.json'>Tutorials and Keynotes</option>
+<option id='Switch.json'>Switch</option>
+<option id='PDF.json'>PDF</option>
+<option id='UIPageControl.json'>UIPageControl</option>
+<option id='Forums_and_discuss_lists.json'>Forums and discuss lists</option>
+<option id='Debugging.json'>Debugging</option>
+<option id='Text.json'>Text</option>
+<option id='Twitter.json'>Twitter</option>
+<option id='Prototyping.json'>Prototyping</option>
+<option id='Analytics.json'>Analytics</option>
+<option id='Facebook_Groups.json'>Facebook Groups</option>
+<option id='Video.json'>Video</option>
+<option id='Image.json'>Image</option>
+<option id='Web_View.json'>Web View</option>
+<option id='Other_Parsing.json'>Other Parsing</option>
+<option id='Layout.json'>Layout</option>
+<option id='Core_Data.json'>Core Data</option>
+<option id='Push_Notification_Providers.json'>Push Notification Providers</option>
+<option id='Menu.json'>Menu</option>
+<option id='Stepper.json'>Stepper</option>
+<option id='Dependency__Package_Manager.json'>Dependency / Package Manager</option>
+<option id='Objective-C_Runtime.json'>Objective-C Runtime</option>
+<option id='Animation.json'>Animation</option>
+<option id='Rating_Stars.json'>Rating Stars</option>
+<option id='ProgressView.json'>ProgressView</option>
+<option id='Command_Line.json'>Command Line</option>
+<option id='Dependency_Injection.json'>Dependency Injection</option>
+<option id='Architecture_Patterns.json'>Architecture Patterns</option>
+<option id='Slider.json'>Slider</option>
+<option id='Graphics.json'>Graphics</option>
+<option id='Representations.json'>Representations</option>
+<option id='Placeholder.json'>Placeholder</option>
+<option id='Project_setup.json'>Project setup</option>
+<option id='Button.json'>Button</option>
+<option id='Other_Testing.json'>Other Testing</option>
+<option id='Status_Bar.json'>Status Bar</option>
+<option id='Code_Quality.json'>Code Quality</option>
+<option id='VR.json'>VR</option>
+<option id='Medium.json'>Medium</option>
+<option id='Games.json'>Games</option>
+<option id='Payments.json'>Payments</option>
+<option id='Messaging.json'>Messaging</option>
+<option id='Login.json'>Login</option>
+<option id='Audio.json'>Audio</option>
+<option id='Alert__Action_Sheet.json'>Alert & Action Sheet</option>
+<option id='Color.json'>Color</option>
+<option id='App_Routing.json'>App Routing</option>
+<option id='UI_Testing.json'>UI Testing</option>
+<option id='Machine_Learning.json'>Machine Learning</option>
+<option id='Collection_View.json'>Collection View</option>
+<option id='Date__Time.json'>Date & Time</option>
+<option id='React-Like.json'>React-Like</option>
+<option id='Concurrency.json'>Concurrency</option>
+<option id='Extensions_Xcode_8.json'>Extensions (Xcode 8+)</option>
+<option id='Utility.json'>Utility</option>
+<option id='Tools.json'>Tools</option>
+<option id='Force_Touch.json'>Force Touch</option>
 <!-- End Dropdown Insertion -->
           </select>
         </div>
-        <div class="col"></div>
+        <div class="col-sm-3"></div>
       </div>
     </div>
 
@@ -211,791 +215,8 @@
       </thead>
       <tbody>
 
+<!-- DEPRECIATED - using DataTables ajax now-->
 <!-- Begin Table Insertion -->
-<tr>
-    <td> <a href='https://github.com/Grouper/FlatUIKit'target='_blank'>FlatUIKit</a></td>
-    <td>A collection of awesome flat UI components for iOS.</td>
-    <td>7847</td>
-    <td>1014</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/erichoracek/Motif'target='_blank'>Motif</a></td>
-    <td>Lightweight and customizable stylesheets for iOS</td>
-    <td>873</td>
-    <td>61</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/TextureGroup/Texture'target='_blank'>Texture</a></td>
-    <td>Smooth asynchronous user interfaces for iOS apps.</td>
-    <td>5146</td>
-    <td>691</td>
-    <td>Objective-C++</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/skywinder/GaugeKit'target='_blank'>GaugeKit</a></td>
-    <td>Kit for building custom gauges + easy reproducible Apple's style ring gauges.</td>
-    <td>949</td>
-    <td>83</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/marty-suzuki/SAHistoryNavigationViewController'target='_blank'>SAHistoryNavigationViewController</a></td>
-    <td>SAHistoryNavigationViewController realizes iOS task manager like UI in UINavigationContoller. Support 3D Touch!</td>
-    <td>1556</td>
-    <td>98</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/nicklockwood/iCarousel'target='_blank'>iCarousel</a></td>
-    <td>A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS</td>
-    <td>11127</td>
-    <td>2502</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/devinross/tapkulibrary'target='_blank'>tapkulibrary</a></td>
-    <td>tap + haiku = tapku, a well crafted open source iOS framework</td>
-    <td>3993</td>
-    <td>707</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/kciter/HorizontalDial'target='_blank'>HorizontalDial</a></td>
-    <td>A horizontal scroll dial like Instagram.</td>
-    <td>154</td>
-    <td>11</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/cwRichardKim/RKNotificationHub'target='_blank'>RKNotificationHub</a></td>
-    <td>Make any UIView a full fledged notification center</td>
-    <td>2998</td>
-    <td>344</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/hughbe/phone-number-picker'target='_blank'>phone-number-picker</a></td>
-    <td>A simple and easy to use view controller enabling you to enter a phone number with a country code similar to WhatsApp written in Swift</td>
-    <td>131</td>
-    <td>24</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/recruit-mtl/EXTView'target='_blank'>EXTView</a></td>
-    <td>Extended UIView for Interface Builder by using IB_DESIGNABLE and IBInspectable.</td>
-    <td>156</td>
-    <td>18</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/Boris-Em/BEMCheckBox#sample-app'target='_blank'>BEMCheckBox</a></td>
-    <td>Tasteful Checkbox for iOS. (Check box)</td>
-    <td>2263</td>
-    <td>233</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/DroidsOnRoids/MPParallaxView'target='_blank'>MPParallaxView</a></td>
-    <td>Apple TV Parallax effect in Swift.</td>
-    <td>1601</td>
-    <td>95</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/yannickl/Splitflap'target='_blank'>Splitflap</a></td>
-    <td>A simple split-flap display for your Swift applications</td>
-    <td>922</td>
-    <td>68</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/goktugyil/EZSwipeController'target='_blank'>EZSwipeController</a></td>
-    <td>:point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages</td>
-    <td>779</td>
-    <td>70</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/devinross/curry'target='_blank'>curry</a></td>
-    <td>curry is a framework built to enhance and compliment Foundation and UIKit.</td>
-    <td>41</td>
-    <td>6</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/hyperoslo/Pages'target='_blank'>Pages</a></td>
-    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png?v8'>  UIPageViewController made simple</td>
-    <td>450</td>
-    <td>40</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/Karumi/BothamUI'target='_blank'>BothamUI</a></td>
-    <td>Model View Presenter Framework written in Swift.</td>
-    <td>353</td>
-    <td>44</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/collinhundley/APCustomBlurView'target='_blank'>APCustomBlurView</a></td>
-    <td>A subclass of UIVisualEffectView with customizable blur radius.</td>
-    <td>169</td>
-    <td>16</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/antiguab/BAFluidView'target='_blank'>BAFluidView</a></td>
-    <td>UIView that simulates a 2D view of a fluid in motion</td>
-    <td>1334</td>
-    <td>114</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/wongzigii/WZDraggableSwitchHeaderView'target='_blank'>WZDraggableSwitchHeaderView</a></td>
-    <td><img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  Show status for transition across viewControllers.</td>
-    <td>548</td>
-    <td>45</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/SergioChan/SCTrelloNavigation'target='_blank'>SCTrelloNavigation</a></td>
-    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png?v8'>  An iOS native implementation of a Trello Animated Navagation. See more at https://dribbble.com/shots/2114816-Trello-Navigation. iOS上类似trello的导航动效框架实现。</td>
-    <td>801</td>
-    <td>105</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/hyperoslo/Spots'target='_blank'>Spots</a></td>
-    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f38d.png?v8'>  Spots is a cross-platform view controller framework for building component-based UIs</td>
-    <td>6</td>
-    <td>2</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/Alterplay/APAddressBook'target='_blank'>APAddressBook</a></td>
-    <td>Easy access to iOS address book</td>
-    <td>1423</td>
-    <td>207</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/Azuritul/AZExpandableIconListView'target='_blank'>AZExpandableIconListView</a></td>
-    <td>An expandable/collapsible view component written in Swift.</td>
-    <td>217</td>
-    <td>31</td>
-    <td>Shell</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/thinkclay/FlourishUI'target='_blank'>FlourishUI</a></td>
-    <td>A highly configurable and out-of-the-box-pretty UI library</td>
-    <td>216</td>
-    <td>19</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/Ramotion/navigation-stack'target='_blank'>navigation-stack</a></td>
-    <td><img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  NavigationStack is a stack-modeled UI navigation controller. Swift UI library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries</td>
-    <td>2174</td>
-    <td>173</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/andreamazz/UIView-draggable'target='_blank'>UIView-draggable</a></td>
-    <td>UIView category that adds dragging capabilities</td>
-    <td>413</td>
-    <td>69</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/marmelroy/PeekPop'target='_blank'>PeekPop</a></td>
-    <td>Peek and Pop with backwards-compatibility </td>
-    <td>1962</td>
-    <td>125</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/ipraba/EPSignature'target='_blank'>EPSignature</a></td>
-    <td>Signature component for iOS in Swift</td>
-    <td>736</td>
-    <td>143</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/nevyn/CoreDragon'target='_blank'>CoreDragon</a></td>
-    <td>[iOS/deprecated!] Stop using context menus. Drag and drop instead, even between apps!</td>
-    <td>711</td>
-    <td>28</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/evermeer/EVFaceTracker'target='_blank'>EVFaceTracker</a></td>
-    <td>Calculate the distance and angle of your device with regards to your face</td>
-    <td>237</td>
-    <td>37</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/vadymmarkov/Fashion'target='_blank'>Fashion</a></td>
-    <td><img src='https://github.githubassets.com/images/icons/emoji/unicode/1f485.png?v8'>  Fashion accessories and beauty tools to share and reuse UI styles in a Swifty way</td>
-    <td>89</td>
-    <td>13</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/wangshengjia/LeeGo'target='_blank'>LeeGo</a></td>
-    <td>Declarative, configurable & highly reusable UI development as making Lego bricks.</td>
-    <td>948</td>
-    <td>48</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/manuelescrig/MEVHorizontalContacts'target='_blank'>MEVHorizontalContacts</a></td>
-    <td>An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.</td>
-    <td>346</td>
-    <td>41</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/RamonGilabert/Ripple'target='_blank'>Ripple</a></td>
-    <td>Remember there's no such thing as a small act of kindness. Every act creates a ripple with no logical end.</td>
-    <td>77</td>
-    <td>5</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/kronik/ScalePicker'target='_blank'>ScalePicker</a></td>
-    <td>Generic scale and a handy float-value picker for any iOS app.</td>
-    <td>159</td>
-    <td>24</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/efremidze/VisualEffectView'target='_blank'>VisualEffectView</a></td>
-    <td>Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱</td>
-    <td>585</td>
-    <td>35</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/PureSwift/Cacao'target='_blank'>Cacao</a></td>
-    <td>Pure Swift Cross-platform UIKit (Cocoa Touch) implementation (Supports Linux)</td>
-    <td>938</td>
-    <td>35</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/sahandnayebaziz/StateView'target='_blank'>StateView</a></td>
-    <td>UIViews that update themselves when your data changes, like React.</td>
-    <td>501</td>
-    <td>16</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/calimarkus/JDFlipNumberView'target='_blank'>JDFlipNumberView</a></td>
-    <td>[iOS] Representing analog flip numbers like airport/trainstation displays</td>
-    <td>736</td>
-    <td>141</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/instant-solutions/ISTimeline'target='_blank'>ISTimeline</a></td>
-    <td>Simple timeline view written in Swift 3</td>
-    <td>966</td>
-    <td>82</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/atljeremy/JFCardSelectionViewController'target='_blank'>JFCardSelectionViewController</a></td>
-    <td>A fancy collection style view controller</td>
-    <td>421</td>
-    <td>52</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/agordeev/DCKit'target='_blank'>DCKit</a></td>
-    <td>Set of iOS controls with useful IBInspectable properties. Written on Swift.</td>
-    <td>129</td>
-    <td>14</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/Guzlan/BackgroundVideoiOS'target='_blank'>BackgroundVideoiOS</a></td>
-    <td>A swift and objective-C object that lets you add a background video to iOS views</td>
-    <td>546</td>
-    <td>50</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/Draveness/NightNight'target='_blank'>NightNight</a></td>
-    <td>Elegant way to integrate night mode to swift projects</td>
-    <td>701</td>
-    <td>51</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/jiecao-fm/SwiftTheme'target='_blank'>SwiftTheme</a></td>
-    <td>🎨 Powerful theme/skin manager for iOS 8+ 主题/换肤, 夜间模式</td>
-    <td>1515</td>
-    <td>183</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/forkingdog/FDStackView'target='_blank'>FDStackView</a></td>
-    <td>Use UIStackView directly in iOS6+</td>
-    <td>2479</td>
-    <td>332</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/yahoo/YangMingShan'target='_blank'>YangMingShan</a></td>
-    <td>YangMingShan is a collection of iOS UI components that we created while building Yahoo apps.</td>
-    <td>648</td>
-    <td>102</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/tombenner/nui'target='_blank'>nui</a></td>
-    <td>Style iOS apps with a stylesheet, similar to CSS</td>
-    <td>3794</td>
-    <td>463</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/CosmicMind/Material'target='_blank'>Material</a></td>
-    <td>A UI/UX framework for creating beautiful applications.</td>
-    <td>10728</td>
-    <td>1151</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/qmathe/DistancePicker'target='_blank'>DistancePicker</a></td>
-    <td>Custom UIKit control to select a distance with a pan gesture, written in Swift</td>
-    <td>102</td>
-    <td>18</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/nsomar/OAStackView'target='_blank'>OAStackView</a></td>
-    <td>Porting UIStackView to iOS 7+</td>
-    <td>2196</td>
-    <td>215</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/146BC/StyleKit'target='_blank'>StyleKit</a></td>
-    <td>A powerful & easy to use styling framework written in Swift</td>
-    <td>1156</td>
-    <td>46</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/hirohisa/PageController'target='_blank'>PageController</a></td>
-    <td>Infinite paging controller, scrolling through contents and title bar scrolls with a delay</td>
-    <td>256</td>
-    <td>32</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/mariohahn/StatusProvider'target='_blank'>StatusProvider</a></td>
-    <td>Protocol to handle initial Loadings, Empty Views and Error Handling in a ViewController & views</td>
-    <td>862</td>
-    <td>46</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/scamps88/ASBubbleDrag'target='_blank'>ASBubbleDrag</a></td>
-    <td>round icon drag control (made in swift) dock style</td>
-    <td>44</td>
-    <td>10</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/bridger/StackLayout'target='_blank'>StackLayout</a></td>
-    <td>An alternative to UIStackView for common Auto Layout patterns.</td>
-    <td>76</td>
-    <td>4</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/Boris-Em/NightView'target='_blank'>NightView</a></td>
-    <td>Dazzling Nights on iOS. </td>
-    <td>164</td>
-    <td>13</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/dingwilson/SwiftVideoBackground'target='_blank'>SwiftVideoBackground</a></td>
-    <td>📹 Framework to Play a Video in the Background of any UIView</td>
-    <td>197</td>
-    <td>19</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/mrigdon/MRArticleViewController'target='_blank'>MRArticleViewController</a></td>
-    <td>Easily create UIViewControllers for news articles similar to those in the News app.</td>
-    <td>107</td>
-    <td>14</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/OrRon/ConfettiView'target='_blank'>ConfettiView</a></td>
-    <td>Confetti View lets you create a magnificent confetti view in your app</td>
-    <td>222</td>
-    <td>14</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/BohdanOrlov/BouncyPageViewController'target='_blank'>BouncyPageViewController</a></td>
-    <td>Page view controller with bounce effect</td>
-    <td>769</td>
-    <td>50</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/rolandleth/LTHRadioButton'target='_blank'>LTHRadioButton</a></td>
-    <td>A radio button with a pretty animation</td>
-    <td>237</td>
-    <td>13</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/exyte/Macaw-Examples'target='_blank'>Macaw-Examples</a></td>
-    <td>Various usages of the Macaw library</td>
-    <td>234</td>
-    <td>38</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/yannickl/Reactions'target='_blank'>Reactions</a></td>
-    <td>Fully customizable Facebook reactions control</td>
-    <td>496</td>
-    <td>52</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/dhirajjadhao/Newly'target='_blank'>Newly</a></td>
-    <td>Newly is a drop in solution to add Twitter/Facebook/Linkedin style, new updates/tweets/posts available button. It can be used to notify user about new content availability and can other actions can be triggers using its delegate method.</td>
-    <td>190</td>
-    <td>24</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/jobandtalent/CardStackController'target='_blank'>CardStackController</a></td>
-    <td>iOS custom controller used in Jobandtalent app to present new view controllers as cards</td>
-    <td>465</td>
-    <td>34</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/material-components/material-components-ios'target='_blank'>material-components-ios</a></td>
-    <td>Modular and customizable Material Design UI components for iOS</td>
-    <td>3185</td>
-    <td>512</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/farshidce/RKMultiUnitRuler/'target='_blank'>RKMultiUnitRuler</a></td>
-    <td>Simple customizable ruler control that supports multiple units</td>
-    <td>37</td>
-    <td>8</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/mukeshthawani/FAQView'target='_blank'>FAQView</a></td>
-    <td>An easy to use FAQ view for iOS written in Swift</td>
-    <td>432</td>
-    <td>26</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/oxozle/OXPatternLock'target='_blank'>OXPatternLock</a></td>
-    <td>An iOS pattern lock like Android authentication written in Swift.</td>
-    <td>23</td>
-    <td>2</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/lucamozza/LMArticleViewController'target='_blank'>LMArticleViewController</a></td>
-    <td>UIViewController subclass to beautifully present news articles and blog posts.</td>
-    <td>5</td>
-    <td>0</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/WenchaoD/FSPagerView'target='_blank'>FSPagerView</a></td>
-    <td>FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.</td>
-    <td>3972</td>
-    <td>439</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/louisdh/panelkit'target='_blank'>panelkit</a></td>
-    <td>A UI framework that enables panels on iOS.</td>
-    <td>3658</td>
-    <td>134</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/Ramotion/elongation-preview'target='_blank'>elongation-preview</a></td>
-    <td><img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  ElongationPreview is an elegant UI push-pop style view controller. iOS library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries</td>
-    <td>799</td>
-    <td>82</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/uias/Pageboy'target='_blank'>Pageboy</a></td>
-    <td>📖 A simple, highly informative page view controller</td>
-    <td>1260</td>
-    <td>70</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/iGenius-Srl/IGColorPicker'target='_blank'>IGColorPicker</a></td>
-    <td>A customizable color picker for iOS in Swift</td>
-    <td>148</td>
-    <td>38</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/khuong291/KPActionSheet'target='_blank'>KPActionSheet</a></td>
-    <td>A replacement of default action sheet, but has very simple usage</td>
-    <td>6</td>
-    <td>1</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/D-32/SegmentedProgressBar'target='_blank'>SegmentedProgressBar</a></td>
-    <td>Snapchat / Instagram Stories like progress indicator</td>
-    <td>262</td>
-    <td>35</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/efremidze/Magnetic'target='_blank'>Magnetic</a></td>
-    <td>SpriteKit Floating Bubble Picker (inspired by Apple Music) 🧲</td>
-    <td>931</td>
-    <td>63</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/GlebRadchenko/AmazingBubbles'target='_blank'>AmazingBubbles</a></td>
-    <td>Bubble pickers, inspired by Apple</td>
-    <td>49</td>
-    <td>7</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/efremidze/Haptica'target='_blank'>Haptica</a></td>
-    <td>Easy Haptic Feedback Generator 📳</td>
-    <td>358</td>
-    <td>20</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/saeid/GDCheckbox'target='_blank'>GDCheckbox</a></td>
-    <td>Simple checkbox/radio box component for iOS</td>
-    <td>13</td>
-    <td>0</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/Howardw3/HamsterUIKit'target='_blank'>HamsterUIKit</a></td>
-    <td>A simple and elegant UIKit for iOS.</td>
-    <td>22</td>
-    <td>3</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/Minitour/AZEmptyState'target='_blank'>AZEmptyState</a></td>
-    <td>A UIControl subclass that makes it easy to create empty states.</td>
-    <td>80</td>
-    <td>11</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/jegumhon/URWeatherView'target='_blank'>URWeatherView</a></td>
-    <td>Show the weather effects onto view written in Swift4.2</td>
-    <td>407</td>
-    <td>32</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/linhcn/LCUIComponents'target='_blank'>LCUIComponents</a></td>
-    <td>It provides UI components such as popover, popup, dialog supporting iOS apps</td>
-    <td>6</td>
-    <td>0</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/Sajjon/ViewComposer'target='_blank'>ViewComposer</a></td>
-    <td>Compose views using enums swiftly: `let label: UILabel = [.text("Hello"), .textColor(.red)]`</td>
-    <td>21</td>
-    <td>4</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/yonat/BatteryView'target='_blank'>BatteryView</a></td>
-    <td>Simple battery shaped UIView</td>
-    <td>18</td>
-    <td>3</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/PierrePerrin/ShadowView'target='_blank'>ShadowView</a></td>
-    <td>An iOS Library that makes shadows management easy on UIView.</td>
-    <td>309</td>
-    <td>12</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/52inc/Pulley'target='_blank'>Pulley</a></td>
-    <td>A library to imitate the iOS 10 Maps UI.</td>
-    <td>1503</td>
-    <td>184</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/n8iveapps/N8iveKit'target='_blank'>N8iveKit</a></td>
-    <td>A set of frameworks making iOS development more fun</td>
-    <td>18</td>
-    <td>1</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/wordlessj/Panda'target='_blank'>Panda</a></td>
-    <td>Create view hierarchies declaratively.</td>
-    <td>28</td>
-    <td>2</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/HarshilShah/NotchKit'target='_blank'>NotchKit</a></td>
-    <td>A simple way to hide the notch on the iPhone X</td>
-    <td>1840</td>
-    <td>65</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/TintPoint/Overlay'target='_blank'>Overlay</a></td>
-    <td>Flexible UI Framework Designed for Swift</td>
-    <td>48</td>
-    <td>5</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/haoking/SwiftyUI'target='_blank'>SwiftyUI</a></td>
-    <td>High performance and lightweight UIView,  UIImage, UIImageView, UIlabel, UIButton, Promise and more.</td>
-    <td>385</td>
-    <td>27</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/AFathi/NotchToolkit'target='_blank'>NotchToolkit</a></td>
-    <td>Use the iPhone X notch in creative ways 👩‍🎨👨‍🎨.</td>
-    <td>47</td>
-    <td>2</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/MarioIannotta/PullUpController'target='_blank'>PullUpController</a></td>
-    <td>Pull up controller with multiple sticky points like in iOS Maps</td>
-    <td>764</td>
-    <td>71</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/Babylonpartners/DrawerKit'target='_blank'>DrawerKit</a></td>
-    <td>DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.</td>
-    <td>631</td>
-    <td>32</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/aaronjsutton/Shades'target='_blank'>Shades</a></td>
-    <td>Easily add drop shadows, borders, and round corners to a UIView.</td>
-    <td>8</td>
-    <td>2</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/Interactive-Studio/ISPageControl'target='_blank'>ISPageControl</a></td>
-    <td>A page control similar to that used in Instagram</td>
-    <td>204</td>
-    <td>21</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/oney/Mixin'target='_blank'>Mixin</a></td>
-    <td>React.js like Mixin. More powerful Protocol-Oriented Programming.</td>
-    <td>41</td>
-    <td>1</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/efremidze/Shiny'target='_blank'>Shiny</a></td>
-    <td>Iridescent Effect View (inspired by Apple Pay Cash) ✨</td>
-    <td>594</td>
-    <td>27</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/seedco/StackViewController'target='_blank'>StackViewController</a></td>
-    <td>A controller that uses a UIStackView and view controller composition to display content in a list</td>
-    <td>725</td>
-    <td>48</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/uber/UberSignature'target='_blank'>UberSignature</a></td>
-    <td>Provides an iOS view controller allowing a user to draw their signature with their finger in a realistic style.</td>
-    <td>856</td>
-    <td>83</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/startry/SwViewCapture'target='_blank'>SwViewCapture</a></td>
-    <td>A nice iOS View Capture Swift Library which can capture all content.</td>
-    <td>498</td>
-    <td>65</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/HamzaGhazouani/HGRippleRadarView'target='_blank'>HGRippleRadarView</a></td>
-    <td>A beautiful radar view to show nearby items (users, restaurants, ...) with ripple animation, fully customizable </td>
-    <td>195</td>
-    <td>18</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/saeid/GDGauge'target='_blank'>GDGauge</a></td>
-    <td>Full Customizable, Beautiful, Easy to use gauge view</td>
-    <td>39</td>
-    <td>6</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/Stunner/STAControls'target='_blank'>STAControls</a></td>
-    <td>Handy UIControl subclasses. (Think Three20/NimbusKit of UIControls.)</td>
-    <td>9</td>
-    <td>6</td>
-    <td>Objective-C</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/shindyu/ApplyStyleKit'target='_blank'>ApplyStyleKit</a></td>
-    <td>Elegant Apply Style by Swift Method Chain.🌙</td>
-    <td>124</td>
-    <td>11</td>
-    <td>Swift</td>
-</tr>
-<tr>
-    <td> <a href='https://github.com/applidium/ADOverlayContainer'target='_blank'>ADOverlayContainer</a></td>
-    <td>iOS UI library to implement overlay based interfaces</td>
-    <td>208</td>
-    <td>12</td>
-    <td>Swift</td>
-</tr>
 <!-- End Table Insertion -->
       </tbody>
     </table>
@@ -1011,13 +232,18 @@
 <!-- Javascript CDN -->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
   crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" 
+  crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
   crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
   crossorigin="anonymous"></script>
-<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
-<script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.2/js/bootstrap-select.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js" integrity="sha256-t5ZQTZsbQi8NxszC10CseKjJ5QeMw5NINtOXQrESGSU=" 
+  crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/dataTables.bootstrap4.min.js" integrity="sha256-hJ44ymhBmRPJKIaKRf3DSX5uiFEZ9xB/qx8cNbJvIMU=" 
+  crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.6/js/bootstrap-select.min.js" integrity="sha256-zWsttm6aBOvKT9816zEj+UFGD3HaMxjlbJVecZs6+FE=" 
+  crossorigin="anonymous"></script>
 
 <!-- Javascript Local -->
 <script src="assets/js/datatable.js"></script>

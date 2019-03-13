@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "Description": "Twitter style Splash Screen View. Grows to reveal the Initial view behind", 
+            "Forks": 129, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/callumboddy/CBZSplashView'target='_blank'>CBZSplashView</a>", 
+            "Stars": 1499
+        }, 
+        {
+            "Description": "Create custom animated splash views similar to the ones in the Twitter, Uber and Ping iOS app.", 
+            "Forks": 78, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/sachinkesiraju/SKSplashView'target='_blank'>SKSplashView</a>", 
+            "Stars": 467
+        }, 
+        {
+            "Description": "A Splash view that animates and reveals its content, inspired by Twitter splash", 
+            "Forks": 66, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/PiXeL16/RevealingSplashView'target='_blank'>RevealingSplashView</a>", 
+            "Stars": 1034
+        }
+    ]
+}

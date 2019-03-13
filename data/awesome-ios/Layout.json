@@ -1,0 +1,340 @@
+{
+    "data": [
+        {
+            "Description": "Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout", 
+            "Forks": 3076, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/SnapKit/Masonry'target='_blank'>Masonry</a>", 
+            "Stars": 17160
+        }, 
+        {
+            "Description": "UIView category which makes it easy to create layout constraints in code", 
+            "Forks": 130, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/floriankugler/FLKAutoLayout'target='_blank'>FLKAutoLayout</a>", 
+            "Stars": 1520
+        }, 
+        {
+            "Description": "Programmatic view layout for the rest of us.", 
+            "Forks": 60, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/mamaral/Facade'target='_blank'>Facade</a>", 
+            "Stars": 698
+        }, 
+        {
+            "Description": "The ultimate API for iOS & OS X Auto Layout \u2014 impressively simple, immensely powerful. Objective-C and Swift compatible.", 
+            "Forks": 752, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/PureLayout/PureLayout'target='_blank'>PureLayout</a>", 
+            "Stars": 7186
+        }, 
+        {
+            "Description": "A Swift Autolayout DSL for iOS & OS X", 
+            "Forks": 1386, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SnapKit/SnapKit'target='_blank'>SnapKit</a>", 
+            "Stars": 14546
+        }, 
+        {
+            "Description": "A declarative Auto Layout DSL for Swift <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png?v8'> <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4d0.png?v8'> ", 
+            "Forks": 474, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/robb/Cartography'target='_blank'>Cartography</a>", 
+            "Stars": 6739
+        }, 
+        {
+            "Description": "A bit of steroids for AutoLayout, powered by Swift.", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ruipfcosta/AutoLayoutPlus'target='_blank'>AutoLayoutPlus</a>", 
+            "Stars": 27
+        }, 
+        {
+            "Description": "A powerful Swift programmatic UI layout framework.", 
+            "Forks": 373, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mamaral/Neon'target='_blank'>Neon</a>", 
+            "Stars": 4472
+        }, 
+        {
+            "Description": "MisterFusion is Swift DSL for AutoLayout. It is the extremely clear, but concise syntax, in addition, can be used in both Swift and Objective-C. Support Safe Area and Size Class.", 
+            "Forks": 24, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/marty-suzuki/MisterFusion'target='_blank'>MisterFusion</a>", 
+            "Stars": 301
+        }, 
+        {
+            "Description": "Flexbox in Swift, using Facebook's css-layout.", 
+            "Forks": 55, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/joshaber/SwiftBox'target='_blank'>SwiftBox</a>", 
+            "Stars": 813
+        }, 
+        {
+            "Description": "\u2702  Easy to use and flexible library for manually laying out views and layers for iOS and tvOS. Supports AsyncDisplayKit.", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/isair/ManualLayout'target='_blank'>ManualLayout</a>", 
+            "Stars": 279
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f343.png?v8'>  Healthy Autolayout Sugar", 
+            "Forks": 150, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/freshOS/Stevia'target='_blank'>Stevia</a>", 
+            "Stars": 2661
+        }, 
+        {
+            "Description": "AutoLayoutKit in pure Swift.", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/floriankrueger/Manuscript'target='_blank'>Manuscript</a>", 
+            "Stars": 77
+        }, 
+        {
+            "Description": "Template auto layout cell for automatically UITableViewCell height calculating", 
+            "Forks": 1989, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/forkingdog/UITableView-FDTemplateLayoutCell'target='_blank'>UITableView-FDTemplateLayoutCell</a>", 
+            "Stars": 9438
+        }, 
+        {
+            "Description": "Tiny Swift DSL for Autolayout", 
+            "Forks": 44, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/indragiek/SwiftAutoLayout'target='_blank'>SwiftAutoLayout</a>", 
+            "Stars": 651
+        }, 
+        {
+            "Description": "Yet Another Swift Auto Layout DSL", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/evan-liu/FormationLayout'target='_blank'>FormationLayout</a>", 
+            "Stars": 51
+        }, 
+        {
+            "Description": "Lightweight declarative auto-layout framework for Swift", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/fhisa/SwiftyLayout'target='_blank'>SwiftyLayout</a>", 
+            "Stars": 15
+        }, 
+        {
+            "Description": "Auto Layout In Swift Made Easy", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Skyvive/Swiftstraints'target='_blank'>Swiftstraints</a>", 
+            "Stars": 107
+        }, 
+        {
+            "Description": "A Swift binding framework", 
+            "Forks": 320, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/DeclarativeHub/Bond'target='_blank'>Bond</a>", 
+            "Stars": 3782
+        }, 
+        {
+            "Description": "Minimal Auto Layout in Swift", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/puffinsupply/Restraint'target='_blank'>Restraint</a>", 
+            "Stars": 77
+        }, 
+        {
+            "Description": "Auto Layout made easy ", 
+            "Forks": 94, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nakiostudio/EasyPeasy'target='_blank'>EasyPeasy</a>", 
+            "Stars": 1738
+        }, 
+        {
+            "Description": "An autolayout library for the damn fine citizens of San Diego.", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mergesort/Anchorman'target='_blank'>Anchorman</a>", 
+            "Stars": 73
+        }, 
+        {
+            "Description": "LayoutKit is a fast view layout library for iOS, macOS, and tvOS.", 
+            "Forks": 231, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/linkedin/LayoutKit'target='_blank'>LayoutKit</a>", 
+            "Stars": 2771
+        }, 
+        {
+            "Description": "Swift microframework for declaring Auto Layout constraints functionally", 
+            "Forks": 16, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/stevestreza/Relayout'target='_blank'>Relayout</a>", 
+            "Stars": 574
+        }, 
+        {
+            "Description": "A collection of operators and utilities that simplify iOS layout code.", 
+            "Forks": 36, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Raizlabs/Anchorage'target='_blank'>Anchorage</a>", 
+            "Stars": 461
+        }, 
+        {
+            "Description": "Compose is a library that helps you compose complex and dynamic views.", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/grupozap/Compose'target='_blank'>Compose</a>", 
+            "Stars": 125
+        }, 
+        {
+            "Description": "DEPRECATED - BrickKit For IOS ", 
+            "Forks": 62, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/wayfair/brickkit-ios'target='_blank'>brickkit-ios</a>", 
+            "Stars": 621
+        }, 
+        {
+            "Description": "Elegant library that wraps working with frames with a nice chaining syntax.", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Otbivnoe/Framezilla'target='_blank'>Framezilla</a>", 
+            "Stars": 126
+        }, 
+        {
+            "Description": "Nothing but sugar.", 
+            "Forks": 143, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/roberthein/TinyConstraints'target='_blank'>TinyConstraints</a>", 
+            "Stars": 3037
+        }, 
+        {
+            "Description": "MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use LinearLayout,RelativeLayout,FrameLayout,TableLayout,FlowLayout,FloatLayout,PathLayout,GridLayout,LayoutSizeClass to build your App \u81ea\u52a8\u5e03\u5c40 UIView UITableView UICollectionView RTL", 
+            "Forks": 712, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/youngsoft/MyLinearLayout'target='_blank'>MyLinearLayout</a>", 
+            "Stars": 3340
+        }, 
+        {
+            "Description": "A simpler way to work with NSLayoutAnchor", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ashikahmad/SugarAnchor'target='_blank'>SugarAnchor</a>", 
+            "Stars": 20
+        }, 
+        {
+            "Description": "\u2693\ufe0f Declarative, extensible, powerful Auto Layout", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/onmyway133/Anchors'target='_blank'>Anchors</a>", 
+            "Stars": 201
+        }, 
+        {
+            "Description": "Fast Swift Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS/CALayer]", 
+            "Forks": 60, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/layoutBox/PinLayout'target='_blank'>PinLayout</a>", 
+            "Stars": 1210
+        }, 
+        {
+            "Description": "Concise Auto Layout API to chain programmatic constraints while easily updating existing constraints.", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/sp71/SnapLayout'target='_blank'>SnapLayout</a>", 
+            "Stars": 9
+        }, 
+        {
+            "Description": "An easy way to create and layout UI components for iOS (Swift version).", 
+            "Forks": 23, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nerdycat/Cupcake'target='_blank'>Cupcake</a>", 
+            "Stars": 236
+        }, 
+        {
+            "Description": "Minimal AutoLayout convenience layer. Program constraints succinctly.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yonat/MiniLayout'target='_blank'>MiniLayout</a>", 
+            "Stars": 6
+        }, 
+        {
+            "Description": "Auto Layout (and manual layout) in one line.", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/wordlessj/Bamboo'target='_blank'>Bamboo</a>", 
+            "Stars": 61
+        }, 
+        {
+            "Description": "FlexLayout adds a nice Swift interface to the highly optimized facebook/yoga flexbox implementation. Concise, intuitive & chainable syntax.", 
+            "Forks": 69, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/layoutBox/FlexLayout'target='_blank'>FlexLayout</a>", 
+            "Stars": 797
+        }, 
+        {
+            "Description": "A declarative UI framework for iOS", 
+            "Forks": 86, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nicklockwood/layout'target='_blank'>layout</a>", 
+            "Stars": 1957
+        }, 
+        {
+            "Description": "Powerful autolayout framework, that can manage UIView(NSView), CALayer and not rendered views. Not Apple Autolayout wrapper. Provides placeholders. Linux support.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/k-o-d-e-n/CGLayout'target='_blank'>CGLayout</a>", 
+            "Stars": 32
+        }, 
+        {
+            "Description": "An alternative layout framework, a balanced medium between manual layout and auto layout. Great for calculating frames with FlightAnimator!!", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AntonTheDev/FlightLayout'target='_blank'>FlightLayout</a>", 
+            "Stars": 23
+        }, 
+        {
+            "Description": "A AutoLayout Utility for iOS", 
+            "Forks": 2, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/josejuanqm/QLayout'target='_blank'>QLayout</a>", 
+            "Stars": 2
+        }, 
+        {
+            "Description": "Write less UI code", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/DeclarativeHub/Layoutless'target='_blank'>Layoutless</a>", 
+            "Stars": 320
+        }, 
+        {
+            "Description": "Intuitive and powerful Auto Layout library", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kean/Yalta'target='_blank'>Yalta</a>", 
+            "Stars": 167
+        }, 
+        {
+            "Description": "SuperLayout is a Swift library that makes using Auto Layout a breeze.", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/lionheart/SuperLayout'target='_blank'>SuperLayout</a>", 
+            "Stars": 50
+        }, 
+        {
+            "Description": "Written in pure Swift, QuickLayout offers a simple and easy way to manage Auto Layout in code.", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/huri000/QuickLayout'target='_blank'>QuickLayout</a>", 
+            "Stars": 104
+        }, 
+        {
+            "Description": "A structured vertical/horizontal stack layout", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/efekanegeli/EEStackLayout'target='_blank'>EEStackLayout</a>", 
+            "Stars": 40
+        }, 
+        {
+            "Description": "Easy Auto Layout", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/daskioff/RKAutoLayout'target='_blank'>RKAutoLayout</a>", 
+            "Stars": 0
+        }
+    ]
+}

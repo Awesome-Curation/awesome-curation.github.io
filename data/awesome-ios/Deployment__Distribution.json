@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "Description": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps", 
+            "Forks": 3768, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/fastlane/fastlane'target='_blank'>fastlane</a>", 
+            "Stars": 24782
+        }, 
+        {
+            "Description": "Get a notification once your iTunes Connect build is finished processing", 
+            "Forks": 7, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/fastlane/watchbuild'target='_blank'>watchbuild</a>", 
+            "Stars": 158
+        }, 
+        {
+            "Description": "Instantly create a simple signup page for TestFlight beta testers", 
+            "Forks": 194, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/fastlane/boarding'target='_blank'>boarding</a>", 
+            "Stars": 779
+        }, 
+        {
+            "Description": "A software update kit for iOS and Android. Provided as is. For more functionality and maintained work, check out @hockeyapp", 
+            "Forks": 458, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/bitstadium/HockeyKit'target='_blank'>HockeyKit</a>", 
+            "Stars": 2196
+        }, 
+        {
+            "Description": "A set of web-based tools for mobile app developers, now open source!", 
+            "Forks": 257, 
+            "Language": "JavaScript", 
+            "Repo": "<a href='https://github.com/LaunchKit/LaunchKit'target='_blank'>LaunchKit</a>", 
+            "Stars": 2028
+        }, 
+        {
+            "Description": "Appfigurate SDK - secure runtime configuration for iOS and watchOS, apps and app extensions", 
+            "Forks": 0, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/electricbolt/appfiguratesdk'target='_blank'>appfiguratesdk</a>", 
+            "Stars": 7
+        }, 
+        {
+            "Description": "Create localized App Store screenshots", 
+            "Forks": 26, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/IdeasOnCanvas/ScreenshotFramer'target='_blank'>ScreenshotFramer</a>", 
+            "Stars": 567
+        }
+    ]
+}

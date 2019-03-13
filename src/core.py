@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*
 
 # Standard libs
-import os.path
+import os
 import re
 import time
 import json
@@ -10,53 +10,93 @@ import json
 # Custom
 import api
 from helpers import *
+from logs import *
 
 # HTML page markers for inserting text
-MARKERS = ["Dropdown", "Table"]
+MARKERS   = ["Dropdown", "Table"]
+CORE_LOG  = add_logger('core')
+ROOT_PATH = get_root_path()
 
 def main():
-    start_time = time.time()
+    setup_logging()
 
-    # Testing - contains a sample readme file
-    sandbox_readme = get_root_path() + '/data/sandbox_readme'
-    with open(sandbox_readme) as f:
+    awesome_list = 'awesome-ios'
+    readme = os.path.join(ROOT_PATH, 'data', awesome_list)
+    with open(readme) as f:
         text = f.read()
-    
+        CORE_LOG.debug('Reading list: %s', awesome_list)
+
+    # Get all categories in a list and the repos they contain
     repos = build_links_dict(text)
-    #links = repos['UI'] # Random sections (contains the most URLs)
-    #links = repos['PickerView'] # erroneous '-' appended to repo url
+    #links = repos['GIF'] # Testing - Random category to test
 
     # Write all html tables to files
-    for category in repos:
-        print('='*60)
-        print('Writing - ' + category)
+    build_database(repos, awesome_list)
 
-        st = time.time()
-        name = get_valid_filename(category)
-        links = repos[category]
-        table = build_table(links)
-        write_table_file('awesome-ios', name, table)
+    api.get_rate_limit('Remaining')
 
-        et = time.time() - st
-        print('Done    - ' + category)
-        print('Time elapsed: ' + str(float("%0.4f" % (et))))
-        print('='*60)
-        print()
-        
-    print(api.get_rate_limit('Remaining'))
-
-    destroy_section('Table')
+    # Build the dropdown menu bar with the list's categories
     destroy_section('Dropdown')
     write_section(build_categories(repos), 'Dropdown')
-    write_section(build_table(links), 'Table')        
 
-    elapsed_time = time.time() - start_time
-    print("TOTAL TIME:")
-    print('Time elapsed: ' + str(float("%0.4f" % (elapsed_time))))
+    # Build table file with all repos
+    json_combine_all(awesome_list)
+
+    CORE_LOG.info(FINISHED + SCRIPT)
 
 ##############################################
 # Build Core Data Section
 ##############################################
+
+def build_database(repos, list_name):
+    """ Save all categories & repos to data files as an html table
+
+    This function loops all categories in an awesome list and builds
+    html tables that are saved to files in 'data/awesome-list/category.json',
+    which will be used by DataTables to add and delete the conetents 
+    in the table shown in index.html. This will be accomplished through button
+    clicks in js. A dict ('info') is used to store & print logging information.
+
+    Args:
+        repos (dict): Category keys and list of repo links as values
+        list_name (str): Awesome List to traverse
+
+    """
+    CORE_LOG.info(CATEGORY + FULL_LIST, {'Awesome List': list_name})
+
+    total_repos = 0
+    total_categories = 0
+    full_table = {
+        "data": []
+    }
+    for category in repos:
+        info = {'Awesome List': list_name, 'Category': category}
+        CORE_LOG.info(WRITING + CATEGORY, info)
+
+        name = get_valid_filename(category)
+        links = repos[category]
+        table = build_table(links)
+        full_table["data"].append(table)
+        table_str = json.dumps(table, indent=4, sort_keys=True) 
+        write_table_file(list_name, name, table_str)
+
+        repo_count = len(links)
+        total_repos += repo_count
+        total_categories += 1
+        info['Repo Count'] = repo_count
+        info['File Name'] = name
+        CORE_LOG.info(FINISHED + CATEGORY, info)
+    
+    # Create file with all json tables
+    ft = json.dumps(full_table, indent=4, sort_keys=True)
+    write_table_file(list_name, '__all__', ft)
+    info = {
+        'Awesome List': list_name,
+        'Category Count': total_categories,
+        'Repo Count': total_repos
+    }
+    CORE_LOG.info(FINISHED + FULL_LIST, info)
+
 
 def build_links_dict(text):
     """ Get all repositories in each category
@@ -85,9 +125,18 @@ def build_links_dict(text):
             h = re.sub('^#{2,5} {1,5}','',line)        
             if len(h) > 0:
                 section = h 
+                CORE_LOG.debug('Added section: %s', section)
         if re.search('\* \[.*]\(http[s]?:\/\/.*\)', line):
             items.append(line)
             repos[section] = items    
+            re.search('\[.*\(.*\)', line)
+
+            # Simplify logging text
+            try:
+                repo = re.search('\[.*\(.*\)', line).group(0) 
+            except:
+                repo = line
+            CORE_LOG.debug('%s - %s', section, repo)
     return repos
 
 
@@ -109,10 +158,10 @@ def destroy_section(section):
         section (str): section to search and destroy
     """
     if section not in MARKERS:
-        print("Unable to find html marker to destroy")
+        CORE_LOG.error("Unable to find markers for sections: %s", section)
         return
 
-    site = get_root_path() + '/index.html'
+    site = os.path.join(ROOT_PATH, 'index.html')
     with open(site, 'r') as f:
         buffer = f.readlines()
     
@@ -132,9 +181,11 @@ def destroy_section(section):
                 html.write(line)    
 
         if not start_success:
-            print("Unable to find '" + section + "' Begin marker")
+            CORE_LOG.error("Unable to find '%s' Begin marker", section)
         if not end_success:
-            print("Unable to find '" + section + "' End marker")
+            CORE_LOG.error("Unable to find '%s' End marker", section)
+
+    CORE_LOG.info('Deleted section: %s', section)
 
 def write_section(data, section):
     """ Insert a section of text into an index.html page
@@ -153,11 +204,11 @@ def write_section(data, section):
         section (str): marker to insert after
     """
     if section not in MARKERS:
-        print("Unable to find html marker to insert")
+        CORE_LOG.error("Unable to find html marker to insert")
         return
 
     marker = 'Begin ' + section + ' Insertion'
-    site = get_root_path() + '/index.html'
+    site = os.path.join(ROOT_PATH, 'index.html')
     with open(site, 'r') as f:
         buffer = f.readlines()
     
@@ -168,7 +219,9 @@ def write_section(data, section):
                 success = True
             html.write(line)    
         if not success:
-            print("Unable to insert '" + section + "' into html page")
+            CORE_LOG.error("Unable to insert '%s' into html page", section)
+
+    CORE_LOG.info('Inserted section: %s', section)
 
 
 ##############################################
@@ -176,29 +229,41 @@ def write_section(data, section):
 ##############################################
 
 def build_table(text):
-    """ Setup and HTML formatted table with GitHub repo data
+    """ Setup and json formatted table with GitHub repo data
 
     This function will request ALL data for repositories in a
     given markdown string. Requests take about 0.5s so EXPECT A 
     SIGNIFICANT DELAY for large arguments. The data will be 
-    returned in an HTML formatted table for all of the links found 
-    in the argument.Only markdown bulleted, new line separated 
-    strings should be passed to this function. Ex:
+    returned in an json object to be loaded into the table displayed
+    in the webpage. All of the links found in the argument will be 
+    added the to object returned. Only markdown bulleted, new line 
+    separated strings should be passed to this function. Ex:
         * [repo_name](https://github.com/user/repo) - Description
+    
+        - TODO:
+            * Handle get_repo_data requests exception
     
     Args:
         text (str): markdown bullets with GitHub repo links
     Returns:
-        str: HTML formatted table rows
+        dict: json object with column name keys and repo data values
 
     """
-    table = ""
+    table = {
+        "data" : []
+    }   
+    CORE_LOG.debug('**** Building HTML Table ****')
     for link in repo_links(text):
-        (user, repo) = api.get_user_repo(link)
-        data = api.get_repo_data(user, repo)
-        tr = html_table(repo, link, data)
-        table += tr
+        try:
+            # TODO: need to log bad links
+            (user, repo) = api.get_user_repo(link)
+            data = api.get_repo_data(user, repo)
+            tr = json_table(repo, link, data)
+            table["data"].append(tr)
+        except ValueError:
+            CORE_LOG.warning('Skipping failed link: %s', link)
 
+    CORE_LOG.debug('**** Finished JSON Table ****')
     return table
 
 def repo_links(text):
@@ -223,15 +288,109 @@ def repo_links(text):
     elif isinstance(text, list):
         lines = text
     else:
-        print("Unsupported text argument. Requires string or list")
+        CORE_LOG.error('Unsupported text argument. Requires string or list')
+        raise TypeError
 
     for line in lines:
+        # TODO: Need error raised for bad links
         link = api.get_url(line)
         if link:
             links.append(link) #+ "\n"
             
+    CORE_LOG.debug('Retrieved all GitHub links from text')
     return links #[:-1]
 
+def json_table(repo, url, data):
+    """ Format repository data into dictionary used for a single table row
+
+    This function accepts a json dictionary containing the repository
+    data and filters only the needed attributes for the table to a new json 
+    object used by DataTables (datatables.js)
+        - TODO:
+            * Handle bad repo arguments (raise & call a reload)
+            * Handle exceptions (& add one for KeyError 'data' access)
+            * Repo & url arguments are unnecessary & can be removed
+            * Add more table rows (as options to be shown by DataTables lib)
+    
+    Args:
+        repo (str): used to print during exceptions. Should be removed
+        url (str): GitHub URL. Should be available from 'data'
+        data (dict): GitHub json response dictionary
+    Returns:
+        dict: column name keys with GitHub repo data values
+    """
+    CORE_LOG.debug('Building table row for repo: %s', repo)
+
+    try:
+        name = data['name'] if data['name'] != None else "None" # None == NoneType i guess
+        description = format_description(data['description'])   
+        stars = data['stargazers_count']
+        forks = data['forks_count']
+        lang = data['language'] if data['language'] != None else "None"
+
+        row = {
+            "Repo" : "<a href='" + url + "'target='_blank'>" + name +"</a>",
+            "Description": description,
+            "Stars": stars,
+            "Forks": forks,
+            "Language": lang
+        }
+    except KeyError:
+        CORE_LOG.error('Unable to get data from API request.\nRepo: %s\nURL: %s', repo, url)
+        raise ValueError
+    except UnicodeDecodeError:
+        CORE_LOG.error('HTML Table Unicode decoding.\nRepo: %s\nURL: %s', repo, url)
+        raise ValueError
+    except AttributeError:
+        CORE_LOG.error('HTML Table Attribute.\nRepo: %s\nURL: %s', repo, url)
+        raise ValueError
+
+    return row
+
+def json_combine_all(list_name, out_file='__all__.json'):
+    """ Combine all categories for a list into single json file
+
+    This function loops all .json files in a list's data directory and combines 
+    them into a single json file name 'out_file'. The file is stored in
+    the usual json format of single key, 'data', containing values as a list 
+    of table rows with keys, 'column-name' and the corresponding value. The
+    files being combined should be formatted the same.
+
+    Args:
+        list_name (str): list directory to traverse and combine
+        out_file (str, optional): name of file to combin into
+            - datatable.js currently reads '__all__.json' from the
+              list's directory (and the option id in index.html)
+
+    """
+    path = os.path.join(ROOT_PATH, 'data', list_name)
+
+    if not os.path.exists(path):
+        CORE_LOG.error("Unable to combine json file. '%s' list dir does not exist", list_name)
+        return
+    
+    data = {
+        "data": []
+    }
+    for root, dirs, files in os.walk(path):
+        for f in files:
+            if out_file in f:
+                CORE_LOG.warning('%s already exists. Overwriting', out_file)
+                continue
+            fp = os.path.join(root, f)
+            with open(fp, 'r') as d:
+                try:
+                    rows = json.loads(d.read())
+                    data["data"] += rows["data"]
+                except (KeyError, ValueError):
+                    CORE_LOG.error("Unable to add: '%s' to %s", f, out_file)
+    
+    fp = os.path.join(path, out_file)
+    with open(fp, 'w') as d:
+        d.write(json.dumps(data, indent=4, sort_keys=True))
+
+# DEPRECIATED - may be removed
+# Using JSON for datatables ajax seems better
 def html_table(repo, url, data):
     """ Format repository data into an HTML table row
 
@@ -248,6 +407,7 @@ def html_table(repo, url, data):
         url (str): GitHub URL. Should be available from 'data'
         data (dict): GitHub json response dictionary
     """
+    CORE_LOG.debug('Building table row for repo: %s', repo)
     try:
         stars = data['stargazers_count']
         forks = data['forks_count']
@@ -262,17 +422,13 @@ def html_table(repo, url, data):
                "    <td>"+ lang  +"</td>\n"
                "</tr>\n")
     except KeyError:
-        print('Unable to get data from API request.')
-        print('Repo: ' + repo + '\nurl: ' + url)
+        CORE_LOG.error('Unable to get data from API request.\nRepo: %s\nURL: %s', repo, url)
         return ""
-    except UnicodeDecodeError as err:
-        print("Table unicode error")
-        print(repo)
-        print(lang)
+    except UnicodeDecodeError:
+        CORE_LOG.error('HTML Table Unicode decoding.\nRepo: %s\nURL: %s', repo, url)
         return ""
-    except AttributeError as err:
-        print("Table attribute error")
-        print(repo)
+    except AttributeError:
+        CORE_LOG.error('HTML Table Attribute.\nRepo: %s\nURL: %s', repo, url)
         return ""
 
     return row.encode('utf-8')
@@ -293,6 +449,7 @@ def format_description(text):
 
     """
     if not text:
+        CORE_LOG.warning('No text to format')
         return ''
     
     formatted = text
@@ -303,9 +460,9 @@ def format_description(text):
              # Put in an image html tag
              g_emojis = read_emojis()
              tag = "<img src='" + g_emojis[name] + "'> "
+             CORE_LOG.debug('Added image for emoji: %s', name)
         except (KeyError, AttributeError):
-            print("Unable to get emoji")
-            print("Full description: " + text)
+            CORE_LOG.error('Unable to get emoji asset.\nFull description: %s', text)
             tag = ''
         formatted = re.sub(emoji, tag, formatted)
     
@@ -325,21 +482,20 @@ def read_emojis():
             - {'emoji_name':'https://github.githubassets.com/images/icons/emoji/emoji_name.png?v'}
 
     """
-    g_emojis = get_root_path() + '/data/emojis.txt'
+    g_emojis = os.path.join(ROOT_PATH, 'data/emojis.txt')
     try:
         with open(g_emojis, 'r') as f:
             data = f.read()
     except IOError:
-        print("Error reading emojis.txt"
-              "Calling api rewrite file...")
+        CORE_LOG.error('Unable to read emojis.txt')
+        CORE_LOG.info('Calling api to rewrite file...')
         return write_emojis()
     except ValueError:
-        print("Fatal error. Could not fetch emojis"
-              "Reevaluate your life.")
+        CORE_LOG.critical('Fatal error. Could not fetch emojis.')
 
     return json.loads(data)
 
-def write_table_file(a_list, category, table):
+def write_table_file(list_name, category, table):
     """ Write html formatted table data to file
 
     This function writes table rows for a category to a file 
@@ -353,17 +509,20 @@ def write_table_file(a_list, category, table):
             * Validation & Error handling
     
     Args:
-        a_list (str): awesome list name (directory to save tables)
+        list_name (str): awesome list name (directory to save tables)
         category (str): file name to write table
         table (str): html formatted table data
     """
-    path = get_root_path() + '/data/' + a_list + '/' + category
+    path = os.path.join(ROOT_PATH, 'data', list_name, category + '.json')
 
     try:
         with open(path, 'w') as f:
             f.write(table)
     except IOError:
-        print('Unable to write data table file.')
+        CORE_LOG.error('Unable to write date to table file: %s', path)
+        return
+    
+    CORE_LOG.info('Successfully wrote html table to: %s', 'data/' + list_name + '/' + category + '.json')
 
 ##############################################
 # Categories Section
@@ -392,7 +551,7 @@ def build_categories(items):
     elif isinstance(items, list):
         sections = items
     else:
-        print("Unsupported text argument. Requires dictionary or list")
+        CORE_LOG.error('Unsupported text argument. Requires dictionary or list')
         return ""
     
     dr = html_categories(sections)
@@ -402,9 +561,10 @@ def html_categories(sections):
     """ Put categories into 'bootstrap-select' formatted dropdown list
     
     This function accepts a list of categories and formats them for
-    bootstrap-select to handle in a dropdown menu. Categories are
+    bootstrap-select to handle in a dropdown menu. The file json filename
+    containing the table data is stored as the 'id' tag. Categories are
     concatinated in the form:
-        <option>Category</option>
+        <option id='category.json'>Category</option>
     
     Args: 
         sections (list): categories to add in dropdown
@@ -415,14 +575,14 @@ def html_categories(sections):
     rows = ''
     try:
         for item in sections:
-            rows += "<option>" + item + "</option>\n"
+            fn = get_valid_filename(item) + '.json'
+            rows += "<option id='"+ fn +"'>" + item + "</option>\n"
     except AttributeError as err:
-        print('============')
-        print('Categories attribute error')
-        print(sections)
-        return ''
+        CORE_LOG.critical('Unable to write categories: %s', sections)
 
+    CORE_LOG.info('Successfully build html categories')
     return rows.encode('utf-8')
 
 if __name__ == '__main__':
+    CORE_LOG.info('***** init *****')
     main()

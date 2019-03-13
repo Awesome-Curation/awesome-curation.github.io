@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f525.png?v8'>  Learn some Swift", 
+            "Forks": 498, 
+            "Language": "None", 
+            "Repo": "<a href='https://github.com/hsavit1/Awesome-Swift-Education'target='_blank'>Awesome-Swift-Education</a>", 
+            "Stars": 5396
+        }, 
+        {
+            "Description": "A List of Awesome Swift Playgrounds", 
+            "Forks": 236, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/uraimo/Awesome-Swift-Playgrounds'target='_blank'>Awesome-Swift-Playgrounds</a>", 
+            "Stars": 2730
+        }, 
+        {
+            "Description": "Learn Apple's Swift programming language interactively through these playgrounds.", 
+            "Forks": 172, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nettlep/learn-swift'target='_blank'>learn-swift</a>", 
+            "Stars": 761
+        }, 
+        {
+            "Description": "A summary of Apple's Swift language written on Playgrounds", 
+            "Forks": 154, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jakarmy/swift-summary'target='_blank'>swift-summary</a>", 
+            "Stars": 1680
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "Description": "Async GIF image decoder and Image viewer supporting play GIF images. It just use very less memory.", 
+            "Forks": 200, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/liyong03/YLGIFImage'target='_blank'>YLGIFImage</a>", 
+            "Stars": 1755
+        }, 
+        {
+            "Description": "Performant animated GIF engine for iOS", 
+            "Forks": 1069, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Flipboard/FLAnimatedImage'target='_blank'>FLAnimatedImage</a>", 
+            "Stars": 7091
+        }, 
+        {
+            "Description": "High-performance animated GIF support for iOS in Swift", 
+            "Forks": 210, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kaishin/gifu'target='_blank'>Gifu</a>", 
+            "Stars": 2230
+        }, 
+        {
+            "Description": "Complete Animated GIF Support for iOS, with Functions, NSJSONSerialization-style Class, and (Optional) UIImage Swizzling", 
+            "Forks": 111, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/mattt/AnimatedGIFImageSerialization'target='_blank'>AnimatedGIFImageSerialization</a>", 
+            "Stars": 1064
+        }, 
+        {
+            "Description": "XAnimatedImage is a performant animated GIF engine for iOS written in Swift based on FLAnimatedImage", 
+            "Forks": 35, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/khaledmtaha/XAnimatedImage'target='_blank'>XAnimatedImage</a>", 
+            "Stars": 571
+        }, 
+        {
+            "Description": "A small UIImage extension with gif support", 
+            "Forks": 219, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/swiftgif/SwiftGif'target='_blank'>SwiftGif</a>", 
+            "Stars": 975
+        }, 
+        {
+            "Description": "High performance and delightful way to play with APNG format in iOS.", 
+            "Forks": 151, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/onevcat/APNGKit'target='_blank'>APNGKit</a>", 
+            "Stars": 1477
+        }, 
+        {
+            "Description": "Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more.", 
+            "Forks": 257, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ibireme/YYImage'target='_blank'>YYImage</a>", 
+            "Stars": 1436
+        }, 
+        {
+            "Description": "A animated gif & apng engine for iOS in Swift. Have a great performance on memory and cpu usage.", 
+            "Forks": 97, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/wangjwchn/AImage'target='_blank'>AImage</a>", 
+            "Stars": 1007
+        }, 
+        {
+            "Description": "Convert live photos and videos into animated GIFs in iOS, or extract frames from them.", 
+            "Forks": 11, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/metasmile/NSGIF2'target='_blank'>NSGIF2</a>", 
+            "Stars": 73
+        }, 
+        {
+            "Description": "High performance GIF engine", 
+            "Forks": 96, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kirualex/SwiftyGif'target='_blank'>SwiftyGif</a>", 
+            "Stars": 925
+        }
+    ]
+}

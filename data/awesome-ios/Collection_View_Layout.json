@@ -1,0 +1,95 @@
+{
+    "data": [
+        {
+            "Description": "The waterfall (i.e., Pinterest-like) layout for UICollectionView.", 
+            "Forks": 625, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/chiahsien/CHTCollectionViewWaterfallLayout'target='_blank'>CHTCollectionViewWaterfallLayout</a>", 
+            "Stars": 3830
+        }, 
+        {
+            "Description": "A drop-in mosaic collection view layout with a focus on simple customizations.", 
+            "Forks": 64, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/fmitech/FMMosaicLayout'target='_blank'>FMMosaicLayout</a>", 
+            "Stars": 587
+        }, 
+        {
+            "Description": "A mosaic collection view layout inspired by Lightbox's Algorithm, written in Swift \ud83d\udd36", 
+            "Forks": 27, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/vinnyoodles/mosaic-layout'target='_blank'>mosaic-layout</a>", 
+            "Stars": 221
+        }, 
+        {
+            "Description": "Enhanced transitioning between UICollectionView layouts in iOS.", 
+            "Forks": 42, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/SwiftKickMobile/TLLayoutTransitioning'target='_blank'>TLLayoutTransitioning</a>", 
+            "Stars": 344
+        }, 
+        {
+            "Description": "A UICollectionView layout whitch can move item with drag and drop.", 
+            "Forks": 140, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ra1028/RAReorderableLayout'target='_blank'>RAReorderableLayout</a>", 
+            "Stars": 861
+        }, 
+        {
+            "Description": "A lightweight UICollectionViewLayout that 'pages' and centers its cells \ud83c\udfa1 written in Swift", 
+            "Forks": 51, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/BenEmdon/CenteredCollectionView'target='_blank'>CenteredCollectionView</a>", 
+            "Stars": 615
+        }, 
+        {
+            "Description": "UICollectionViewLayout to display slanted content", 
+            "Forks": 78, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yacir/CollectionViewSlantedLayout'target='_blank'>CollectionViewSlantedLayout</a>", 
+            "Stars": 1321
+        }, 
+        {
+            "Description": "An extandable mosaic UICollectionViewLayout with a focus on extremely flexible customizations <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f536.png?v8'> ", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/iwheelbuy/SquareMosaicLayout'target='_blank'>SquareMosaicLayout</a>", 
+            "Stars": 160
+        }, 
+        {
+            "Description": "Make. It. Bounce.", 
+            "Forks": 156, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/roberthein/BouncyLayout'target='_blank'>BouncyLayout</a>", 
+            "Stars": 3321
+        }, 
+        {
+            "Description": "AZSafariCollectionViewLayout is replica of safari browser history page layout. very easy to use, IBInspectable are given for easy integration", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AfrozZaheer/AZSafariCollectionViewLayout'target='_blank'>AZSafariCollectionViewLayout</a>", 
+            "Stars": 181
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f300.png?v8'>  Blueprints - A framework that is meant to make your life easier when working with collection view flow layouts.", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/zenangst/Blueprints'target='_blank'>Blueprints</a>", 
+            "Stars": 388
+        }, 
+        {
+            "Description": "UICollectionViewSplitLayout makes collection view more responsive.", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yahoojapan/UICollectionViewSplitLayout'target='_blank'>UICollectionViewSplitLayout</a>", 
+            "Stars": 140
+        }, 
+        {
+            "Description": "A bunch of layouts providing light and seamless experiences in your Collection View", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/VladIacobIonut/Swinflate'target='_blank'>Swinflate</a>", 
+            "Stars": 41
+        }
+    ]
+}

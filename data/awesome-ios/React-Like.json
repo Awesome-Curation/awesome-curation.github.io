@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "Description": "Swift and UIKit a la React.", 
+            "Forks": 90, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/alexdrone/Render'target='_blank'>Render</a>", 
+            "Stars": 1927
+        }, 
+        {
+            "Description": "Swift Apps in a Swoosh! A modern framework for creating iOS apps, inspired by Redux.", 
+            "Forks": 68, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/BendingSpoons/katana-swift'target='_blank'>katana-swift</a>", 
+            "Stars": 1877
+        }, 
+        {
+            "Description": "React-inspired framework for building component-based user interfaces in Swift.", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mcudich/TemplateKit'target='_blank'>TemplateKit</a>", 
+            "Stars": 153
+        }, 
+        {
+            "Description": "\ud83d\udce6 React-inspired UIKit Components", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/freshOS/Komponents'target='_blank'>Komponents</a>", 
+            "Stars": 180
+        }, 
+        {
+            "Description": "Small swift events kit", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/surfstudio/CoreEvents'target='_blank'>CoreEvents</a>", 
+            "Stars": 2
+        }
+    ]
+}

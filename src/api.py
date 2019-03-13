@@ -15,6 +15,9 @@ import sys
 import json
 import requests
 
+# Custom
+from logs import add_logger
+
 _API = 'https://api.github.com/'
 try:
     _TOKEN = os.environ['TOKEN']
@@ -26,6 +29,8 @@ except KeyError:
            "export TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n"
            "export GITHUB_NAME=ryans-git")
     sys.exit(msg)
+
+API_LOG = add_logger('api')
 
 def get_api_data(url, format=True, display=False):
     """ Get data response from GitHub api
@@ -65,32 +70,35 @@ def get_api_data(url, format=True, display=False):
 
 def get_user_repo(url):
     """ Extract username and repository name from GitHub URL
+    
     Args:
         url (str): Full GitHub URL
             ex: https://github.com/user/repo
     Returns:
         tuple: username and repository
+            - Empty if error to continue to next
     """
-
     try:
-        if not re.search('http[s]?://github.com', url):
-           raise Exception('Invalid GitHub link')
-
         # ['https:', '', 'github.com', 'user', 'repo']
-        parts = url.split("/")
-        user = parts[3]
-        repo = parts[4]
+        if (
+            not re.search('http[s]?://github.com', url) or 
+            len(url.split('/')) != 5 
+           ): # v sad
+           API_LOG.error('Invalid GitHub link: %s', url)
+           raise ValueError
+
+        (_,_,_,user,repo) = url.split('/')
+
+        # Remove html jump link (breaks api call)
+        if '#' in repo:
+            repo = repo.split('#', 1)[0]
         
         # TODO: regex validate names
         #regex = '/^[a-z\d](?:[a-z\d]|-(?=[a-z\d])){0,38}$/i'
         #if not re.search(regex, user) or not re.search(regex, repo):
-        #    raise Exception('Invalid name or repo')
     except IndexError:
-        print('Unable to get user repo. Failed to access split parts')
-        return ('','')
-    except Exception as err:
-        print('Unable to get user repo ' + str(err))
-        return ('','')
+        API_LOG.error('Failed to access split parts: %s', url)
+        raise ValueError
 
     return (user, repo)
 
@@ -110,8 +118,8 @@ def get_token():
         path = os.path.dirname(__file__)
         with open(path + "/token", 'r') as f:
             return f.readline().strip()
-    except IOError as err:
-        print("Failed to get API token\nCreate a 'token' file in this directory")
+    except IOError:
+        API_LOG.critical("Failed to get API token\nCreate a 'token' file in this directory")
 
 def get_emojis():
     """ Get the GitHub emoji assets links
@@ -165,17 +173,21 @@ def get_rate_limit(option=''):
         remaining = req.headers['X-RateLimit-Remaining']
         reset = req.headers['X-RateLimit-Reset']
     except KeyError:
-        print("Unable to get RateLimit data")
+        API_LOG.error('Unable to get RateLimit data')
+        return ''
 
     if not option:
+        API_LOG.info('Retrieved all RateLimit data: %s', (limit, remaining, reset))
         return (limit, remaining, reset)
     
     opts = ['Limit', 'Remaining', 'Reset']
     if option not in opts:
-        print("Unable to get RateLimit data")
-        print("Options: Limit, Remaining, Reset")
+        API_LOG.error("Unable to get RateLimit data")
+        API_LOG.info("Options: Limit, Remaining, Reset")
     else:
-        return req.headers['X-RateLimit-' + option]
+        data = req.headers['X-RateLimit-' + option]
+        API_LOG.info('Retrieved RateLimit: %s = %s', option, data)
+        return data
 
 # Get README.md raw data file to string
 def get_readme(user, repo):
@@ -214,5 +226,5 @@ def get_url(text):
             url = re.search("(?P<url>https?://[^\s]+)", text)  
             return url.group("url").replace(")","") 
     except IndexError:
-        print("ERROR: Unable to extract URL")
+        API_LOG.error('Unable to extract URL')
     return ""

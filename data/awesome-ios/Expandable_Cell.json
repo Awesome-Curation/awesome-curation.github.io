@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  \ud83d\udcc3 FoldingCell is an expanding content cell with animation made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries", 
+            "Forks": 1062, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Ramotion/folding-cell'target='_blank'>folding-cell</a>", 
+            "Stars": 9018
+        }, 
+        {
+            "Description": "Simple and lightweight UITableViewController with accordion effect (expand / collapse cells)", 
+            "Forks": 21, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tadija/AEAccordion'target='_blank'>AEAccordion</a>", 
+            "Stars": 187
+        }, 
+        {
+            "Description": "Three Level Accordian View for IOS", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/amratab/ThreeLevelAccordian'target='_blank'>ThreeLevelAccordian</a>", 
+            "Stars": 41
+        }, 
+        {
+            "Description": "\u2728 Awesome expandable, collapsible tableview cell for iOS written in Swift 4", 
+            "Forks": 34, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/younatics/YNExpandableCell'target='_blank'>YNExpandableCell</a>", 
+            "Stars": 399
+        }, 
+        {
+            "Description": "Savory is swift accrodion view implementation", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Nandiin/Savory'target='_blank'>Savory</a>", 
+            "Stars": 3
+        }, 
+        {
+            "Description": "Make your table view expandable just by implementing one method.", 
+            "Forks": 25, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/okhanokbay/ExpyTableView'target='_blank'>ExpyTableView</a>", 
+            "Stars": 232
+        }, 
+        {
+            "Description": "UI framework to emulate paper folding effects.", 
+            "Forks": 3, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/monofire/FTFoldingPaper'target='_blank'>FTFoldingPaper</a>", 
+            "Stars": 28
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f389.png?v8'>  Swift library to support collapsible sections in a table view.", 
+            "Forks": 29, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jeantimex/CollapsibleTableSectionViewController'target='_blank'>CollapsibleTableSectionViewController</a>", 
+            "Stars": 141
+        }, 
+        {
+            "Description": "\u2728 Awesome expandable, collapsible tableview cell for iOS written in Swift 4", 
+            "Forks": 62, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/younatics/ExpandableCell'target='_blank'>ExpandableCell</a>", 
+            "Stars": 375
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'>  ExpandingCollection is an animated material design UI card peek/pop controller. iOS library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries", 
+            "Forks": 510, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Ramotion/expanding-collection'target='_blank'>expanding-collection</a>", 
+            "Stars": 4877
+        }
+    ]
+}

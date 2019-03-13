@@ -1,0 +1,186 @@
+{
+    "data": [
+        {
+            "Description": "Custom camera with AVFoundation. Beautiful, light and easy to integrate with iOS projects.", 
+            "Forks": 246, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/tdginternet/TGCameraViewController'target='_blank'>TGCameraViewController</a>", 
+            "Stars": 1440
+        }, 
+        {
+            "Description": "\ud83d\udcf8 iOS Media Capture \u2013 features touch-to-record video, slow motion, and photography", 
+            "Forks": 340, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/piemonte/PBJVision'target='_blank'>PBJVision</a>", 
+            "Stars": 1866
+        }, 
+        {
+            "Description": "A fully customisable and modern camera implementation for iOS made with AVFoundation.", 
+            "Forks": 162, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/GabrielAlva/Cool-iOS-Camera'target='_blank'>Cool-iOS-Camera</a>", 
+            "Stars": 1251
+        }, 
+        {
+            "Description": "iOS camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing", 
+            "Forks": 587, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/rFlex/SCRecorder'target='_blank'>SCRecorder</a>", 
+            "Stars": 2928
+        }, 
+        {
+            "Description": "A camera view controller with custom image picker and image cropping.", 
+            "Forks": 333, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AlexLittlejohn/ALCameraViewController'target='_blank'>ALCameraViewController</a>", 
+            "Stars": 1811
+        }, 
+        {
+            "Description": "Simple Swift class to provide all the configurations you need to create custom camera view in your app", 
+            "Forks": 197, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/imaginary-cloud/CameraManager'target='_blank'>CameraManager</a>", 
+            "Stars": 870
+        }, 
+        {
+            "Description": "1D and 2D barcodes reader and generators for iOS 8 with delightful controls. Now Swift.", 
+            "Forks": 157, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yeahdongcn/RSBarcodes_Swift'target='_blank'>RSBarcodes_Swift</a>", 
+            "Stars": 618
+        }, 
+        {
+            "Description": "A simple, customizable camera control - video recorder for iOS.", 
+            "Forks": 205, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/omergul/LLSimpleCamera'target='_blank'>LLSimpleCamera</a>", 
+            "Stars": 1169
+        }, 
+        {
+            "Description": "Instagram-like photo browser and a camera feature with a few line of code in Swift.", 
+            "Forks": 346, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ytakzk/Fusuma'target='_blank'>Fusuma</a>", 
+            "Stars": 2253
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f50e.png?v8'>  A simple and beautiful barcode scanner.", 
+            "Forks": 207, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hyperoslo/BarcodeScanner'target='_blank'>BarcodeScanner</a>", 
+            "Stars": 1174
+        }, 
+        {
+            "Description": "Horizon SDK for iOS", 
+            "Forks": 10, 
+            "Language": "HTML", 
+            "Repo": "<a href='https://github.com/HorizonCamera/HorizonSDK-iOS'target='_blank'>HorizonSDK-iOS</a>", 
+            "Stars": 166
+        }, 
+        {
+            "Description": "Fasttt and easy camera framework for iOS with customizable filters", 
+            "Forks": 198, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/IFTTT/FastttCamera'target='_blank'>FastttCamera</a>", 
+            "Stars": 1799
+        }, 
+        {
+            "Description": "A light weight & simple & easy camera for iOS by Swift.", 
+            "Forks": 27, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/zhangao0086/DKCamera'target='_blank'>DKCamera</a>", 
+            "Stars": 51
+        }, 
+        {
+            "Description": "\u2b06\ufe0f Rad Media Capture in Swift", 
+            "Forks": 146, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/NextLevel/NextLevel'target='_blank'>NextLevel</a>", 
+            "Stars": 1396
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f412.png?v8'> <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4f7.png?v8'>  Camera engine for iOS, written in Swift, above AVFoundation. <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f412.png?v8'> ", 
+            "Forks": 96, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/remirobert/CameraEngine'target='_blank'>CameraEngine</a>", 
+            "Stars": 532
+        }, 
+        {
+            "Description": "A Snapchat Inspired iOS Camera Framework written in Swift", 
+            "Forks": 215, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Awalz/SwiftyCam'target='_blank'>SwiftyCam</a>", 
+            "Stars": 1439
+        }, 
+        {
+            "Description": "Show camera layer as a background to any UIView", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yonat/CameraBackground'target='_blank'>CameraBackground</a>", 
+            "Stars": 33
+        }, 
+        {
+            "Description": "A camera designed in Swift for easily integrating CoreML models - as well as image streaming, QR/Barcode detection, and many other features", 
+            "Forks": 50, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dokun1/Lumina'target='_blank'>Lumina</a>", 
+            "Stars": 591
+        }, 
+        {
+            "Description": " \ud83d\udcf8 iMessage-like, Image Picker Controller Provides custom features.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/rallahaseh/RAImagePicker'target='_blank'>RAImagePicker</a>", 
+            "Stars": 11
+        }, 
+        {
+            "Description": "Easily take a photo or video or choose from library", 
+            "Forks": 101, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/fulldecent/FDTake'target='_blank'>FDTake</a>", 
+            "Stars": 283
+        }, 
+        {
+            "Description": "\ud83d\udcf8 Instagram-like image picker & filters for iOS", 
+            "Forks": 256, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Yummypets/YPImagePicker'target='_blank'>YPImagePicker</a>", 
+            "Stars": 1739
+        }, 
+        {
+            "Description": "Mock UIImagePickerController for testing camera based UI in simulator", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yonat/MockImagePicker'target='_blank'>MockImagePicker</a>", 
+            "Stars": 5
+        }, 
+        {
+            "Description": "Code examples for Depth APIs in iOS", 
+            "Forks": 28, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/shu223/iOS-Depth-Sampler'target='_blank'>iOS-Depth-Sampler</a>", 
+            "Stars": 447
+        }, 
+        {
+            "Description": "An iOS framework that uses the front camera, detects your face and takes a selfie.", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/abdullahselek/TakeASelfie'target='_blank'>TakeASelfie</a>", 
+            "Stars": 11
+        }, 
+        {
+            "Description": "Video and photo camera for iOS", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/eonist/HybridCamera'target='_blank'>HybridCamera</a>", 
+            "Stars": 47
+        }, 
+        {
+            "Description": "Library for iOS Camera API. Massively increase performance and ease of use within your next iOS Project.", 
+            "Forks": 16, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/CameraKit/camerakit-ios'target='_blank'>camerakit-ios</a>", 
+            "Stars": 332
+        }
+    ]
+}

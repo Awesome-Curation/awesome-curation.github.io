@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "Description": "A simple, decentralized dependency manager for Cocoa", 
+            "Forks": 1224, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Carthage/Carthage'target='_blank'>Carthage</a>", 
+            "Stars": 12606
+        }, 
+        {
+            "Description": "Swift Modules, a swift module (or package) manager #fuck_xcode #terminal_rocks", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/jankuca/swm'target='_blank'>swm</a>", 
+            "Stars": 56
+        }, 
+        {
+            "Description": "Git Submodule Alternative for Cocoa.", 
+            "Forks": 17, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/devxoul/CocoaSeeds'target='_blank'>CocoaSeeds</a>", 
+            "Stars": 347
+        }, 
+        {
+            "Description": "The Package Manager for the Swift Programming Language", 
+            "Forks": 797, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/apple/swift-package-manager'target='_blank'>swift-package-manager</a>", 
+            "Stars": 6727
+        }, 
+        {
+            "Description": "Clean room reimplementation of Carthage tool", 
+            "Forks": 16, 
+            "Language": "Python", 
+            "Repo": "<a href='https://github.com/schwa/punic'target='_blank'>punic</a>", 
+            "Stars": 235
+        }, 
+        {
+            "Description": "A cache tool for Carthage", 
+            "Forks": 31, 
+            "Language": "Haskell", 
+            "Repo": "<a href='https://github.com/blender/Rome'target='_blank'>Rome</a>", 
+            "Stars": 371
+        }, 
+        {
+            "Description": "Gradle plugin for managing Swift by enhancing Carthage with Maven repository", 
+            "Forks": 0, 
+            "Language": "Kotlin", 
+            "Repo": "<a href='https://github.com/yunarta/works-athena-gradle-plugin'target='_blank'>works-athena-gradle-plugin</a>", 
+            "Stars": 0
+        }
+    ]
+}

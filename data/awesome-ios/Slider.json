@@ -1,0 +1,158 @@
+{
+    "data": [
+        {
+            "Description": "VolumeControl is a custom volume control for iPhone featuring a well-designed round slider. ", 
+            "Forks": 9, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/12Rockets/VolumeControl'target='_blank'>VolumeControl</a>", 
+            "Stars": 68
+        }, 
+        {
+            "Description": "Simple and light weight slider with chapter management", 
+            "Forks": 13, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Ekhoo/WESlider'target='_blank'>WESlider</a>", 
+            "Stars": 87
+        }, 
+        {
+            "Description": "IntervalSlider is a slider library like ReutersTV app. written in pure swift.", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/shushutochako/IntervalSlider'target='_blank'>IntervalSlider</a>", 
+            "Stars": 59
+        }, 
+        {
+            "Description": "A simple range slider made in Swift", 
+            "Forks": 61, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/warchimede/RangeSlider'target='_blank'>RangeSlider</a>", 
+            "Stars": 213
+        }, 
+        {
+            "Description": "CircleSlider is a Circular slider library. written in pure Swift.", 
+            "Forks": 30, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/shushutochako/CircleSlider'target='_blank'>CircleSlider</a>", 
+            "Stars": 125
+        }, 
+        {
+            "Description": "A custom reusable slider control with 2 thumbs (range slider).", 
+            "Forks": 43, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/vadymmarkov/MARKRangeSlider'target='_blank'>MARKRangeSlider</a>", 
+            "Stars": 156
+        }, 
+        {
+            "Description": "A UISlider subclass that displays the slider value in a popup view", 
+            "Forks": 247, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/alskipp/ASValueTrackingSlider'target='_blank'>ASValueTrackingSlider</a>", 
+            "Stars": 1793
+        }, 
+        {
+            "Description": "A slider, similar in style to UISlider, but which allows you to pick a minimum and maximum range.", 
+            "Forks": 168, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/TomThorpe/TTRangeSlider'target='_blank'>TTRangeSlider</a>", 
+            "Stars": 786
+        }, 
+        {
+            "Description": "Customizable animated slider for iOS", 
+            "Forks": 12, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/MedvedevMax/MMSegmentSlider'target='_blank'>MMSegmentSlider</a>", 
+            "Stars": 42
+        }, 
+        {
+            "Description": "StepSlider its custom implementation of slider such as UISlider for preset integer values.", 
+            "Forks": 64, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/spromicky/StepSlider'target='_blank'>StepSlider</a>", 
+            "Stars": 268
+        }, 
+        {
+            "Description": "An iOS Slider written in Swift. ", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/JellyDevelopment/JDSlider'target='_blank'>JDSlider</a>", 
+            "Stars": 80
+        }, 
+        {
+            "Description": "A beautiful slider control for iOS built purely upon Swift", 
+            "Forks": 26, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/rehatkathuria/SnappingSlider'target='_blank'>SnappingSlider</a>", 
+            "Stars": 557
+        }, 
+        {
+            "Description": "A feature-rich circular slider control written in Swift.", 
+            "Forks": 11, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/EranBoudjnah/MTCircularSlider'target='_blank'>MTCircularSlider</a>", 
+            "Stars": 45
+        }, 
+        {
+            "Description": "VerticalSlider is a vertical slider control for iOS in Swift.", 
+            "Forks": 11, 
+            "Language": "Shell", 
+            "Repo": "<a href='https://github.com/jonkykong/VerticalSlider'target='_blank'>VerticalSlider</a>", 
+            "Stars": 57
+        }, 
+        {
+            "Description": "A powerful Circular Slider. It's written in Swift, it's 100% IBDesignable and all parameters are IBInspectable.", 
+            "Forks": 35, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/taglia3/CircularSlider'target='_blank'>CircularSlider</a>", 
+            "Stars": 203
+        }, 
+        {
+            "Description": "A custom reusable circular / progress slider control for iOS application.", 
+            "Forks": 159, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/HamzaGhazouani/HGCircularSlider'target='_blank'>HGCircularSlider</a>", 
+            "Stars": 1605
+        }, 
+        {
+            "Description": "RangeSeedSlider provides a customizable range slider like a UISlider.", 
+            "Forks": 134, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/WorldDownTown/RangeSeekSlider'target='_blank'>RangeSeekSlider</a>", 
+            "Stars": 310
+        }, 
+        {
+            "Description": "iOS 11 Control Center Slider", 
+            "Forks": 18, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/LeonardoCardoso/SectionedSlider'target='_blank'>SectionedSlider</a>", 
+            "Stars": 215
+        }, 
+        {
+            "Description": "UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/yonat/MultiSlider'target='_blank'>MultiSlider</a>", 
+            "Stars": 33
+        }, 
+        {
+            "Description": "AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter", 
+            "Forks": 45, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/agilie/AGCircularPicker'target='_blank'>AGCircularPicker</a>", 
+            "Stars": 504
+        }, 
+        {
+            "Description": "An animatable and customizable vertical slider written in Swift4.", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/vsmithers1087/VerticalSlider'target='_blank'>VerticalSlider</a>", 
+            "Stars": 13
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/octocat.png?v8'> \ud83d\udca7 A slider widget with a popup bubble displaying the precise value selected. Swift UI library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries", 
+            "Forks": 97, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Ramotion/fluid-slider'target='_blank'>fluid-slider</a>", 
+            "Stars": 1344
+        }
+    ]
+}

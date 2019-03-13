@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "Description": "An Xcode Source Editor extension to clean the closure syntax.", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/BalestraPatrick/CleanClosureXcode'target='_blank'>CleanClosureXcode</a>", 
+            "Stars": 177
+        }, 
+        {
+            "Description": "Xcode Source Editor Extension Tools (Xcode 8 Plugins)", 
+            "Forks": 81, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/cyanzhong/xTextHandler'target='_blank'>xTextHandler</a>", 
+            "Stars": 1450
+        }, 
+        {
+            "Description": "Xcode Source Code Extension to Generate Swift Initializers", 
+            "Forks": 28, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Bouke/SwiftInitializerGenerator'target='_blank'>SwiftInitializerGenerator</a>", 
+            "Stars": 656
+        }, 
+        {
+            "Description": "Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/sergdort/XcodeEquatableGenerator'target='_blank'>XcodeEquatableGenerator</a>", 
+            "Stars": 185
+        }, 
+        {
+            "Description": "Xcode extension for adding imports from anywhere in the code \u261d\ufe0f", 
+            "Forks": 30, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/markohlebar/Import'target='_blank'>Import</a>", 
+            "Stars": 781
+        }, 
+        {
+            "Description": "Xcode extension for generating MARK comments.", 
+            "Forks": 10, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/velyan/Mark'target='_blank'>Mark</a>", 
+            "Stars": 137
+        }, 
+        {
+            "Description": "Xcode extension that allows you copying the code with special formatting quotes for social (Slack, Telegram)", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Otbivnoe/XShared'target='_blank'>XShared</a>", 
+            "Stars": 80
+        }, 
+        {
+            "Description": "Xcode extension to send code to GitHub's Gist", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Bunn/Xgist'target='_blank'>Xgist</a>", 
+            "Stars": 67
+        }, 
+        {
+            "Description": "Attempt to give a new life for VVDocumenter-Xcode as source editor extension.", 
+            "Forks": 5, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/serhii-londar/DocumenterXcode'target='_blank'>DocumenterXcode</a>", 
+            "Stars": 19
+        }, 
+        {
+            "Description": "\ud83d\udd2e Magical import declarations formatter for Xcode", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Karetski/Snowonder'target='_blank'>Snowonder</a>", 
+            "Stars": 92
+        }, 
+        {
+            "Description": "Vim key-bindings for Xcode 9", 
+            "Forks": 105, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/XVimProject/XVim2'target='_blank'>XVim2</a>", 
+            "Stars": 1382
+        }, 
+        {
+            "Description": "Xcode extension for spell checking and auto-correcting code comments.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/velyan/Comment-Spell-Checker'target='_blank'>Comment-Spell-Checker</a>", 
+            "Stars": 143
+        }
+    ]
+}

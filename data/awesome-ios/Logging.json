@@ -1,0 +1,221 @@
+{
+    "data": [
+        {
+            "Description": "CleanroomLogger provides an extensible Swift-based logging API that is simple, lightweight and performant", 
+            "Forks": 111, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/emaloney/CleanroomLogger'target='_blank'>CleanroomLogger</a>", 
+            "Stars": 1224
+        }, 
+        {
+            "Description": "A fast & simple, yet powerful & flexible logging framework for Mac and iOS", 
+            "Forks": 1923, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/CocoaLumberjack/CocoaLumberjack'target='_blank'>CocoaLumberjack</a>", 
+            "Stars": 11045
+        }, 
+        {
+            "Description": "A modern, flexible logging tool", 
+            "Forks": 542, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/fpillet/NSLogger'target='_blank'>NSLogger</a>", 
+            "Stars": 4605
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4d5.png?v8'>  Swift Logging Utility for Xcode & Google Docs ", 
+            "Forks": 88, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/goktugyil/QorumLogs'target='_blank'>QorumLogs</a>", 
+            "Stars": 761
+        }, 
+        {
+            "Description": "An extensible logging framework for Swift", 
+            "Forks": 53, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/delba/Log'target='_blank'>Log</a>", 
+            "Stars": 760
+        }, 
+        {
+            "Description": "Delightful console output for Swift developers.", 
+            "Forks": 74, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/onevcat/Rainbow'target='_blank'>Rainbow</a>", 
+            "Stars": 1161
+        }, 
+        {
+            "Description": "Convenient logging during development & release in Swift 2, 3 & 4", 
+            "Forks": 281, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/SwiftyBeaver/SwiftyBeaver'target='_blank'>SwiftyBeaver</a>", 
+            "Stars": 4117
+        }, 
+        {
+            "Description": "A lightweight library for generating text tables.", 
+            "Forks": 15, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/scottrhoyt/SwiftyTextTable'target='_blank'>SwiftyTextTable</a>", 
+            "Stars": 164
+        }, 
+        {
+            "Description": "Class for logging excessive blocking on the main thread", 
+            "Forks": 77, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/wojteklu/Watchdog'target='_blank'>Watchdog</a>", 
+            "Stars": 1599
+        }, 
+        {
+            "Description": "A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog() or print(), but with additional information, such as the date, function name, filename and line number.", 
+            "Forks": 409, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/DaveWoodCom/XCGLogger'target='_blank'>XCGLogger</a>", 
+            "Stars": 3207
+        }, 
+        {
+            "Description": "[Obsoleted] A log collector for iOS (new version! -> https://github.com/cookpad/Puree-Swift)", 
+            "Forks": 24, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/cookpad/puree-ios'target='_blank'>puree-ios</a>", 
+            "Stars": 152
+        }, 
+        {
+            "Description": "A pure Swift library for using ANSI codes. Basically makes command-line coloring and styling very easy!", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/icodeforlove/Colors'target='_blank'>Colors</a>", 
+            "Stars": 26
+        }, 
+        {
+            "Description": "A lightweight Swift logger, uses `print` in development and `NSLog` in production. Support colourful and formatted output.", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/honghaoz/Loggerithm'target='_blank'>Loggerithm</a>", 
+            "Stars": 266
+        }, 
+        {
+            "Description": "Simple, lightweight and flexible debug logging framework written in Swift", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tadija/AELog'target='_blank'>AELog</a>", 
+            "Stars": 23
+        }, 
+        {
+            "Description": "A protocol that allows any class to be printed as if it were a struct or a JSON object.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mattcomi/ReflectedStringConvertible'target='_blank'>ReflectedStringConvertible</a>", 
+            "Stars": 54
+        }, 
+        {
+            "Description": "Most natural Swift logging", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nilsleiffischer/Evergreen'target='_blank'>Evergreen</a>", 
+            "Stars": 76
+        }, 
+        {
+            "Description": "Trace Swift and Objective-C method invocations", 
+            "Forks": 8, 
+            "Language": "Assembly", 
+            "Repo": "<a href='https://github.com/johnno1962/SwiftTrace'target='_blank'>SwiftTrace</a>", 
+            "Stars": 149
+        }, 
+        {
+            "Description": "Willow is a powerful, yet lightweight logging library written in Swift.", 
+            "Forks": 60, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Nike-Inc/Willow'target='_blank'>Willow</a>", 
+            "Stars": 1099
+        }, 
+        {
+            "Description": "Bugfender SDK for iOS, a remote logger tailor-made for mobile", 
+            "Forks": 19, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/bugfender/BugfenderSDK-iOS'target='_blank'>BugfenderSDK-iOS</a>", 
+            "Stars": 44
+        }, 
+        {
+            "Description": "Automate box any value! Print log without any format control symbol! Change debug habit thoroughly! ", 
+            "Forks": 60, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/DeveloperLx/LxDBAnything'target='_blank'>LxDBAnything</a>", 
+            "Stars": 428
+        }, 
+        {
+            "Description": "Styling and coloring your XCTest logs on Xcode Console", 
+            "Forks": 7, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/xareelee/XLTestLog'target='_blank'>XLTestLog</a>", 
+            "Stars": 60
+        }, 
+        {
+            "Description": "Elegant and extensive logging facility for OS X & iOS (includes database, Telnet and HTTP servers)", 
+            "Forks": 24, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/swisspol/XLFacility'target='_blank'>XLFacility</a>", 
+            "Stars": 296
+        }, 
+        {
+            "Description": "A powerful input-agnostic swift logging framework made to speed up development with maximum readability.", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/DrewKiino/Atlantis'target='_blank'>Atlantis</a>", 
+            "Stars": 202
+        }, 
+        {
+            "Description": "A log should tell a story, not drown the reader in irrelevance.", 
+            "Forks": 1, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/drekka/StoryTeller'target='_blank'>StoryTeller</a>", 
+            "Stars": 8
+        }, 
+        {
+            "Description": "A Simple iOS Testing Framework ", 
+            "Forks": 0, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ubclaunchpad/LumberMill'target='_blank'>LumberMill</a>", 
+            "Stars": 2
+        }, 
+        {
+            "Description": "\ud83d\udea6\ud83d\udcf1 A tiny log console to display information while using your iOS app. Written in Swift 3.", 
+            "Forks": 73, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Cosmo/TinyConsole'target='_blank'>TinyConsole</a>", 
+            "Stars": 1792
+        }, 
+        {
+            "Description": "Easy to use and lightweight logger for iOS, macOS, tvOS, watchOS and Linux in Swift.", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/abdullahselek/Lighty'target='_blank'>Lighty</a>", 
+            "Stars": 43
+        }, 
+        {
+            "Description": "JustLog brings logging on iOS to the next level. It supports console, file and remote Logstash logging via TCP socket with no effort. Support for logz.io available.", 
+            "Forks": 50, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/justeat/JustLog'target='_blank'>JustLog</a>", 
+            "Stars": 321
+        }, 
+        {
+            "Description": "Twitter Logging Service is a robust and performant logging framework for iOS clients", 
+            "Forks": 19, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/twitter/ios-twitter-logging-service'target='_blank'>ios-twitter-logging-service</a>", 
+            "Stars": 200
+        }, 
+        {
+            "Description": "Simple network activity logger for iOS", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/AckeeCZ/Reqres'target='_blank'>Reqres</a>", 
+            "Stars": 51
+        }, 
+        {
+            "Description": "Dead Simple: logging the way it's meant to be!", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tonystone/tracelog'target='_blank'>tracelog</a>", 
+            "Stars": 30
+        }
+    ]
+}

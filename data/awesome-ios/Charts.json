@@ -1,0 +1,221 @@
+{
+    "data": [
+        {
+            "Description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.", 
+            "Forks": 3938, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/danielgindi/Charts'target='_blank'>Charts</a>", 
+            "Stars": 20406
+        }, 
+        {
+            "Description": "A simple and beautiful chart lib used in Piner and CoinsMan for iOS", 
+            "Forks": 1824, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/kevinzhow/PNChart'target='_blank'>PNChart</a>", 
+            "Stars": 9572
+        }, 
+        {
+            "Description": "iOS Chart. Support animation, click, scroll, area highlight.", 
+            "Forks": 95, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/JunyiXie/XJYChart'target='_blank'>XJYChart</a>", 
+            "Stars": 758
+        }, 
+        {
+            "Description": "Elegant Line Graphs for iOS. (Charting library)", 
+            "Forks": 411, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Boris-Em/BEMSimpleLineGraph'target='_blank'>BEMSimpleLineGraph</a>", 
+            "Stars": 2726
+        }, 
+        {
+            "Description": "iOS-based charting library for both line and bar graphs.", 
+            "Forks": 451, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Jawbone/JBChartView'target='_blank'>JBChartView</a>", 
+            "Stars": 3803
+        }, 
+        {
+            "Description": "A simple and animated Pie Chart for your iOS app.", 
+            "Forks": 316, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/xyfeng/XYPieChart'target='_blank'>XYPieChart</a>", 
+            "Stars": 1760
+        }, 
+        {
+            "Description": "Simple and intuitive iOS chart library. Contribution graph, clock chart, and bar chart.", 
+            "Forks": 143, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/xhacker/TEAChart'target='_blank'>TEAChart</a>", 
+            "Stars": 1183
+        }, 
+        {
+            "Description": "iOS/iPhone/iPad Chart, Graph. Event handling and animation supported.", 
+            "Forks": 126, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/zhuhuihuihui/EChart'target='_blank'>EChart</a>", 
+            "Stars": 647
+        }, 
+        {
+            "Description": "A line chart library for iOS", 
+            "Forks": 125, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ArthurGuibert/FSLineChart'target='_blank'>FSLineChart</a>", 
+            "Stars": 856
+        }, 
+        {
+            "Description": "a charting library for mobile platforms", 
+            "Forks": 283, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/zhiyu/chartee'target='_blank'>chartee</a>", 
+            "Stars": 936
+        }, 
+        {
+            "Description": "ANDLineChartView is easy to use view-based class for displaying animated line chart.", 
+            "Forks": 60, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/anaglik/ANDLineChartView'target='_blank'>ANDLineChartView</a>", 
+            "Stars": 423
+        }, 
+        {
+            "Description": "An iOS wrapper for ChartJS. Easily build animated charts by leveraging the power of native Obj-C code.", 
+            "Forks": 55, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/chasseurmic/TWRCharts'target='_blank'>TWRCharts</a>", 
+            "Stars": 370
+        }, 
+        {
+            "Description": "Easy to use and highly customizable charts library for iOS", 
+            "Forks": 301, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/i-schuetz/SwiftCharts'target='_blank'>SwiftCharts</a>", 
+            "Stars": 1879
+        }, 
+        {
+            "Description": "Flower-like chart written in Swift", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/drinkius/flowerchart'target='_blank'>FlowerChart</a>", 
+            "Stars": 10
+        }, 
+        {
+            "Description": "An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.", 
+            "Forks": 408, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/philackm/ScrollableGraphView'target='_blank'>ScrollableGraphView</a>", 
+            "Stars": 4849
+        }, 
+        {
+            "Description": "", 
+            "Forks": 43, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Zomato/DR-charts'target='_blank'>DR-charts</a>", 
+            "Stars": 86
+        }, 
+        {
+            "Description": "Light weight charts view generater for iOS. Written in Swift.", 
+            "Forks": 65, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/recruit-mtl/Graphs'target='_blank'>Graphs</a>", 
+            "Stars": 937
+        }, 
+        {
+            "Description": "A charting library to visualize and interact with a vector map on iOS. It's like Geochart but for iOS!", 
+            "Forks": 77, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ArthurGuibert/FSInteractiveMap'target='_blank'>FSInteractiveMap</a>", 
+            "Stars": 515
+        }, 
+        {
+            "Description": "an iOS open source Radar Chart implementation", 
+            "Forks": 95, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/johnnywjy/JYRadarChart'target='_blank'>JYRadarChart</a>", 
+            "Stars": 414
+        }, 
+        {
+            "Description": "A customizable radar chart  in Swift", 
+            "Forks": 23, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/TBXark/TKRadarChart'target='_blank'>TKRadarChart</a>", 
+            "Stars": 164
+        }, 
+        {
+            "Description": "Amazing animations available with MagicPie!", 
+            "Forks": 87, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/AlexandrGraschenkov/MagicPie'target='_blank'>MagicPie</a>", 
+            "Stars": 538
+        }, 
+        {
+            "Description": "Easy to use and highly customizable pie charts library for iOS", 
+            "Forks": 68, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/i-schuetz/PieCharts'target='_blank'>PieCharts</a>", 
+            "Stars": 423
+        }, 
+        {
+            "Description": "This is pie chart that is very easy to use and customizable design.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/youkchansim/CSPieChart'target='_blank'>CSPieChart</a>", 
+            "Stars": 36
+        }, 
+        {
+            "Description": "Easy to use Spider (Radar) Chart library for iOS written in Swift.", 
+            "Forks": 5, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dadalar/DDSpiderChart'target='_blank'>DDSpiderChart</a>", 
+            "Stars": 46
+        }, 
+        {
+            "Description": "Core Plot source code and example applications", 
+            "Forks": 607, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/core-plot/core-plot'target='_blank'>core-plot</a>", 
+            "Stars": 2604
+        }, 
+        {
+            "Description": "Draw a chart with progress bar style", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hadiidbouk/ChartProgressBar-iOS'target='_blank'>ChartProgressBar-iOS</a>", 
+            "Stars": 61
+        }, 
+        {
+            "Description": "Diagram View for iOS", 
+            "Forks": 5, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/VRGsoftUA/SMDiagramView'target='_blank'>SMDiagramView</a>", 
+            "Stars": 27
+        }, 
+        {
+            "Description": "Line Chart library for iOS written in Swift", 
+            "Forks": 62, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/zemirco/swift-linechart'target='_blank'>swift-linechart</a>", 
+            "Stars": 559
+        }, 
+        {
+            "Description": "Line and area chart library for iOS", 
+            "Forks": 95, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/gpbl/SwiftChart'target='_blank'>SwiftChart</a>", 
+            "Stars": 778
+        }, 
+        {
+            "Description": "Eat fit is a component for attractive data representation inspired by Google Fit", 
+            "Forks": 84, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Yalantis/EatFit'target='_blank'>EatFit</a>", 
+            "Stars": 656
+        }, 
+        {
+            "Description": "CoreCharts is a simple powerfull yet Charts library for apple products", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/CoreCharts/CoreCharts'target='_blank'>CoreCharts</a>", 
+            "Stars": 63
+        }
+    ]
+}

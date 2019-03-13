@@ -1,0 +1,165 @@
+{
+    "data": [
+        {
+            "Description": "Spotify SDK for iOS", 
+            "Forks": 17, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/spotify/ios-sdk'target='_blank'>ios-sdk</a>", 
+            "Stars": 102
+        }, 
+        {
+            "Description": "Swift framework for authenticating with the Spotify API", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/spotify/SpotifyLogin'target='_blank'>SpotifyLogin</a>", 
+            "Stars": 275
+        }, 
+        {
+            "Description": "Used to integrate the Facebook Platform with your iOS & tvOS apps.", 
+            "Forks": 2431, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/facebook/facebook-objc-sdk'target='_blank'>facebook-objc-sdk</a>", 
+            "Stars": 6015
+        }, 
+        {
+            "Description": "Integrate your iOS apps in Swift with Facebook Platform.", 
+            "Forks": 303, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/facebook/facebook-swift-sdk'target='_blank'>facebook-swift-sdk</a>", 
+            "Stars": 1419
+        }, 
+        {
+            "Description": "Accept credit cards and PayPal in your iOS app", 
+            "Forks": 377, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/paypal/PayPal-iOS-SDK'target='_blank'>PayPal-iOS-SDK</a>", 
+            "Stars": 951
+        }, 
+        {
+            "Description": "Headless iOS/Mac SDK for saving stuff to Pocket.", 
+            "Forks": 70, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Pocket/Pocket-ObjC-SDK'target='_blank'>Pocket-ObjC-SDK</a>", 
+            "Stars": 227
+        }, 
+        {
+            "Description": "Unopinionated and flexible library for easily integrating Tumblr data into your iOS or OS X application.", 
+            "Forks": 119, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/tumblr/TMTumblrSDK'target='_blank'>TMTumblrSDK</a>", 
+            "Stars": 403
+        }, 
+        {
+            "Description": "Evernote Cloud SDK for iOS", 
+            "Forks": 97, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/evernote/evernote-cloud-sdk-ios'target='_blank'>evernote-cloud-sdk-ios</a>", 
+            "Stars": 234
+        }, 
+        {
+            "Description": "iOS SDK for the Box Content API", 
+            "Forks": 75, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/box/box-ios-sdk'target='_blank'>box-ios-sdk</a>", 
+            "Stars": 71
+        }, 
+        {
+            "Description": "OneDrive SDK for iOS", 
+            "Forks": 63, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/OneDrive/onedrive-sdk-ios'target='_blank'>onedrive-sdk-ios</a>", 
+            "Stars": 70
+        }, 
+        {
+            "Description": "Stripe iOS SDK    ", 
+            "Forks": 491, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/stripe/stripe-ios'target='_blank'>stripe-ios</a>", 
+            "Stars": 1019
+        }, 
+        {
+            "Description": "AWS SDK for iOS. For more information, see our web site:", 
+            "Forks": 623, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/aws-amplify/aws-sdk-ios'target='_blank'>aws-sdk-ios</a>", 
+            "Stars": 1144
+        }, 
+        {
+            "Description": "Zendesk Mobile SDK for iOS", 
+            "Forks": 60, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/zendesk/zendesk_sdk_ios'target='_blank'>zendesk_sdk_ios</a>", 
+            "Stars": 90
+        }, 
+        {
+            "Description": "ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.", 
+            "Forks": 1025, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ResearchKit/ResearchKit'target='_blank'>ResearchKit</a>", 
+            "Stars": 5202
+        }, 
+        {
+            "Description": "Client library for accessing Azure Storage on an iOS device", 
+            "Forks": 36, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Azure/azure-storage-ios'target='_blank'>azure-storage-ios</a>", 
+            "Stars": 63
+        }, 
+        {
+            "Description": "1Password Extension for iOS Apps", 
+            "Forks": 293, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/AgileBits/onepassword-app-extension'target='_blank'>onepassword-app-extension</a>", 
+            "Stars": 2506
+        }, 
+        {
+            "Description": "CareKit is an open source software framework for creating apps that help people better understand and manage their health.", 
+            "Forks": 300, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/carekit-apple/CareKit'target='_blank'>CareKit</a>", 
+            "Stars": 1459
+        }, 
+        {
+            "Description": "Shopify\u2019s Mobile Buy SDK makes it simple to sell physical products inside your mobile app. With a few lines of code, you can connect your app with the Shopify platform and let your users buy your products using Apple Pay or their credit card.", 
+            "Forks": 147, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Shopify/mobile-buy-sdk-ios'target='_blank'>mobile-buy-sdk-ios</a>", 
+            "Stars": 260
+        }, 
+        {
+            "Description": "Pinterest iOS SDK", 
+            "Forks": 77, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/pinterest/ios-pdk'target='_blank'>ios-pdk</a>", 
+            "Stars": 105
+        }, 
+        {
+            "Description": "PlayKit: Kaltura Player SDK for iOS", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kaltura/playkit-ios'target='_blank'>playkit-ios</a>", 
+            "Stars": 30
+        }, 
+        {
+            "Description": "\ud83d\udd0e Algolia Search API Client for Swift\u2026 and Objective-C!", 
+            "Forks": 30, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/algolia/algoliasearch-client-swift'target='_blank'>algoliasearch-client-swift</a>", 
+            "Stars": 130
+        }, 
+        {
+            "Description": "Twitter Kit is a native SDK to include Twitter content inside mobile apps.", 
+            "Forks": 187, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/twitter/twitter-kit-ios'target='_blank'>twitter-kit-ios</a>", 
+            "Stars": 597
+        }, 
+        {
+            "Description": "Uber Rides iOS SDK (beta)", 
+            "Forks": 104, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/uber/rides-ios-sdk'target='_blank'>rides-ios-sdk</a>", 
+            "Stars": 317
+        }
+    ]
+}

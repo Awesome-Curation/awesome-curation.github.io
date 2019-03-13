@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "Description": "An easy to use, customizable replacement for UISegmentedControl & UISwitch.", 
+            "Forks": 149, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/gmarm/BetterSegmentedControl'target='_blank'>BetterSegmentedControl</a>", 
+            "Stars": 1175
+        }, 
+        {
+            "Description": "Customizable segmented control with interactive animation. ", 
+            "Forks": 39, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Stormotion-Mobile/LUNSegmentedControl'target='_blank'>LUNSegmentedControl</a>", 
+            "Stars": 275
+        }, 
+        {
+            "Description": "<img src='https://github.githubassets.com/images/icons/emoji/unicode/1f36b.png?v8'>  Fully customizable Segmented Control for iOS", 
+            "Forks": 55, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/alikaragoz/AKASegmentedControl'target='_blank'>AKASegmentedControl</a>", 
+            "Stars": 400
+        }, 
+        {
+            "Description": "Custom UISegmentedControl replacement for iOS, written in Swift", 
+            "Forks": 149, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/twicketapp/TwicketSegmentedControl'target='_blank'>TwicketSegmentedControl</a>", 
+            "Stars": 1476
+        }, 
+        {
+            "Description": "A segmented control with custom appearance and interactive animations. Written in Swift 3.0.", 
+            "Forks": 54, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/sasojadrovski/SJFluidSegmentedControl'target='_blank'>SJFluidSegmentedControl</a>", 
+            "Stars": 790
+        }, 
+        {
+            "Description": "A drop-in replacement for UISegmentedControl mimicking the style of the segmented control used in Google Currents and various other Google products.", 
+            "Forks": 778, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/HeshamMegid/HMSegmentedControl'target='_blank'>HMSegmentedControl</a>", 
+            "Stars": 3544
+        }, 
+        {
+            "Description": "A customizable Segmented Control for iOS. Supports text and image.", 
+            "Forks": 22, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/afishhhhh/YUSegment'target='_blank'>YUSegment</a>", 
+            "Stars": 108
+        }, 
+        {
+            "Description": "Multiple-Selection UISegmentedControl", 
+            "Forks": 35, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/yonat/MultiSelectSegmentedControl'target='_blank'>MultiSelectSegmentedControl</a>", 
+            "Stars": 106
+        }, 
+        {
+            "Description": "A segment switcher with dynamic text mask effect", 
+            "Forks": 32, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/KittenYang/DynamicMaskSegmentSwitch'target='_blank'>DynamicMaskSegmentSwitch</a>", 
+            "Stars": 303
+        }, 
+        {
+            "Description": "A Pinterest-like segment control with masking animation.", 
+            "Forks": 33, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/TBXark/PinterestSegment'target='_blank'>PinterestSegment</a>", 
+            "Stars": 414
+        }, 
+        {
+            "Description": "A customisable rotary wheel UI component.", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/rob-nash/Rotary'target='_blank'>Rotary</a>", 
+            "Stars": 38
+        }
+    ]
+}

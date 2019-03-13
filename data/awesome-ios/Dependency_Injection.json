@@ -1,0 +1,95 @@
+{
+    "data": [
+        {
+            "Description": "Dependency injection framework for Swift with iOS/macOS/Linux", 
+            "Forks": 227, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Swinject/Swinject'target='_blank'>Swinject</a>", 
+            "Stars": 3077
+        }, 
+        {
+            "Description": "Nonintrusive Objective-C Dependency Injection", 
+            "Forks": 7, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/appfoundry/Reliant'target='_blank'>Reliant</a>", 
+            "Stars": 54
+        }, 
+        {
+            "Description": "Simple Dependency Injection container for Swift. Use protocols to resolve dependencies with easy-to-use syntax!", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/sabirvirtuoso/Kraken'target='_blank'>Kraken</a>", 
+            "Stars": 1
+        }, 
+        {
+            "Description": "Lightweight Swift Dependency Injection Framework", 
+            "Forks": 63, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/square/Cleanse'target='_blank'>Cleanse</a>", 
+            "Stars": 1190
+        }, 
+        {
+            "Description": "Powerful dependency injection for iOS & OSX (Objective-C & Swift)", 
+            "Forks": 267, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/appsquickly/Typhoon'target='_blank'>typhoon</a>", 
+            "Stars": 2551
+        }, 
+        {
+            "Description": "Easy dependency injection for storyboard segues", 
+            "Forks": 12, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/thoughtbot/Perform'target='_blank'>Perform</a>", 
+            "Stars": 276
+        }, 
+        {
+            "Description": "The most advanced iOS DI framework available", 
+            "Forks": 1, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/drekka/Alchemic'target='_blank'>Alchemic</a>", 
+            "Stars": 13
+        }, 
+        {
+            "Description": "An elegant, flexible, type-safe dependency resolution framework for Swift", 
+            "Forks": 4, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/prosumma/Guise'target='_blank'>Guise</a>", 
+            "Stars": 43
+        }, 
+        {
+            "Description": "Dependency Injection framework for Swift (iOS/macOS/Linux)", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/scribd/Weaver'target='_blank'>Weaver</a>", 
+            "Stars": 325
+        }, 
+        {
+            "Description": "Simple dependency injection for generating views from storyboard.", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/hiro-nagami/StoryboardBuilder'target='_blank'>StoryboardBuilder</a>", 
+            "Stars": 3
+        }, 
+        {
+            "Description": "Simple dependency injection container for services written for iOS in swift supporting boot order", 
+            "Forks": 1, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ladeiko/ViperServices'target='_blank'>ViperServices</a>", 
+            "Stars": 3
+        }, 
+        {
+            "Description": "Dependency injection for iOS (Swift)", 
+            "Forks": 19, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ivlevAstef/DITranquillity'target='_blank'>DITranquillity</a>", 
+            "Stars": 169
+        }, 
+        {
+            "Description": "Compile-time safe Swift dependency injection framework with real code", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/uber/needle'target='_blank'>needle</a>", 
+            "Stars": 331
+        }
+    ]
+}

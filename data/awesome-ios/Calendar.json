@@ -1,0 +1,144 @@
+{
+    "data": [
+        {
+            "Description": "A custom visual calendar for iOS 8+ written in Swift (>= 4.0).", 
+            "Forks": 574, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/CVCalendar/CVCalendar'target='_blank'>CVCalendar</a>", 
+            "Stars": 3169
+        }, 
+        {
+            "Description": "iOS 7+ Calendar (Date Picker) with Infinite Scrolling.", 
+            "Forks": 161, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ruslanskorb/RSDayFlow'target='_blank'>RSDayFlow</a>", 
+            "Stars": 810
+        }, 
+        {
+            "Description": "An availability calendar implementation for iOS", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nbwar/NWCalendarView'target='_blank'>NWCalendarView</a>", 
+            "Stars": 58
+        }, 
+        {
+            "Description": "A fully customizable calendar view acting as a date range picker", 
+            "Forks": 107, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/Glow-Inc/GLCalendarView'target='_blank'>GLCalendarView</a>", 
+            "Stars": 855
+        }, 
+        {
+            "Description": "A customizable calendar view for iOS.", 
+            "Forks": 520, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/jonathantribouharet/JTCalendar'target='_blank'>JTCalendar</a>", 
+            "Stars": 2670
+        }, 
+        {
+            "Description": "The Unofficial Apple iOS Swift Calendar View. Swift calendar Library. iOS calendar Control. 100% Customizable", 
+            "Forks": 520, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/patchthecode/JTAppleCalendar'target='_blank'>JTAppleCalendar</a>", 
+            "Stars": 5477
+        }, 
+        {
+            "Description": "\ud83d\udcc6 An elegant calendar control for iOS.", 
+            "Forks": 74, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/unixzii/Daysquare'target='_blank'>Daysquare</a>", 
+            "Stars": 680
+        }, 
+        {
+            "Description": "A calendar control for iOS written in swift with mvvm pattern", 
+            "Forks": 13, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/scamps88/ASCalendar'target='_blank'>ASCalendar</a>", 
+            "Stars": 194
+        }, 
+        {
+            "Description": "A set of views and controllers for displaying and scheduling events on iOS", 
+            "Forks": 191, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/jumartin/Calendar'target='_blank'>Calendar</a>", 
+            "Stars": 627
+        }, 
+        {
+            "Description": "Simple customizable calendar component in Swift <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png?v8'> ", 
+            "Forks": 79, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/shoheiyokoyama/Koyomi'target='_blank'>Koyomi</a>", 
+            "Stars": 642
+        }, 
+        {
+            "Description": "A nicer iOS UI component for picking date and time", 
+            "Forks": 170, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/itsmeichigo/DateTimePicker'target='_blank'>DateTimePicker</a>", 
+            "Stars": 1582
+        }, 
+        {
+            "Description": "RCalendarPicker A date picker control, Calendar calendar control, select control, calendar, date selection, the clock selection control. \u65e5\u5386\u63a7\u4ef6 \uff0c\u65e5\u5386\u9009\u62e9\u63a7\u4ef6\uff0c\u65e5\u5386\uff0c\u65e5\u671f\u9009\u62e9\uff0c\u65f6\u949f\u9009\u62e9\u63a7\u4ef6", 
+            "Forks": 16, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/roycms/RCalendarPicker'target='_blank'>RCalendarPicker</a>", 
+            "Stars": 95
+        }, 
+        {
+            "Description": "\ud83d\udcc5 Fully customizable calendar for iOS", 
+            "Forks": 116, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/richardtop/CalendarKit'target='_blank'>CalendarKit</a>", 
+            "Stars": 1071
+        }, 
+        {
+            "Description": "Calendar component with RTL languages written in swift", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/saeid/GDCalendar'target='_blank'>GDCalendar</a>", 
+            "Stars": 22
+        }, 
+        {
+            "Description": "An open source calendar framework for iOS, with support for customization, IBDesignable, Autolayout, and more.", 
+            "Forks": 123, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/MosheBerman/MBCalendarKit'target='_blank'>MBCalendarKit</a>", 
+            "Stars": 547
+        }, 
+        {
+            "Description": "An Event View based on Apple's Event Detail View. Written in Swift 3. Supports ARC, Autolayout and editing via StoryBoard.", 
+            "Forks": 2, 
+            "Language": "Ruby", 
+            "Repo": "<a href='https://github.com/amantaneja/PTEventView'target='_blank'>PTEventView</a>", 
+            "Stars": 29
+        }, 
+        {
+            "Description": "This is a calendar component for iOS written in Swift 4.0", 
+            "Forks": 45, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mmick66/CalendarView'target='_blank'>CalendarView</a>", 
+            "Stars": 243
+        }, 
+        {
+            "Description": "CalendarPopUp - JTAppleCalendar library", 
+            "Forks": 29, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/orazz/CalendarPopUp'target='_blank'>CalendarPopUp</a>", 
+            "Stars": 164
+        }, 
+        {
+            "Description": "A calendar view", 
+            "Forks": 20, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/maximbilan/Calendar-iOS'target='_blank'>Calendar-iOS</a>", 
+            "Stars": 137
+        }, 
+        {
+            "Description": "A fully customizable iOS calendar library, compatible with Objective-C and Swift", 
+            "Forks": 1334, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/WenchaoD/FSCalendar'target='_blank'>FSCalendar</a>", 
+            "Stars": 7675
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "Description": "Swift wrapper for iOS Home Screen Quick Actions (App Icon Shortcuts)", 
+            "Forks": 8, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ricardopereira/QuickActions'target='_blank'>QuickActions</a>", 
+            "Stars": 230
+        }, 
+        {
+            "Description": "JustPeek is an iOS Library that adds support for Force Touch-like Peek and Pop interactions on devices that do not natively support this kind of interaction.", 
+            "Forks": 5, 
+            "Language": "Shell", 
+            "Repo": "<a href='https://github.com/justeat/JustPeek'target='_blank'>JustPeek</a>", 
+            "Stars": 70
+        }, 
+        {
+            "Description": "PeekView supports peek, pop and preview actions for iOS devices without 3D Touch capibility", 
+            "Forks": 24, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/itsmeichigo/PeekView'target='_blank'>PeekView</a>", 
+            "Stars": 124
+        }
+    ]
+}

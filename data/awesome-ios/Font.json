@@ -1,0 +1,130 @@
+{
+    "data": [
+        {
+            "Description": "Programmatically load custom fonts into your iOS and tvOS app.", 
+            "Forks": 71, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ArtSabintsev/FontBlaster'target='_blank'>FontBlaster</a>", 
+            "Stars": 925
+        }, 
+        {
+            "Description": "Google Material Design Icons for Swift and ObjC project", 
+            "Forks": 23, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kitasuke/GoogleMaterialIconFont'target='_blank'>GoogleMaterialIconFont</a>", 
+            "Stars": 147
+        }, 
+        {
+            "Description": "NSString+FontAwesome", 
+            "Forks": 276, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/alexdrone/ios-fontawesome'target='_blank'>ios-fontawesome</a>", 
+            "Stars": 1777
+        }, 
+        {
+            "Description": "Use FontAwesome in your Swift projects", 
+            "Forks": 186, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/thii/FontAwesome.swift'target='_blank'>FontAwesome.swift</a>", 
+            "Stars": 1152
+        }, 
+        {
+            "Description": "OS font complements library. Localized font supported.", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/morizotter/SwiftFontName'target='_blank'>SwiftFontName</a>", 
+            "Stars": 107
+        }, 
+        {
+            "Description": "Icons fonts for iOS (FontAwesome, Iconic, Ionicon, Octicon, Themify, MapIcon, MaterialIcon)", 
+            "Forks": 106, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/0x73/SwiftIconFont'target='_blank'>SwiftIconFont</a>", 
+            "Stars": 969
+        }, 
+        {
+            "Description": "Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.", 
+            "Forks": 315, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/PrideChung/FontAwesomeKit'target='_blank'>FontAwesomeKit</a>", 
+            "Stars": 2748
+        }, 
+        {
+            "Description": "Auto-generated icon font library for iOS, watchOS and tvOS", 
+            "Forks": 69, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/dzenbot/Iconic'target='_blank'>Iconic</a>", 
+            "Stars": 1492
+        }, 
+        {
+            "Description": "Google Material Design Icons Font for iOS", 
+            "Forks": 75, 
+            "Language": "HTML", 
+            "Repo": "<a href='https://github.com/dekatotoro/GoogleMaterialDesignIcons'target='_blank'>GoogleMaterialDesignIcons</a>", 
+            "Stars": 368
+        }, 
+        {
+            "Description": "Use Octicons in your Swift projects.", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/keitaoouchi/OcticonsKit'target='_blank'>OcticonsKit</a>", 
+            "Stars": 37
+        }, 
+        {
+            "Description": "Use Ionicons in your Swift projects.", 
+            "Forks": 23, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/keitaoouchi/IoniconsKit'target='_blank'>IoniconsKit</a>", 
+            "Stars": 307
+        }, 
+        {
+            "Description": "A better choice for iOS Developer to use FontAwesome Icon with UI.\ud83d\ude0d", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/qiuncheng/FontAwesomeKit.Swift'target='_blank'>FontAwesomeKit.Swift</a>", 
+            "Stars": 171
+        }, 
+        {
+            "Description": "Font management (System & Custom) for iOS and tvOS", 
+            "Forks": 38, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Nirma/UIFontComplete'target='_blank'>UIFontComplete</a>", 
+            "Stars": 1052
+        }, 
+        {
+            "Description": "Use 1600+ icons (and more!) from FontAwesome and Google Material Icons in your swift/iOS project in an easy and space-efficient way!", 
+            "Forks": 9, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/UglyTroLL/Swicon'target='_blank'>Swicon</a>", 
+            "Stars": 37
+        }, 
+        {
+            "Description": "\ud83c\udfa2Swift Library for Font Icons - \u2605 this library", 
+            "Forks": 67, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/ranesr/SwiftIcons'target='_blank'>SwiftIcons</a>", 
+            "Stars": 610
+        }, 
+        {
+            "Description": "Font Awesome swift library for iOS. ", 
+            "Forks": 115, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Vaberer/Font-Awesome-Swift'target='_blank'>Font-Awesome-Swift</a>", 
+            "Stars": 725
+        }, 
+        {
+            "Description": "Icon Fonts on iOS using string interpolation", 
+            "Forks": 3, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/josejuanqm/JQSwiftIcon'target='_blank'>JQSwiftIcon</a>", 
+            "Stars": 5
+        }, 
+        {
+            "Description": "A precise, type-safe representation of a monetary amount in a given currency", 
+            "Forks": 17, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/Flight-School/Money'target='_blank'>Money</a>", 
+            "Stars": 679
+        }
+    ]
+}

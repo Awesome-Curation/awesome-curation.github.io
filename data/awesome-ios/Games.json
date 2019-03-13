@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "Description": "A cross-platform chess library for Swift", 
+            "Forks": 35, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/nvzqz/Sage'target='_blank'>Sage</a>", 
+            "Stars": 351
+        }, 
+        {
+            "Description": "ShogibanKit is a framework (not yet) for implementing complex Japanese Chess (Shogii) in Swift. No UI, nor AI.", 
+            "Forks": 2, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/codelynx/ShogibanKit'target='_blank'>ShogibanKit</a>", 
+            "Stars": 51
+        }, 
+        {
+            "Description": "Swift framework for working with Tiled assets in SpriteKit", 
+            "Forks": 14, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/mfessenden/SKTiled'target='_blank'>SKTiled</a>", 
+            "Stars": 147
+        }, 
+        {
+            "Description": "a collectionView made for Sprite Kit", 
+            "Forks": 7, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/bwide/CollectionNode'target='_blank'>CollectionNode</a>", 
+            "Stars": 75
+        }, 
+        {
+            "Description": "Swift framework for loading various 3d models in SceneKit", 
+            "Forks": 2, 
+            "Language": "C++", 
+            "Repo": "<a href='https://github.com/eugenebokhan/AssetImportKit'target='_blank'>AssetImportKit</a>", 
+            "Stars": 8
+        }
+    ]
+}

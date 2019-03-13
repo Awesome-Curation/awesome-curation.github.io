@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "Description": "Easily hide and show a view controller's navigation bar (and tab bar) as a user scrolls", 
+            "Forks": 124, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/tristanhimmelman/HidingNavigationBar'target='_blank'>HidingNavigationBar</a>", 
+            "Stars": 840
+        }, 
+        {
+            "Description": "Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!", 
+            "Forks": 444, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/telly/TLYShyNavBar'target='_blank'>TLYShyNavBar</a>", 
+            "Stars": 3730
+        }, 
+        {
+            "Description": "A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations. And you don't need to write any line of code for it, it all happens automatically.", 
+            "Forks": 380, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/MoZhouqi/KMNavigationBarTransition'target='_blank'>KMNavigationBarTransition</a>", 
+            "Stars": 2831
+        }, 
+        {
+            "Description": "UINavigationBar Category which allows you to change its appearance dynamically", 
+            "Forks": 720, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/ltebean/LTNavigationBar'target='_blank'>LTNavigationBar</a>", 
+            "Stars": 4493
+        }, 
+        {
+            "Description": "A UINavigationBar extension to show loading effects ", 
+            "Forks": 61, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/gmertk/BusyNavigationBar'target='_blank'>BusyNavigationBar</a>", 
+            "Stars": 948
+        }, 
+        {
+            "Description": "A UINavigationController subclass that support pop interactive UINavigationbar with hidden or show.", 
+            "Forks": 20, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/kingiol/KDInteractiveNavigationController'target='_blank'>KDInteractiveNavigationController</a>", 
+            "Stars": 146
+        }, 
+        {
+            "Description": "Scrollable UINavigationBar that follows the scrolling of a UIScrollView", 
+            "Forks": 608, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/andreamazz/AMScrollingNavbar'target='_blank'>AMScrollingNavbar</a>", 
+            "Stars": 5686
+        }, 
+        {
+            "Description": "Simple and integrated way to customize navigation bar experience on iOS app.", 
+            "Forks": 6, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/wilbertliu/NavKit'target='_blank'>NavKit</a>", 
+            "Stars": 33
+        }, 
+        {
+            "Description": "An easy way to change backgroundColor of UINavigationBar when Push & Pop", 
+            "Forks": 92, 
+            "Language": "Swift", 
+            "Repo": "<a href='https://github.com/DanisFabric/RainbowNavigation'target='_blank'>RainbowNavigation</a>", 
+            "Stars": 751
+        }, 
+        {
+            "Description": "Replicating the 'clear' navigation bar style of the iOS 11 Music app", 
+            "Forks": 15, 
+            "Language": "Objective-C", 
+            "Repo": "<a href='https://github.com/TimOliver/TONavigationBar'target='_blank'>TONavigationBar</a>", 
+            "Stars": 158
+        }
+    ]
+}
